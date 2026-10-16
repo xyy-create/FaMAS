@@ -75,9 +75,9 @@ def test_raw_status_values_are_rendered_with_labels() -> None:
     settings_page = (FRONTEND_ROOT / "src" / "pages" / "SettingsPage.vue").read_text(encoding="utf-8-sig")
     retrieval_page = (FRONTEND_ROOT / "src" / "pages" / "RetrievalPage.vue").read_text(encoding="utf-8-sig")
 
-    assert "{{ documentStatusLabel(selectedDocument.status) }}" in documents_page
-    assert "{{ roleLabel(settings?.admin?.role) }}" in settings_page
-    assert "{{ approvalStatusLabel(settings?.admin?.approval_status) }}" in settings_page
+    assert "{{ documentStatusLabel(document.status) }}" in documents_page
+    assert "{{ roleLabel(systemSettings?.admin?.role) }}" in settings_page
+    assert "{{ approvalStatusLabel(systemSettings?.admin?.approval_status) }}" in settings_page
     assert "{{ documentStatusLabel(source.status) }}" in retrieval_page
 
 

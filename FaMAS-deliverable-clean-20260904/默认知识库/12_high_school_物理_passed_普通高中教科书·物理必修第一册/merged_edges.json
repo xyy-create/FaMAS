@@ -1,0 +1,4296 @@
+{
+  "schema_version": "kg.merged_edges.v1",
+  "run_id": "kg_普通高中教科书·物理必修第一册_20260702",
+  "edges": [
+    {
+      "edge_id": "canon_edge_contains_97eaa85790d7",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_92b5414d7e3e",
+      "target_node_id": "canon_knowledgepoint_21893334492a",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "物体的空间位置随时间的变化，是自然界中最简单、最基本的运动形态，叫作机械运动"
+          },
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s5.md",
+            "section": {
+              "id": "s018",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "## 从受力确定运动情况\n\n如果已知物体的受力情况，可以由牛顿第二定律求出物体的加速度"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section explicitly defines mechanical motion as the core topic of the chapter."
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001",
+        "edge_cs_001_contains_kp_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_681363651380",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_92b5414d7e3e",
+      "target_node_id": "canon_knowledgepoint_d216ebb6a4e4",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "在物理学中，研究物体做机械运动规律的分支叫作力学"
+          },
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s5.md",
+            "section": {
+              "id": "s018",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "## 从运动情况确定受力\n\n如果已知物体的运动情况，可以根据运动学规律求出物体的加速度"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section explicitly defines mechanics as the branch studying mechanical motion."
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002",
+        "edge_cs_001_contains_kp_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_897a364cefa0",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_92b5414d7e3e",
+      "target_node_id": "canon_knowledgepoint_1babc73f002b",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "把物体简化为一个具有质量的点，这样的点叫作质点"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section defines particle model with explicit example.",
+        "figures": [
+          {
+            "image_path": "images/page016_img001.jpg",
+            "name": "列车视为点示意图",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_915d80f58fdc"
+          }
+        ]
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_28c26b941e31",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_92b5414d7e3e",
+      "target_node_id": "canon_knowledgepoint_b512bdea06dd",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "这种用来作为参考的物体叫作参考系"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section explicitly defines reference frame."
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_d22be0abd40c",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_7bd2b7ef21db",
+      "target_node_id": "canon_knowledgepoint_21893334492a",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "对于这些运动的物体，我们如何准确地描述它们的运动呢？"
+          },
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s5.md",
+            "section": {
+              "id": "s018",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "（1）运动员以3.4m/s的速度投掷冰壶，若冰壶和冰面的动摩擦因数为0.02，冰壶能在冰面上滑行多远？"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Introductory question prompts description of motion.",
+        "figures": [
+          {
+            "image_path": "images/page108_img005.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_d17bcb6ef352"
+          },
+          {
+            "image_path": "images/page109_img001.jpg",
+            "name": "",
+            "description": "> $$\\begin{array}{c} \\\\ \\hline \\end{array}$$",
+            "figure_id": "ipa_evidence_30966c903ca2"
+          },
+          {
+            "image_path": "images/page109_img002.jpg",
+            "name": "",
+            "description": "> $$\\begin{array} { c } { { F _ { \\mathrm { N } } } } \\\\ { { \\quad \\quad \\uparrow } } \\\\ { { \\quad \\quad \\bullet } } \\\\ { { \\quad \\quad \\downarrow } } \\\\ { { G } } \\end{array} \\quad \\begin{array} { c } { { F _ { \\mathrm { f } } } } \\\\ { { \\leftarrow } } \\end{array}$$",
+            "figure_id": "ipa_evidence_a9f0e4ddbda8"
+          }
+        ]
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005",
+        "edge_prob_001_tests_kp_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_940b6b581261",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_30e9ed05296c",
+      "target_node_id": "canon_knowledgepoint_1babc73f002b",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "在研究如何才能踢出“香蕉球”时，能把足球看作质点吗？"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Question directly applies particle model concept to football scenario.",
+        "figures": [
+          {
+            "image_path": "images/page017_img002.jpg",
+            "name": "香蕉球示意图",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_a956604a775e"
+          }
+        ]
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_a0e002c6ce86",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_d094a79cfc44",
+      "target_node_id": "canon_knowledgepoint_b512bdea06dd",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "诗中描述了什么物体的运动？它们分别是以什么物体为参考系的？"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Question directly applies reference frame concept to poem scenario.",
+        "figures": [
+          {
+            "image_path": "images/page018_img002.jpg",
+            "name": "云与我俱东示意图",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_474ec7576769"
+          }
+        ]
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_17ba856a757d",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b8ad6023815b",
+      "target_node_id": "canon_knowledgepoint_a18c75326830",
+      "properties": {
+        "rationale": "Section explicitly defines and discusses '时刻和时间间隔' as core concepts.",
+        "figures": [
+          {
+            "image_path": "images/page019_img002.jpg",
+            "name": "时刻和时间间隔示意图",
+            "description": "数轴上点表示时刻，线段表示时间间隔",
+            "figure_id": "ipa_evidence_8c158f5ac5e7"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s2.md",
+            "section": {
+              "id": "s002",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "上午8时上课、8时45分下课，这里的“8时”“8时45 分”是指这节课开始和结束的时刻"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_ch1_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cp_ch1_s2_kp_time_interval_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_48d1199e5f51",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b8ad6023815b",
+      "target_node_id": "canon_knowledgepoint_abf48d9289d0",
+      "properties": {
+        "rationale": "Section explicitly defines displacement as the directed line segment from initial to final position.",
+        "figures": [
+          {
+            "image_path": "images/page020_img002.jpg",
+            "name": "位移矢量图",
+            "description": "从初位置到末位置的有向线段表示位移",
+            "figure_id": "ipa_evidence_97960c0c2237"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s2.md",
+            "section": {
+              "id": "s002",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "由初位置指向末位置的有向线段能准确地描述旅行者位置的变化。物理学中用位移来描述物体位置的变化"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_ch1_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cp_ch1_s2_kp_displacement_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_248464efd547",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b8ad6023815b",
+      "target_node_id": "canon_knowledgepoint_d019414738ef",
+      "properties": {
+        "rationale": "Section explicitly defines vector and scalar quantities using displacement as an example.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s2.md",
+            "section": {
+              "id": "s002",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "像位移这样的物理量叫作矢量，它既有大小又有方向；像温度、路程这样的物理量叫作标量"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_ch1_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cp_ch1_s2_kp_vector_scalar_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_deb3a98a2895",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b8ad6023815b",
+      "target_node_id": "canon_knowledgepoint_d1a54cc7ed4e",
+      "properties": {
+        "rationale": "Section explicitly defines x-t graph as plotting position x against time t.",
+        "figures": [
+          {
+            "image_path": "images/page021_img004.jpg",
+            "name": "x-t 图像示意图",
+            "description": "直角坐标系中选时刻t为横轴，选位置x为纵轴",
+            "figure_id": "ipa_evidence_e6259bb863cf"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s2.md",
+            "section": {
+              "id": "s002",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "在直角坐标系中选时刻t为横轴，选位置x为纵轴，其上的图线就是位置一时间图像"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_ch1_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cp_ch1_s2_kp_xt_graph_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c5b8b6fe0aaa",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b8ad6023815b",
+      "target_node_id": "canon_knowledgepoint_e4f5cf0a8871",
+      "properties": {
+        "rationale": "Section introduces ticker timer as a common instrument for recording time and displacement.",
+        "figures": [
+          {
+            "image_path": "images/page022_img001.jpg",
+            "name": "电磁打点计时器",
+            "description": "电磁打点计时器实物图",
+            "figure_id": "ipa_evidence_bb80c5d749fd"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s2.md",
+            "section": {
+              "id": "s002",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "学校实验室中常用打点计时器来记录时间和位移。电磁打点计时器是一种使用交变电源的计时仪器"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_ch1_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cp_ch1_s2_kp_ticker_timer_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_a5af74fb544e",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b8ad6023815b",
+      "target_node_id": "canon_knowledgepoint_ab8cb9d2f698",
+      "properties": {
+        "rationale": "Section describes GNSS as a navigation positioning system using satellites.",
+        "figures": [
+          {
+            "image_path": "images/page023_img001.jpg",
+            "name": "全球卫星导航系统示意图",
+            "description": "空间段、地面段和用户段三大部分示意图",
+            "figure_id": "ipa_evidence_a9ea3810fb71"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s2.md",
+            "section": {
+              "id": "s002",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "全球卫星导航系统是目前广泛应用的新一代导航定位系统，利用近地空间的卫星为各类用户提供可靠和高精度的定位"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_ch1_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cp_ch1_s2_kp_gnss_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_efb6ecd8692e",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_a3b29ac14b07",
+      "target_node_id": "canon_knowledgepoint_a18c75326830",
+      "properties": {
+        "rationale": "Practice questions explicitly ask students to distinguish between moments and time intervals.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s2.md",
+            "section": {
+              "id": "s002",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "以下各种说法中，哪些指时间间隔？哪些指时刻？列车员说火车8时42分到站，停车8分"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s002_ch1_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_practice_set_kp_time_interval_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_80aa2888592c",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_a3b29ac14b07",
+      "target_node_id": "canon_knowledgepoint_abf48d9289d0",
+      "properties": {
+        "rationale": "Practice questions require calculating displacement magnitude and direction.",
+        "figures": [
+          {
+            "image_path": "images/page024_img001.jpg",
+            "name": "位置坐标和位移矢量图",
+            "description": "一条水平数轴，标注原点O和刻度，用于位移计算",
+            "figure_id": "ipa_evidence_430113ddc3be"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s2.md",
+            "section": {
+              "id": "s002",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "如图1.2-10，一个物体从P点运动到Q点，坐标xp为3m，xg为-2m，它的位移大小是多少？方向如何？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s002_ch1_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_practice_set_kp_displacement_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_0eb459bb6b94",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_a3b29ac14b07",
+      "target_node_id": "canon_knowledgepoint_d1a54cc7ed4e",
+      "properties": {
+        "rationale": "Practice questions analyze motion using x-t graphs.",
+        "figures": [
+          {
+            "image_path": "images/page024_img002.jpg",
+            "name": "汽车运动x-t图像",
+            "description": "近似描写了汽车在0时刻到40s这段时间的x-t图像",
+            "figure_id": "ipa_evidence_116da2c6b61b"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s2.md",
+            "section": {
+              "id": "s002",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "图1.2-11近似描写了汽车在0时刻到40s这段时间的x-t图像。通过分析回答以下问题"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s002_ch1_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_practice_set_kp_xt_graph_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_ec552df3f0fd",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_a3b29ac14b07",
+      "target_node_id": "canon_knowledgepoint_d019414738ef",
+      "properties": {
+        "rationale": "Questions distinguish between distance (scalar) and displacement (vector).",
+        "figures": [
+          {
+            "image_path": "images/page024_img001.jpg",
+            "name": "位置坐标和位移矢量图",
+            "description": "一条水平数轴，标注原点O和刻度，用于位移计算",
+            "figure_id": "ipa_evidence_430113ddc3be"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s2.md",
+            "section": {
+              "id": "s002",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "某市出租汽车的收费标准有1.20元/km、1.60元/km、2.00元/km，其中的千米说的是路程还是位移？"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s002_ch1_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_practice_set_kp_vector_scalar_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_ea7b823e1f83",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ca5784ec786c",
+      "target_node_id": "canon_knowledgepoint_fc659144de32",
+      "properties": {
+        "rationale": "Section title explicitly defines the knowledge point '速度' as the core topic of Chapter 1 Section 3.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s3.md",
+            "section": {
+              "id": "s003",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "## 3 位置变化快慢的描述 速度"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_ch1_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_ch1_s3_velocity_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_a4f5d9ba5c7f",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_abf1f5008695",
+      "target_node_id": "canon_knowledgepoint_fc659144de32",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s4.md",
+            "section": {
+              "id": "s004",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "由 \\frac { \\Delta x } { \\Delta t } 求得的速度𝑣，表示的只是物体在时间 \\Delta t 内运动的平均快慢程度，叫作平均速度。"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "平均速度定义基于速度公式 v=Δx/Δt，依赖基础速度概念。"
+      },
+      "source_context_id": "s004_ch1_s4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_req_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_46e2468a53a2",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_ebda86c753a0",
+      "target_node_id": "canon_knowledgepoint_abf1f5008695",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s4.md",
+            "section": {
+              "id": "s004",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "当 \\Delta t 非常非常小时，运动快慢的差异可以忽略不计，此时，我们就把 \\frac { \\Delta x } { \\Delta t } 叫作物体在时刻t的瞬时速度。"
+          },
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s1.md",
+            "section": {
+              "id": "s005",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "可用极短时间内的平均速度近似"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "瞬时速度通过极限思想，用极短时间内的平均速度定义。"
+      },
+      "source_context_id": "s004_ch1_s4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_req_002",
+        "edge_requires_kp_inst_vel_001_kp_avg_vel_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_f90d2f0fe8fa",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_767418737a37",
+      "target_node_id": "canon_knowledgepoint_ebda86c753a0",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch1_s4.md",
+            "section": {
+              "id": "s004",
+              "title": "第一章 运动的描述"
+            },
+            "quote_or_summary": "瞬时速度的大小通常叫作速率（speed）。汽车速度计不能显示车辆运动的方向，它的示数实际是汽车的速率。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "速率定义为瞬时速度的大小，两者关系直接且明确。",
+        "figures": [
+          {
+            "image_path": "images/page026_img002.jpg",
+            "name": "汽车速度计",
+            "description": "一个汽车速度计仪表盘，单位为Km/h，刻度范围0–180；指针指向约70 km/h；上方数字显示23123（可能为总里程），下方数字显示0000（可能为单次行程里程）。",
+            "figure_id": "ipa_evidence_8c345e28765b"
+          }
+        ]
+      },
+      "source_context_id": "s004_ch1_s4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_req_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_97c30883d248",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a2fc4d100b8c",
+      "target_node_id": "canon_knowledgepoint_abf1f5008695",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s1.md",
+            "section": {
+              "id": "s005",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "只需测出D、G间的位移\\Delta x和所用的时间\\Delta t，就可以算出平均速度"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Section explicitly defines average velocity calculation method.",
+        "figures": [
+          {
+            "image_path": "images/page027_img001.jpg",
+            "name": "",
+            "description": "打点计时器打出的纸带示意图，标出了起始点0、计数点1、2、3及对应物理位置D、E、G",
+            "figure_id": "ipa_evidence_7810f5b785b4"
+          }
+        ]
+      },
+      "source_context_id": "s005_ch2_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_cp_ch2_s1_001_kp_avg_vel_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_e7d7485abb0d",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a2fc4d100b8c",
+      "target_node_id": "canon_knowledgepoint_ebda86c753a0",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s1.md",
+            "section": {
+              "id": "s005",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "用两点间的位移\\Delta x和时间\\Delta t算出的平均速度代表纸带在E点的瞬时速度"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Section explains instantaneous velocity approximation using average velocity.",
+        "figures": [
+          {
+            "image_path": "images/page027_img003.jpg",
+            "name": "",
+            "description": "纸带打点示意图，标有计数点0至5，D、E、F、G四点及对应位移和时间间隔",
+            "figure_id": "ipa_evidence_8b4737b566da"
+          }
+        ]
+      },
+      "source_context_id": "s005_ch2_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_cp_ch2_s1_001_kp_inst_vel_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_1a50cddc94f1",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a2fc4d100b8c",
+      "target_node_id": "canon_knowledgepoint_cca7799066db",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s1.md",
+            "section": {
+              "id": "s005",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "物体运动的速度随时间变化的情况可以用图像来直观表示"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header and text define v-t graph concept directly.",
+        "figures": [
+          {
+            "image_path": "images/page028_img002.jpg",
+            "name": "",
+            "description": "速度-时间（v-t）坐标系，横轴为时间t，纵轴为速度v，内有8个黑色实心圆点",
+            "figure_id": "ipa_evidence_98aeda51376e"
+          }
+        ]
+      },
+      "source_context_id": "s005_ch2_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_cp_ch2_s1_001_kp_vt_graph_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_ed476174bc80",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a2fc4d100b8c",
+      "target_node_id": "canon_knowledgepoint_167a33273c0c",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s1.md",
+            "section": {
+              "id": "s005",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "物理学中把速度的变化量与发生这一变化所用时间之比，叫作加速度"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section explicitly defines acceleration formula and concept.",
+        "figures": [
+          {
+            "image_path": "images/page032_img001.jpg",
+            "name": "",
+            "description": "加速度方向与速度方向的关系示意图，展示初速度v1、末速度v2及速度变化量\\Delta v",
+            "figure_id": "ipa_evidence_f149844f7911"
+          }
+        ]
+      },
+      "source_context_id": "s005_ch2_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_cp_ch2_s1_001_kp_acceleration_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_fa5280f44aa1",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a2fc4d100b8c",
+      "target_node_id": "canon_knowledgepoint_93c9bfc0d949",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s1.md",
+            "section": {
+              "id": "s005",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "自然界中某量D的变化可以记为\\Delta D，发生这个变化所用的时间间隔可以记为\\Delta t"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Section introduces rate of change concept in 'Science Walk' subsection."
+      },
+      "source_context_id": "s005_ch2_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_cp_ch2_s1_001_kp_rate_change_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_820bb6c1db38",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_db905f7b077a",
+      "target_node_id": "canon_knowledgepoint_abf1f5008695",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s1.md",
+            "section": {
+              "id": "s005",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "求汽车前1s、前2s、前3s、前4s和全程的平均速度"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem explicitly asks for calculation of average velocities.",
+        "figures": [
+          {
+            "image_path": "images/page030_img004.jpg",
+            "name": "",
+            "description": "汽车制动过程示意图，标注了0s到5s的位移与对应时刻的位置",
+            "figure_id": "ipa_evidence_912344f94f19"
+          }
+        ]
+      },
+      "source_context_id": "s005_ch2_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_car_brake_001_kp_avg_vel_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_234d9a3d7f37",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_db905f7b077a",
+      "target_node_id": "canon_knowledgepoint_ebda86c753a0",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s1.md",
+            "section": {
+              "id": "s005",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "在这五个平均速度中，哪一个最接近汽车刚制动时的瞬时速度？"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem compares average velocities to estimate instantaneous velocity.",
+        "figures": [
+          {
+            "image_path": "images/page030_img004.jpg",
+            "name": "",
+            "description": "汽车制动过程示意图，标注了0s到5s的位移与对应时刻的位置",
+            "figure_id": "ipa_evidence_912344f94f19"
+          }
+        ]
+      },
+      "source_context_id": "s005_ch2_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_car_brake_001_kp_inst_vel_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_51d853fe5e2a",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_9f4dbd077229",
+      "target_node_id": "canon_knowledgepoint_ebda86c753a0",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s1.md",
+            "section": {
+              "id": "s005",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "故事情节中兔子和乌龟运动的x-t图像如图1-2所示"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Problem requires interpreting x-t graph slopes representing velocity.",
+        "figures": [
+          {
+            "image_path": "images/page038_img001.jpg",
+            "name": "",
+            "description": "x-t图像，横轴为时间t，纵轴为位移x。红色斜线标注为“龟”，黑色折线标注为“兔”",
+            "figure_id": "ipa_evidence_128a05f081cf"
+          }
+        ]
+      },
+      "source_context_id": "s005_ch2_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_tortoise_hare_001_kp_inst_vel_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_fd1eab056edc",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_167a33273c0c",
+      "target_node_id": "canon_knowledgepoint_ebda86c753a0",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s1.md",
+            "section": {
+              "id": "s005",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "速度的变化量与发生这一变化所用时间之比"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Acceleration defined as rate of change of velocity."
+      },
+      "source_context_id": "s005_ch2_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_requires_kp_acceleration_001_kp_inst_vel_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_998f024edb13",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_cca7799066db",
+      "target_node_id": "canon_knowledgepoint_ebda86c753a0",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s1.md",
+            "section": {
+              "id": "s005",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "以时间t为横轴，速度v为纵轴，坐标系中的图像即为速度一时间图像"
+          }
+        ],
+        "confidence": 0.8,
+        "rationale": "v-t graph plots instantaneous velocity values against time.",
+        "figures": [
+          {
+            "image_path": "images/page028_img002.jpg",
+            "name": "",
+            "description": "速度-时间（v-t）坐标系，横轴为时间t，纵轴为速度v，内有8个黑色实心圆点",
+            "figure_id": "ipa_evidence_98aeda51376e"
+          }
+        ]
+      },
+      "source_context_id": "s005_ch2_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_requires_kp_vt_graph_001_kp_inst_vel_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_207c9543d634",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_cffc1e149308",
+      "target_node_id": "canon_knowledgepoint_46ea954cb5e3",
+      "properties": {
+        "rationale": "Section defines uniform variable rectilinear motion.",
+        "figures": [
+          {
+            "image_path": "images/page043_img003.jpg",
+            "name": "图 2.2-1",
+            "description": "匀变速直线运动的 v-t 图像，显示为倾斜直线。",
+            "figure_id": "ipa_evidence_1a45d6761f68"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s3.md",
+            "section": {
+              "id": "s007",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "沿着一条直线，且加速度不变的运动，叫作匀变速直线运动。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_ch2_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_3e457ed48349",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_cffc1e149308",
+      "target_node_id": "canon_knowledgepoint_a678743631a2",
+      "properties": {
+        "rationale": "Section presents velocity-time relationship formula.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s3.md",
+            "section": {
+              "id": "s007",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "这就是匀变速直线运动的速度与时间的关系式。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_ch2_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_3c76b85b5c88",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_cffc1e149308",
+      "target_node_id": "canon_knowledgepoint_e4cdc0e06efa",
+      "properties": {
+        "rationale": "Section presents displacement-time relationship formula.",
+        "figures": [
+          {
+            "image_path": "images/page046_img003.jpg",
+            "name": "图 2.3-1",
+            "description": "利用 v-t 图像求位移，着色梯形面积表示位移。",
+            "figure_id": "ipa_evidence_351f8d31bef2"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s3.md",
+            "section": {
+              "id": "s007",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "这就是匀变速直线运动的位移与时间的关系式：x = v_0 t + \\frac{1}{2} a t^2。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_ch2_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_fd68777b58cf",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_cffc1e149308",
+      "target_node_id": "canon_knowledgepoint_7f75eb0010e8",
+      "properties": {
+        "rationale": "Section presents velocity-displacement relationship formula.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s3.md",
+            "section": {
+              "id": "s007",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "这就是匀变速直线运动的速度与位移的关系式。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_ch2_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_f21e0d7a6a1f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_559c19715ac8",
+      "target_node_id": "canon_knowledgepoint_7f75eb0010e8",
+      "properties": {
+        "rationale": "Problem explicitly uses velocity-displacement relation.",
+        "figures": [
+          {
+            "image_path": "images/page048_img002.jpg",
+            "name": "图 2.3-3",
+            "description": "动车电子屏显示界面，显示速度 126 km/h 等信息。",
+            "figure_id": "ipa_evidence_8528ed276517"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s3.md",
+            "section": {
+              "id": "s007",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "应用匀变速直线运动的速度与位移的关系式计算动车的加速度。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_ch2_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_37ddd4898d18",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_559c19715ac8",
+      "target_node_id": "canon_knowledgepoint_a678743631a2",
+      "properties": {
+        "rationale": "Problem explicitly uses velocity-time relation.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s3.md",
+            "section": {
+              "id": "s007",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "两个问题都需要用匀变速直线运动的速度与时间关系式来求解。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_ch2_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_fc5708d13fac",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_c61f1e8b180b",
+      "target_node_id": "canon_knowledgepoint_a678743631a2",
+      "properties": {
+        "rationale": "Problem involves acceleration and time calculation.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s3.md",
+            "section": {
+              "id": "s007",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "它以 0.6 m/s^2 的加速度加速，10s 末因故突然紧急刹车。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s007_ch2_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_ed2400837325",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_803ab4162ae8",
+      "target_node_id": "canon_knowledgepoint_18e778bd8dc6",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s4.md",
+            "section": {
+              "id": "s008",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "## 自由落体运动\n物体只在重力作用下从静止开始下落的运动，叫作自由落体运动。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header and definition text explicitly establish the knowledge point within the chapter section."
+      },
+      "source_context_id": "s008_ch2_s4",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_kp_freefall_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_a48c97ec132d",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_803ab4162ae8",
+      "target_node_id": "canon_knowledgepoint_257ae03bb14b",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s4.md",
+            "section": {
+              "id": "s008",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "对不同物体进行的实验结果表明，在同一地点，一切物体自由下落的加速度都相同，这个加速度叫作自由落体加速度。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header and experimental result text explicitly define the knowledge point within the chapter section."
+      },
+      "source_context_id": "s008_ch2_s4",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_kp_g_accel_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_129930f79b55",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_803ab4162ae8",
+      "target_node_id": "canon_knowledgepoint_374918443a54",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s4.md",
+            "section": {
+              "id": "s008",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "## 伽利略对自由落体运动的研究\n利用逻辑推理和斜面实验研究了自由落体运动的规律，确立了实验和逻辑推理相结合的科学方法。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header and historical research text explicitly establish the knowledge point within the chapter section."
+      },
+      "source_context_id": "s008_ch2_s4",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_kp_galileo_contains_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_3cc93b896d29",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_b2fcf08c5e8e",
+      "target_node_id": "canon_knowledgepoint_18e778bd8dc6",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s4.md",
+            "section": {
+              "id": "s008",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "跳水运动员训练时从5m跳台双脚朝下自由落下...由此估算手机连拍时间间隔是多少？"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem explicitly applies free-fall motion definition to estimate time interval."
+      },
+      "source_context_id": "s008_ch2_s4",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_diver_kp_freefall_tests_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_92ed63fd3b7f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_7f17c8768a13",
+      "target_node_id": "canon_knowledgepoint_18e778bd8dc6",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s4.md",
+            "section": {
+              "id": "s008",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "为了测出井口到水面的距离，让一个小石块从井口自由落下，经过2.5s后听到石块击水的声音..."
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem explicitly applies free-fall motion definition to estimate distance."
+      },
+      "source_context_id": "s008_ch2_s4",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_well_kp_freefall_tests_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_c07acabeb88e",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_54dac63a105f",
+      "target_node_id": "canon_knowledgepoint_18e778bd8dc6",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s4.md",
+            "section": {
+              "id": "s008",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "有一架照相机...为估测这架照相机的曝光时间，实验者从某砖墙前的高处使一个石子自由落下..."
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem explicitly applies free-fall motion to estimate exposure time.",
+        "figures": [
+          {
+            "image_path": "images/page057_img001.jpg",
+            "name": "图2.4-8",
+            "description": "红砖墙背景，墙上有一条垂直的白色细线；石子下落轨迹在照片中形成一条模糊的竖直径迹",
+            "figure_id": "ipa_evidence_9b83b651b47c"
+          }
+        ]
+      },
+      "source_context_id": "s008_ch2_s4",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_camera_kp_freefall_tests_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_33f0a78c1e41",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_adf3b16130be",
+      "target_node_id": "canon_knowledgepoint_257ae03bb14b",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch2_s4.md",
+            "section": {
+              "id": "s008",
+              "title": "第二章 匀变速直线运动的研究"
+            },
+            "quote_or_summary": "频闪摄影是研究变速运动常用的实验手段...如果要通过这幅照片测量自由落体的加速度，可以采用哪几种方法？"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem explicitly applies free-fall acceleration measurement using strobe photography.",
+        "figures": [
+          {
+            "image_path": "images/page057_img002.jpg",
+            "name": "图2.4-9",
+            "description": "频闪照片示意图，显示了小球自由下落过程的频闪摄影位置及对应下落距离",
+            "figure_id": "ipa_evidence_03e8f45b10f6"
+          }
+        ]
+      },
+      "source_context_id": "s008_ch2_s4",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_strobe_kp_g_accel_tests_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_6ba86afd01a9",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_77b94246f705",
+      "target_node_id": "canon_knowledgepoint_e6304f59a93c",
+      "properties": {
+        "relation_label": "Section Contains KnowledgePoint",
+        "rationale": "Section explicitly defines and discusses gravity as a core concept.",
+        "figures": [
+          {
+            "image_path": "images/page062_img002.jpg",
+            "name": "图3.1-1",
+            "description": "形状规则的均匀物体的重心示意图",
+            "figure_id": "ipa_evidence_629ca4434d44"
+          },
+          {
+            "image_path": "images/page062_img004.jpg",
+            "name": "图3.1-2",
+            "description": "载重汽车的重心示意图",
+            "figure_id": "ipa_evidence_41053a8fc6d6"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s1.md",
+            "section": {
+              "id": "s009",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "由于地球的吸引而使物体受到的力叫作重力（gravity）"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s009_ch3_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s009_contains_gravity"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_02ea36c1f7cd",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_77b94246f705",
+      "target_node_id": "canon_knowledgepoint_636ff37898e3",
+      "properties": {
+        "relation_label": "Section Contains KnowledgePoint",
+        "rationale": "Section explicitly defines and discusses elastic force as a core concept.",
+        "figures": [
+          {
+            "image_path": "images/page063_img003.jpg",
+            "name": "图3.1-6",
+            "description": "观察微小形变示意图",
+            "figure_id": "ipa_evidence_0efe14781d02"
+          },
+          {
+            "image_path": "images/page063_img004.jpg",
+            "name": "图3.1-7",
+            "description": "弹簧拉力示意图",
+            "figure_id": "ipa_evidence_4c4db1a1ccd2"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s1.md",
+            "section": {
+              "id": "s009",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "发生形变的物体，要恢复原状，对与它接触的物体会产生力的作用，这种力叫作弹力"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s009_ch3_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s009_contains_elastic"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_b236e858a8fa",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_77b94246f705",
+      "target_node_id": "canon_knowledgepoint_0e32f417f23c",
+      "properties": {
+        "relation_label": "Section Contains KnowledgePoint",
+        "rationale": "Section explicitly defines and discusses Hooke's law as a core concept.",
+        "figures": [
+          {
+            "image_path": "images/page064_img003.jpg",
+            "name": "图3.1-8乙",
+            "description": "F-x coordinate grid",
+            "figure_id": "ipa_evidence_b486778ce000"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s1.md",
+            "section": {
+              "id": "s009",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "在弹性限度内，弹簧发生弹性形变时，弹力F的大小跟弹簧伸长（或缩短）的长度x成正比"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s009_ch3_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s009_contains_hooke"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_bf905ae82705",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_77b94246f705",
+      "target_node_id": "canon_knowledgepoint_a7239cb1f2c8",
+      "properties": {
+        "relation_label": "Section Contains KnowledgePoint",
+        "rationale": "Section explicitly defines and discusses center of gravity as a core concept.",
+        "figures": [
+          {
+            "image_path": "images/page062_img002.jpg",
+            "name": "图3.1-1",
+            "description": "形状规则的均匀物体的重心示意图",
+            "figure_id": "ipa_evidence_629ca4434d44"
+          },
+          {
+            "image_path": "images/page062_img004.jpg",
+            "name": "图3.1-2",
+            "description": "载重汽车的重心示意图",
+            "figure_id": "ipa_evidence_41053a8fc6d6"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s1.md",
+            "section": {
+              "id": "s009",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "从效果上看，可以认为各部分受到的重力作用集中于一点，这一点叫作物体的重心"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s009_ch3_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s009_contains_center"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_30ad23a047b7",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_db32be961fcf",
+      "target_node_id": "canon_knowledgepoint_e6304f59a93c",
+      "properties": {
+        "relation_label": "Problem Tests KnowledgePoint",
+        "rationale": "Problem requires identifying gravitational force acting on the pipe.",
+        "figures": [
+          {
+            "image_path": "images/page065_img003.jpg",
+            "name": "图3.1-9",
+            "description": "钢管受力示意图：一根灰色直杆左端接触水平地面，右端由一根竖直细绳悬挂",
+            "figure_id": "ipa_evidence_d49bc8b57cc0"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s1.md",
+            "section": {
+              "id": "s009",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "质量均匀的钢管，一端支在光滑的水平地面上，另一端被竖直绳悬挂着"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s009_ch3_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob04_tests_gravity"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_f00019d23e91",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_db32be961fcf",
+      "target_node_id": "canon_knowledgepoint_636ff37898e3",
+      "properties": {
+        "relation_label": "Problem Tests KnowledgePoint",
+        "rationale": "Problem requires identifying elastic forces (tension, support) acting on the pipe.",
+        "figures": [
+          {
+            "image_path": "images/page065_img003.jpg",
+            "name": "图3.1-9",
+            "description": "钢管受力示意图：一根灰色直杆左端接触水平地面，右端由一根竖直细绳悬挂",
+            "figure_id": "ipa_evidence_d49bc8b57cc0"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s1.md",
+            "section": {
+              "id": "s009",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "质量均匀的钢管，一端支在光滑的水平地面上，另一端被竖直绳悬挂着"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s009_ch3_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob04_tests_elastic"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_fe8f45f5de7b",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_0e32f417f23c",
+      "target_node_id": "canon_knowledgepoint_636ff37898e3",
+      "properties": {
+        "relation_label": "KnowledgePoint Requires KnowledgePoint",
+        "rationale": "Hooke's law describes elastic force magnitude; understanding elastic force is prerequisite.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s1.md",
+            "section": {
+              "id": "s009",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "在弹性限度内，弹簧发生弹性形变时，弹力F的大小跟弹簧伸长（或缩短）的长度x成正比"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s009_ch3_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_hooke_requires_elastic"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_91bbaeb629dd",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_a7239cb1f2c8",
+      "target_node_id": "canon_knowledgepoint_e6304f59a93c",
+      "properties": {
+        "relation_label": "KnowledgePoint Requires KnowledgePoint",
+        "rationale": "Center of gravity is defined based on the effect of gravity; understanding gravity is prerequisite.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s1.md",
+            "section": {
+              "id": "s009",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "从效果上看，可以认为各部分受到的重力作用集中于一点，这一点叫作物体的重心"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s009_ch3_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_center_requires_gravity"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_24f5fd82ba22",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_cb68fcbb4882",
+      "target_node_id": "canon_knowledgepoint_eb2c8a88675c",
+      "properties": {
+        "rationale": "Section explicitly defines sliding friction concept.",
+        "figures": [
+          {
+            "image_path": "images/page068_img001.jpg",
+            "name": "受力分析图",
+            "description": "木块在水平木板上被弹簧测力计拉动，受支持力 $F_N$",
+            "figure_id": "ipa_evidence_392506e807ff"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s2.md",
+            "section": {
+              "id": "s010",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "我们知道，两个相互接触的物体，当它们相对滑动时，在接触面上会产生一种阻碍相对运动的力，这种力叫作滑动摩擦力。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_ch3_s2",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_sec_ch3_s2_friction_contains_kp_sliding_friction"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_6c5d53229b37",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_cb68fcbb4882",
+      "target_node_id": "canon_knowledgepoint_a5d29734c493",
+      "properties": {
+        "rationale": "Section defines dynamic friction factor as proportionality constant.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s2.md",
+            "section": {
+              "id": "s010",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "其中，\\mu 是比例常数，叫作动摩擦因数（dynamic frictionfactor）。它的值跟接触面有关。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_ch3_s2",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_sec_ch3_s2_friction_contains_kp_kinetic_friction_coefficient"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_ded28a4e9dbb",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_cb68fcbb4882",
+      "target_node_id": "canon_knowledgepoint_db53dd4b1b2c",
+      "properties": {
+        "rationale": "Section explicitly defines static friction concept.",
+        "figures": [
+          {
+            "image_path": "images/page069_img005.jpg",
+            "name": "推沙发场景",
+            "description": "人用平行于地面的力推沙发，沙发有相对地面运动的趋势",
+            "figure_id": "ipa_evidence_19d2dfbcb018"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s2.md",
+            "section": {
+              "id": "s010",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "由于这时相互接触的两个物体之间只有相对运动的趋势，而没有相对运动，所以这时的摩擦力叫作静摩擦力。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_ch3_s2",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_sec_ch3_s2_friction_contains_kp_static_friction"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c6151e04ce00",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_cb68fcbb4882",
+      "target_node_id": "canon_knowledgepoint_d3b33922e6f8",
+      "properties": {
+        "rationale": "Section defines maximum static friction limit.",
+        "figures": [
+          {
+            "image_path": "images/page070_img002.jpg",
+            "name": "F-t 图像",
+            "description": "静摩擦力随时间变化的 F-t 图像，显示最大值 F_max",
+            "figure_id": "ipa_evidence_be61316a9656"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s2.md",
+            "section": {
+              "id": "s010",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "静摩擦力的增大有一个限度。图 3.2-5 中木块所受静摩擦力的最大值 F_max 在数值上等于物体即将开始运动时的拉力。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_ch3_s2",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_sec_ch3_s2_friction_contains_kp_max_static_friction"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_8ce6b287930e",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_cb68fcbb4882",
+      "target_node_id": "canon_knowledgepoint_550d49bc316c",
+      "properties": {
+        "rationale": "Section defines fluid resistance in science walk section.",
+        "figures": [
+          {
+            "image_path": "images/page071_img001.jpg",
+            "name": "水下流线型船体",
+            "description": "为了减小阻力，轮船的水下部分采用了流线型",
+            "figure_id": "ipa_evidence_43d7ed36c79f"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s2.md",
+            "section": {
+              "id": "s010",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "气体和液体都具有流动性，统称为流体。物体在流体中运动时，要受到流体的阻力，阻力的方向与物体相对于流体运动的方向相反。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_ch3_s2",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_sec_ch3_s2_friction_contains_kp_fluid_resistance"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_bc9d1091c925",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_ea56bcd86f18",
+      "target_node_id": "canon_knowledgepoint_eb2c8a88675c",
+      "properties": {
+        "rationale": "Problem requires calculating sliding friction for sled motion.",
+        "figures": [
+          {
+            "image_path": "images/page068_img004.jpg",
+            "name": "受力分析图",
+            "description": "受力分析图，显示重力、支持力、拉力和摩擦力",
+            "figure_id": "ipa_evidence_6a4773ca0873"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s2.md",
+            "section": {
+              "id": "s010",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "雪撬匀速运动，拉力 F 与滑动摩擦力 F_f 大小相等。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_ch3_s2",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_sled_example_tests_kp_sliding_friction"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_4263a0a1af8b",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_ea56bcd86f18",
+      "target_node_id": "canon_knowledgepoint_a5d29734c493",
+      "properties": {
+        "rationale": "Problem uses coefficient value from table to solve.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s2.md",
+            "section": {
+              "id": "s010",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "查表得 \\mu = 0.02"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_ch3_s2",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_sled_example_tests_kp_kinetic_friction_coefficient"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_694672c7cc94",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_365edda9d438",
+      "target_node_id": "canon_knowledgepoint_db53dd4b1b2c",
+      "properties": {
+        "rationale": "Problem involves pushing stationary box, testing static friction concept.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s2.md",
+            "section": {
+              "id": "s010",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "至少要用 35N 的水平推力，才能使它从原地开始运动。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s010_ch3_s2",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_box_exercise_tests_kp_static_friction"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_c046c4efc170",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_365edda9d438",
+      "target_node_id": "canon_knowledgepoint_d3b33922e6f8",
+      "properties": {
+        "rationale": "Problem asks for maximum static friction value.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s2.md",
+            "section": {
+              "id": "s010",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "至少要用 35N 的水平推力，才能使它从原地开始运动。由此可知：木箱与地板之间的最大静摩擦力 F_max"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_ch3_s2",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_box_exercise_tests_kp_max_static_friction"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_f0db07d48c0f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_365edda9d438",
+      "target_node_id": "canon_knowledgepoint_eb2c8a88675c",
+      "properties": {
+        "rationale": "Problem asks for sliding friction during uniform motion.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s2.md",
+            "section": {
+              "id": "s010",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "用 30N 的水平推力，就可以使木箱继续做匀速直线运动。由此可知：木箱所受的滑动摩擦力 F="
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_ch3_s2",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_box_exercise_tests_kp_sliding_friction"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_546e5509a1e1",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_365edda9d438",
+      "target_node_id": "canon_knowledgepoint_a5d29734c493",
+      "properties": {
+        "rationale": "Problem asks for calculation of kinetic friction coefficient.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s2.md",
+            "section": {
+              "id": "s010",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "由此可知：木箱与地板之间的动摩擦因数\\mu="
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_ch3_s2",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_box_exercise_tests_kp_kinetic_friction_coefficient"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_bc059297f312",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_c5a132ac9243",
+      "target_node_id": "canon_knowledgepoint_6fda6e9df86d",
+      "properties": {
+        "rationale": "Section title and content define Newton's Third Law.",
+        "figures": [
+          {
+            "image_path": "images/page073_img001.jpg",
+            "name": "实验装置示意图",
+            "description": "两个弹簧测力计连接，指针示数相等，验证作用力与反作用力关系。",
+            "figure_id": "ipa_evidence_1d4c133143fb"
+          },
+          {
+            "image_path": "images/page074_img001.jpg",
+            "name": "力传感器实验图",
+            "description": "两个力传感器受力曲线镜像对称，显示大小随时间变化始终相等。",
+            "figure_id": "ipa_evidence_ea0ab3e43b04"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s3.md",
+            "section": {
+              "id": "s011",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "牛顿经过研究指出：两个物体之间的作用力和反作用力总是大小相等，方向相反，作用在同一条直线上。这就是牛顿第三定律。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s011_ch3_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_s011_ch3_s3_kp_newton_third_law"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_8bc2c66e5113",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_c5a132ac9243",
+      "target_node_id": "canon_knowledgepoint_0be67ab5290c",
+      "properties": {
+        "rationale": "Section defines action and reaction forces through examples.",
+        "figures": [
+          {
+            "image_path": "images/page072_img003.jpg",
+            "name": "弹簧和手受力示意图",
+            "description": "手拉弹簧，粉色箭头表示手对弹簧拉力与弹簧对手拉力，大小相等方向相反。",
+            "figure_id": "ipa_evidence_9eed73fa0857"
+          },
+          {
+            "image_path": "images/page072_img004.jpg",
+            "name": "地球和人造卫星受力示意图",
+            "description": "红色箭头表示地球吸引卫星与卫星吸引地球的力，标注为G和F。",
+            "figure_id": "ipa_evidence_ef5160981728"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s3.md",
+            "section": {
+              "id": "s011",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "物体间相互作用的这一对力，通常叫作作用力（acting force）和反作用力（reacting force）。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s011_ch3_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_s011_ch3_s3_kp_action_reaction"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_ea9b86df6f01",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_c5a132ac9243",
+      "target_node_id": "canon_knowledgepoint_7bb9a6ed37ec",
+      "properties": {
+        "rationale": "Section distinguishes balanced forces from action-reaction pairs.",
+        "figures": [
+          {
+            "image_path": "images/page075_img001.jpg",
+            "name": "猴子受力示意图",
+            "description": "猴子倒挂树枝，向上拉力F与向下重力G作用于同一物体，为平衡力。",
+            "figure_id": "ipa_evidence_25c5b583ee0b"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s3.md",
+            "section": {
+              "id": "s011",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "在分析物体的受力情况时，不要把某个力的反作用力跟这个力的平衡力混淆。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s011_ch3_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_s011_ch3_s3_kp_balance_vs_action_reaction"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_147836db48c9",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_81162ee2ba0c",
+      "target_node_id": "canon_knowledgepoint_6fda6e9df86d",
+      "properties": {
+        "rationale": "Problem applies Newton's Third Law to prove pressure equals gravity.",
+        "figures": [
+          {
+            "image_path": "images/page075_img004.jpg",
+            "name": "台式弹簧秤示意图",
+            "description": "正方体物体放置在台式弹簧秤托盘上，指针指向约20 N位置。",
+            "figure_id": "ipa_evidence_b942ffc5e201"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s3.md",
+            "section": {
+              "id": "s011",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "一个物体静止地放在台式弹簧秤上（图3.3-9)，试证明物体对弹簧秤的压力大小等于物体所受的重力大小。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s011_ch3_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_exercise_1_kp_newton_third_law"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_fa254c3293d4",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_ee61866106bb",
+      "target_node_id": "canon_knowledgepoint_7bb9a6ed37ec",
+      "properties": {
+        "rationale": "Problem addresses confusion between balanced forces and action-reaction pairs.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s3.md",
+            "section": {
+              "id": "s011",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "小强说：“我记得在初中学过，如果两个力的大小相等、方向相反，这两个力就会互相平衡..."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s011_ch3_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_exercise_2_kp_balance_vs_action_reaction"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_dd9de17a0fa2",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_b889836c6bcf",
+      "target_node_id": "canon_knowledgepoint_0be67ab5290c",
+      "properties": {
+        "rationale": "Problem counts action-reaction pairs among multiple objects.",
+        "figures": [
+          {
+            "image_path": "images/page075_img005.jpg",
+            "name": "油桶放在汽车上示意图",
+            "description": "油桶放在汽车上，汽车停于水平地面的场景。",
+            "figure_id": "ipa_evidence_9755cf64b40a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s3.md",
+            "section": {
+              "id": "s011",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "如图3.3-10，油桶放在汽车上，汽车停于水平地面。涉及油桶、汽车、地球三个物体之间的作用力和反作用力一共有几对？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s011_ch3_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_exercise_3_kp_action_reaction"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_1a44d6c8f8d9",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_c2db29531981",
+      "target_node_id": "canon_knowledgepoint_0be67ab5290c",
+      "properties": {
+        "rationale": "Problem analyzes forces in a system involving interaction and friction.",
+        "figures": [
+          {
+            "image_path": "images/page075_img006.jpg",
+            "name": "木块A、B叠放示意图",
+            "description": "两个长方体木块A和B叠放，从B右侧引出一条指向右方的红色箭头，表示水平拉力。",
+            "figure_id": "ipa_evidence_4496a58269ac"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s3.md",
+            "section": {
+              "id": "s011",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "如图3.3-11，粗糙的长方体木块A、B叠在一起，放在水平桌面上，B木块受到一个水平方向的力的牵引，但仍然保持静止。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s011_ch3_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_exercise_4_kp_action_reaction"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_0fce104f26ee",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_7bb9a6ed37ec",
+      "target_node_id": "canon_knowledgepoint_0be67ab5290c",
+      "properties": {
+        "rationale": "Understanding action-reaction is prerequisite to distinguishing balanced forces.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s3.md",
+            "section": {
+              "id": "s011",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "在分析物体的受力情况时，不要把某个力的反作用力跟这个力的平衡力混淆。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s011_ch3_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_requires_kp_balance_vs_action_reaction_kp_action_reaction"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_adc403149b19",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_85a8dbec0b81",
+      "target_node_id": "canon_knowledgepoint_b2fd8ae1fcf7",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section explicitly defines concurrent forces.",
+        "figures": [
+          {
+            "image_path": "images/page076_img002.jpg",
+            "name": "五个共点力示意图",
+            "description": "Five forces acting at a point. A light blue irregular polygonal region with five red vectors originating from a common central point.",
+            "figure_id": "ipa_evidence_2e09b451166e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s4.md",
+            "section": {
+              "id": "s012",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "几个力如果都作用在物体的同一点，或者它们的作用线相交于一点，这几个力叫作共点力。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s012_ch3_s4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs_kp_concurrent_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_dee7a958ad4f",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_85a8dbec0b81",
+      "target_node_id": "canon_knowledgepoint_5bc00b10fb58",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section explicitly defines resultant and component forces.",
+        "figures": [
+          {
+            "image_path": "images/page076_img004.jpg",
+            "name": "水桶所受拉力示意图",
+            "description": "图3.4-1水桶所受拉力示意图。甲：两个小孩分别用力提水桶；乙：一个大人单独提水桶。",
+            "figure_id": "ipa_evidence_55b65eff41e1"
+          },
+          {
+            "image_path": "images/page076_img005.jpg",
+            "name": "吊灯所受拉力示意图",
+            "description": "图3.4-2吊灯所受拉力示意图。甲：一根悬线悬挂；乙：两根斜向上的悬线共同悬挂。",
+            "figure_id": "ipa_evidence_e73156bff860"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s4.md",
+            "section": {
+              "id": "s012",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "假设一个力单独作用的效果跟某几个力共同作用的效果相同，这个力就叫作那几个力的合力。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s012_ch3_s4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs_kp_resultant_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_7970c35f34fe",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_85a8dbec0b81",
+      "target_node_id": "canon_knowledgepoint_b26653c8b579",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section explicitly defines force composition and resolution.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s4.md",
+            "section": {
+              "id": "s012",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "在物理学中，我们把求几个力的合力的过程叫作力的合成，把求一个力的分力的过程叫作力的分解。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s012_ch3_s4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs_kp_composition_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_6b46ed1c864c",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_85a8dbec0b81",
+      "target_node_id": "canon_knowledgepoint_d82ac0e87674",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section explicitly defines parallelogram rule for force composition.",
+        "figures": [
+          {
+            "image_path": "images/page077_img002.jpg",
+            "name": "探究二力合成规律实验示意图",
+            "description": "图3.4-3。图丁：力的图示法表示三力关系——以O为起点画出F₁、F₂，构成平行四边形，对角线为F。",
+            "figure_id": "ipa_evidence_74a576706797"
+          },
+          {
+            "image_path": "images/page078_img001.jpg",
+            "name": "两个力的合成",
+            "description": "图3.4-4。图中以点 O 为共同起点，画出多个不同颜色的有向线段，另有一条粉红色有向线段指向点 F，表示合力。",
+            "figure_id": "ipa_evidence_63e60701f5ff"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s4.md",
+            "section": {
+              "id": "s012",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "两个力合成时，如果以表示这两个力的有向线段为邻边作平行四边形，这两个邻边之间的对角线就代表合力的大小和方向。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s012_ch3_s4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs_kp_parallelogram_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_7647529e3313",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_85a8dbec0b81",
+      "target_node_id": "canon_knowledgepoint_d019414738ef",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section explicitly defines vector and scalar quantities.",
+        "figures": [
+          {
+            "image_path": "images/page079_img001.jpg",
+            "name": "人的位移",
+            "description": "图3.4-8。展示了两个矢量 AB 和 BC 首尾相接，从 A 指向 C 的矢量 AC 为合矢量。",
+            "figure_id": "ipa_evidence_b07e0bf59179"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s4.md",
+            "section": {
+              "id": "s012",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "既有大小又有方向，相加时遵从平行四边形定则的物理量叫作矢量。只有大小，没有方向，相加时遵从算术法则的物理量叫作标量。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s012_ch3_s4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs_kp_vector_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_83fc448dfff3",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_fc29a3f7e6de",
+      "target_node_id": "canon_knowledgepoint_b26653c8b579",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem requires calculating resultant force via drawing.",
+        "figures": [
+          {
+            "image_path": "images/page078_img002.jpg",
+            "name": "力的合成示意图",
+            "description": "图中以点 O 为起点，水平向右作有向线段 F1，竖直向上作有向线段 F2，二者构成矩形的邻边；从 O 点出发的对角线 F 为合力。",
+            "figure_id": "ipa_evidence_e166ee6f0608"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s4.md",
+            "section": {
+              "id": "s012",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "某物体受到一个大小为32N的力，方向水平向右，还受到另一个大小为44N的力，方向竖直向上。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s012_ch3_s4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_kp_composition_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_b5a74c54a157",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_fc29a3f7e6de",
+      "target_node_id": "canon_knowledgepoint_d82ac0e87674",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Solution explicitly constructs parallelogram for force composition.",
+        "figures": [
+          {
+            "image_path": "images/page078_img002.jpg",
+            "name": "力的合成示意图",
+            "description": "图中以点 O 为起点，水平向右作有向线段 F1，竖直向上作有向线段 F2，二者构成矩形的邻边；从 O 点出发的对角线 F 为合力。",
+            "figure_id": "ipa_evidence_e166ee6f0608"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s4.md",
+            "section": {
+              "id": "s012",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "根据题意，作出二力合成的平行四边形（图3.4-6）。表示 F₁ 的有向线段长3.20cm，表示 F₂ 的有向线段长4.40cm。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s012_ch3_s4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_kp_parallelogram_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_013c2b79c401",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_fc29a3f7e6de",
+      "target_node_id": "canon_knowledgepoint_5bc00b10fb58",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem asks to find resultant force magnitude and direction.",
+        "figures": [
+          {
+            "image_path": "images/page078_img002.jpg",
+            "name": "力的合成示意图",
+            "description": "图中以点 O 为起点，水平向右作有向线段 F1，竖直向上作有向线段 F2，二者构成矩形的邻边；从 O 点出发的对角线 F 为合力。",
+            "figure_id": "ipa_evidence_e166ee6f0608"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s4.md",
+            "section": {
+              "id": "s012",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "通过作图求出这两个力的合力的大小和方向。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s012_ch3_s4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_kp_resultant_008"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_e379faeb88e0",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_b26653c8b579",
+      "target_node_id": "canon_knowledgepoint_b2fd8ae1fcf7",
+      "properties": {
+        "relation_label": "前置依赖",
+        "rationale": "Composition study follows concurrent force definition in text.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s4.md",
+            "section": {
+              "id": "s012",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "下面我们先研究共点力的合成。"
+          }
+        ],
+        "confidence": 0.8
+      },
+      "source_context_id": "s012_ch3_s4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_composition_kp_concurrent_009"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_c9cbf032b884",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_d82ac0e87674",
+      "target_node_id": "canon_knowledgepoint_b26653c8b579",
+      "properties": {
+        "relation_label": "前置依赖",
+        "rationale": "Parallelogram rule is the method used for composition.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s4.md",
+            "section": {
+              "id": "s012",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "两个力合成时，如果以表示这两个力的有向线段为邻边作平行四边形，这两个邻边之间的对角线就代表合力的大小和方向。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s012_ch3_s4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_parallelogram_kp_composition_010"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_1d7e132f4f3a",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_bc3334e8b203",
+      "target_node_id": "canon_knowledgepoint_2e223e5cd881",
+      "properties": {
+        "rationale": "Section explicitly defines equilibrium state.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s5.md",
+            "section": {
+              "id": "s013",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "物体受到几个力作用时，如果保持静止或匀速直线运动状态，我们就说这个物体处于平衡状态。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s013_ch3_s5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cp_kp_eq_state_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_476e6721abaf",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_bc3334e8b203",
+      "target_node_id": "canon_knowledgepoint_b040575c5a92",
+      "properties": {
+        "rationale": "Section explicitly states the condition for concurrent force equilibrium.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s5.md",
+            "section": {
+              "id": "s013",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "因此，在共点力作用下物体平衡的条件是合力为 0，我们把它称为共点力平衡的条件。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s013_ch3_s5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cp_kp_cond_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_bd19e9840e8d",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_bc3334e8b203",
+      "target_node_id": "canon_knowledgepoint_b2fd8ae1fcf7",
+      "properties": {
+        "rationale": "Section defines concurrent force through examples.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s5.md",
+            "section": {
+              "id": "s013",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "图甲和图丁中木棒所受的力是共点力。图乙和图丙中木棒所受的力不是共点力。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s013_ch3_s5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cp_kp_concurrent_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_9ed76955b129",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_e04451e08b9b",
+      "target_node_id": "canon_knowledgepoint_b040575c5a92",
+      "properties": {
+        "rationale": "Problem requires applying equilibrium condition to find height.",
+        "figures": [
+          {
+            "image_path": "images/page081_img002.jpg",
+            "name": "图 3.5-1 乙",
+            "description": "斜面模型受力分析图，展示重力 G、支持力 FN 和摩擦力 Ff。",
+            "figure_id": "ipa_evidence_c0564b456a62"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s5.md",
+            "section": {
+              "id": "s013",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "根据共点力平衡的条件和直角三角形中三角函数关系可知：G_x - F_f = 0"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s013_ch3_s5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob1_kp_cond_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_d32be5406c40",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3661cb127f99",
+      "target_node_id": "canon_knowledgepoint_b040575c5a92",
+      "properties": {
+        "rationale": "Problem solves for tension using equilibrium condition.",
+        "figures": [
+          {
+            "image_path": "images/page082_img001.jpg",
+            "name": "图 3.5-3",
+            "description": "绳索连接点 O 的受力分析示意图。",
+            "figure_id": "ipa_evidence_18ba682a655a"
+          },
+          {
+            "image_path": "images/page082_img002.jpg",
+            "name": "图 3.5-4",
+            "description": "正交分解法受力矢量图。",
+            "figure_id": "ipa_evidence_07bceef87f5d"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s5.md",
+            "section": {
+              "id": "s013",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "在平衡状态下，O 点所受三个力的合力为 0。由此可以求出 F_1 F_2 的大小。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s013_ch3_s5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob2_kp_cond_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_06537e8599ee",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_1f06c5ba3058",
+      "target_node_id": "canon_knowledgepoint_b040575c5a92",
+      "properties": {
+        "rationale": "Exercise asks to find resultant force under equilibrium.",
+        "figures": [
+          {
+            "image_path": "images/page083_img001.jpg",
+            "name": "图 3.5-5",
+            "description": "物体在五个共点力的作用下保持平衡的示意图。",
+            "figure_id": "ipa_evidence_447d65fed2a4"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s5.md",
+            "section": {
+              "id": "s013",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "物体在五个共点力的作用下保持平衡。如果撤去力 F1，而保持其余四个力不变，请在图上画出这四个力的合力的大小和方向。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s013_ch3_s5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_ex1_kp_cond_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_34386c776f6d",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_eb9c150dc2ed",
+      "target_node_id": "canon_knowledgepoint_b040575c5a92",
+      "properties": {
+        "rationale": "Exercise calculates tension and support force in equilibrium.",
+        "figures": [
+          {
+            "image_path": "images/page083_img002.jpg",
+            "name": "图 3.5-6",
+            "description": "足球被网兜悬挂在光滑墙壁上的示意图。",
+            "figure_id": "ipa_evidence_5416435ee6a3"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s5.md",
+            "section": {
+              "id": "s013",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "求悬绳对足球的拉力和墙壁对足球的支持力。足球的质量为 m，悬绳与墙壁的夹角为α。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s013_ch3_s5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_ex2_kp_cond_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_db0c5da7b373",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_b040575c5a92",
+      "target_node_id": "canon_knowledgepoint_2e223e5cd881",
+      "properties": {
+        "rationale": "Equilibrium condition builds upon the definition of equilibrium state.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s5.md",
+            "section": {
+              "id": "s013",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "物体受到几个力作用时，如果保持静止或匀速直线运动状态，我们就说这个物体处于平衡状态。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s013_ch3_s5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_cond_kp_eq_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_c4f230c18b61",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_b040575c5a92",
+      "target_node_id": "canon_knowledgepoint_b2fd8ae1fcf7",
+      "properties": {
+        "rationale": "Condition specifically applies to objects under concurrent forces.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch3_s5.md",
+            "section": {
+              "id": "s013",
+              "title": "第三章 相互作用—一力"
+            },
+            "quote_or_summary": "如果物体受到多个共点力作用，我们可以逐步通过力的合成，最终等效为两个力的作用。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s013_ch3_s5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_cond_kp_concurrent_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c138c8b0265b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_900d26951b76",
+      "target_node_id": "canon_knowledgepoint_8412a35dadf3",
+      "properties": {
+        "rationale": "Section title and content define Newton's First Law.",
+        "figures": [
+          {
+            "image_path": "images/page089_img002.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_c38d5540a330"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s1.md",
+            "section": {
+              "id": "s014",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "1 牛顿第一定律 ... 这就是牛顿第一定律（Newton'sfirstlaw）。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s014_ch4_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s014_ch4_s1_section_kp_newton_first_law_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_2039ed5d60eb",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_900d26951b76",
+      "target_node_id": "canon_knowledgepoint_44c718a25e71",
+      "properties": {
+        "rationale": "Section defines inertia as a property described by Newton's First Law.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s1.md",
+            "section": {
+              "id": "s014",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "物体这种保持原来匀速直线运动状态或静止状态的性质叫作惯性。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s014_ch4_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s014_ch4_s1_section_kp_inertia_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_ad64a14b1b2b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_900d26951b76",
+      "target_node_id": "canon_knowledgepoint_676aa4d5e2f2",
+      "properties": {
+        "rationale": "Section describes Galileo's ideal experiment as basis for Newton's Law.",
+        "figures": [
+          {
+            "image_path": "images/page088_img001.jpg",
+            "name": "",
+            "description": "伽利略斜面实验频闪照片：黑色背景下，金色轨道构成的斜面-水平面-斜面组合装置；左侧斜面上有一列红色小球，沿轨道向下滚动后进入水平段，再冲上右侧不同倾角的三个金色斜面，每个斜面上均可见一列红色小球，显示其上升过程；小球间距随高度变化体现速度变化。",
+            "figure_id": "ipa_evidence_1a114a656b1d"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s1.md",
+            "section": {
+              "id": "s014",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "伽利略设计了如图4.1-1所示的实验：让一个小球沿斜面从静止状态开始运动..."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s014_ch4_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s014_ch4_s1_section_kp_galileo_experiment_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_71396b8a0524",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_900d26951b76",
+      "target_node_id": "canon_knowledgepoint_3a7dc38182bf",
+      "properties": {
+        "rationale": "Section defines inertial reference frames based on Newton's First Law.",
+        "figures": [
+          {
+            "image_path": "images/page090_img003.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_c42ca191ad01"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s1.md",
+            "section": {
+              "id": "s014",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "如果一个参考系中，一个不受力的物体会保持匀速直线运动状态或静止状态，这样的参考系叫作惯性参考系。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s014_ch4_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s014_ch4_s1_section_kp_inertial_frame_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_ec44f42f5a47",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_81162ee2ba0c",
+      "target_node_id": "canon_knowledgepoint_8412a35dadf3",
+      "properties": {
+        "rationale": "Exercise question applies Newton's First Law to bomb dropping scenario.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s1.md",
+            "section": {
+              "id": "s014",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "（1）飞机投弹时，如果当目标在飞机的正下方时投下炸弹，能击中目标吗？为什么？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s014_ch4_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_exercise_1_kp_newton_first_law_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_e7976da3250c",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_81162ee2ba0c",
+      "target_node_id": "canon_knowledgepoint_44c718a25e71",
+      "properties": {
+        "rationale": "Exercise question tests understanding of inertia via bomb dropping.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s1.md",
+            "section": {
+              "id": "s014",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "（1）飞机投弹时，如果当目标在飞机的正下方时投下炸弹，能击中目标吗？为什么？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s014_ch4_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_exercise_1_kp_inertia_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_0b552f543326",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_8412a35dadf3",
+      "target_node_id": "canon_knowledgepoint_676aa4d5e2f2",
+      "properties": {
+        "rationale": "Newton's Law built upon Galileo's experimental reasoning.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s1.md",
+            "section": {
+              "id": "s014",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "在伽利略和笛卡儿工作的基础上... 牛顿提出了动力学的一条基本定律"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s014_ch4_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_newton_first_law_kp_galileo_experiment_requires"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_5a52b53a69c9",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_3a7dc38182bf",
+      "target_node_id": "canon_knowledgepoint_8412a35dadf3",
+      "properties": {
+        "rationale": "Inertial frame definition relies on validity of Newton's First Law.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s1.md",
+            "section": {
+              "id": "s014",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "按照牛顿第一定律... 如果在一个参考系中... 这样的参考系叫作惯性参考系"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s014_ch4_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_inertial_frame_kp_newton_first_law_requires"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_4933c5f48af1",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9bdfdb5bb552",
+      "target_node_id": "canon_knowledgepoint_48942aaa543b",
+      "properties": {
+        "rationale": "Section explicitly introduces and defines the control variable method as a core scientific approach.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s2.md",
+            "section": {
+              "id": "s015",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "控制变量的方法是指在研究和解决问题的过程中，对影响事物变化规律的独立因素加以人为控制"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s015_ch4_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s015_contains_control_var"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_e676507fd15a",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9bdfdb5bb552",
+      "target_node_id": "canon_knowledgepoint_0e378f821ed4",
+      "properties": {
+        "rationale": "Section title and content directly describe the experiment investigating acceleration, force, and mass.",
+        "figures": [
+          {
+            "image_path": "images/page092_img002.jpg",
+            "name": "图4.2-1 槽码牵引小车运动",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_ea6cc500e4d3"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s2.md",
+            "section": {
+              "id": "s015",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "下面我们来探究加速度与力、质量之间的定量关系。用图4.2-1所示的装置可以完成这个探究实验"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s015_ch4_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s015_contains_experiment"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_3784046615ad",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9bdfdb5bb552",
+      "target_node_id": "canon_knowledgepoint_a83759f4d251",
+      "properties": {
+        "rationale": "Section explicitly describes the resistance compensation method to balance friction forces.",
+        "figures": [
+          {
+            "image_path": "images/page094_img001.jpg",
+            "name": "图4.2-2 实验装置",
+            "description": "> 实验装置",
+            "figure_id": "ipa_evidence_d95520e90fbe"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s2.md",
+            "section": {
+              "id": "s015",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "把木板的一侧垫高，以补偿打点计时器对小车的阻力及其他阻力。调节木板的倾斜度"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s015_ch4_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s015_contains_resistance_comp"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_6bd672dcd7f0",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9bdfdb5bb552",
+      "target_node_id": "canon_knowledgepoint_243108a974bd",
+      "properties": {
+        "rationale": "Section details the experimental procedure for investigating the relationship between acceleration and force.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s2.md",
+            "section": {
+              "id": "s015",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "保持小车质量不变，通过改变槽码的个数改变小车所受的拉力。测得不同拉力下小车运动的加速度"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s015_ch4_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s015_contains_acc_force"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_898e83e104ff",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9bdfdb5bb552",
+      "target_node_id": "canon_knowledgepoint_0fc89429ff0d",
+      "properties": {
+        "rationale": "Section details the experimental procedure for investigating the relationship between acceleration and mass.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s2.md",
+            "section": {
+              "id": "s015",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "保持小车所受的拉力不变，通过在小车上增加重物改变小车的质量。分析加速度与质量的变化情况"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s015_ch4_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s015_contains_acc_mass"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_889f48aa9e19",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_464dfdbb9c3a",
+      "target_node_id": "canon_knowledgepoint_243108a974bd",
+      "properties": {
+        "rationale": "Problem explicitly asks students to analyze data from the experiment investigating acceleration vs force.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s2.md",
+            "section": {
+              "id": "s015",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "某同学在做“探究加速度与力的关系”和“探究加速度与质量的关系”实验时"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s015_ch4_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_ex1_tests_acc_force"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_2df4f4d0b5f5",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_464dfdbb9c3a",
+      "target_node_id": "canon_knowledgepoint_0fc89429ff0d",
+      "properties": {
+        "rationale": "Problem explicitly asks students to analyze data from the experiment investigating acceleration vs mass.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s2.md",
+            "section": {
+              "id": "s015",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "某同学在做“探究加速度与力的关系”和“探究加速度与质量的关系”实验时"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s015_ch4_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_ex1_tests_acc_mass"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_d5ad75e6e51e",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_cc17b6203308",
+      "target_node_id": "canon_knowledgepoint_0fc89429ff0d",
+      "properties": {
+        "rationale": "Problem requires plotting a graph to investigate the relationship between acceleration and mass.",
+        "figures": [
+          {
+            "image_path": "images/page097_img005.jpg",
+            "name": "图4.2-7",
+            "description": "a/(m·s⁻²)",
+            "figure_id": "ipa_evidence_6fd974b53968"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s2.md",
+            "section": {
+              "id": "s015",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "某同学用图4.2-2所示的实验装置探究小车的加速度a与质量m的关系"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s015_ch4_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_ex2_tests_acc_mass"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_a4b089473e54",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_0e378f821ed4",
+      "target_node_id": "canon_knowledgepoint_48942aaa543b",
+      "properties": {
+        "rationale": "The experiment design explicitly relies on the control variable method to isolate factors.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s2.md",
+            "section": {
+              "id": "s015",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "面对这样的问题，我们通常采用控制变量的方法进行研究。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s015_ch4_s2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_experiment_requires_control_var"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c9b5cad466c2",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3ef03b925acf",
+      "target_node_id": "canon_knowledgepoint_59287d890df5",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s3.md",
+            "section": {
+              "id": "s016",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "大量的实验和观察到的事实都可以得出与上节课实验同样的结论，由此可以总结出一般性的规律：物体加速度的大小跟它受到的作用力成正比，跟它的质量成反比，加速度的方向跟作用力的方向相同。这就是牛顿第二定律(Newton's second law）。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header and explicit definition establish the knowledge point.",
+        "figures": [
+          {
+            "image_path": "images/page098_img002.jpg",
+            "name": "甲猜想中的a-F图像",
+            "description": "a-F graph. A coordinate graph with the vertical axis labeled a (acceleration) and the horizontal axis labeled F (force), origin at O.",
+            "figure_id": "ipa_evidence_f3c4ce887bcf"
+          },
+          {
+            "image_path": "images/page098_img003.jpg",
+            "name": "乙根据实际数据作出的a-F图像",
+            "description": "a-F坐标系中，横轴为作用力 F，纵轴为加速度 a。图中包含两组实验数据点及对应的拟合直线。",
+            "figure_id": "ipa_evidence_66ffdb8ac396"
+          }
+        ]
+      },
+      "source_context_id": "s016_ch4_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_2f72fed2dcd0",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3ef03b925acf",
+      "target_node_id": "canon_knowledgepoint_2e390a664422",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s3.md",
+            "section": {
+              "id": "s016",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "当k＝1时，质量为1kg的物体在某力的作用下获得1 m/s²的加速度，则这个力叫作“一个单位”的力，后人为了纪念牛顿，把它称作“牛顿”，用符号N表示。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section subsection explicitly defines the unit of force."
+      },
+      "source_context_id": "s016_ch4_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_30c3c4ec4705",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3ef03b925acf",
+      "target_node_id": "canon_knowledgepoint_00a85c0ed050",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s3.md",
+            "section": {
+              "id": "s016",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "由牛顿第二定律F=ma可知，如果给物体施加一个已知的力，并测得物体在这个力作用下的加速度，就可以求出物体的质量。这就是动力学测量质量的方法。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section subsection explicitly introduces the method."
+      },
+      "source_context_id": "s016_ch4_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_fef226e32995",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_d689335e825d",
+      "target_node_id": "canon_knowledgepoint_59287d890df5",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s3.md",
+            "section": {
+              "id": "s016",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "【例题1】在平直路面上，质量为1100kg的汽车在进行研发的测试，当速度达到100 km/h时取消动力，经过70s停了下来。汽车受到的阻力是多少？重新起步加速时牵引力为2000 N，产生的加速度是多少？"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem solution explicitly applies Newton's Second Law."
+      },
+      "source_context_id": "s016_ch4_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_9be44208afb5",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_0f8ace9dcbb8",
+      "target_node_id": "canon_knowledgepoint_59287d890df5",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s3.md",
+            "section": {
+              "id": "s016",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "【例题2】某同学在列车车厢的顶部用细线悬挂一个小球，在列车以某一加速度渐渐启动的过程中，细线就会偏过定角度并相对车厢保持静止，通过测定偏角的大小就能确定列车的加速度。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem solution explicitly applies Newton's Second Law."
+      },
+      "source_context_id": "s016_ch4_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_9cc4291f4a32",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_00a85c0ed050",
+      "target_node_id": "canon_knowledgepoint_59287d890df5",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s3.md",
+            "section": {
+              "id": "s016",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "由牛顿第二定律F=ma可知，如果给物体施加一个已知的力，并测得物体在这个力作用下的加速度，就可以求出物体的质量。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Method definition explicitly relies on Newton's Second Law formula."
+      },
+      "source_context_id": "s016_ch4_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_254d9b7221c4",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_2e390a664422",
+      "target_node_id": "canon_knowledgepoint_59287d890df5",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s3.md",
+            "section": {
+              "id": "s016",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "F=kma中k的数值取决于F、m、a的单位的选取。当k＝1时，质量为1kg的物体在某力的作用下获得1 m/s²的加速度，则这个力叫作“一个单位”的力。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Unit definition is derived from the equation of Newton's Second Law."
+      },
+      "source_context_id": "s016_ch4_s3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_dfe67d511b8a",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_66caa5ee604a",
+      "target_node_id": "canon_knowledgepoint_cc3206ecb892",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s4.md",
+            "section": {
+              "id": "s017",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "## 基本单位\n\n由位移和时间求速度时，所用的关系式为 v = \\frac { \\Delta x } { \\Delta t }"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header '基本单位' directly introduces the KnowledgePoint node."
+      },
+      "source_context_id": "s017_ch4_s4",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001_contains_kp001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_ac3e6c42b1b9",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_66caa5ee604a",
+      "target_node_id": "canon_knowledgepoint_b67604ae3a9d",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s4.md",
+            "section": {
+              "id": "s017",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "由基本量根据物理关系推导出来的其他物理量叫作导出量，推导出来的相应单位叫作导出单位"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section text explicitly defines '导出单位' matching the KnowledgePoint name."
+      },
+      "source_context_id": "s017_ch4_s4",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002_contains_kp002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c12890a44d90",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_66caa5ee604a",
+      "target_node_id": "canon_knowledgepoint_54e6eb87b638",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s4.md",
+            "section": {
+              "id": "s017",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "## 国际单位制\n\n1960年第11届国际计量大会制订了一种国际通用的...单位制，叫作国际单位制（SI）。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header '国际单位制' matches KnowledgePoint name."
+      },
+      "source_context_id": "s017_ch4_s4",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003_contains_kp003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_032fe476d406",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_66caa5ee604a",
+      "target_node_id": "canon_knowledgepoint_e81084637640",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s4.md",
+            "section": {
+              "id": "s017",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "## 基本单位的定义\n\n秒的定义铯-133原子基态的两个超精细能级之间跃迁所对应的辐射的9192631770个周期的持续时间为1s。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header '基本单位的定义' matches KnowledgePoint name."
+      },
+      "source_context_id": "s017_ch4_s4",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004_contains_kp004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_bd4b5d1c2bc4",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_b67604ae3a9d",
+      "target_node_id": "canon_knowledgepoint_cc3206ecb892",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s4.md",
+            "section": {
+              "id": "s017",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "由基本量根据物理关系推导出来的其他物理量叫作导出量，推导出来的相应单位叫作导出单位"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Derived units are defined based on basic units, implying a prerequisite dependency."
+      },
+      "source_context_id": "s017_ch4_s4",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005_requires_kp001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_09a117c91b9f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_ace982f0f4dc",
+      "target_node_id": "canon_knowledgepoint_54e6eb87b638",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s4.md",
+            "section": {
+              "id": "s017",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "在国际单位制中运用牛顿第二定律 F = ma 时，质量的单位必须用千克（kg），所以需要对质量的单位进行换算。"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem solution explicitly requires applying International System of Units rules."
+      },
+      "source_context_id": "s017_ch4_s4",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006_tests_kp003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_942d2869d106",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_679a1ba23455",
+      "target_node_id": "canon_knowledgepoint_54e6eb87b638",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s4.md",
+            "section": {
+              "id": "s017",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "一辆速度为4m/s的自行车，在水平公路上匀减速地滑行40m后停止。如果自行车和人的总质量是100kg"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Problem uses SI units (m/s, kg) consistent with International System of Units context."
+      },
+      "source_context_id": "s017_ch4_s4",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007_tests_kp003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_c763826c5ae5",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_886796a213db",
+      "target_node_id": "canon_knowledgepoint_54e6eb87b638",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s4.md",
+            "section": {
+              "id": "s017",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "一辆以10m/s的速度行驶的汽车，刹车后经2s停下来。已知汽车的质量为4t"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Problem uses SI units (m/s, s, t converted to kg) requiring unit system awareness."
+      },
+      "source_context_id": "s017_ch4_s4",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_008_tests_kp003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_ceb243949b33",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_30e9ed05296c",
+      "target_node_id": "canon_knowledgepoint_d216ebb6a4e4",
+      "properties": {
+        "rationale": "Problem 2 calculates resistance and pressure from motion parameters, applying 'From Motion to Force'.",
+        "figures": [
+          {
+            "image_path": "images/page110_img004.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_a38b31879f56"
+          },
+          {
+            "image_path": "images/page111_img002.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_5bd921d51d45"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s5.md",
+            "section": {
+              "id": "s018",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "如图4.5-4，一位滑雪者...求滑雪者对雪面的压力及滑雪者受到的阻力。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s018_ch4_s5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_002_tests_kp_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_1a5ed5e31e17",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_d094a79cfc44",
+      "target_node_id": "canon_knowledgepoint_21893334492a",
+      "properties": {
+        "rationale": "Problem 3 calculates velocity and displacement from applied forces, applying 'From Force to Motion'.",
+        "figures": [
+          {
+            "image_path": "images/page111_img010.jpg",
+            "name": "",
+            "description": "> 图4.5-6",
+            "figure_id": "ipa_evidence_2a77713b5bbd"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s5.md",
+            "section": {
+              "id": "s018",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "质量为20kg的物体静止在光滑水平面上。如果给这个物体施加两个大小都是50N且互成60°角的水平力"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s018_ch4_s5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_003_tests_kp_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_49f2d0a8eab7",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_9c0f05da42b0",
+      "target_node_id": "canon_knowledgepoint_21893334492a",
+      "properties": {
+        "rationale": "Problem 4 calculates final speed from known resistance force, applying 'From Force to Motion'.",
+        "figures": [
+          {
+            "image_path": "images/page112_img001.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_ba21423cac7c"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s5.md",
+            "section": {
+              "id": "s018",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "一个质量为60kg的人沿气囊滑下时所受的阻力是240N，那么，人滑至气囊底端时的速度是多少？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s018_ch4_s5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_004_tests_kp_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_a6c79c7c1bba",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_856a367fe98a",
+      "target_node_id": "canon_knowledgepoint_21893334492a",
+      "properties": {
+        "rationale": "Problem 5 part (2) calculates acceleration from force limit, applying 'From Force to Motion'.",
+        "figures": [
+          {
+            "image_path": "images/page112_img002.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_3a4bf5bd2178"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s5.md",
+            "section": {
+              "id": "s018",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "（2）当汽车向左运动的加速度增大到一定值时，桶C就脱离A而运动到B的右边，这个加速度有多大？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s018_ch4_s5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_005_tests_kp_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_0cc0dcd972ac",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_856a367fe98a",
+      "target_node_id": "canon_knowledgepoint_d216ebb6a4e4",
+      "properties": {
+        "rationale": "Problem 5 part (1) analyzes support force change from acceleration, applying 'From Motion to Force'.",
+        "figures": [
+          {
+            "image_path": "images/page112_img002.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_3a4bf5bd2178"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s5.md",
+            "section": {
+              "id": "s018",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "（1）当汽车以某一加速度向左加速时，A对C和B对C的支持力大小会增大还是减小？请说明理由。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s018_ch4_s5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_005_tests_kp_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_92f9b630faeb",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_669618797333",
+      "target_node_id": "canon_knowledgepoint_c5fa3283991e",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section header '超重和失重' defines overweight concept with formula and diagram.",
+        "figures": [
+          {
+            "image_path": "images/page114_img002.jpg",
+            "name": "图 4.6-3",
+            "description": "减速向下运动受力分析图",
+            "figure_id": "ipa_evidence_01f4bb9e68a7"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s6.md",
+            "section": {
+              "id": "s019",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "物体对支持物的压力（或对悬挂物的拉力）大于物体所受重力的现象，叫作超重（overweight）现象。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s019_ch4_s6",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s019_kp_overweight_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_3e1742ea003b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_669618797333",
+      "target_node_id": "canon_knowledgepoint_e00b7b80814e",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section header '超重和失重' defines weightlessness concept with formula and diagram.",
+        "figures": [
+          {
+            "image_path": "images/page114_img001.jpg",
+            "name": "图 4.6-2",
+            "description": "加速向下运动受力分析图",
+            "figure_id": "ipa_evidence_8b9fe78f4595"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s6.md",
+            "section": {
+              "id": "s019",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "物体对支持物的压力（或对悬挂物的拉力）小于物体所受重力的现象，叫作失重（weightlessness）现象。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s019_ch4_s6",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s019_kp_weightlessness_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_41c58c33d6b9",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_669618797333",
+      "target_node_id": "canon_knowledgepoint_c0f516f6600a",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section defines complete weightlessness state with astronaut example and diagram.",
+        "figures": [
+          {
+            "image_path": "images/page116_img001.jpg",
+            "name": "图 4.6-7",
+            "description": "航天员在天宫一号目标飞行器上展示水球的实验",
+            "figure_id": "ipa_evidence_0d64ce5f775e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s6.md",
+            "section": {
+              "id": "s019",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "如果人在加速下降的过程中加速度 a=g，那么，体重计的示数为 0。这时物体对支持物（或悬挂物）完全没有作用力，这种现象叫作完全失重状态。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s019_ch4_s6",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s019_kp_complete_weightlessness_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_7020b91ccf66",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_669618797333",
+      "target_node_id": "canon_knowledgepoint_a6a3c18259fc",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section defines apparent weight as scale reading reflecting pressure on support.",
+        "figures": [
+          {
+            "image_path": "images/page113_img005.jpg",
+            "name": "图 4.6-1",
+            "description": "人站在体重计上受力分析图",
+            "figure_id": "ipa_evidence_09b859817971"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s6.md",
+            "section": {
+              "id": "s019",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "体重计的示数称为视重，反映了人对体重计的压力。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s019_ch4_s6",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s019_kp_apparent_weight_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_d5d87bafe73a",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_5c94d1c5ab7b",
+      "target_node_id": "canon_knowledgepoint_c5fa3283991e",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem solution calculates pressure during upward acceleration, deriving overweight formula.",
+        "figures": [
+          {
+            "image_path": "images/page115_img002.jpg",
+            "name": "图 4.6-6",
+            "description": "电梯内人受力分析图",
+            "figure_id": "ipa_evidence_1b7f1fd375f9"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_234815_普通高中教科书·物理必修第一册_20260702\\enhanced_markdown\\sections\\ch4_s6.md",
+            "section": {
+              "id": "s019",
+              "title": "第四章 运动和力的关系 B?"
+            },
+            "quote_or_summary": "当电梯以 0.25 m/s^2 的加速度匀加速上升时，求人对电梯的压力。... 出现超重现象。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s019_ch4_s6",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_elevator_kp_overweight_tests"
+      ]
+    }
+  ]
+}

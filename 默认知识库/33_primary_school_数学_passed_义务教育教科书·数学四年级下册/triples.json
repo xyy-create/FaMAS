@@ -1,0 +1,744 @@
+{
+  "schema_version": "kg.triples.v1",
+  "run_id": "kg_义务教育教科书·数学四年级下册_20260629",
+  "triples": [
+    {
+      "triple_id": "triple_contains_46cf657863d1",
+      "subject_node_id": "canon_chaptersection_0d03a61e646b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_abef9545be19",
+      "edge_id": "canon_edge_contains_4bf989ec6ba9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\001_平移、旋转和轴对称.md",
+          "section": {
+            "id": "s001",
+            "title": "平移、 旋转和轴对称"
+          },
+          "quote_or_summary": "小船图平移的距离比金鱼图远一些。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d3d2d02e7c88",
+      "subject_node_id": "canon_chaptersection_0d03a61e646b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d3834a86b836",
+      "edge_id": "canon_edge_contains_f461d52659c9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\001_平移、旋转和轴对称.md",
+          "section": {
+            "id": "s001",
+            "title": "平移、 旋转和轴对称"
+          },
+          "quote_or_summary": "转杆打开和关闭都是绕着一个点旋转。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_6142e6fe3ea3",
+      "subject_node_id": "canon_chaptersection_0d03a61e646b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c787c6ed61e2",
+      "edge_id": "canon_edge_contains_50b50281e13b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\001_平移、旋转和轴对称.md",
+          "section": {
+            "id": "s001",
+            "title": "平移、 旋转和轴对称"
+          },
+          "quote_or_summary": "长方形是轴对称图形。正方形是轴对称图形。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8c401a8bac6f",
+      "subject_node_id": "canon_chaptersection_0d03a61e646b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_72f3828e92b9",
+      "edge_id": "canon_edge_contains_dac4bb78e5f2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\001_平移、旋转和轴对称.md",
+          "section": {
+            "id": "s001",
+            "title": "平移、 旋转和轴对称"
+          },
+          "quote_or_summary": "像这样对折，折痕所在的直线叫作轴对称图形的对称轴。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_13fd1f225b21",
+      "subject_node_id": "canon_problem_d8053ed80109",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_abef9545be19",
+      "edge_id": "canon_edge_tests_5eb63cfa51ee",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\001_平移、旋转和轴对称.md",
+          "section": {
+            "id": "s001",
+            "title": "平移、 旋转和轴对称"
+          },
+          "quote_or_summary": "画出平行四边形向下平移 3 格后的图形。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_16e56a2ae62b",
+      "subject_node_id": "canon_problem_9c582a75ccf2",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_abef9545be19",
+      "edge_id": "canon_edge_tests_2871eee8f5ed",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\001_平移、旋转和轴对称.md",
+          "section": {
+            "id": "s001",
+            "title": "平移、 旋转和轴对称"
+          },
+          "quote_or_summary": "哪个三角形向右平移 10 格得到红色三角形？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_540bac81fb49",
+      "subject_node_id": "canon_problem_a9b564e1e64f",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_abef9545be19",
+      "edge_id": "canon_edge_tests_01b1af6eedaa",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\001_平移、旋转和轴对称.md",
+          "section": {
+            "id": "s001",
+            "title": "平移、 旋转和轴对称"
+          },
+          "quote_or_summary": "按要求画出平移后的图形。（1）将 1 号图形向右平移 7 格。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_4e148869813c",
+      "subject_node_id": "canon_chaptersection_3d50c9bae687",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5fdf7126a71f",
+      "edge_id": "canon_edge_contains_17215d6beb86",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\002_认识多位数.md",
+          "section": {
+            "id": "s002",
+            "title": "认 识 多 位 数"
+          },
+          "quote_or_summary": "像这样每相邻两个计数单位之间的进率都是 10 的计数方法，叫作十进制计数法。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_fbb45e07f8db",
+      "subject_node_id": "canon_chaptersection_3d50c9bae687",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_18eeeac9e8ab",
+      "edge_id": "canon_edge_contains_02d1fd7842dc",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\002_认识多位数.md",
+          "section": {
+            "id": "s002",
+            "title": "认 识 多 位 数"
+          },
+          "quote_or_summary": "生活中一些事物的数量，有时不需要用精确的数表示，而只用一个与它比较接近的数来表示，这样的数是近似数。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_f7bc5b9c1e91",
+      "subject_node_id": "canon_knowledgepoint_5fdf7126a71f",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_54b1f30bd574",
+      "edge_id": "canon_edge_requires_e73c2e74b05c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\002_认识多位数.md",
+          "section": {
+            "id": "s002",
+            "title": "认 识 多 位 数"
+          },
+          "quote_or_summary": "像这样每相邻两个计数单位之间的进率都是 10 的计数方法，叫作十进制计数法。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_aa460e094c43",
+      "subject_node_id": "canon_chaptersection_3d50c9bae687",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_54b1f30bd574",
+      "edge_id": "canon_edge_contains_27275f741ee8",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\002_认识多位数.md",
+          "section": {
+            "id": "s002",
+            "title": "认 识 多 位 数"
+          },
+          "quote_or_summary": "我们知道 10 个一千是一万，再接着数下去：10 个一万是十万，10 个十万是一百万，10 个一百万是一千万。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_44a73539df74",
+      "subject_node_id": "canon_chaptersection_3d50c9bae687",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_79b6b8010374",
+      "edge_id": "canon_edge_contains_bace4a9904f8",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\002_认识多位数.md",
+          "section": {
+            "id": "s002",
+            "title": "认 识 多 位 数"
+          },
+          "quote_or_summary": "按照我国的计数习惯，从右边起，每四个数位是一级。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_8684c73fc7a0",
+      "subject_node_id": "canon_problem_debd496b6311",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_54b1f30bd574",
+      "edge_id": "canon_edge_tests_f2f9b9cacbe3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\002_认识多位数.md",
+          "section": {
+            "id": "s002",
+            "title": "认 识 多 位 数"
+          },
+          "quote_or_summary": "“神舟”九号飞船在太空的速度大约是每小时二万八千一百千米。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_026765564b6a",
+      "subject_node_id": "canon_problem_19c27d45cdfb",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_54b1f30bd574",
+      "edge_id": "canon_edge_tests_47f5051aa76a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\002_认识多位数.md",
+          "section": {
+            "id": "s002",
+            "title": "认 识 多 位 数"
+          },
+          "quote_or_summary": "2011 年，我国原油、水泥和布的总产量如下：原油二亿吨，水泥二十一亿吨，布八百一十四亿米。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_86581818d44f",
+      "subject_node_id": "canon_problem_9a9cbe48ae3f",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_54b1f30bd574",
+      "edge_id": "canon_edge_tests_0248d6e06d14",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\002_认识多位数.md",
+          "section": {
+            "id": "s002",
+            "title": "认 识 多 位 数"
+          },
+          "quote_or_summary": "2011 年，我国钢材和原煤的总产量如下：钢材万千九亿八吨，原煤三十五亿二千万吨。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_e8a58fe53267",
+      "subject_node_id": "canon_chaptersection_4cc09ac607ec",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ac645a53e60d",
+      "edge_id": "canon_edge_contains_54c22be8522a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\003_三位数乘两位数.md",
+          "section": {
+            "id": "s003",
+            "title": "三位数乘两位数"
+          },
+          "quote_or_summary": "总价 = 单价 × 数量"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_17da4b8288cb",
+      "subject_node_id": "canon_chaptersection_4cc09ac607ec",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ee080a22f47b",
+      "edge_id": "canon_edge_contains_8ea7bc7327d9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\003_三位数乘两位数.md",
+          "section": {
+            "id": "s003",
+            "title": "三位数乘两位数"
+          },
+          "quote_or_summary": "路程 = 速度 × 时间"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_093b744a9fff",
+      "subject_node_id": "canon_chaptersection_4cc09ac607ec",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_9a828c4a10ab",
+      "edge_id": "canon_edge_contains_4ff0f83a79b0",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\003_三位数乘两位数.md",
+          "section": {
+            "id": "s003",
+            "title": "三位数乘两位数"
+          },
+          "quote_or_summary": "一个乘数不变，另一个乘数乘几，得到的积就等于原来的积乘几。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d940b098bea4",
+      "subject_node_id": "canon_chaptersection_4cc09ac607ec",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b9704b38ffb0",
+      "edge_id": "canon_edge_contains_b72584fa4efb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\003_三位数乘两位数.md",
+          "section": {
+            "id": "s003",
+            "title": "三位数乘两位数"
+          },
+          "quote_or_summary": "你会用竖式计算吗？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_53cdf4ff8e44",
+      "subject_node_id": "canon_chaptersection_4cc09ac607ec",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_784c5f832dfa",
+      "edge_id": "canon_edge_contains_1825f7e5761d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\003_三位数乘两位数.md",
+          "section": {
+            "id": "s003",
+            "title": "三位数乘两位数"
+          },
+          "quote_or_summary": "计算器是一种计算工具。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_399df9379914",
+      "subject_node_id": "canon_problem_3075533b00c1",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ac645a53e60d",
+      "edge_id": "canon_edge_tests_afbdbf14ae4a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\003_三位数乘两位数.md",
+          "section": {
+            "id": "s003",
+            "title": "三位数乘两位数"
+          },
+          "quote_or_summary": "月星小区有 16 幢楼，平均每幢楼住 128 户。月星小区一共住了多少户？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_b27209ec4d43",
+      "subject_node_id": "canon_problem_c5bc77999dcc",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ac645a53e60d",
+      "edge_id": "canon_edge_tests_da60002a1485",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\003_三位数乘两位数.md",
+          "section": {
+            "id": "s003",
+            "title": "三位数乘两位数"
+          },
+          "quote_or_summary": "我买 4 支钢笔和 5 本练习本。每种商品的单价各是多少？购买的数量呢？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_bd882a7decd9",
+      "subject_node_id": "canon_chaptersection_be1d9558c906",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_fe2f3ab21346",
+      "edge_id": "canon_edge_contains_a9d984bf7bc5",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\004_一亿有多大.md",
+          "section": {
+            "id": "s004",
+            "title": "一 亿 有 多 大"
+          },
+          "quote_or_summary": "1 亿是一个很大的数，你能说说 1 亿有多大吗？10 个一千万 是一亿。1 万个一万 是一亿。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_6599e5a19d87",
+      "subject_node_id": "canon_chaptersection_be1d9558c906",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_65703824e7f8",
+      "edge_id": "canon_edge_contains_6b6d31dfc3c7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\004_一亿有多大.md",
+          "section": {
+            "id": "s004",
+            "title": "一 亿 有 多 大"
+          },
+          "quote_or_summary": "要知道 1 亿有多大，可以根据数的大小和单位之间的进率推算。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_0aa758f5f01a",
+      "subject_node_id": "canon_problem_24b6442273fe",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_65703824e7f8",
+      "edge_id": "canon_edge_tests_63c896810c3f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\004_一亿有多大.md",
+          "section": {
+            "id": "s004",
+            "title": "一 亿 有 多 大"
+          },
+          "quote_or_summary": "数 1 亿本练习本大约需要多少年？用计算器算一算。÷ 60（分）÷ 60（时）÷ 24（日）÷ 365（年）"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_1545dfb1af56",
+      "subject_node_id": "canon_problem_ec5e79f98baf",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_65703824e7f8",
+      "edge_id": "canon_edge_tests_b31b7c6a04a3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\004_一亿有多大.md",
+          "section": {
+            "id": "s004",
+            "title": "一 亿 有 多 大"
+          },
+          "quote_or_summary": "1 亿枚 1 元硬币摞在一起，会比 30 层楼还高吗？算一算，1 亿枚 1 元硬币摞在一起大约高多少米？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_e914cb6fb8e3",
+      "subject_node_id": "canon_problem_ad28ecba371d",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_65703824e7f8",
+      "edge_id": "canon_edge_tests_7b134815131f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\004_一亿有多大.md",
+          "section": {
+            "id": "s004",
+            "title": "一 亿 有 多 大"
+          },
+          "quote_or_summary": "我国大约有 13 亿人。如果每人每天节省 1 粒大米，全国一天大约能节省多少克粮食？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_5a048f9b1501",
+      "subject_node_id": "canon_knowledgepoint_fe2f3ab21346",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_65703824e7f8",
+      "edge_id": "canon_edge_requires_b886099fce41",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\004_一亿有多大.md",
+          "section": {
+            "id": "s004",
+            "title": "一 亿 有 多 大"
+          },
+          "quote_or_summary": "要知道 1 亿有多大，可以根据数的大小和单位之间的进率推算。"
+        }
+      ],
+      "confidence": 0.75
+    },
+    {
+      "triple_id": "triple_contains_690e5d58e4f5",
+      "subject_node_id": "canon_chaptersection_1751ef3eef06",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_bf431f9415fe",
+      "edge_id": "canon_edge_contains_7a9aa8514c72",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\005_解决问题的策略.md",
+          "section": {
+            "id": "s005",
+            "title": "解决问题的策略"
+          },
+          "quote_or_summary": "两个加数交换位置，和不变。如果用字母 a、b 分别表示两个加数，上面的规律可以写成：a + b = b + a。这就是加法交换律。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_5e140fbe0d8e",
+      "subject_node_id": "canon_chaptersection_1751ef3eef06",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_6ec9b93c600f",
+      "edge_id": "canon_edge_contains_71cf7a37f400",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\005_解决问题的策略.md",
+          "section": {
+            "id": "s005",
+            "title": "解决问题的策略"
+          },
+          "quote_or_summary": "先把前两个数相加，或者先把后两个数相加，和不变。如果用字母 a、b、c 分别表示三个加数，上面的规律可以写成：(a + b) + c = a + (b + c)。这就是加法结合律。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_bd10b1ba8a92",
+      "subject_node_id": "canon_chaptersection_1751ef3eef06",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7476f12ab4f5",
+      "edge_id": "canon_edge_contains_2df2285cb5e3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\005_解决问题的策略.md",
+          "section": {
+            "id": "s005",
+            "title": "解决问题的策略"
+          },
+          "quote_or_summary": "两个数相乘，交换两个乘数的位置，积不变。如果用字母 a、b 分别表示两个乘数，上面的规律可以写成：a × b = b × a。这就是乘法交换律。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_52d73369e730",
+      "subject_node_id": "canon_chaptersection_1751ef3eef06",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_48e1bcc2134c",
+      "edge_id": "canon_edge_contains_07f0ff21326e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\005_解决问题的策略.md",
+          "section": {
+            "id": "s005",
+            "title": "解决问题的策略"
+          },
+          "quote_or_summary": "先把前两个数相乘，或者先把后两个数相乘，积不变。如果用字母 a、b、c 分别表示三个乘数，上面的规律可以写成：(a × b) × c = a × (b × c)。这就是乘法结合律。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_269d550eadd1",
+      "subject_node_id": "canon_chaptersection_1751ef3eef06",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ec9bbee6059d",
+      "edge_id": "canon_edge_contains_042bde0ebd08",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\005_解决问题的策略.md",
+          "section": {
+            "id": "s005",
+            "title": "解决问题的策略"
+          },
+          "quote_or_summary": "两个数的和与一个数相乘，可以先把这两个数分别与这个数相乘，再相加。如果用字母 a、b、c 分别表示三个数，上面的规律可以写成：(a + b) × c = a × c + b × c。这就是乘法分配律。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_172da922b1eb",
+      "subject_node_id": "canon_problem_e0f22778417c",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ec9bbee6059d",
+      "edge_id": "canon_edge_tests_4d98d0443631",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\005_解决问题的策略.md",
+          "section": {
+            "id": "s005",
+            "title": "解决问题的策略"
+          },
+          "quote_or_summary": "小明走的路程加上小芳走的路程就是他们两家相距的路程，可以先分别算出……两人 4 分钟一共走的路程，就是两家相距的路程"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_1ed9a6151626",
+      "subject_node_id": "canon_chaptersection_7f4fc6ef6c4b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_74e631be8bde",
+      "edge_id": "canon_edge_contains_cf5d84a6b5d8",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\006_整理与练习.md",
+          "section": {
+            "id": "s006",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "从三角形的一个顶点到对边的垂直线段是三角形的高，这条对边是三角形的底。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_4b9543eeb3d5",
+      "subject_node_id": "canon_chaptersection_7f4fc6ef6c4b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b3a774cc5b99",
+      "edge_id": "canon_edge_contains_62e8afaa01e2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\006_整理与练习.md",
+          "section": {
+            "id": "s006",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "3 个角都是锐角的三角形是锐角三角形；有 1 个角是直角的三角形是直角三角形；有 1 个角是钝角的三角形是钝角三角形。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0e7f9e9852d2",
+      "subject_node_id": "canon_chaptersection_7f4fc6ef6c4b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_4f70c0456624",
+      "edge_id": "canon_edge_contains_a6d555898120",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\006_整理与练习.md",
+          "section": {
+            "id": "s006",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "任意两根小棒的长度和一定大于第三根小棒。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_129da4312b49",
+      "subject_node_id": "canon_chaptersection_7f4fc6ef6c4b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_259062ea3d2f",
+      "edge_id": "canon_edge_contains_a6219ae6dbf8",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\006_整理与练习.md",
+          "section": {
+            "id": "s006",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "两条边相等的三角形是等腰三角形。3 条边都相等的三角形是等边三角形，也叫作正三角形。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_2666992f0537",
+      "subject_node_id": "canon_chaptersection_7f4fc6ef6c4b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_bba1963d6bf5",
+      "edge_id": "canon_edge_contains_f6965440c57e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\006_整理与练习.md",
+          "section": {
+            "id": "s006",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "分成的三角形个数都比多边形的边数少 2。分成了几个三角形，多边形的内角和就有几个 180°。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_1bf3338c23b9",
+      "subject_node_id": "canon_chaptersection_7f4fc6ef6c4b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c2f7830de710",
+      "edge_id": "canon_edge_contains_b8f405831f73",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\006_整理与练习.md",
+          "section": {
+            "id": "s006",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "通常把竖排叫作列，横排叫作行。一般情况下，确定第几列要从左向右数，确定第几行要从前向后数。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_b851610a498e",
+      "subject_node_id": "canon_problem_ec5ac165089c",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b3a774cc5b99",
+      "edge_id": "canon_edge_tests_31c077f77f6a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_235441_义务教育教科书·数学四年级下册_20260629\\enhanced_markdown\\sections\\006_整理与练习.md",
+          "section": {
+            "id": "s006",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "（2）直角三角形中，一个锐角是 53°，求另一个锐角的度数。"
+        }
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

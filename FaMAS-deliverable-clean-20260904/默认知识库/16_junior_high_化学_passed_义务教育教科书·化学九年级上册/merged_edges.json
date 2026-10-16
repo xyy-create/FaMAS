@@ -1,0 +1,3537 @@
+{
+  "schema_version": "kg.merged_edges.v1",
+  "run_id": "kg_义务教育教科书·化学九年级上册_20260702",
+  "edges": [
+    {
+      "edge_id": "canon_edge_contains_3fdecb74f332",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_f4f2ccc59eca",
+      "target_node_id": "canon_knowledgepoint_89a7bea42360",
+      "properties": {
+        "rationale": "Section defines physical change and provides experimental examples.",
+        "figures": [
+          {
+            "image_path": "images/page010_img001.jpg",
+            "name": "图1-1 水的沸腾",
+            "description": "实验装置示意图：试管中盛有液体，倾斜固定于铁架台上，底部用酒精灯加热；试管口上方移近一块玻璃片，有水蒸气遇冷凝结成水滴的示意箭头，显示水沸腾产生气体并在玻璃片上液化。",
+            "figure_id": "ipa_evidence_0db32cf88bc4"
+          },
+          {
+            "image_path": "images/page011_img001.jpg",
+            "name": "图1-2 胆矾的研碎",
+            "description": "研钵和研杵：一个研钵内盛有少量蓝色颗粒状固体（胆矾），一支研杵斜插入其中，示意正在或准备对固体进行研磨操作。",
+            "figure_id": "ipa_evidence_5be59f4769cb"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\001_课题1物质的变化和性质.md",
+            "section": {
+              "id": "s001",
+              "title": "课题1 物质的变化和性质"
+            },
+            "quote_or_summary": "这种没有生成其他物质的变化叫做物理变化。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s001_001_课题1物质的变化和性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "e_s001_kp_phys_change_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_7ad6a171996d",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_f4f2ccc59eca",
+      "target_node_id": "canon_knowledgepoint_0159c3f887f0",
+      "properties": {
+        "rationale": "Section defines chemical change and provides experimental examples.",
+        "figures": [
+          {
+            "image_path": "images/page011_img002.jpg",
+            "name": "图1-3石灰石与盐酸反应",
+            "description": "图中展示了一个化学实验装置：左侧是一个用铁架台固定的试管，试管内底部有固体颗粒，上方有少量液体，液体中有气泡产生；试管口用带导管的单孔塞密封，导管弯曲后伸入右侧烧杯的液体中。",
+            "figure_id": "ipa_evidence_0b0f9ee73256"
+          },
+          {
+            "image_path": "images/page012_img001.jpg",
+            "name": "图1-4化学反应中伴随发生的一些现象",
+            "description": "实验现象示意图：四幅并列图片：左一试管中橙黄色液体底部有沉淀；左二试管内螺旋状固体在液体中产生气泡；左三试管中蓝色液体与白色固体混合，底部有蓝色沉淀；右一为燃烧的火柴，火焰呈黄白色，火柴头有灰烬。",
+            "figure_id": "ipa_evidence_20bd45527e31"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\001_课题1物质的变化和性质.md",
+            "section": {
+              "id": "s001",
+              "title": "课题1 物质的变化和性质"
+            },
+            "quote_or_summary": "这种生成其他物质的变化叫做化学变化，又叫做化学反应。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s001_001_课题1物质的变化和性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "e_s001_kp_chem_change_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_fe18d95f6f13",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_f4f2ccc59eca",
+      "target_node_id": "canon_knowledgepoint_db8bb6729d11",
+      "properties": {
+        "rationale": "Section defines physical property and includes observation examples.",
+        "figures": [
+          {
+            "image_path": "images/page013_img002.jpg",
+            "name": "图1-5 闻气体时的正确操作",
+            "description": "男孩闻瓶中气体示意图：一名穿黄绿条纹上衣的男孩，左手持一个敞口玻璃瓶，右手在瓶口上方扇动，示意闻气体气味；瓶口无弧形线条表示气体流动。",
+            "figure_id": "ipa_evidence_8100c02a988e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\001_课题1物质的变化和性质.md",
+            "section": {
+              "id": "s001",
+              "title": "课题1 物质的变化和性质"
+            },
+            "quote_or_summary": "物质不需要发生化学变化就表现出来的性质叫做物理性质。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s001_001_课题1物质的变化和性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "e_s001_kp_phys_prop_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_df39371b2362",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_f4f2ccc59eca",
+      "target_node_id": "canon_knowledgepoint_822d9b178f65",
+      "properties": {
+        "rationale": "Section defines chemical property explicitly.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\001_课题1物质的变化和性质.md",
+            "section": {
+              "id": "s001",
+              "title": "课题1 物质的变化和性质"
+            },
+            "quote_or_summary": "我们将物质在化学变化中表现出来的性质叫做化学性质。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s001_001_课题1物质的变化和性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "e_s001_kp_chem_prop_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_f886cdafe1d8",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_99ac1a9b079c",
+      "target_node_id": "canon_knowledgepoint_89a7bea42360",
+      "properties": {
+        "rationale": "Exercise explicitly asks to identify physical changes among examples.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\001_课题1物质的变化和性质.md",
+            "section": {
+              "id": "s001",
+              "title": "课题1 物质的变化和性质"
+            },
+            "quote_or_summary": "下列事例哪些是物理变化，哪些是化学变化？并简要说明判断的理由。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s001_001_课题1物质的变化和性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "e_prob_exercise_1_kp_phys_change_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_5d155029669a",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_99ac1a9b079c",
+      "target_node_id": "canon_knowledgepoint_0159c3f887f0",
+      "properties": {
+        "rationale": "Exercise explicitly asks to identify chemical changes among examples.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\001_课题1物质的变化和性质.md",
+            "section": {
+              "id": "s001",
+              "title": "课题1 物质的变化和性质"
+            },
+            "quote_or_summary": "下列事例哪些是物理变化，哪些是化学变化？并简要说明判断的理由。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s001_001_课题1物质的变化和性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "e_prob_exercise_1_kp_chem_change_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_bb73082f0d85",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_89a7bea42360",
+      "target_node_id": "canon_substance_f34042b8d99c",
+      "properties": {
+        "rationale": "Water phase change cited as primary example of physical change.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\001_课题1物质的变化和性质.md",
+            "section": {
+              "id": "s001",
+              "title": "课题1 物质的变化和性质"
+            },
+            "quote_or_summary": "我们知道，水在一定条件下可以变成水蒸气或冰...都属于物理变化。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s001_001_课题1物质的变化和性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "e_kp_phys_change_sub_water_involves"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_has_property_31b70c23f0e5",
+      "predicate": "has_property",
+      "source_node_id": "canon_substance_f34042b8d99c",
+      "target_node_id": "canon_knowledgepoint_db8bb6729d11",
+      "properties": {
+        "rationale": "Table 1-1 lists water's physical properties like melting and boiling points.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\001_课题1物质的变化和性质.md",
+            "section": {
+              "id": "s001",
+              "title": "课题1 物质的变化和性质"
+            },
+            "quote_or_summary": "表1-1一些常见物质的物理性质（大气压强为101kPa）：水，无色液体，熔点0℃，沸点100℃"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s001_001_课题1物质的变化和性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "e_sub_water_kp_phys_prop_has_property"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_has_property_d2c17a42cb3f",
+      "predicate": "has_property",
+      "source_node_id": "canon_substance_cd441f499462",
+      "target_node_id": "canon_knowledgepoint_db8bb6729d11",
+      "properties": {
+        "rationale": "Table 1-1 lists oxygen's physical properties like melting and boiling points.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\001_课题1物质的变化和性质.md",
+            "section": {
+              "id": "s001",
+              "title": "课题1 物质的变化和性质"
+            },
+            "quote_or_summary": "表1-1一些常见物质的物理性质（大气压强为101kPa）：氧气，无色气体，熔点-218.4℃，沸点-182.9℃"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s001_001_课题1物质的变化和性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "e_sub_oxygen_kp_phys_prop_has_property"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_bb936c3c835e",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_60ca57ed2e0a",
+      "target_node_id": "canon_knowledgepoint_4cca79988a1f",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "节点共享同一源上下文ID，且文本明确定义安全规则属于该章节内容。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\003_课题3走进化学实验室.md",
+            "section": {
+              "id": "s003",
+              "title": "课题3 走进化学实验室"
+            },
+            "quote_or_summary": "（1）不能用手接触药品，不要把鼻孔凑到容器口闻药品（特别是气体）的气味，不得尝任何药品的味道。（2）注意节约药品。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_课题3走进化学实验室",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs001_kp001_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_68ecb595b7ad",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_60ca57ed2e0a",
+      "target_node_id": "canon_knowledgepoint_e62ef36c2006",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "节点共享同一源上下文ID，且文本明确定义酒精灯使用方法属于该章节内容。",
+        "figures": [
+          {
+            "image_path": "images/page024_img005.jpg",
+            "name": "图1-28 酒精灯的使用",
+            "description": "一幅酒精灯结构示意图：底部为宽底玻璃灯壶，内含液体燃料；中间为螺旋状灯芯，顶部为带灯芯孔的灯帽。",
+            "figure_id": "ipa_evidence_06c801bcc361"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\003_课题3走进化学实验室.md",
+            "section": {
+              "id": "s003",
+              "title": "课题3 走进化学实验室"
+            },
+            "quote_or_summary": "使用酒精灯时，要注意以下几点：（1）绝对禁止向燃着的酒精灯里添加酒精，以免失火;（2）绝对禁止用酒精灯引燃另一只酒精灯;"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_课题3走进化学实验室",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs001_kp002_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_05e4fa1318ba",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d57933c3638a",
+      "target_node_id": "canon_knowledgepoint_394bb9879c7b",
+      "properties": {
+        "rationale": "Section title and content describe the experiment of preparing oxygen using potassium permanganate.",
+        "figures": [
+          {
+            "image_path": "images/page049_img001.jpg",
+            "name": "图2-17 加热高锰酸钾制氧气",
+            "description": "实验装置示意图：左侧为加热部分，酒精灯火焰加热倾斜放置的试管；导管经弯管连接至右侧水槽中的集气瓶，采用排水法收集气体。",
+            "figure_id": "ipa_evidence_5212a24224fd"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\004_实验活动1氧气的实验室制取与性质.md",
+            "section": {
+              "id": "s004",
+              "title": "实验活动1氧气的实验室制取与性质"
+            },
+            "quote_or_summary": "在试管中装入少量高锰酸钾，并在试管口放一团棉花，用带有导管的橡胶塞塞紧管口"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_实验活动1氧气的实验室制取与性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_kp_kmnO4_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_a7e1ec14e157",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d57933c3638a",
+      "target_node_id": "canon_knowledgepoint_0f8ede9a25ae",
+      "properties": {
+        "rationale": "Section content describes the experiment of burning charcoal in oxygen.",
+        "figures": [
+          {
+            "image_path": "images/page050_img002.jpg",
+            "name": "图2-18 木炭在氧气中燃烧实验示意图",
+            "description": "实验步骤示意图：用坩埚钳夹取一小块木炭，在酒精灯上加热到发红，插入到盛有氧气的集气瓶中。",
+            "figure_id": "ipa_evidence_748cd267deb7"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\004_实验活动1氧气的实验室制取与性质.md",
+            "section": {
+              "id": "s004",
+              "title": "实验活动1氧气的实验室制取与性质"
+            },
+            "quote_or_summary": "用坩埚钳夹取一小块木炭，在酒精灯上加热到发红，插入到上面实验收集到的氧气中"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_实验活动1氧气的实验室制取与性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_kp_charcoal_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_636406ecaa17",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d57933c3638a",
+      "target_node_id": "canon_knowledgepoint_69010b6760c5",
+      "properties": {
+        "rationale": "Section content describes the experiment of burning iron wire in oxygen.",
+        "figures": [
+          {
+            "image_path": "images/page050_img003.jpg",
+            "name": "图2-19 铁丝在氧气中燃烧实验示意图",
+            "description": "铁丝在氧气中燃烧实验示意图：图示为铁丝在氧气中燃烧的实验操作，螺旋状铁丝被伸入瓶中并正在发光。",
+            "figure_id": "ipa_evidence_47f8b703c459"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\004_实验活动1氧气的实验室制取与性质.md",
+            "section": {
+              "id": "s004",
+              "title": "实验活动1氧气的实验室制取与性质"
+            },
+            "quote_or_summary": "点燃系在螺旋状细铁丝底端的火柴，待火柴快燃尽时，插入盛有氧气的集气瓶中"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_实验活动1氧气的实验室制取与性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_kp_iron_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_8777faaafeae",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_394bb9879c7b",
+      "target_node_id": "canon_substance_2fe1e51f9a6c",
+      "properties": {
+        "rationale": "Potassium permanganate is the reactant used in the preparation experiment.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\004_实验活动1氧气的实验室制取与性质.md",
+            "section": {
+              "id": "s004",
+              "title": "实验活动1氧气的实验室制取与性质"
+            },
+            "quote_or_summary": "高锰酸钾、木炭、澄清石灰水。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_实验活动1氧气的实验室制取与性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_kmnO4_sub_kmnO4_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_c00f82172e86",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_394bb9879c7b",
+      "target_node_id": "canon_substance_cd441f499462",
+      "properties": {
+        "rationale": "Oxygen is the product being prepared in this experiment.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\004_实验活动1氧气的实验室制取与性质.md",
+            "section": {
+              "id": "s004",
+              "title": "实验活动1氧气的实验室制取与性质"
+            },
+            "quote_or_summary": "学习实验室制取氧气的方法。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_实验活动1氧气的实验室制取与性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_kmnO4_sub_oxygen_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_7146930fa420",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_0f8ede9a25ae",
+      "target_node_id": "canon_substance_cd441f499462",
+      "properties": {
+        "rationale": "Charcoal burns in oxygen during this experiment.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\004_实验活动1氧气的实验室制取与性质.md",
+            "section": {
+              "id": "s004",
+              "title": "实验活动1氧气的实验室制取与性质"
+            },
+            "quote_or_summary": "插入到上面实验收集到的氧气中"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_实验活动1氧气的实验室制取与性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_charcoal_sub_oxygen_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_8ba9e9d68ffe",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_69010b6760c5",
+      "target_node_id": "canon_substance_cd441f499462",
+      "properties": {
+        "rationale": "Iron wire burns in oxygen during this experiment.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\004_实验活动1氧气的实验室制取与性质.md",
+            "section": {
+              "id": "s004",
+              "title": "实验活动1氧气的实验室制取与性质"
+            },
+            "quote_or_summary": "插入盛有氧气的集气瓶中"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_实验活动1氧气的实验室制取与性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_iron_sub_oxygen_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_e5cc05aa7e67",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_49afed2e9487",
+      "target_node_id": "canon_knowledgepoint_394bb9879c7b",
+      "properties": {
+        "rationale": "Question asks about checking airtightness of the apparatus used in KMnO4 preparation.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\004_实验活动1氧气的实验室制取与性质.md",
+            "section": {
+              "id": "s004",
+              "title": "实验活动1氧气的实验室制取与性质"
+            },
+            "quote_or_summary": "检验装置的气密性时，除了用手紧握的方法外，还可以用什么方法？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s004_004_实验活动1氧气的实验室制取与性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_q1_kp_kmnO4_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_ba3d405cd6c2",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_16fd180f8e95",
+      "target_node_id": "canon_knowledgepoint_394bb9879c7b",
+      "properties": {
+        "rationale": "Question asks about reasons for impure oxygen produced in the preparation experiment.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\004_实验活动1氧气的实验室制取与性质.md",
+            "section": {
+              "id": "s004",
+              "title": "实验活动1氧气的实验室制取与性质"
+            },
+            "quote_or_summary": "如果某同学制得的氧气不纯，你认为可能的原因有哪些。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s004_004_实验活动1氧气的实验室制取与性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_q2_kp_kmnO4_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_dbef794786ab",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_48e2050c6c21",
+      "target_node_id": "canon_knowledgepoint_f7715bd2811a",
+      "properties": {
+        "relation_label": "实验考察知识点",
+        "rationale": "实验3-1通过品红扩散现象直观展示分子运动，直接支撑分子概念的学习。",
+        "figures": [
+          {
+            "image_path": "images/page052_img001.jpg",
+            "name": "品红在水中扩散实验",
+            "description": "三联图展示品红在水中扩散过程：固体沉底、溶解扩散、均匀散布。",
+            "figure_id": "ipa_evidence_3952a6b0d07a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\005_第三单元物质构成的奥秘.md",
+            "section": {
+              "id": "s005",
+              "title": "第三单元物质构成的奥秘"
+            },
+            "quote_or_summary": "实验表明，品红在静置的水中会扩散。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s005_005_第三单元物质构成的奥秘",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_903b3e0a3ddd",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3b93e6a2676b",
+      "target_node_id": "canon_knowledgepoint_f7715bd2811a",
+      "properties": {
+        "relation_label": "探究实验考察知识点",
+        "rationale": "探究分子运动现象的实验直接验证分子不断运动的性质。",
+        "figures": [
+          {
+            "image_path": "images/page053_img004.jpg",
+            "name": "分子运动现象的实验",
+            "description": "大烧杯倒扣罩住两个小烧杯，A中盛粉红色液体，B中盛无色液体。",
+            "figure_id": "ipa_evidence_a461578ad50c"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\005_第三单元物质构成的奥秘.md",
+            "section": {
+              "id": "s005",
+              "title": "第三单元物质构成的奥秘"
+            },
+            "quote_or_summary": "微观粒子（如分子）总是在不断运动着。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_第三单元物质构成的奥秘",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_a77ecd1e5841",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_22121c8eae41",
+      "target_node_id": "canon_knowledgepoint_0159c3f887f0",
+      "properties": {
+        "relation_label": "讨论题考察知识点",
+        "rationale": "氢气与氯气反应的分析题用于辨析化学变化中分子与原子的变化。",
+        "figures": [
+          {
+            "image_path": "images/page055_img001.jpg",
+            "name": "氢气与氯气反应的示意图",
+            "description": "左侧为氢分子和氯分子，右侧为生成的氯化氢分子，展示分子分裂重组过程。",
+            "figure_id": "ipa_evidence_355ea39202a8"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\005_第三单元物质构成的奥秘.md",
+            "section": {
+              "id": "s005",
+              "title": "第三单元物质构成的奥秘"
+            },
+            "quote_or_summary": "由分子构成的物质在发生化学变化时，一种物质的分子会变成其他物质的分子。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s005_005_第三单元物质构成的奥秘",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_71a034e4a34d",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_22121c8eae41",
+      "target_node_id": "canon_knowledgepoint_a8841078acfd",
+      "properties": {
+        "relation_label": "讨论题考察知识点",
+        "rationale": "反应分析题要求推论原子在化学变化中的角色，考察原子概念。",
+        "figures": [
+          {
+            "image_path": "images/page055_img001.jpg",
+            "name": "氢气与氯气反应的示意图",
+            "description": "左侧为氢分子和氯分子，右侧为生成的氯化氢分子，展示分子分裂重组过程。",
+            "figure_id": "ipa_evidence_355ea39202a8"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\005_第三单元物质构成的奥秘.md",
+            "section": {
+              "id": "s005",
+              "title": "第三单元物质构成的奥秘"
+            },
+            "quote_or_summary": "在化学变化中，原子不能再分，它是化学变化的最小粒子。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s005_005_第三单元物质构成的奥秘",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_0cb8f2848192",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_99583a5c912d",
+      "target_node_id": "canon_knowledgepoint_0159c3f887f0",
+      "properties": {
+        "relation_label": "选择题考察知识点",
+        "rationale": "选择题选项涉及化学反应前后原子种类不变，考察化学变化本质。",
+        "figures": [
+          {
+            "image_path": "images/page056_img001.jpg",
+            "name": "化学反应示意图",
+            "description": "蓝色双原子分子与粉色双原子分子反应生成蓝粉结合的双原子分子。",
+            "figure_id": "ipa_evidence_8dd269a06548"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\005_第三单元物质构成的奥秘.md",
+            "section": {
+              "id": "s005",
+              "title": "第三单元物质构成的奥秘"
+            },
+            "quote_or_summary": "化学反应前后原子的种类不变"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s005_005_第三单元物质构成的奥秘",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_cedc6cb7b6b9",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_99583a5c912d",
+      "target_node_id": "canon_knowledgepoint_f7715bd2811a",
+      "properties": {
+        "relation_label": "选择题考察知识点",
+        "rationale": "选择题选项涉及分子在化学变化中是否可分，考察分子概念。",
+        "figures": [
+          {
+            "image_path": "images/page056_img001.jpg",
+            "name": "化学反应示意图",
+            "description": "蓝色双原子分子与粉色双原子分子反应生成蓝粉结合的双原子分子。",
+            "figure_id": "ipa_evidence_8dd269a06548"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\005_第三单元物质构成的奥秘.md",
+            "section": {
+              "id": "s005",
+              "title": "第三单元物质构成的奥秘"
+            },
+            "quote_or_summary": "分子在化学变化中不可分"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s005_005_第三单元物质构成的奥秘",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_222cf9ee5b08",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_0159c3f887f0",
+      "target_node_id": "canon_knowledgepoint_f7715bd2811a",
+      "properties": {
+        "relation_label": "前置依赖关系",
+        "rationale": "化学变化定义依赖于分子概念，需先理解分子才能理解化学变化。",
+        "figures": [
+          {
+            "image_path": "images/page055_img001.jpg",
+            "name": "氢气与氯气反应的示意图",
+            "description": "左侧为氢分子和氯分子，右侧为生成的氯化氢分子，展示分子分裂重组过程。",
+            "figure_id": "ipa_evidence_355ea39202a8"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\005_第三单元物质构成的奥秘.md",
+            "section": {
+              "id": "s005",
+              "title": "第三单元物质构成的奥秘"
+            },
+            "quote_or_summary": "构成物质的分子是保持该物质化学性质的最小粒子。"
+          }
+        ],
+        "confidence": 0.8
+      },
+      "source_context_id": "s005_005_第三单元物质构成的奥秘",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_0a30fca69072",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_0159c3f887f0",
+      "target_node_id": "canon_knowledgepoint_a8841078acfd",
+      "properties": {
+        "relation_label": "前置依赖关系",
+        "rationale": "化学变化机制解释依赖于原子概念，分子分解为原子是核心过程。",
+        "figures": [
+          {
+            "image_path": "images/page055_img001.jpg",
+            "name": "氢气与氯气反应的示意图",
+            "description": "左侧为氢分子和氯分子，右侧为生成的氯化氢分子，展示分子分裂重组过程。",
+            "figure_id": "ipa_evidence_355ea39202a8"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\005_第三单元物质构成的奥秘.md",
+            "section": {
+              "id": "s005",
+              "title": "第三单元物质构成的奥秘"
+            },
+            "quote_or_summary": "原子是化学变化中的最小粒子。"
+          }
+        ],
+        "confidence": 0.8
+      },
+      "source_context_id": "s005_005_第三单元物质构成的奥秘",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_008"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_0202e31205f0",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_89a7bea42360",
+      "target_node_id": "canon_knowledgepoint_f7715bd2811a",
+      "properties": {
+        "relation_label": "前置依赖关系",
+        "rationale": "物理变化定义基于分子是否改变，需以分子概念为基础。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\005_第三单元物质构成的奥秘.md",
+            "section": {
+              "id": "s005",
+              "title": "第三单元物质构成的奥秘"
+            },
+            "quote_or_summary": "水在蒸发时，它只是由液态变成了气态，而水分子没有变成其他分子"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s005_005_第三单元物质构成的奥秘",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_009"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c6c0fc2dae1b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9cdac2df3f68",
+      "target_node_id": "canon_knowledgepoint_e0f5f5b02269",
+      "properties": {
+        "rationale": "Section title and content define 'Atomic Structure' knowledge point.",
+        "figures": [
+          {
+            "image_path": "images/page057_img002.jpg",
+            "name": "图3-9 原子的构成示意图",
+            "description": "原子由中心的原子核和核外电子构成。原子核由带正电的质子和不带电的中子构成。",
+            "figure_id": "ipa_evidence_f9ad3315353a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\006_课题2原子的结构.md",
+            "section": {
+              "id": "s006",
+              "title": "课题2 原子的结构"
+            },
+            "quote_or_summary": "科学实验证明，原子是由居于原子中心的原子核与核外电子构成的。原子核是由质子和中子构成的。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_课题2原子的结构",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s006_contains_kp001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_5dd06bcb40dc",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9cdac2df3f68",
+      "target_node_id": "canon_knowledgepoint_7682680c1bda",
+      "properties": {
+        "rationale": "Section content defines 'Electron Configuration' knowledge point.",
+        "figures": [
+          {
+            "image_path": "images/page058_img001.jpg",
+            "name": "图3-10 核外电子分层排布示意图",
+            "description": "氧原子的结构示意图，中心为原子核，周围有三层不同颜色的同心区域表示电子层。",
+            "figure_id": "ipa_evidence_52507685e30a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\006_课题2原子的结构.md",
+            "section": {
+              "id": "s006",
+              "title": "课题2 原子的结构"
+            },
+            "quote_or_summary": "科学研究表明，在含有多个电子的原子中，核外电子具有不同的运动状态，离核近的电子能量较低。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_课题2原子的结构",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s006_contains_kp002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_e0d4f5c2245f",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9cdac2df3f68",
+      "target_node_id": "canon_knowledgepoint_2d4c8bf30706",
+      "properties": {
+        "rationale": "Section content defines 'Ion' knowledge point via sodium-chlorine reaction example.",
+        "figures": [
+          {
+            "image_path": "images/page059_img001.jpg",
+            "name": "图3-13 钠与氯气反应生成氯化钠的示意图",
+            "description": "卡通形象展示钠原子失去一个电子，氯原子捕获该电子以形成稳定结构，变为钠离子和氯离子。",
+            "figure_id": "ipa_evidence_010a93d9eebb"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\006_课题2原子的结构.md",
+            "section": {
+              "id": "s006",
+              "title": "课题2 原子的结构"
+            },
+            "quote_or_summary": "这种带电的原子叫做离子。带正电的原子叫做阳离子，如钠离子；带负电的原子叫做阴离子，如氯离子。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_课题2原子的结构",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s006_contains_kp003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_21a50854bd1c",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9cdac2df3f68",
+      "target_node_id": "canon_knowledgepoint_bd300d886df0",
+      "properties": {
+        "rationale": "Section content defines 'Relative Atomic Mass' knowledge point.",
+        "figures": [
+          {
+            "image_path": "images/page060_img001.jpg",
+            "name": "图3-14 原子的质量很小，通常使用其相对质量",
+            "description": "天平托盘内有12个标有H的蓝色球体与1个标有C的灰色球体平衡，说明相对原子质量标准。",
+            "figure_id": "ipa_evidence_2bcc996b70a5"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\006_课题2原子的结构.md",
+            "section": {
+              "id": "s006",
+              "title": "课题2 原子的结构"
+            },
+            "quote_or_summary": "国际上一致同意采用相对质量，即以一种碳原子的质量的1/12为标准，其他原子的质量与它相比较所得到的比。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_课题2原子的结构",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s006_contains_kp004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_57266b9376a2",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9cdac2df3f68",
+      "target_node_id": "canon_knowledgepoint_d518a860a936",
+      "properties": {
+        "rationale": "Section content defines 'Element' knowledge point.",
+        "figures": [
+          {
+            "image_path": "images/page065_img001.jpg",
+            "name": "图3-18 多种多样的物质及其组成",
+            "description": "图示元素、分子、原子、离子之间的构成关系，显示元素组成物质。",
+            "figure_id": "ipa_evidence_7aef7fe3c2c7"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\006_课题2原子的结构.md",
+            "section": {
+              "id": "s006",
+              "title": "课题2 原子的结构"
+            },
+            "quote_or_summary": "化学上将质子数（即核电荷数）为8的所有氧原子统称为氧元素。可见，元素是质子数相同的一类原子的总称。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_课题2原子的结构",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s006_contains_kp005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_00117f7434a0",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9cdac2df3f68",
+      "target_node_id": "canon_knowledgepoint_cbcfc0d33f80",
+      "properties": {
+        "rationale": "Section content defines 'Element Symbol' knowledge point.",
+        "figures": [
+          {
+            "image_path": "images/page065_img002.jpg",
+            "name": "图3-19 氧元素符号表示什么",
+            "description": "氧元素符号示意图，左侧男孩说1个氧原子，右侧女孩说氧元素。",
+            "figure_id": "ipa_evidence_9b79d65465f2"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\006_课题2原子的结构.md",
+            "section": {
+              "id": "s006",
+              "title": "课题2 原子的结构"
+            },
+            "quote_or_summary": "国际上统一采用元素拉丁文名称的第一个字母（大写）来表示元素，如氢元素的符号为H，氧元素的符号为O。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_课题2原子的结构",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s006_contains_kp006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_f452ccaf4894",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9cdac2df3f68",
+      "target_node_id": "canon_knowledgepoint_2dd27bcaefbc",
+      "properties": {
+        "rationale": "Section content defines 'Periodic Table' knowledge point.",
+        "figures": [
+          {
+            "image_path": "images/page069_img002.jpg",
+            "name": "元素周期表",
+            "description": "元素周期表分类示意图，用于学习和研究化学的重要工具。",
+            "figure_id": "ipa_evidence_1443702f70cb"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\006_课题2原子的结构.md",
+            "section": {
+              "id": "s006",
+              "title": "课题2 原子的结构"
+            },
+            "quote_or_summary": "科学家根据元素的原子结构和性质，把它们科学有序地排列起来，这样就得到了元素周期表。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_课题2原子的结构",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s006_contains_kp007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_f236eaec8f8c",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_e0f5f5b02269",
+      "target_node_id": "canon_knowledgepoint_7682680c1bda",
+      "properties": {
+        "rationale": "Electron configuration explanation builds directly upon atomic structure concepts.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\006_课题2原子的结构.md",
+            "section": {
+              "id": "s006",
+              "title": "课题2 原子的结构"
+            },
+            "quote_or_summary": "与原子相比，原子核的体积更小... 因此，原子核外有很大的空间，电子就在这个空间里作高速的运动。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s006_006_课题2原子的结构",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s006_requires_kp001_to_kp002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_757a0b4662b1",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_e0f5f5b02269",
+      "target_node_id": "canon_knowledgepoint_d518a860a936",
+      "properties": {
+        "rationale": "Understanding elements follows understanding atomic structure in the text progression.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\006_课题2原子的结构.md",
+            "section": {
+              "id": "s006",
+              "title": "课题2 原子的结构"
+            },
+            "quote_or_summary": "在人们认识了原子和原子的结构之后，对组成万物的基本物质有了进一步的理解。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s006_006_课题2原子的结构",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s006_requires_kp001_to_kp005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_598ab35ba9e7",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_eecf64a8d265",
+      "target_node_id": "canon_knowledgepoint_8f60aa5640d1",
+      "properties": {
+        "rationale": "Section header includes topic title.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\007_第四单元自然界的水.md",
+            "section": {
+              "id": "s007",
+              "title": "第四单元自然界的水"
+            },
+            "quote_or_summary": "# 第四单元自然界的水\\n\\n课题1 爱护水资源"
+          }
+        ]
+      },
+      "source_context_id": "s007_007_第四单元自然界的水",
+      "revision_round": "1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s007_kp_topic1_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_b31521c13a80",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_eecf64a8d265",
+      "target_node_id": "canon_knowledgepoint_e437ed38233f",
+      "properties": {
+        "rationale": "Section header includes topic title.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\007_第四单元自然界的水.md",
+            "section": {
+              "id": "s007",
+              "title": "第四单元自然界的水"
+            },
+            "quote_or_summary": "课题2 水的净化"
+          }
+        ]
+      },
+      "source_context_id": "s007_007_第四单元自然界的水",
+      "revision_round": "1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s007_kp_topic2_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_d5c1a68f07f6",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_eecf64a8d265",
+      "target_node_id": "canon_knowledgepoint_a08163889ae3",
+      "properties": {
+        "rationale": "Section header includes topic title.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\007_第四单元自然界的水.md",
+            "section": {
+              "id": "s007",
+              "title": "第四单元自然界的水"
+            },
+            "quote_or_summary": "课题3 水的组成"
+          }
+        ]
+      },
+      "source_context_id": "s007_007_第四单元自然界的水",
+      "revision_round": "1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s007_kp_topic3_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_9479ffbcb3fe",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_eecf64a8d265",
+      "target_node_id": "canon_knowledgepoint_45d2eb27a5e1",
+      "properties": {
+        "rationale": "Section header includes topic title.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\007_第四单元自然界的水.md",
+            "section": {
+              "id": "s007",
+              "title": "第四单元自然界的水"
+            },
+            "quote_or_summary": "课题4 化学式与化合价"
+          }
+        ]
+      },
+      "source_context_id": "s007_007_第四单元自然界的水",
+      "revision_round": "1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s007_kp_topic4_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_7613e66802d1",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_e437ed38233f",
+      "target_node_id": "canon_substance_f34042b8d99c",
+      "properties": {
+        "rationale": "Topic title 'Water Purification' explicitly references water.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\007_第四单元自然界的水.md",
+            "section": {
+              "id": "s007",
+              "title": "第四单元自然界的水"
+            },
+            "quote_or_summary": "课题2 水的净化"
+          }
+        ]
+      },
+      "source_context_id": "s007_007_第四单元自然界的水",
+      "revision_round": "1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_topic2_sub_water_involves"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_217161d5c8c2",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_a08163889ae3",
+      "target_node_id": "canon_substance_f34042b8d99c",
+      "properties": {
+        "rationale": "Topic title 'Water Composition' defines water; image shows water molecules.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\007_第四单元自然界的水.md",
+            "section": {
+              "id": "s007",
+              "title": "第四单元自然界的水"
+            },
+            "quote_or_summary": "课题3 水的组成"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page071_img001.jpg",
+            "name": "水分子在水中运动示意图",
+            "description": "蓝色背景中显示水体表面及内部，有多个水分子模型（一个橙色大球连接两个白色小球）悬浮于水中，周围伴有大量气泡和水波纹，表现水分子在液态水中运动并产生气泡的场景。",
+            "figure_id": "ipa_evidence_2f932f63a09b"
+          }
+        ]
+      },
+      "source_context_id": "s007_007_第四单元自然界的水",
+      "revision_round": "1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_topic3_sub_water_involves"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_5de6d25e6b00",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ad8964e20876",
+      "target_node_id": "canon_knowledgepoint_7b4abce2a7f2",
+      "properties": {
+        "rationale": "Section title and content explicitly define water composition through experiments.",
+        "figures": [
+          {
+            "image_path": "images/page085_img001.jpg",
+            "name": "水分子分解示意图",
+            "description": "水分子分解为氢气和氧气的微观过程示意图",
+            "figure_id": "ipa_evidence_b951d69d781a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\010_课题3水的组成.md",
+            "section": {
+              "id": "s010",
+              "title": "课题3水的组成"
+            },
+            "quote_or_summary": "根据精确的实验测定，每个水分子是由2个氢原子和1个氧原子构成的"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_010_课题3水的组成",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_s010_kp_water"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_3b6676921fbc",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_7b4abce2a7f2",
+      "target_node_id": "canon_substance_f34042b8d99c",
+      "properties": {
+        "rationale": "Knowledge point explicitly states water is composed of hydrogen and oxygen elements.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\010_课题3水的组成.md",
+            "section": {
+              "id": "s010",
+              "title": "课题3水的组成"
+            },
+            "quote_or_summary": "水是由氢元素和氧元素组成的"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_010_课题3水的组成",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_involves_substance_kp_water_sub_water"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_ecc0be812bc3",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ad8964e20876",
+      "target_node_id": "canon_knowledgepoint_aaa24b3dfcf6",
+      "properties": {
+        "rationale": "Section defines single substance (单质) as pure substance composed of same element.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\010_课题3水的组成.md",
+            "section": {
+              "id": "s010",
+              "title": "课题3水的组成"
+            },
+            "quote_or_summary": "由同种元素组成的纯净物叫做单质"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_010_课题3水的组成",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_s010_kp_element"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_ce8aa5242e71",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ad8964e20876",
+      "target_node_id": "canon_knowledgepoint_24cc6b452bc5",
+      "properties": {
+        "rationale": "Section defines compound (化合物) as pure substance containing different elements.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\010_课题3水的组成.md",
+            "section": {
+              "id": "s010",
+              "title": "课题3水的组成"
+            },
+            "quote_or_summary": "这种组成中含有不同种元素的纯净物叫做化合物"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_010_课题3水的组成",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_s010_kp_compound"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_930ccc6ba633",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ad8964e20876",
+      "target_node_id": "canon_knowledgepoint_d30ecbf3c3e2",
+      "properties": {
+        "rationale": "Section defines oxide (氧化物) as compound with two elements including oxygen.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\010_课题3水的组成.md",
+            "section": {
+              "id": "s010",
+              "title": "课题3水的组成"
+            },
+            "quote_or_summary": "由两种元素组成的化合物中，其中一种元素是氧元素的叫做氧化物"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_010_课题3水的组成",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_s010_kp_oxide"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_b2f0d60fe6e2",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_fb54cd29cb36",
+      "target_node_id": "canon_knowledgepoint_7b4abce2a7f2",
+      "properties": {
+        "rationale": "Exercise asks about gas produced in electrolysis proving water composition.",
+        "figures": [
+          {
+            "image_path": "images/page084_img003.jpg",
+            "name": "电解水实验装置",
+            "description": "电解水实验装置，包含带活塞的玻璃管、中央加液漏斗、铁架台固定结构",
+            "figure_id": "ipa_evidence_16d3ab606a9a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\010_课题3水的组成.md",
+            "section": {
+              "id": "s010",
+              "title": "课题3水的组成"
+            },
+            "quote_or_summary": "在电解水的实验中，两电极相连的玻璃管上方产生的气体是 和二者的体积比约为"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s010_010_课题3水的组成",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob2_kp_water"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_bb90caf6ba37",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_a66e5e85ec17",
+      "target_node_id": "canon_knowledgepoint_aaa24b3dfcf6",
+      "properties": {
+        "rationale": "Exercise requires identifying single substances using atomic diagrams.",
+        "figures": [
+          {
+            "image_path": "images/page086_img005.jpg",
+            "name": "微观示意图 C",
+            "description": "多个由两个黑色实心圆球组成的双原子分子",
+            "figure_id": "ipa_evidence_12f4d2d9caac"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\010_课题3水的组成.md",
+            "section": {
+              "id": "s010",
+              "title": "课题3水的组成"
+            },
+            "quote_or_summary": "下列各图中●和○分别表示不同元素的原子，则其中表示混合物的是表示纯净物的是，表示单质的是"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s010_010_课题3水的组成",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob3_kp_element"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_f02b13fd6bca",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_a66e5e85ec17",
+      "target_node_id": "canon_knowledgepoint_24cc6b452bc5",
+      "properties": {
+        "rationale": "Exercise requires identifying compounds using atomic diagrams.",
+        "figures": [
+          {
+            "image_path": "images/page086_img003.jpg",
+            "name": "微观示意图 A",
+            "description": "多个由一个黑球和一个白球构成的分子",
+            "figure_id": "ipa_evidence_55a27f9af190"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\010_课题3水的组成.md",
+            "section": {
+              "id": "s010",
+              "title": "课题3水的组成"
+            },
+            "quote_or_summary": "下列各图中●和○分别表示不同元素的原子，则其中表示混合物的是表示纯净物的是，表示单质的是，表示化合物的是"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s010_010_课题3水的组成",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob3_kp_compound"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_37f94eb0d31f",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_5edae711af3f",
+      "target_node_id": "canon_knowledgepoint_a7d0c28ca4d3",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\011_课题4化学式与化合价.md",
+            "section": {
+              "id": "s011",
+              "title": "课题4 化学式与化合价"
+            },
+            "quote_or_summary": "这种用元素符号和数字的组合表示物质组成的式子，叫做化学式"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header and explicit definition text establish the knowledge point."
+      },
+      "source_context_id": "s011_011_课题4化学式与化合价",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_contains_chem_formula_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_5f9d88d028b8",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_5edae711af3f",
+      "target_node_id": "canon_knowledgepoint_4bfd216cce38",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\011_课题4化学式与化合价.md",
+            "section": {
+              "id": "s011",
+              "title": "课题4 化学式与化合价"
+            },
+            "quote_or_summary": "元素的化合价有正、有负，在化合物里，正、负化合价的代数和为零"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header and explicit definition text establish the knowledge point."
+      },
+      "source_context_id": "s011_011_课题4化学式与化合价",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_contains_valence_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_d21e4ce86b08",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_5edae711af3f",
+      "target_node_id": "canon_knowledgepoint_11634a71def4",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\011_课题4化学式与化合价.md",
+            "section": {
+              "id": "s011",
+              "title": "课题4 化学式与化合价"
+            },
+            "quote_or_summary": "化学式中各原子的相对原子质量的总和，就是相对分子质量"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header and explicit definition text establish the knowledge point."
+      },
+      "source_context_id": "s011_011_课题4化学式与化合价",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_contains_molar_mass_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_8261cf39039f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_8f5f779fa466",
+      "target_node_id": "canon_knowledgepoint_4bfd216cce38",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\011_课题4化学式与化合价.md",
+            "section": {
+              "id": "s011",
+              "title": "课题4 化学式与化合价"
+            },
+            "quote_or_summary": "已知磷的某种氧化物中磷为 +5 价，氧为 -2 价"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem explicitly requires applying valence rules to solve."
+      },
+      "source_context_id": "s011_011_课题4化学式与化合价",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_prob_tests_valence_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_ddff97ed0467",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_8f5f779fa466",
+      "target_node_id": "canon_knowledgepoint_a7d0c28ca4d3",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\011_课题4化学式与化合价.md",
+            "section": {
+              "id": "s011",
+              "title": "课题4 化学式与化合价"
+            },
+            "quote_or_summary": "写出这种磷的氧化物的化学式"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem explicitly requires writing a chemical formula."
+      },
+      "source_context_id": "s011_011_课题4化学式与化合价",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_prob_tests_chem_formula_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_412b51d114c4",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_a7d0c28ca4d3",
+      "target_node_id": "canon_knowledgepoint_4bfd216cce38",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\011_课题4化学式与化合价.md",
+            "section": {
+              "id": "s011",
+              "title": "课题4 化学式与化合价"
+            },
+            "quote_or_summary": "知道了元素的化合价，可以根据成分元素的化合价推求实际存在的化合物中元素原子的个数比，从而写出化合物的化学式"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Text states valence is used to deduce atomic ratios for writing chemical formulas."
+      },
+      "source_context_id": "s011_011_课题4化学式与化合价",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_kp_chem_formula_requires_valence_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c0ffd85f74d7",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_6b05d811ae42",
+      "target_node_id": "canon_knowledgepoint_aaa24b3dfcf6",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section '单元小结' defines and lists '单质' as a core concept.",
+        "figures": [
+          {
+            "image_path": "images/page094_img002.jpg",
+            "name": "物质分类关系图",
+            "description": "原子 \\longrightarrow 分子 \\begin{cases} \\text{单质分子（由同种元素的原子构成）} \\\\ \\text{化合物分子（由不同种元素的原子构成）} \\end{cases}",
+            "figure_id": "ipa_evidence_a399af80b56c"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\012_单元小结.md",
+            "section": {
+              "id": "s012",
+              "title": "单元小结"
+            },
+            "quote_or_summary": "2．有关概念之间的联系"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s012_012_单元小结",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s012_contains_kp001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_b5fa69edd2e7",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_6b05d811ae42",
+      "target_node_id": "canon_knowledgepoint_24cc6b452bc5",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section '单元小结' defines and lists '化合物' as a core concept.",
+        "figures": [
+          {
+            "image_path": "images/page094_img002.jpg",
+            "name": "物质分类关系图",
+            "description": "原子 \\longrightarrow 分子 \\begin{cases} \\text{单质分子（由同种元素的原子构成）} \\\\ \\text{化合物分子（由不同种元素的原子构成）} \\end{cases}",
+            "figure_id": "ipa_evidence_a399af80b56c"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\012_单元小结.md",
+            "section": {
+              "id": "s012",
+              "title": "单元小结"
+            },
+            "quote_or_summary": "2．有关概念之间的联系"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s012_012_单元小结",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s012_contains_kp002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c3adfd03ec14",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_6b05d811ae42",
+      "target_node_id": "canon_knowledgepoint_2b59fd3175e7",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section '单元小结' defines and lists '纯净物' as a core concept.",
+        "figures": [
+          {
+            "image_path": "images/page094_img002.jpg",
+            "name": "物质分类关系图",
+            "description": "物质 \\begin{cases} \\text{混合物} \\\\ \\text{纯净物} \\begin{cases} \\text{单质} \\\\ \\text{化合物} \\end{cases} \\end{cases}",
+            "figure_id": "ipa_evidence_a399af80b56c"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\012_单元小结.md",
+            "section": {
+              "id": "s012",
+              "title": "单元小结"
+            },
+            "quote_or_summary": "2．有关概念之间的联系"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s012_012_单元小结",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s012_contains_kp003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_6a63c4a4b144",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_6b05d811ae42",
+      "target_node_id": "canon_knowledgepoint_b7fc9679514f",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section '单元小结' defines and lists '混合物' as a core concept.",
+        "figures": [
+          {
+            "image_path": "images/page094_img002.jpg",
+            "name": "物质分类关系图",
+            "description": "物质 \\begin{cases} \\text{混合物} \\\\ \\text{纯净物} \\begin{cases} \\text{单质} \\\\ \\text{化合物} \\end{cases} \\end{cases}",
+            "figure_id": "ipa_evidence_a399af80b56c"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\012_单元小结.md",
+            "section": {
+              "id": "s012",
+              "title": "单元小结"
+            },
+            "quote_or_summary": "2．有关概念之间的联系"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s012_012_单元小结",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s012_contains_kp004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_f038c35b03ac",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_6b05d811ae42",
+      "target_node_id": "canon_knowledgepoint_d518a860a936",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section '单元小结' defines and lists '元素' as a core concept.",
+        "figures": [
+          {
+            "image_path": "images/page094_img002.jpg",
+            "name": "物质分类关系图",
+            "description": "单质 \\longleftarrow 同种元素组成 \\\\ 化合物 \\longleftarrow 不同种元素组成",
+            "figure_id": "ipa_evidence_a399af80b56c"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\012_单元小结.md",
+            "section": {
+              "id": "s012",
+              "title": "单元小结"
+            },
+            "quote_or_summary": "2．有关概念之间的联系"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s012_012_单元小结",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s012_contains_kp005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_430b17f355a1",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_6b05d811ae42",
+      "target_node_id": "canon_knowledgepoint_336bf085f869",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section '单元小结' defines and lists '水' as a core concept.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\012_单元小结.md",
+            "section": {
+              "id": "s012",
+              "title": "单元小结"
+            },
+            "quote_or_summary": "水由 和 两种元素组成"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s012_012_单元小结",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s012_contains_kp006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_9f356c5c6b98",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_ac78545a7e50",
+      "target_node_id": "canon_knowledgepoint_336bf085f869",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem asks about water resources and composition, testing knowledge of '水'.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\012_单元小结.md",
+            "section": {
+              "id": "s012",
+              "title": "单元小结"
+            },
+            "quote_or_summary": "1．说地球上水资源丰富，是因为 ；说水资源宝贵，是因为 。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s012_012_单元小结",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s012_tests_kp006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_d9b6c0e62176",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_aaa24b3dfcf6",
+      "target_node_id": "canon_knowledgepoint_d518a860a936",
+      "properties": {
+        "relation_label": "前置依赖",
+        "rationale": "Definition of '单质' relies on understanding '元素' (same element composition).",
+        "figures": [
+          {
+            "image_path": "images/page094_img002.jpg",
+            "name": "物质分类关系图",
+            "description": "单质 \\longleftarrow 同种元素组成",
+            "figure_id": "ipa_evidence_a399af80b56c"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\012_单元小结.md",
+            "section": {
+              "id": "s012",
+              "title": "单元小结"
+            },
+            "quote_or_summary": "2．有关概念之间的联系"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s012_012_单元小结",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp001_requires_kp005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_bda154d8d6ea",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_24cc6b452bc5",
+      "target_node_id": "canon_knowledgepoint_d518a860a936",
+      "properties": {
+        "relation_label": "前置依赖",
+        "rationale": "Definition of '化合物' relies on understanding '元素' (different element composition).",
+        "figures": [
+          {
+            "image_path": "images/page094_img002.jpg",
+            "name": "物质分类关系图",
+            "description": "化合物 \\longleftarrow 不同种元素组成",
+            "figure_id": "ipa_evidence_a399af80b56c"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\012_单元小结.md",
+            "section": {
+              "id": "s012",
+              "title": "单元小结"
+            },
+            "quote_or_summary": "2．有关概念之间的联系"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s012_012_单元小结",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp002_requires_kp005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_82393c8d36cf",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d32ca758ab18",
+      "target_node_id": "canon_knowledgepoint_109a3948c3cf",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\014_课题2如何正确书写化学方程式.md",
+            "section": {
+              "id": "s014",
+              "title": "课题2 如何正确书写化学方程式"
+            },
+            "quote_or_summary": "化学方程式反映化学反应的客观事实。因此，书写化学方程式要遵守两个原则：一是要以客观事实为基础；二是要遵守质量守恒定律。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header and opening paragraph define the core principles of chemical equations."
+      },
+      "source_context_id": "s014_014_课题2如何正确书写化学方程式",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_sec_kp_def_principle"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_76328d421fc6",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d32ca758ab18",
+      "target_node_id": "canon_knowledgepoint_498ce88f7dc1",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\014_课题2如何正确书写化学方程式.md",
+            "section": {
+              "id": "s014",
+              "title": "课题2 如何正确书写化学方程式"
+            },
+            "quote_or_summary": "1．根据实验事实，在式子的左、右两边写出反应物和生成物的化学式，并在式子左、右两边之间画一条短线。2.配平化学方程式。3．注明化学反应发生的条件，把短线改成等号。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section explicitly lists the three steps for writing chemical equations.",
+        "figures": [
+          {
+            "image_path": "images/page104_img002.jpg",
+            "name": "书写步骤示意图",
+            "description": "左边写反应物化学式，右边写生成物化学式；配平；标明条件。",
+            "figure_id": "ipa_evidence_b45a9ce68adc"
+          }
+        ]
+      },
+      "source_context_id": "s014_014_课题2如何正确书写化学方程式",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_sec_kp_steps"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_8d699cc78ee0",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d32ca758ab18",
+      "target_node_id": "canon_knowledgepoint_f3e0cf61f486",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\014_课题2如何正确书写化学方程式.md",
+            "section": {
+              "id": "s014",
+              "title": "课题2 如何正确书写化学方程式"
+            },
+            "quote_or_summary": "在这个式子中，右边的氧原子数少于左边的，这时为使式子两边每一种元素原子的总数相等，就需要配平，即在式子两边的化学式前面配上适当的化学计量数。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section defines balancing as equalizing atom counts using coefficients.",
+        "figures": [
+          {
+            "image_path": "images/page103_img003.jpg",
+            "name": "天平配平示意图",
+            "description": "一个不平衡的天平：左盘有3个卡通人物，右盘有4个卡通人物；天平向左倾斜，表示左盘重于右盘。",
+            "figure_id": "ipa_evidence_0fe5174c7600"
+          },
+          {
+            "image_path": "images/page104_img001.jpg",
+            "name": "天平平衡示意图",
+            "description": "一个卡通风格的天平处于平衡状态，左右托盘上各站着多个拟人化小人；上方对话框文字为“现在我们平衡啦！”。",
+            "figure_id": "ipa_evidence_4842a513a1a1"
+          }
+        ]
+      },
+      "source_context_id": "s014_014_课题2如何正确书写化学方程式",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_sec_kp_balancing"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_4fc7ed8f67ac",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d32ca758ab18",
+      "target_node_id": "canon_knowledgepoint_06d4ce61ae97",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\014_课题2如何正确书写化学方程式.md",
+            "section": {
+              "id": "s014",
+              "title": "课题2 如何正确书写化学方程式"
+            },
+            "quote_or_summary": "配平化学方程式的方法很多，在这里使用了比较简单、常用的方法最小公倍数法。例如，式子左边的氧原子数是2，右边的氧原子数是5，两数的最小公倍数是10。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section introduces Least Common Multiple method as a common balancing technique."
+      },
+      "source_context_id": "s014_014_课题2如何正确书写化学方程式",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_sec_kp_lcm_method"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_63165f5690be",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_13f3b284549c",
+      "target_node_id": "canon_knowledgepoint_498ce88f7dc1",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\014_课题2如何正确书写化学方程式.md",
+            "section": {
+              "id": "s014",
+              "title": "课题2 如何正确书写化学方程式"
+            },
+            "quote_or_summary": "写出铁在氧气中燃烧生成四氧化三铁的化学方程式（注意配平）。"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem requires writing and balancing, testing the procedural steps."
+      },
+      "source_context_id": "s014_014_课题2如何正确书写化学方程式",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_kp_steps"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_2414344c9787",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_498ce88f7dc1",
+      "target_node_id": "canon_knowledgepoint_109a3948c3cf",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\014_课题2如何正确书写化学方程式.md",
+            "section": {
+              "id": "s014",
+              "title": "课题2 如何正确书写化学方程式"
+            },
+            "quote_or_summary": "书写化学方程式要遵守两个原则：一是要以客观事实为基础；二是要遵守质量守恒定律。"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Writing steps depend on adhering to the fundamental principles of chemical equations."
+      },
+      "source_context_id": "s014_014_课题2如何正确书写化学方程式",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_steps_requires_kp_def_principle"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_a7e6857e2d79",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_06d4ce61ae97",
+      "target_node_id": "canon_knowledgepoint_f3e0cf61f486",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\014_课题2如何正确书写化学方程式.md",
+            "section": {
+              "id": "s014",
+              "title": "课题2 如何正确书写化学方程式"
+            },
+            "quote_or_summary": "配平化学方程式的方法很多，在这里使用了比较简单、常用的方法最小公倍数法。"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "LCM method is presented as a specific technique for achieving balancing."
+      },
+      "source_context_id": "s014_014_课题2如何正确书写化学方程式",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_lcm_requires_kp_balancing"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_d8510f1490e2",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_498ce88f7dc1",
+      "target_node_id": "canon_substance_e93f4ea71ae8",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\014_课题2如何正确书写化学方程式.md",
+            "section": {
+              "id": "s014",
+              "title": "课题2 如何正确书写化学方程式"
+            },
+            "quote_or_summary": "下面以磷在空气中燃烧生成五氧化二磷的反应为例，说明书写化学方程式的具体步骤。"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Step explanation uses phosphorus combustion to P2O5 as the primary example."
+      },
+      "source_context_id": "s014_014_课题2如何正确书写化学方程式",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_steps_involves_sub_p2o5"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_b2db585e1545",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_06d4ce61ae97",
+      "target_node_id": "canon_substance_e93f4ea71ae8",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\014_课题2如何正确书写化学方程式.md",
+            "section": {
+              "id": "s014",
+              "title": "课题2 如何正确书写化学方程式"
+            },
+            "quote_or_summary": "例如，式子左边的氧原子数是2，右边的氧原子数是5，两数的最小公倍数是10。因此，在 O₂ 前面配上5，在 P₂O₅ 前面配上2。"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "LCM calculation example explicitly uses P₂O₅ stoichiometry."
+      },
+      "source_context_id": "s014_014_课题2如何正确书写化学方程式",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_lcm_involves_sub_p2o5"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_39578f411140",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_f3e0cf61f486",
+      "target_node_id": "canon_substance_cd441f499462",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\014_课题2如何正确书写化学方程式.md",
+            "section": {
+              "id": "s014",
+              "title": "课题2 如何正确书写化学方程式"
+            },
+            "quote_or_summary": "例如，氢气与氧气反应生成水：H₂ + O₂ → H₂O。在这个式子中，右边的氧原子数少于左边的，这时为使式子两边每一种元素原子的总数相等，就需要配平。"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Balancing example uses hydrogen and oxygen reaction."
+      },
+      "source_context_id": "s014_014_课题2如何正确书写化学方程式",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_balancing_involves_sub_oxygen"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_90632e43df98",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_bb39f09fe008",
+      "target_node_id": "canon_knowledgepoint_906b07d6df6a",
+      "properties": {
+        "rationale": "Section title and introduction explicitly state the purpose is to explain calculation steps.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\015_课题3利用化学方程式的简单计算.md",
+            "section": {
+              "id": "s015",
+              "title": "课题3利用化学方程式的简单计算"
+            },
+            "quote_or_summary": "下面，用实例来说明利用化学方程式进行计算的步骤和方法。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s015_015_课题3利用化学方程式的简单计算",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s015_section_kp_calc_steps_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_41c67237d7dc",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_bb39f09fe008",
+      "target_node_id": "canon_knowledgepoint_bdb33ff010c9",
+      "properties": {
+        "rationale": "Section summary defines chemical equations and their properties.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\015_课题3利用化学方程式的简单计算.md",
+            "section": {
+              "id": "s015",
+              "title": "课题3利用化学方程式的简单计算"
+            },
+            "quote_or_summary": "化学方程式是重要的化学用语，它能从“质”和“量”两个方面表示具体的化学反应。"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page108_img001.jpg",
+            "name": "",
+            "description": "> 化学方程式\n- 符合质量守恒定律。\n- 符合客观事实。\n- 包括：\n  ① 反应物和生成物；\n  ② 各物质间的质量关系；\n  ③ 反应条件。\n- 根据化学方程式进行计算。",
+            "figure_id": "ipa_evidence_6f23e5b1d54f"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s015_015_课题3利用化学方程式的简单计算",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s015_section_kp_equation_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_5ba06256f741",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_bb39f09fe008",
+      "target_node_id": "canon_knowledgepoint_96b2a9d2a80c",
+      "properties": {
+        "rationale": "Section summary introduces mass conservation law as a universal rule.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\015_课题3利用化学方程式的简单计算.md",
+            "section": {
+              "id": "s015",
+              "title": "课题3利用化学方程式的简单计算"
+            },
+            "quote_or_summary": "质量守恒定律是自然界的普遍规律，它揭示了化学反应中元素原子的种类和数目都没有发生变化。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s015_015_课题3利用化学方程式的简单计算",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s015_section_kp_conservation_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_281bce748a30",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_29c6ce324a6e",
+      "target_node_id": "canon_knowledgepoint_906b07d6df6a",
+      "properties": {
+        "rationale": "Example 1 demonstrates the application of calculation steps.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\015_课题3利用化学方程式的简单计算.md",
+            "section": {
+              "id": "s015",
+              "title": "课题3利用化学方程式的简单计算"
+            },
+            "quote_or_summary": "【例题1】加热分解6.3g高锰酸钾，可以得到氧气的质量是多少？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s015_015_课题3利用化学方程式的简单计算",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_ex1_kp_calc_steps_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_220c0abb7512",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_ae47fb9c78e6",
+      "target_node_id": "canon_knowledgepoint_906b07d6df6a",
+      "properties": {
+        "rationale": "Example 2 demonstrates the application of calculation steps.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\015_课题3利用化学方程式的简单计算.md",
+            "section": {
+              "id": "s015",
+              "title": "课题3利用化学方程式的简单计算"
+            },
+            "quote_or_summary": "【例题2】工业上，煅烧石灰石（主要成分是 CaCO3）可制得生石灰（CaO）和二氧化碳。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s015_015_课题3利用化学方程式的简单计算",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_ex2_kp_calc_steps_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_4c07eb6fef0c",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_fd808cf13c7a",
+      "target_node_id": "canon_knowledgepoint_906b07d6df6a",
+      "properties": {
+        "rationale": "Practice problem requires applying calculation steps.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\015_课题3利用化学方程式的简单计算.md",
+            "section": {
+              "id": "s015",
+              "title": "课题3利用化学方程式的简单计算"
+            },
+            "quote_or_summary": "练一练 氢气在氯气中燃烧生成氯化氢气体，写出该反应的化学方程式，并计算燃烧100g氢气需要氯气的质量是多少？生成氯化氢气体的质量是多少？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s015_015_课题3利用化学方程式的简单计算",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_practice_kp_calc_steps_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_f01bc8b647ba",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_906b07d6df6a",
+      "target_node_id": "canon_knowledgepoint_bdb33ff010c9",
+      "properties": {
+        "rationale": "Calculation method step 2 requires writing chemical equations.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\015_课题3利用化学方程式的简单计算.md",
+            "section": {
+              "id": "s015",
+              "title": "课题3利用化学方程式的简单计算"
+            },
+            "quote_or_summary": "写出反应的化学方程式"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s015_015_课题3利用化学方程式的简单计算",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_calc_steps_kp_equation_requires"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_771ba9002a3c",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_906b07d6df6a",
+      "target_node_id": "canon_knowledgepoint_96b2a9d2a80c",
+      "properties": {
+        "rationale": "Calculations rely on mass conservation principle.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\015_课题3利用化学方程式的简单计算.md",
+            "section": {
+              "id": "s015",
+              "title": "课题3利用化学方程式的简单计算"
+            },
+            "quote_or_summary": "根据实际参加反应的一种反应物或生成物的质量，可以计算出其他反应物或生成物的质量。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s015_015_课题3利用化学方程式的简单计算",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_calc_steps_kp_conservation_requires"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_10c3f45a9bd5",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_bdb33ff010c9",
+      "target_node_id": "canon_knowledgepoint_96b2a9d2a80c",
+      "properties": {
+        "rationale": "Chemical equations must conform to mass conservation law.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\015_课题3利用化学方程式的简单计算.md",
+            "section": {
+              "id": "s015",
+              "title": "课题3利用化学方程式的简单计算"
+            },
+            "quote_or_summary": "化学方程式符合质量守恒定律。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s015_015_课题3利用化学方程式的简单计算",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_equation_kp_conservation_requires"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_629a01575a1a",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_906b07d6df6a",
+      "target_node_id": "canon_substance_66f43c6bf2a8",
+      "properties": {
+        "rationale": "Calculation steps utilize potassium permanganate in Example 1.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\015_课题3利用化学方程式的简单计算.md",
+            "section": {
+              "id": "s015",
+              "title": "课题3利用化学方程式的简单计算"
+            },
+            "quote_or_summary": "加热分解6.3g高锰酸钾，可以得到氧气的质量是多少？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s015_015_课题3利用化学方程式的简单计算",
+      "revision_round": 2,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_ex1_sub_kmno4_involves_substance"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_bfdaf30ec904",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_96cb29b05f5e",
+      "target_node_id": "canon_knowledgepoint_dc31e5d850e9",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\019_课题3二氧化碳和一氧化碳.md",
+            "section": {
+              "id": "s019",
+              "title": "课题3二氧化碳和一氧化碳"
+            },
+            "quote_or_summary": "## 1.二氧化碳的性质"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header explicitly defines the knowledge point scope.",
+        "figures": [
+          {
+            "image_path": "images/page121_img001.jpg",
+            "name": "倾倒二氧化碳",
+            "description": "图6-14 倾倒二氧化碳",
+            "figure_id": "ipa_evidence_23abafb1d5b4"
+          },
+          {
+            "image_path": "images/page121_img004.jpg",
+            "name": "二氧化碳溶解性实验",
+            "description": "图6-15：一个质地较软的塑料瓶内装有二氧化碳气体，瓶口正被倾倒液体；右侧烧杯中盛有水，正向瓶中倾倒；瓶身标注“二氧化碳”，烧杯旁标注“水”；瓶盖置于瓶旁地面。图中无其他文字或现象描述。",
+            "figure_id": "ipa_evidence_9f9de854cff6"
+          },
+          {
+            "image_path": "images/page122_img003.jpg",
+            "name": "二氧化碳与水的反应",
+            "description": "图6-16二氧化碳与水的反应：一个集气瓶内底部放置一朵紫色纸花，瓶身右侧标注“二氧化碳”并有引线指向瓶内空间，表示该纸花被置于二氧化碳环境中。",
+            "figure_id": "ipa_evidence_e9d820bb8ee7"
+          },
+          {
+            "image_path": "images/page122_img004.jpg",
+            "name": "喷水后放入二氧化碳中实验步骤",
+            "description": "图6-16二氧化碳与水的反应：图中左侧为一个橙色喷雾瓶向一朵紫色纸花喷洒液体，右侧为一个集气瓶，瓶身标有“二氧化碳”字样，瓶口上方有一蓝色弧形箭头指示气体进入瓶内，表示将纸花放入二氧化碳中。图示用于演示二氧化碳与水反应的实验操作步骤。",
+            "figure_id": "ipa_evidence_ccd4eba0a601"
+          }
+        ]
+      },
+      "source_context_id": "s019_019_课题3二氧化碳和一氧化碳",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s019_contains_kp_co2_properties"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_b49da8f294f3",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_96cb29b05f5e",
+      "target_node_id": "canon_knowledgepoint_0f6963f6a3c0",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\019_课题3二氧化碳和一氧化碳.md",
+            "section": {
+              "id": "s019",
+              "title": "课题3二氧化碳和一氧化碳"
+            },
+            "quote_or_summary": "## 二、一氧化碳"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header explicitly defines the knowledge point scope.",
+        "figures": [
+          {
+            "image_path": "images/page125_img003.jpg",
+            "name": "煤炉里煤层上方的蓝色火焰",
+            "description": "图6-22：一张煤炉中煤层上方燃烧的火焰照片：底部可见橙红色炽热煤炭，其上冒出两簇明显的蓝色火焰，背景为黑暗环境。",
+            "figure_id": "ipa_evidence_0739f08b15a4"
+          }
+        ]
+      },
+      "source_context_id": "s019_019_课题3二氧化碳和一氧化碳",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s019_contains_kp_co_properties"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_3a7b4fb98396",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_dc31e5d850e9",
+      "target_node_id": "canon_substance_a6db7a721e57",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\019_课题3二氧化碳和一氧化碳.md",
+            "section": {
+              "id": "s019",
+              "title": "课题3二氧化碳和一氧化碳"
+            },
+            "quote_or_summary": "二氧化碳能溶于水。在通常状况下，1体积的水约能溶解1体积的二氧化碳。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Knowledge point definition directly describes the physical properties of the substance.",
+        "figures": [
+          {
+            "image_path": "images/page121_img001.jpg",
+            "name": "倾倒二氧化碳",
+            "description": "图6-14 倾倒二氧化碳",
+            "figure_id": "ipa_evidence_23abafb1d5b4"
+          },
+          {
+            "image_path": "images/page121_img004.jpg",
+            "name": "二氧化碳溶解性实验",
+            "description": "图6-15：一个质地较软的塑料瓶内装有二氧化碳气体，瓶口正被倾倒液体；右侧烧杯中盛有水，正向瓶中倾倒；瓶身标注“二氧化碳”，烧杯旁标注“水”；瓶盖置于瓶旁地面。图中无其他文字或现象描述。",
+            "figure_id": "ipa_evidence_9f9de854cff6"
+          }
+        ]
+      },
+      "source_context_id": "s019_019_课题3二氧化碳和一氧化碳",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_co2_properties_involves_sub_co2"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_0f9d70638483",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_dc31e5d850e9",
+      "target_node_id": "canon_substance_92ef704dba7a",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\019_课题3二氧化碳和一氧化碳.md",
+            "section": {
+              "id": "s019",
+              "title": "课题3二氧化碳和一氧化碳"
+            },
+            "quote_or_summary": "二氧化碳与水反应生成碳酸，碳酸能使紫色石蕊溶液变成红色。"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Reaction described in knowledge point generates carbonic acid.",
+        "figures": [
+          {
+            "image_path": "images/page122_img003.jpg",
+            "name": "二氧化碳与水的反应",
+            "description": "图6-16二氧化碳与水的反应：一个集气瓶内底部放置一朵紫色纸花，瓶身右侧标注“二氧化碳”并有引线指向瓶内空间，表示该纸花被置于二氧化碳环境中。",
+            "figure_id": "ipa_evidence_e9d820bb8ee7"
+          },
+          {
+            "image_path": "images/page122_img004.jpg",
+            "name": "喷水后放入二氧化碳中实验步骤",
+            "description": "图6-16二氧化碳与水的反应：图中左侧为一个橙色喷雾瓶向一朵紫色纸花喷洒液体，右侧为一个集气瓶，瓶身标有“二氧化碳”字样，瓶口上方有一蓝色弧形箭头指示气体进入瓶内，表示将纸花放入二氧化碳中。图示用于演示二氧化碳与水反应的实验操作步骤。",
+            "figure_id": "ipa_evidence_ccd4eba0a601"
+          }
+        ]
+      },
+      "source_context_id": "s019_019_课题3二氧化碳和一氧化碳",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_co2_properties_involves_sub_carbonic_acid"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_58b856264ed1",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_dc31e5d850e9",
+      "target_node_id": "canon_substance_9eb78bab0b5b",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\019_课题3二氧化碳和一氧化碳.md",
+            "section": {
+              "id": "s019",
+              "title": "课题3二氧化碳和一氧化碳"
+            },
+            "quote_or_summary": "二氧化碳与氢氧化钙反应，生成了白色的碳酸钙沉淀。"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Reaction described in knowledge point generates calcium carbonate."
+      },
+      "source_context_id": "s019_019_课题3二氧化碳和一氧化碳",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_co2_properties_involves_sub_calcium_carbonate"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_dcdee916e6a1",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_0f6963f6a3c0",
+      "target_node_id": "canon_substance_b0196b42ca46",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\019_课题3二氧化碳和一氧化碳.md",
+            "section": {
+              "id": "s019",
+              "title": "课题3二氧化碳和一氧化碳"
+            },
+            "quote_or_summary": "一氧化碳是一种没有颜色、没有气味的气体，难溶于水。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Knowledge point definition directly describes the physical properties of the substance.",
+        "figures": [
+          {
+            "image_path": "images/page125_img003.jpg",
+            "name": "煤炉里煤层上方的蓝色火焰",
+            "description": "图6-22：一张煤炉中煤层上方燃烧的火焰照片：底部可见橙红色炽热煤炭，其上冒出两簇明显的蓝色火焰，背景为黑暗环境。",
+            "figure_id": "ipa_evidence_0739f08b15a4"
+          }
+        ]
+      },
+      "source_context_id": "s019_019_课题3二氧化碳和一氧化碳",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_co_properties_involves_sub_co"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_2aa8b4bd64f0",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3cb3e73baeab",
+      "target_node_id": "canon_knowledgepoint_dc31e5d850e9",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\019_课题3二氧化碳和一氧化碳.md",
+            "section": {
+              "id": "s019",
+              "title": "课题3二氧化碳和一氧化碳"
+            },
+            "quote_or_summary": "设计实验证明二氧化碳的有关性质。"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Exercise explicitly asks to design experiments proving CO2 properties."
+      },
+      "source_context_id": "s019_019_课题3二氧化碳和一氧化碳",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_exercises_tests_kp_co2_properties"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_98a67e74f8dd",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3cb3e73baeab",
+      "target_node_id": "canon_knowledgepoint_0f6963f6a3c0",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\019_课题3二氧化碳和一氧化碳.md",
+            "section": {
+              "id": "s019",
+              "title": "课题3二氧化碳和一氧化碳"
+            },
+            "quote_or_summary": "选择氧气、一氧化碳或二氧化碳填空... 属于有毒气体的是"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Exercise asks to identify toxic gas among options including CO."
+      },
+      "source_context_id": "s019_019_课题3二氧化碳和一氧化碳",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_exercises_tests_kp_co_properties"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_b291107ad6a7",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_7c3008e5c252",
+      "target_node_id": "canon_knowledgepoint_b435d6beb281",
+      "properties": {
+        "rationale": "Section title explicitly includes '二氧化碳的实验室制取' matching the KnowledgePoint name.",
+        "figures": [
+          {
+            "image_path": "images/page129_img002.jpg",
+            "name": "",
+            "description": "> 图6-24 把二氧化碳倒入烧杯中",
+            "figure_id": "ipa_evidence_e0b55b9250c7"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\020_实验活动2二氧化碳的实验室制取与性质.md",
+            "section": {
+              "id": "s020",
+              "title": "实验活动2二氧化碳的实验室制取与性质"
+            },
+            "quote_or_summary": "# 实验活动2二氧化碳的实验室制取与性质"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s020_020_实验活动2二氧化碳的实验室制取与性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_node_s020_section_node_kp_co2_prep"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_b7b11764b174",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_7c3008e5c252",
+      "target_node_id": "canon_knowledgepoint_dc31e5d850e9",
+      "properties": {
+        "rationale": "Section title explicitly includes '二氧化碳的性质' matching the KnowledgePoint name.",
+        "figures": [
+          {
+            "image_path": "images/page129_img001.jpg",
+            "name": "",
+            "description": "> 图6-24",
+            "figure_id": "ipa_evidence_d9fa4108558f"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\020_实验活动2二氧化碳的实验室制取与性质.md",
+            "section": {
+              "id": "s020",
+              "title": "实验活动2二氧化碳的实验室制取与性质"
+            },
+            "quote_or_summary": "# 实验活动2二氧化碳的实验室制取与性质"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s020_020_实验活动2二氧化碳的实验室制取与性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_node_s020_section_node_kp_co2_props"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_f24fef2a89db",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_1e8e296b31bc",
+      "target_node_id": "canon_knowledgepoint_b435d6beb281",
+      "properties": {
+        "rationale": "Question directly follows the preparation procedure asking about collection verification.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\020_实验活动2二氧化碳的实验室制取与性质.md",
+            "section": {
+              "id": "s020",
+              "title": "实验活动2二氧化碳的实验室制取与性质"
+            },
+            "quote_or_summary": "想一想\n如何检查集气瓶中是否已收集满二氧化碳？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s020_020_实验活动2二氧化碳的实验室制取与性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_node_prob_check_full_node_kp_co2_prep"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_ac5fc909c3a1",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_aaf20bfaf838",
+      "target_node_id": "canon_knowledgepoint_dc31e5d850e9",
+      "properties": {
+        "rationale": "Question directly follows the property experiment asking what properties are demonstrated.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\020_实验活动2二氧化碳的实验室制取与性质.md",
+            "section": {
+              "id": "s020",
+              "title": "实验活动2二氧化碳的实验室制取与性质"
+            },
+            "quote_or_summary": "想一想\n这一实验证明二氧化碳具有什么性质？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s020_020_实验活动2二氧化碳的实验室制取与性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_node_prob_prove_props_node_kp_co2_props"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_1a3db371d554",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_b435d6beb281",
+      "target_node_id": "canon_substance_eaff72ba490f",
+      "properties": {
+        "rationale": "Preparation step explicitly instructs placing marble in the test tube.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\020_实验活动2二氧化碳的实验室制取与性质.md",
+            "section": {
+              "id": "s020",
+              "title": "实验活动2二氧化碳的实验室制取与性质"
+            },
+            "quote_or_summary": "在试管里放入几小块大理石（或石灰石）"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s020_020_实验活动2二氧化碳的实验室制取与性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_involves_substance_node_kp_co2_prep_node_sub_marble"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_0835cd798b14",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_b435d6beb281",
+      "target_node_id": "canon_substance_2f44adf9af1f",
+      "properties": {
+        "rationale": "Preparation step explicitly instructs injecting dilute hydrochloric acid.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\020_实验活动2二氧化碳的实验室制取与性质.md",
+            "section": {
+              "id": "s020",
+              "title": "实验活动2二氧化碳的实验室制取与性质"
+            },
+            "quote_or_summary": "然后小心地注入15mL稀盐酸"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s020_020_实验活动2二氧化碳的实验室制取与性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_involves_substance_node_kp_co2_prep_node_sub_hcl"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_7d9cd82aab24",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_dc31e5d850e9",
+      "target_node_id": "canon_substance_c0e21a26db57",
+      "properties": {
+        "rationale": "Property test step 3 explicitly instructs injecting limewater into a test tube.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\020_实验活动2二氧化碳的实验室制取与性质.md",
+            "section": {
+              "id": "s020",
+              "title": "实验活动2二氧化碳的实验室制取与性质"
+            },
+            "quote_or_summary": "向其中注入少量澄清石灰水"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s020_020_实验活动2二氧化碳的实验室制取与性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_involves_substance_node_kp_co2_props_node_sub_limewater"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_reacts_with_0b3c674c17a6",
+      "predicate": "reacts_with",
+      "source_node_id": "canon_substance_eaff72ba490f",
+      "target_node_id": "canon_substance_2f44adf9af1f",
+      "properties": {
+        "rationale": "Text states observing phenomena and gas color during reaction between marble and acid.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\020_实验活动2二氧化碳的实验室制取与性质.md",
+            "section": {
+              "id": "s020",
+              "title": "实验活动2二氧化碳的实验室制取与性质"
+            },
+            "quote_or_summary": "观察试管里发生的现象，以及反应中产生气体的颜色"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s020_020_实验活动2二氧化碳的实验室制取与性质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_reacts_with_node_sub_marble_node_sub_hcl"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_96f3af4b8c23",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_501cc54c2010",
+      "target_node_id": "canon_knowledgepoint_414f81965c0a",
+      "properties": {
+        "rationale": "Section explicitly defines energy changes in chemical reactions.",
+        "figures": [
+          {
+            "image_path": "images/page140_img001.jpg",
+            "name": "图7-14生石灰与水反应放出热量",
+            "description": "实验7-3中将水滴入盛有生石灰的试管中的操作场景示意图",
+            "figure_id": "ipa_evidence_fe86a0653beb"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\023_课题2燃料的合理利用与开发.md",
+            "section": {
+              "id": "s023",
+              "title": "课题2 燃料的合理利用与开发"
+            },
+            "quote_or_summary": "化学反应在生成新物质的同时，还伴随着能量的变化。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s023_023_课题2燃料的合理利用与开发",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s023_kp_energy_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_59cd8dc25eb9",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_501cc54c2010",
+      "target_node_id": "canon_knowledgepoint_b0ef1d24ae4f",
+      "properties": {
+        "rationale": "Section introduces fossil fuels as main energy sources.",
+        "figures": [
+          {
+            "image_path": "images/page141_img004.jpg",
+            "name": "图7-18煤的形成示意图",
+            "description": "植物或植物枯萎后埋于土中经长期复杂变化形成煤",
+            "figure_id": "ipa_evidence_a8a69611af65"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\023_课题2燃料的合理利用与开发.md",
+            "section": {
+              "id": "s023",
+              "title": "课题2 燃料的合理利用与开发"
+            },
+            "quote_or_summary": "目前，人们使用的燃料大多来自化石燃料，如煤、石油和天然气等。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s023_023_课题2燃料的合理利用与开发",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s023_kp_fossil_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_6fad4ca7727e",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_556c6ae04709",
+      "target_node_id": "canon_knowledgepoint_b0ef1d24ae4f",
+      "properties": {
+        "rationale": "Question asks about acid rain substances from fuel burning.",
+        "figures": [
+          {
+            "image_path": "images/page147_img003.jpg",
+            "name": "图7-36 雕像受到酸雨腐蚀",
+            "description": "一张黑白照片，显示一尊户外石质雕像严重风化、表面斑驳破损",
+            "figure_id": "ipa_evidence_f7fc3ea797d6"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\023_课题2燃料的合理利用与开发.md",
+            "section": {
+              "id": "s023",
+              "title": "课题2 燃料的合理利用与开发"
+            },
+            "quote_or_summary": "煤燃烧时排放出二氧化硫、二氧化氮等污染物...会形成酸雨。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s023_023_课题2燃料的合理利用与开发",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_mcq_kp_fossil_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_3d6154f29226",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_5a344485a36c",
+      "target_node_id": "canon_knowledgepoint_b0ef1d24ae4f",
+      "properties": {
+        "rationale": "Question asks about fuels used in vehicles and new energy.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\023_课题2燃料的合理利用与开发.md",
+            "section": {
+              "id": "s023",
+              "title": "课题2 燃料的合理利用与开发"
+            },
+            "quote_or_summary": "汽车、轮船使用的燃料有______。埋于海底将来可能会替代化石燃料的新能源是______。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s023_023_课题2燃料的合理利用与开发",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_fill_kp_fossil_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_has_property_91ac42e8acc1",
+      "predicate": "has_property",
+      "source_node_id": "canon_substance_0435af25a105",
+      "target_node_id": "canon_knowledgepoint_414f81965c0a",
+      "properties": {
+        "rationale": "Ethanol combustion releases heat (energy change).",
+        "figures": [
+          {
+            "image_path": "images/page148_img001.jpg",
+            "name": "公交加油加气站",
+            "description": "一座蓝白相间的加油站顶棚，顶棚上写有'中国石化 SINOPEC 气站'",
+            "figure_id": "ipa_evidence_4e6a974ba252"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\023_课题2燃料的合理利用与开发.md",
+            "section": {
+              "id": "s023",
+              "title": "课题2 燃料的合理利用与开发"
+            },
+            "quote_or_summary": "乙醇在空气中燃烧时放出大量的热，可用作酒精灯、内燃机等的燃料。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s023_023_课题2燃料的合理利用与开发",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_sub_ethanol_kp_energy_009"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_176bd622e391",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_cb7f4338ab3a",
+      "target_node_id": "canon_knowledgepoint_414f81965c0a",
+      "properties": {
+        "rationale": "Understanding combustion efficiency relies on energy change concepts.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\023_课题2燃料的合理利用与开发.md",
+            "section": {
+              "id": "s023",
+              "title": "课题2 燃料的合理利用与开发"
+            },
+            "quote_or_summary": "如果能有效地提高煤等化石燃料的燃烧利用率，就相当于延长了化石能源的使用期限。"
+          }
+        ],
+        "confidence": 0.75
+      },
+      "source_context_id": "s023_023_课题2燃料的合理利用与开发",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_combust_kp_energy_010"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_43052a2662c1",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_501cc54c2010",
+      "target_node_id": "canon_knowledgepoint_cb7f4338ab3a",
+      "properties": {
+        "rationale": "Section details conditions for complete combustion.",
+        "figures": [
+          {
+            "image_path": "images/page145_img003.jpg",
+            "name": "图7-31燃气燃烧出现黄色火焰",
+            "figure_id": "ipa_evidence_b982c79d9bf0"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\023_课题2燃料的合理利用与开发.md",
+            "section": {
+              "id": "s023",
+              "title": "课题2 燃料的合理利用与开发"
+            },
+            "quote_or_summary": "使燃料充分燃烧通常考虑两点：一是燃烧时要有足够的空气；二是燃料与空气要有足够大的接触面"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s023_023_课题2燃料的合理利用与开发",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s023_kp_combust_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_35c88547c3a2",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_b0ef1d24ae4f",
+      "target_node_id": "canon_substance_912156c565df",
+      "properties": {
+        "rationale": "Natural gas (fossil fuel) mainly contains methane.",
+        "figures": [
+          {
+            "image_path": "images/page143_img005.jpg",
+            "name": "图7-27 甲烷燃烧",
+            "figure_id": "ipa_evidence_7e860d8d6532"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\023_课题2燃料的合理利用与开发.md",
+            "section": {
+              "id": "s023",
+              "title": "课题2 燃料的合理利用与开发"
+            },
+            "quote_or_summary": "天然气主要含有由碳和氢组成的气态碳氢化合物，其中最主要的是甲烷(CH4)"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s023_023_课题2燃料的合理利用与开发",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_fossil_sub_methane_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_has_property_683258245ba2",
+      "predicate": "has_property",
+      "source_node_id": "canon_substance_912156c565df",
+      "target_node_id": "canon_knowledgepoint_414f81965c0a",
+      "properties": {
+        "rationale": "Methane combustion releases heat (energy change).",
+        "figures": [
+          {
+            "image_path": "images/page143_img005.jpg",
+            "name": "图7-27 甲烷燃烧",
+            "figure_id": "ipa_evidence_7e860d8d6532"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\023_课题2燃料的合理利用与开发.md",
+            "section": {
+              "id": "s023",
+              "title": "课题2 燃料的合理利用与开发"
+            },
+            "quote_or_summary": "甲烷...用作燃料...燃烧时放出大量的热"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s023_023_课题2燃料的合理利用与开发",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_sub_methane_kp_energy_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_involves_substance_78c83f534c68",
+      "predicate": "involves_substance",
+      "source_node_id": "canon_knowledgepoint_cb7f4338ab3a",
+      "target_node_id": "canon_substance_912156c565df",
+      "properties": {
+        "rationale": "Methane combustion is used to illustrate complete combustion conditions.",
+        "figures": [
+          {
+            "image_path": "images/page145_img003.jpg",
+            "name": "图7-31燃气燃烧出现黄色火焰",
+            "figure_id": "ipa_evidence_b982c79d9bf0"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_094053_义务教育教科书·化学九年级上册_20260702\\enhanced_markdown\\sections\\023_课题2燃料的合理利用与开发.md",
+            "section": {
+              "id": "s023",
+              "title": "课题2 燃料的合理利用与开发"
+            },
+            "quote_or_summary": "甲烷...燃烧...火焰呈黄色或橙色...需要调节一下灶具...进风口"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s023_023_课题2燃料的合理利用与开发",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_combust_sub_methane_008"
+      ]
+    }
+  ]
+}

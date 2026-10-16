@@ -1,0 +1,3010 @@
+{
+  "schema_version": "kg.merged_nodes.v1",
+  "run_id": "kg_普通高中教科书·化学必修第一册_20260630",
+  "nodes": [
+    {
+      "node_id": "canon_chaptersection_097a5a8522f8",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "Classification and Measurement of Matter",
+        "chapter_num": "1",
+        "source_path": "enhanced_markdown/sections/001_物质的分类及计量.md",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/001_物质的分类及计量.md",
+            "section": {
+              "id": "s001",
+              "title": "Classification and Measurement of Matter"
+            },
+            "quote_or_summary": "# Classification and Measurement of Matter"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "Classification and Measurement of Matter"
+        ]
+      },
+      "source_context_id": "s001_001_物质的分类及计量",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s001_section"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_8e1cbb068c9d",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Chemistry",
+        "definition": "Chemistry is a natural science that studies the composition, structure, properties, transformations, and applications of matter.",
+        "figures": [
+          {
+            "image_path": "images/page007_img001.jpg",
+            "description": "Molecular structure diagram composed of three blue-green geometric shapes: a large blue hexagon on the right and two smaller circles above and below on the left. The two circles are joined by a short line and both connect to the hexagon, forming a simplified structure resembling a molecule or connected functional groups.",
+            "figure_id": "ipa_evidence_e037a8668d5c"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/001_物质的分类及计量.md",
+            "section": {
+              "id": "s001",
+              "title": "Classification and Measurement of Matter"
+            },
+            "quote_or_summary": "Chemistry is a natural science that studies the composition, structure, properties, transformations, and applications of matter."
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "Chemistry"
+        ]
+      },
+      "source_context_id": "s001_001_物质的分类及计量",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_kp_chemistry"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_b7fc9679514f",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Mixture",
+        "description": "A substance formed by mixing materials with different compositions and states of dispersion.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/001_物质的分类及计量.md",
+            "section": {
+              "id": "s001",
+              "title": "Classification and Measurement of Matter"
+            },
+            "quote_or_summary": "Most of the substances we encounter are mixtures that differ in composition and state of dispersion."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Mixture"
+        ]
+      },
+      "source_context_id": "s001_001_物质的分类及计量",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_kp_mixture"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_2d4ea1db8700",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "Unit 1 Classification of Matter and Its Reactions",
+        "chapter_num": "2",
+        "source_path": "enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+            "section": {
+              "id": "s002",
+              "title": "Unit 1 Classification of Matter and Its Reactions"
+            },
+            "quote_or_summary": "Unit 1 Classification of Matter and Its Reactions"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "Unit 1 Classification of Matter and Its Reactions"
+        ]
+      },
+      "source_context_id": "s002_002_第一单元物质及其反应的分类",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "cp_unit1_classification"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_7da39e1c8a8d",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Classification of Matter",
+        "definition": "Matter can be classified according to its composition, state, properties, and other criteria, for example as gases, liquids, and solids, or as conductors, semiconductors, and insulators.",
+        "figures": [
+          {
+            "image_path": "images/page010_img001.jpg",
+            "name": "Figure 1-2 Classification of Matter",
+            "description": "The original image link and value marker are retained; no textual description was generated.",
+            "figure_id": "ipa_evidence_965547f975bb"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+            "section": {
+              "id": "s002",
+              "title": "Unit 1 Classification of Matter and Its Reactions"
+            },
+            "quote_or_summary": "Matter can be classified according to its state, properties, and other characteristics. For example, by physical state, matter can be classified as gases, liquids, and solids."
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "Classification of Matter"
+        ]
+      },
+      "source_context_id": "s002_002_第一单元物质及其反应的分类",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_substance_classification"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_45e41dec9b0e",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Dispersion System",
+        "definition": "A dispersion is a mixture formed when one or more substances are dispersed in another substance. According to the particle diameter of the dispersed phase, dispersions are classified as solutions, colloids, or suspensions.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+            "section": {
+              "id": "s002",
+              "title": "Unit 1 Classification of Matter and Its Reactions"
+            },
+            "quote_or_summary": "A dispersion system is a mixture in which one or more substances, called the dispersed phase, are dispersed in another substance, called the dispersion medium."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Dispersion System"
+        ]
+      },
+      "source_context_id": "s002_002_第一单元物质及其反应的分类",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_dispersion_system"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_4150bf7775f9",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Colloid",
+        "definition": "A dispersion in which the dispersed particles have diameters between $10^{-9}$ m and $10^{-7}$ m. Colloids exhibit the Tyndall effect.",
+        "figures": [
+          {
+            "image_path": "images/page024_img003.jpg",
+            "name": "Diagram of the Tyndall Effect in a Colloid",
+            "description": "Diagram of a Tyndall-effect experiment with a colloid: a beaker contains a reddish-brown liquid (iron(III) hydroxide colloid), while a hand on the right shines a laser horizontally through the beaker. A distinct red beam is visible through the liquid, demonstrating the Tyndall effect.",
+            "figure_id": "ipa_evidence_6e818db4af99"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+            "section": {
+              "id": "s002",
+              "title": "Unit 1 Classification of Matter and Its Reactions"
+            },
+            "quote_or_summary": "A dispersion system in which the dispersed particles are between $10^{-9}$ m and $10^{-7}$ m in diameter is called a colloid. When a beam of light passes through a colloid, a bright path can be seen; this phenomenon is called the Tyndall effect."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Colloid"
+        ]
+      },
+      "source_context_id": "s002_002_第一单元物质及其反应的分类",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_colloid"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_41c56e515151",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Electrolyte",
+        "definition": "A compound that conducts electricity in aqueous solution or in the molten state. Ionization produces freely moving ions.",
+        "figures": [
+          {
+            "image_path": "images/page026_img001.jpg",
+            "name": "Figure 1-8 Ionization of Sodium Chloride in Water",
+            "description": "> NaCl, H₂O, Na⁺, Cl⁻",
+            "figure_id": "ipa_evidence_ab47fec48dc6"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+            "section": {
+              "id": "s002",
+              "title": "Unit 1 Classification of Matter and Its Reactions"
+            },
+            "quote_or_summary": "Compounds that conduct electricity in aqueous solution or in the molten state are called electrolytes. The process by which an electrolyte produces freely moving ions in aqueous solution or in the molten state is called ionization."
+          },
+          {
+            "source_path": "enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "Unit 2 Metallic Sodium and Sodium Compounds"
+            },
+            "quote_or_summary": "Strong acids, strong bases, and most salts ionize completely in aqueous solution and are called strong electrolytes. Weak acids, weak bases, and similar substances do not ionize completely in aqueous solution and are called weak electrolytes."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Electrolyte"
+        ]
+      },
+      "source_context_id": "s002_002_第一单元物质及其反应的分类",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_electrolyte",
+        "node_s008_kp_electrolyte"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_57e6dadea308",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Amount of Substance",
+        "definition": "One of the SI base quantities, represented by n and measured in mol. It relates the number of particles to the Avogadro constant.",
+        "figures": [
+          {
+            "image_path": "images/page016_img005.jpg",
+            "name": "Figure 1-4 Masses of Several 1 mol Samples",
+            "description": "Figure 1-4, masses of several 1 mol samples: a transparent glass dish contains a pile of dark powdered solid ranging from purplish red to black, against a light-blue gradient background.",
+            "figure_id": "ipa_evidence_92da8377302b"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+            "section": {
+              "id": "s002",
+              "title": "Unit 1 Classification of Matter and Its Reactions"
+            },
+            "quote_or_summary": "Amount of substance is one of the base quantities in the International System of Units (SI). Its symbol is n, and its commonly used unit is the mole (symbol mol)."
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "Amount of Substance"
+        ]
+      },
+      "source_context_id": "s002_002_第一单元物质及其反应的分类",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_amount_of_substance"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_3c1921765562",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Molar Volume of Gas",
+        "definition": "The volume occupied by one mole of a gas. Under standard conditions, it is approximately 22.4 L/mol.",
+        "figures": [
+          {
+            "image_path": "images/page020_img002.jpg",
+            "name": "Figure 1-5 Volume of 1 mol of Gas under Standard Conditions",
+            "description": "Figure 1-5: a basketball is shown beside an orange-yellow cube labeled “22.4 L,” providing a visual comparison for the volume of 1 mol of gas under standard conditions.",
+            "figure_id": "ipa_evidence_ba33eb09a213"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+            "section": {
+              "id": "s002",
+              "title": "Unit 1 Classification of Matter and Its Reactions"
+            },
+            "quote_or_summary": "The volume occupied by one mole of a gas is called its molar volume. Under standard conditions (273 K and 101 kPa), 1 mol of any gas occupies approximately 22.4 L."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Molar Volume of Gas"
+        ]
+      },
+      "source_context_id": "s002_002_第一单元物质及其反应的分类",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_molar_volume"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_67fa130f3217",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Oxidation-Reduction Reaction",
+        "definition": "A chemical reaction in which the oxidation state of at least one element changes. A reaction without such a change is a non-redox reaction.",
+        "figures": [
+          {
+            "image_path": "images/page013_img001.jpg",
+            "name": "Circular Arrows Icon",
+            "description": "Circular-arrows icon: a round icon with a green background contains two blue curved arrows circling counterclockwise, forming a visual symbol of a continuous cycle.",
+            "figure_id": "ipa_evidence_dc8913151096"
+          },
+          {
+            "image_path": "images/page070_img001.jpg",
+            "name": "Figure 3-5 Electron Transfer between Sodium and Chlorine Atoms",
+            "description": "Diagram showing changes in the electron-shell structures of sodium and chlorine atoms and the direction of electron transfer.",
+            "figure_id": "ipa_evidence_48c47911e7f5"
+          },
+          {
+            "image_path": "images/page070_img002.jpg",
+            "name": "Figure 3-6 Representation of Electron Transfer",
+            "description": "Diagram using the double-line bridge method to show the direction and number of electrons lost and gained.",
+            "figure_id": "ipa_evidence_420456725df1"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+            "section": {
+              "id": "s002",
+              "title": "Unit 1 Classification of Matter and Its Reactions"
+            },
+            "quote_or_summary": "A reaction in which the oxidation states of elements change is called a redox reaction, whereas a reaction in which they do not change is called a non-redox reaction."
+          },
+          {
+            "source_path": "enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+            "section": {
+              "id": "s007",
+              "title": "Unit 1 Chlorine and Chlorine Compounds"
+            },
+            "quote_or_summary": "A redox reaction is a chemical reaction involving electron transfer, and the substance that loses electrons is the reducing agent."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Oxidation-Reduction Reaction"
+        ]
+      },
+      "source_context_id": "s002_002_第一单元物质及其反应的分类",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_redox_reaction",
+        "s007_node_006"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_f332629cbdb9",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "Basic Methods for Studying Matter",
+        "chapter_num": "3",
+        "source_path": "enhanced_markdown/sections/003_研究物质的基本方法.md",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/003_研究物质的基本方法.md",
+            "section": {
+              "id": "s003",
+              "title": "Basic Methods for Studying Matter"
+            },
+            "quote_or_summary": "# Basic Methods for Studying Matter"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "Basic Methods for Studying Matter"
+        ]
+      },
+      "source_context_id": "s003_003_研究物质的基本方法",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_section_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_1a756af08e93",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Basic Methods for Studying Matter",
+        "definition": "Throughout the long history of exploring the material world, people have continually practiced, summarized, and reflected, accumulating a rich set of experimental methods for studying matter. As science and technology have advanced, scientists have continued to innovate by combining theory with practice, moving from the macroscopic to the microscopic and from qualitative to quantitative study, and distilling a series of fundamental methods for investigating matter.",
+        "figures": [
+          {
+            "image_path": "images/page033_img001.jpg",
+            "description": "Molecular structure diagram: a blue hexagon representing a central atom or group is connected to three blue-green spheres representing atoms. Two spheres are arranged above and below on the left and joined to the hexagon by single bonds, while the third extends from the right to form a three-branched structure.",
+            "figure_id": "ipa_evidence_11aed467654f"
+          },
+          {
+            "image_path": "images/page033_img003.jpg",
+            "description": "Molecular structure diagram composed of a blue hexagon on the right and two blue-green circles on the left, connected by short lines to form a branched structure.",
+            "figure_id": "ipa_evidence_bbbbf74e02a2"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/003_研究物质的基本方法.md",
+            "section": {
+              "id": "s003",
+              "title": "Basic Methods for Studying Matter"
+            },
+            "quote_or_summary": "Throughout history, in the long process of exploring the material world, humanity has continuously experimented, summarized, and reflected, accumulating a rich body of experimental methods for studying matter."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Basic Methods for Studying Matter"
+        ]
+      },
+      "source_context_id": "s003_003_研究物质的基本方法",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_kp_001"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_153320d663f4",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "Unit 1 Experimental Methods for Studying Matter",
+        "chapter_num": "4",
+        "source_path": "enhanced_markdown/sections/004_第一单元研究物质的实验方法.md",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/004_第一单元研究物质的实验方法.md",
+            "section": {
+              "id": "s004",
+              "title": "Unit 1 Experimental Methods for Studying Matter"
+            },
+            "quote_or_summary": "# Unit 1 Experimental Methods for Studying Matter"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "Unit 1 Experimental Methods for Studying Matter"
+        ]
+      },
+      "source_context_id": "s004_004_第一单元研究物质的实验方法",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s004_chapter_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_6ad037206f32",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Separation and Purification of Matter",
+        "definition": "A method for separating the components of a mixture and purifying them.",
+        "description": "An appropriate separation method is selected according to differences in the properties of the components of a mixture.",
+        "figures": [
+          {
+            "image_path": "images/page036_img002.jpg",
+            "name": "Solubility Curves",
+            "description": "Graph showing how the solubilities of KNO3 and KCl vary with temperature.",
+            "figure_id": "ipa_evidence_4dcd3e4114a1"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/004_第一单元研究物质的实验方法.md",
+            "section": {
+              "id": "s004",
+              "title": "Unit 1 Experimental Methods for Studying Matter"
+            },
+            "quote_or_summary": "Common methods for separating mixtures include filtration, crystallization, distillation, liquid-liquid separation, and extraction."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Separation and Purification of Matter"
+        ]
+      },
+      "source_context_id": "s004_004_第一单元研究物质的实验方法",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s004_kp_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_e5eb1ab335f3",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Distillation",
+        "definition": "The process of heating a liquid to its boiling point so that it vaporizes and then condensing the vapor back into a liquid.",
+        "description": "Used to separate liquid mixtures with substantially different boiling points or to remove nonvolatile impurities.",
+        "figures": [
+          {
+            "image_path": "images/page036_img004.jpg",
+            "name": "Distillation Apparatus",
+            "description": "Experimental apparatus showing a distillation flask, condenser, receiving flask, and related components.",
+            "figure_id": "ipa_evidence_fee6b6d7312c"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/004_第一单元研究物质的实验方法.md",
+            "section": {
+              "id": "s004",
+              "title": "Unit 1 Experimental Methods for Studying Matter"
+            },
+            "quote_or_summary": "Distillation can separate liquid mixtures whose boiling points differ greatly."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Distillation"
+        ]
+      },
+      "source_context_id": "s004_004_第一单元研究物质的实验方法",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s004_kp_002"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_78349be19bbb",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Extraction",
+        "definition": "A method that uses differences in a substance's solubility in immiscible solvents to transfer it from one solvent to another.",
+        "description": "Ethanol, petroleum ether, and similar solvents are commonly used to extract active ingredients from medicinal materials.",
+        "figures": [
+          {
+            "image_path": "images/page037_img002.jpg",
+            "name": "Extraction and Liquid-Liquid Separation",
+            "description": "Diagram showing liquid layers in a separatory funnel and the separation procedure.",
+            "figure_id": "ipa_evidence_a0e7665916a1"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/004_第一单元研究物质的实验方法.md",
+            "section": {
+              "id": "s004",
+              "title": "Unit 1 Experimental Methods for Studying Matter"
+            },
+            "quote_or_summary": "The method that exploits differences in a substance's solubility in immiscible solvents to transfer it from one solvent to another and thereby achieve separation is called extraction."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Extraction"
+        ]
+      },
+      "source_context_id": "s004_004_第一单元研究物质的实验方法",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s004_kp_003"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_7cc78011c17e",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Preparing a Solution with a Given Amount-of-Substance Concentration",
+        "definition": "A volumetric flask is used to control the final solution volume accurately when preparing a solution of a specified concentration.",
+        "description": "The procedure involves calculation, weighing, dissolution, transfer, dilution to the mark, and thorough mixing.",
+        "figures": [
+          {
+            "image_path": "images/page045_img004.jpg",
+            "name": "Volumetric Flask",
+            "description": "A 500 mL volumetric flask labeled with its capacity and calibration temperature.",
+            "figure_id": "ipa_evidence_88500192134c"
+          },
+          {
+            "image_path": "images/page046_img001.jpg",
+            "name": "Dissolution",
+            "description": "Diagram of liquid being poured into a beaker during a dissolution procedure.",
+            "figure_id": "ipa_evidence_768002134484"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/004_第一单元研究物质的实验方法.md",
+            "section": {
+              "id": "s004",
+              "title": "Unit 1 Experimental Methods for Studying Matter"
+            },
+            "quote_or_summary": "In the laboratory, a volumetric flask is used to prepare a solution of a specified volume and amount-of-substance concentration."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Preparing a Solution with a Given Amount-of-Substance Concentration"
+        ]
+      },
+      "source_context_id": "s004_004_第一单元研究物质的实验方法",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s004_kp_004"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_ad3959177e37",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Stoichiometric Relationships in Chemical Reactions",
+        "definition": "The mole ratio of the substances participating in a reaction equals the ratio of their corresponding stoichiometric coefficients in the chemical equation.",
+        "description": "The relevant physical quantities include particle count, mass, gas volume, and amount-of-substance concentration.",
+        "figures": [
+          {
+            "image_path": "images/page047_img005.jpg",
+            "name": "Stoichiometric Relationship Diagram",
+            "description": "Flowchart linking known and unknown substances through their mole ratio.",
+            "figure_id": "ipa_evidence_3e89b4fca738"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/004_第一单元研究物质的实验方法.md",
+            "section": {
+              "id": "s004",
+              "title": "Unit 1 Experimental Methods for Studying Matter"
+            },
+            "quote_or_summary": "In a chemical reaction, the mole ratio of the reacting substances equals the ratio of their corresponding stoichiometric coefficients in the chemical equation."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Stoichiometric Relationships in Chemical Reactions"
+        ]
+      },
+      "source_context_id": "s004_004_第一单元研究物质的实验方法",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s004_kp_005"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_c0d6a604209f",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Flame Test",
+        "definition": "The phenomenon in which many metals or their compounds impart characteristic colors to a flame when heated.",
+        "description": "The presence of a metal or metal ion can be identified from the characteristic color produced when it is heated in a flame.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/004_第一单元研究物质的实验方法.md",
+            "section": {
+              "id": "s004",
+              "title": "Unit 1 Experimental Methods for Studying Matter"
+            },
+            "quote_or_summary": "When many metals or their compounds are heated in a flame, they impart characteristic colors to the flame; this is called a flame test."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Flame Test"
+        ]
+      },
+      "source_context_id": "s004_004_第一单元研究物质的实验方法",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s004_kp_006"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_172d4d07eaa7",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Instrumental Analysis",
+        "definition": "The composition of a chemical substance is analyzed with instruments such as elemental analyzers and infrared spectrometers.",
+        "description": "A substance is identified using characteristic properties of the atoms, ions, or molecules that compose it.",
+        "figures": [
+          {
+            "image_path": "images/page040_img009.jpg",
+            "name": "Infrared Spectrometer",
+            "description": "An angled instrument probe emitting an orange-yellow beam from its tip.",
+            "figure_id": "ipa_evidence_4bacbaf66372"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/004_第一单元研究物质的实验方法.md",
+            "section": {
+              "id": "s004",
+              "title": "Unit 1 Experimental Methods for Studying Matter"
+            },
+            "quote_or_summary": "Scientists also use instruments to analyze the composition of chemical substances. For example, an elemental analyzer can determine whether a substance contains elements such as C, H, O, N, S, Cl, and Br."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Instrumental Analysis"
+        ]
+      },
+      "source_context_id": "s004_004_第一单元研究物质的实验方法",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s004_kp_007"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_542fb65289d4",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "Unit 3 Human Understanding of Atomic Structure",
+        "chapter_num": "5",
+        "source_path": "enhanced_markdown/sections/005_第三单元人类对原子结构的认识.md",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/005_第三单元人类对原子结构的认识.md",
+            "section": {
+              "id": "s005",
+              "title": "Unit 3 Human Understanding of Atomic Structure"
+            },
+            "quote_or_summary": "# Unit 3 Human Understanding of Atomic Structure\nAn important aspect of humanity's exploration of nature's mysteries is the study of the microscopic structure of matter."
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "Unit 3 Human Understanding of Atomic Structure"
+        ]
+      },
+      "source_context_id": "s005_005_第三单元人类对原子结构的认识",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s005_cs_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_7078c7cca0a0",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Dalton's Atomic Theory",
+        "definition": "Matter is composed of indivisible particles called atoms, and atoms can be neither created nor destroyed.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/005_第三单元人类对原子结构的认识.md",
+            "section": {
+              "id": "s005",
+              "title": "Unit 3 Human Understanding of Atomic Structure"
+            },
+            "quote_or_summary": "In the early 19th century, British scientist John Dalton summarized the mass ratios in which certain elements form compounds and proposed atomic theory. He believed that matter is composed of atoms and that atoms can neither be created nor destroyed."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Dalton's Atomic Theory"
+        ]
+      },
+      "source_context_id": "s005_005_第三单元人类对原子结构的认识",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s005_kp_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_55cc4ae3380b",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Thomson Atomic Model",
+        "definition": "The “plum-pudding” model, in which electrons are uniformly embedded in a cloud-like sphere of positive charge.",
+        "figures": [
+          {
+            "image_path": "images/page050_img003.jpg",
+            "name": "Figure 2-13 Thomson's Discovery of the Electron and Atomic Model",
+            "description": "The image has three parts: a portrait of Dalton at upper left; Thomson's “plum-pudding” atomic model at upper right, with white regions of positive charge and several orange electrons embedded in a blue sphere; and a cathode-ray-tube experimental apparatus below.",
+            "figure_id": "ipa_evidence_a58859a469fc"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/005_第三单元人类对原子结构的认识.md",
+            "section": {
+              "id": "s005",
+              "title": "Unit 3 Human Understanding of Atomic Structure"
+            },
+            "quote_or_summary": "In 1897, British physicist J. J. Thomson discovered electrons in atoms and proposed that these particles were uniformly embedded in a cloud-like sphere of positive charge, leading him to propose the \"plum pudding\" model of atomic structure."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Thomson Atomic Model"
+        ]
+      },
+      "source_context_id": "s005_005_第三单元人类对原子结构的认识",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s005_kp_002"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_465259580031",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Rutherford Atomic Model",
+        "definition": "The nuclear, or planetary, model, in which a positively charged nucleus is surrounded by rapidly moving electrons.",
+        "figures": [
+          {
+            "image_path": "images/page051_img001.jpg",
+            "name": "Figure 2-14 Rutherford's Nuclear Model Based on Alpha-Particle Scattering",
+            "description": "The image shows a portrait of Thomson at upper left, a “plum-pudding” atomic model at upper right, and an alpha-particle scattering apparatus below. A radioactive source emits particles through gold foil, and a detector records their scattering paths.",
+            "figure_id": "ipa_evidence_ebd63bcd5498"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/005_第三单元人类对原子结构的认识.md",
+            "section": {
+              "id": "s005",
+              "title": "Unit 3 Human Understanding of Atomic Structure"
+            },
+            "quote_or_summary": "In 1911, the British physicist Ernest Rutherford bombarded gold foil with alpha particles. Most passed straight through, some were deflected, and a very small number rebounded. He inferred that the atom's internal structure is not uniform but contains a central nucleus."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Rutherford Atomic Model"
+        ]
+      },
+      "source_context_id": "s005_005_第三单元人类对原子结构的认识",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s005_kp_003"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_d9d7e7d60a08",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Bohr Atomic Model",
+        "definition": "Electrons move in a series of stable orbits, each with a definite energy.",
+        "figures": [
+          {
+            "image_path": "images/page051_img002.jpg",
+            "name": "Figure 2-15 Bohr's Atomic Model Based on the Hydrogen Spectrum",
+            "description": "At upper left is a portrait of a blond man, identified by the revision note as Bohr. At right is an atomic model with a yellow sphere representing the nucleus, three dashed concentric orbits, and five orange spheres representing electrons distributed along the orbits.",
+            "figure_id": "ipa_evidence_99d1bfa4471f"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/005_第三单元人类对原子结构的认识.md",
+            "section": {
+              "id": "s005",
+              "title": "Unit 3 Human Understanding of Atomic Structure"
+            },
+            "quote_or_summary": "In 1913, while studying the hydrogen atomic spectrum, Danish physicist Niels Bohr incorporated ideas from quantum theory and boldly proposed a new model of atomic structure: outside the nucleus, electrons move in a series of stable orbits, each with a definite energy."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Bohr Atomic Model"
+        ]
+      },
+      "source_context_id": "s005_005_第三单元人类对原子结构的认识",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s005_kp_004"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_456730e8899d",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Protons, Neutrons, and Electrons",
+        "definition": "An atom consists of a nucleus and extranuclear electrons. Most nuclei consist of positively charged protons and electrically neutral neutrons.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/005_第三单元人类对原子结构的认识.md",
+            "section": {
+              "id": "s005",
+              "title": "Unit 3 Human Understanding of Atomic Structure"
+            },
+            "quote_or_summary": "An atom consists of a nucleus and electrons outside the nucleus, and almost all of its mass is concentrated in the nucleus. The vast majority of atomic nuclei consist of positively charged protons and uncharged neutrons."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Protons, Neutrons, and Electrons"
+        ]
+      },
+      "source_context_id": "s005_005_第三单元人类对原子结构的认识",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s005_kp_005"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_6e1265e6c5a7",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Nuclides and Isotopes",
+        "definition": "An atom with a specific number of protons and neutrons is called a nuclide; nuclides with the same number of protons but different mass numbers (or numbers of neutrons) are called isotopes of one another.",
+        "figures": [
+          {
+            "image_path": "images/page052_img003.jpg",
+            "name": "Figure 2-16 Atomic Models of the Three Hydrogen Nuclides",
+            "description": "Figure 2-16: an atomic model with a red sphere at the center representing the nucleus, a solid black circular electron orbit around it, and one orange electron at the bottom of the orbit. The label below identifies hydrogen.",
+            "figure_id": "ipa_evidence_7477532e563e"
+          },
+          {
+            "image_path": "images/page052_img004.jpg",
+            "name": "Figure 2-16 Atomic Models of the Three Hydrogen Nuclides",
+            "description": "Figure 2-16, atomic models of the three hydrogen nuclides: two spheres occupy the center, red above and blue below, surrounded by a dark elliptical orbit with one orange-red electron. The pale-yellow background contains sparse speckles. The proton and neutron are not individually labeled, and the image does not show a complete orbit or multiple electrons.",
+            "figure_id": "ipa_evidence_dff530bdd809"
+          },
+          {
+            "image_path": "images/page052_img005.jpg",
+            "name": "Figure 2-16 Atomic Models of the Three Hydrogen Nuclides",
+            "description": "> Atomic structure diagram",
+            "figure_id": "ipa_evidence_f0ac110ad390"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/005_第三单元人类对原子结构的认识.md",
+            "section": {
+              "id": "s005",
+              "title": "Unit 3 Human Understanding of Atomic Structure"
+            },
+            "quote_or_summary": "An atom with a specific number of protons and neutrons is called a nuclide; nuclides with the same number of protons but different mass numbers (or numbers of neutrons) are called isotopes of one another."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Nuclides and Isotopes"
+        ]
+      },
+      "source_context_id": "s005_005_第三单元人类对原子结构的认识",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s005_kp_006"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_0969afc5b65d",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Electron Arrangement Outside the Atomic Nucleus",
+        "definition": "Electrons are arranged in shells outside the nucleus. From the innermost shell outward, the shells are numbered n = 1, 2, 3, ... and are called the K, L, M, ... shells, respectively. The maximum number of electrons that each shell can hold is $2 n ^ { 2 }$.",
+        "figures": [
+          {
+            "image_path": "images/page055_img001.jpg",
+            "name": "Figure 2-21 Structure of an Oxygen Atom",
+            "description": "> Atomic structure diagram: “+8” inside the circle indicates that the nucleus carries eight units of positive charge. Two arcs outside the circle represent two electron shells containing 2 and 6 electrons, respectively, from the inner shell outward.",
+            "figure_id": "ipa_evidence_f247e7149023"
+          },
+          {
+            "image_path": "images/page055_img003.jpg",
+            "name": "Figure 2-23 Structure of a Sodium Atom",
+            "description": "> Atomic structure diagram",
+            "figure_id": "ipa_evidence_de56789d787c"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/005_第三单元人类对原子结构的认识.md",
+            "section": {
+              "id": "s005",
+              "title": "Unit 3 Human Understanding of Atomic Structure"
+            },
+            "quote_or_summary": "Electrons are arranged in shells outside the nucleus. From the innermost shell outward, the shells are numbered n = 1, 2, 3, ... and are called the K, L, M, ... shells, respectively. The maximum number of electrons that each shell can hold is $2 n ^ { 2 }$."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Electron Arrangement Outside the Atomic Nucleus"
+        ]
+      },
+      "source_context_id": "s005_005_第三单元人类对原子结构的认识",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s005_kp_007"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_84bcc880e5d5",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "Chemical Substances Obtained from Seawater",
+        "chapter_num": "6",
+        "section_num": "",
+        "source_path": "enhanced_markdown/sections/006_从海水中获得的化学物质.md",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/006_从海水中获得的化学物质.md",
+            "section": {
+              "id": "s006",
+              "title": "Chemical Substances Obtained from Seawater"
+            },
+            "quote_or_summary": "# Chemical Substances Obtained from Seawater"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "Chemical Substances Obtained from Seawater"
+        ]
+      },
+      "source_context_id": "s006_006_从海水中获得的化学物质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "cs_s006_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_b5743a5d2ccc",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Sodium Chloride",
+        "description": "The most abundant dissolved substance in seawater.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/006_从海水中获得的化学物质.md",
+            "section": {
+              "id": "s006",
+              "title": "Chemical Substances Obtained from Seawater"
+            },
+            "quote_or_summary": "Among them, sodium chloride is the most abundant."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Sodium Chloride"
+        ]
+      },
+      "source_context_id": "s006_006_从海水中获得的化学物质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_s006_002"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_a5e9c1181f3b",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Electrolysis",
+        "description": "A method for converting sodium chloride into new substances.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/006_从海水中获得的化学物质.md",
+            "section": {
+              "id": "s006",
+              "title": "Chemical Substances Obtained from Seawater"
+            },
+            "quote_or_summary": "It can be converted by electrolysis into new substances with broader applications in industrial production, daily life, and scientific experiments."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Electrolysis"
+        ]
+      },
+      "source_context_id": "s006_006_从海水中获得的化学物质",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_s006_003"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_034de1ef0b68",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Marine Chemical Resources",
+        "description": "The integrated utilization of diverse resources obtained from seawater.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/006_从海水中获得的化学物质.md",
+            "section": {
+              "id": "s006",
+              "title": "Chemical Substances Obtained from Seawater"
+            },
+            "quote_or_summary": "Comprehensive utilization of marine chemical resources"
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Marine Chemical Resources"
+        ]
+      },
+      "source_context_id": "s006_006_从海水中获得的化学物质",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_s006_001"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_54dea42ff0e6",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "Unit 1 Chlorine and Chlorine Compounds",
+        "chapter_num": "7",
+        "source_path": "enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+            "section": {
+              "id": "s007",
+              "title": "Unit 1 Chlorine and Chlorine Compounds"
+            },
+            "quote_or_summary": "# Unit 1 Chlorine and Chlorine Compounds"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "Unit 1 Chlorine and Chlorine Compounds"
+        ]
+      },
+      "source_context_id": "s007_007_第一单元氯气及氯的化合物",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s007_node_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_13914b5b3df5",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Discovery and Preparation of Chlorine",
+        "definition": "Scheele discovered chlorine, and Davy named it. In the laboratory, chlorine is prepared by heating manganese dioxide with concentrated hydrochloric acid.",
+        "figures": [
+          {
+            "image_path": "images/page064_img005.jpg",
+            "name": "Figure 3-2 Laboratory Preparation of Chlorine",
+            "description": "Diagram of the apparatus for preparing chlorine in the laboratory, including a round-bottom flask, dropping funnel, gas-washing bottle, and exhaust-gas treatment unit.",
+            "figure_id": "ipa_evidence_3178b3fb3c3d"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+            "section": {
+              "id": "s007",
+              "title": "Unit 1 Chlorine and Chlorine Compounds"
+            },
+            "quote_or_summary": "Scheele discovered chlorine, and Davy named it. In the laboratory, chlorine is prepared by heating manganese dioxide with concentrated hydrochloric acid."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Discovery and Preparation of Chlorine"
+        ]
+      },
+      "source_context_id": "s007_007_第一单元氯气及氯的化合物",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s007_node_002"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_5c8f0c02d9cb",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Chlor-Alkali Industry",
+        "definition": "The industry that produces chlorine, caustic soda, and other products by electrolyzing saturated brine.",
+        "figures": [
+          {
+            "image_path": "images/page065_img002.jpg",
+            "name": "Figure 3-3 Apparatus for Producing Chlorine",
+            "description": "The apparatus includes a direct-current power supply, an iron rod, a graphite rod, a U-tube containing saturated brine, and a sodium hydroxide solution for gas absorption.",
+            "figure_id": "ipa_evidence_0a28f95c2224"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+            "section": {
+              "id": "s007",
+              "title": "Unit 1 Chlorine and Chlorine Compounds"
+            },
+            "quote_or_summary": "The industry based on the electrolysis of saturated brine to produce chlorine, caustic soda, and other products is called the chlor-alkali industry."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Chlor-Alkali Industry"
+        ]
+      },
+      "source_context_id": "s007_007_第一单元氯气及氯的化合物",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s007_node_003"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_c6381eb64d37",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Properties of Chlorine",
+        "definition": "A toxic yellow-green gas denser than air. It is highly reactive and reacts with many metals and nonmetals.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+            "section": {
+              "id": "s007",
+              "title": "Unit 1 Chlorine and Chlorine Compounds"
+            },
+            "quote_or_summary": "Chlorine is a toxic yellow-green gas with an irritating odor. It is denser than air and highly reactive."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Properties of Chlorine"
+        ]
+      },
+      "source_context_id": "s007_007_第一单元氯气及氯的化合物",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s007_node_004"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_74b4fa2c87d5",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Components of Chlorine Water and Hypochlorous Acid",
+        "definition": "Some chlorine dissolved in water reacts to form hydrochloric acid and hypochlorous acid; hypochlorous acid has a bleaching action.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+            "section": {
+              "id": "s007",
+              "title": "Unit 1 Chlorine and Chlorine Compounds"
+            },
+            "quote_or_summary": "Some of the chlorine dissolved in water reacts with water to form hydrochloric acid and hypochlorous acid, and hypochlorous acid has a bleaching action."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Components of Chlorine Water and Hypochlorous Acid"
+        ]
+      },
+      "source_context_id": "s007_007_第一单元氯气及氯的化合物",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s007_node_005"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_5e2534234321",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Chlorine-Containing Disinfectants",
+        "definition": "Industrially, chlorine reacts with sodium hydroxide or lime slurry to produce bleach or bleaching powder.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+            "section": {
+              "id": "s007",
+              "title": "Unit 1 Chlorine and Chlorine Compounds"
+            },
+            "quote_or_summary": "Industrially, chlorine is reacted with sodium hydroxide to produce bleach and with lime slurry to produce bleaching powder."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Chlorine-Containing Disinfectants"
+        ]
+      },
+      "source_context_id": "s007_007_第一单元氯气及氯的化合物",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s007_node_007"
+      ]
+    },
+    {
+      "node_id": "canon_problem_b6e46e6c49aa",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "1. Which of the following statements is incorrect? A. Liquid chlorine is a pure substance, while chlorine water is a mixture. B. The active components of bleaching powder are Ca(ClO)2 and CaCl2.",
+        "problem_type": "Multiple-Choice Question",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+            "section": {
+              "id": "s007",
+              "title": "Unit 1 Chlorine and Chlorine Compounds"
+            },
+            "quote_or_summary": "1. Which of the following statements is incorrect? A. Liquid chlorine is a pure substance, while chlorine water is a mixture. B. The active components of bleaching powder are Ca(ClO)2 and CaCl2."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "1. Which of the following statements is incorrect? A. Liquid chlorine is a pure substance, whereas chlorine water is a mixture. B. The active components of bleaching powder are Ca(ClO)2 and CaCl2..."
+        ]
+      },
+      "source_context_id": "s007_007_第一单元氯气及氯的化合物",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s007_node_008"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_87a32a1af508",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "Unit 2 Metallic Sodium and Sodium Compounds",
+        "source_path": "enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "Unit 2 Metallic Sodium and Sodium Compounds"
+            },
+            "quote_or_summary": "Unit 2 Metallic Sodium and Sodium Compounds"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "Unit 2 Metallic Sodium and Sodium Compounds"
+        ]
+      },
+      "source_context_id": "s008_008_第二单元金属钠及钠的化合物",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s008_section"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_128fdc96b226",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Formation of Sodium Ions",
+        "definition": "A sodium atom loses its single outermost electron to form a sodium ion with a stable electron configuration.",
+        "figures": [
+          {
+            "image_path": "images/page073_img003.jpg",
+            "description": "Diagram of sodium atom structure: on the left, a sodium atom (Na) has a nuclear charge of +11 and an electron arrangement of 2, 8, 1. The central arrow labeled “loses e⁻” indicates the loss of one electron. On the right, the sodium ion (Na⁺) retains a nuclear charge of +11 and has an electron arrangement of 2, 8.",
+            "figure_id": "ipa_evidence_e37741e6fa3e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "Unit 2 Metallic Sodium and Sodium Compounds"
+            },
+            "quote_or_summary": "A sodium atom has only one electron in its outermost shell. When it reacts with other substances, it readily loses this electron and forms a sodium ion with a stable electron-shell configuration."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Formation of Sodium Ions"
+        ]
+      },
+      "source_context_id": "s008_008_第二单元金属钠及钠的化合物",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s008_kp_na_ion"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_c2fb332f0f20",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Sodium Peroxide",
+        "definition": "A pale-yellow solid and strong oxidizing agent that reacts with water or carbon dioxide to release oxygen.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "Unit 2 Metallic Sodium and Sodium Compounds"
+            },
+            "quote_or_summary": "Sodium peroxide is a pale-yellow solid with strong oxidizing properties. It reacts with water to form sodium hydroxide and oxygen, and with carbon dioxide to form sodium carbonate and oxygen."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Sodium Peroxide"
+        ]
+      },
+      "source_context_id": "s008_008_第二单元金属钠及钠的化合物",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s008_kp_na2o2"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_4fc194b426a2",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Ionic Reaction",
+        "definition": "A chemical reaction involving ions is called an ionic reaction.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "Unit 2 Metallic Sodium and Sodium Compounds"
+            },
+            "quote_or_summary": "A chemical reaction involving ions is called an ionic reaction. Ionic reactions can be represented by ionic equations."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Ionic Reaction"
+        ]
+      },
+      "source_context_id": "s008_008_第二单元金属钠及钠的化合物",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s008_kp_ionic_reaction"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_56b89e652b9d",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Hou's Soda Process",
+        "definition": "A combined soda-production process in which carbon dioxide is passed through ammoniated saturated sodium chloride solution to precipitate sodium bicarbonate.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "Unit 2 Metallic Sodium and Sodium Compounds"
+            },
+            "quote_or_summary": "The Chinese chemist Hou Debang developed the well-known Hou process, in which carbon dioxide is passed through ammoniated saturated sodium chloride solution so that the sparingly soluble sodium bicarbonate precipitates from the solution."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Hou's Soda Process"
+        ]
+      },
+      "source_context_id": "s008_008_第二单元金属钠及钠的化合物",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s008_kp_hou_process"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_629da6eb9a53",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Properties of Sodium",
+        "definition": "Sodium is a soft, silvery-white metal with a density of 0.97 g/cm³ and a melting point of 97.8 °C. It is highly reactive and readily reacts with many substances.",
+        "figures": [
+          {
+            "image_path": "images/page073_img003.jpg",
+            "name": "Diagram of Sodium-Ion Formation",
+            "description": "Diagram of sodium atom structure: on the left, a sodium atom (Na) has a nuclear charge of +11 and an electron arrangement of 2, 8, 1. The central arrow labeled “loses e⁻” indicates the loss of one electron. On the right, the sodium ion (Na⁺) retains a nuclear charge of +11 and has an electron arrangement of 2, 8.",
+            "figure_id": "ipa_evidence_e37741e6fa3e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "Unit 2 Metallic Sodium and Sodium Compounds"
+            },
+            "quote_or_summary": "Sodium is a soft, silvery-white metal with a density of 0.97 g·cm⁻³ and a melting point of 97.8 °C."
+          },
+          {
+            "source_path": "enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "Unit 2 Metallic Sodium and Sodium Compounds"
+            },
+            "quote_or_summary": "Sodium is highly reactive and undergoes chemical reactions with many substances to form sodium compounds."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Properties of Sodium"
+        ]
+      },
+      "source_context_id": "s008_008_第二单元金属钠及钠的化合物",
+      "revision_round": 1,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s008_kp_sodium_props"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_8085e5a08e94",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Sodium Carbonate and Sodium Bicarbonate",
+        "definition": "Sodium carbonate is commonly called soda ash or washing soda, while sodium bicarbonate is commonly called baking soda. Their properties differ, including their thermal stability.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "Unit 2 Metallic Sodium and Sodium Compounds"
+            },
+            "quote_or_summary": "Sodium carbonate is a white solid, commonly called soda ash or soda, and is readily soluble in water. Sodium bicarbonate is a white solid, commonly called baking soda, and is less soluble than sodium carbonate at room temperature."
+          },
+          {
+            "source_path": "enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "Unit 2 Metallic Sodium and Sodium Compounds"
+            },
+            "quote_or_summary": "Table 3-6 Comparison of the Properties of Sodium Carbonate and Sodium Bicarbonate"
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Sodium Carbonate and Sodium Bicarbonate"
+        ]
+      },
+      "source_context_id": "s008_008_第二单元金属钠及钠的化合物",
+      "revision_round": 1,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s008_kp_carbonates"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_20aa238721d7",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "Unit 3 Comprehensive Utilization of Marine Chemical Resources",
+        "chapter_num": "9",
+        "source_path": "enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+            "section": {
+              "id": "s009",
+              "title": "Unit 3 Comprehensive Utilization of Marine Chemical Resources"
+            },
+            "quote_or_summary": "Unit 3 Comprehensive Utilization of Marine Chemical Resources"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "Unit 3 Comprehensive Utilization of Marine Chemical Resources"
+        ]
+      },
+      "source_context_id": "s009_009_第三单元海洋化学资源的综合利用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s009_section_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_c91dd3947583",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Purification of Crude Salt",
+        "definition": "A process in which crude salt is dissolved in water, insoluble impurities are removed by filtration, and soluble impurities are then removed.",
+        "description": "The procedure involves dissolution, filtration, and reagent-based impurity removal and is a fundamental experiment in the utilization of seawater resources.",
+        "figures": [
+          {
+            "image_path": "images/page085_img001.jpg",
+            "name": "Diagram of the Crude-Salt Purification Apparatus",
+            "description": "Experimental apparatus diagram: a blue test tube is tilted above the mouth of a blue conical flask and pours liquid into it. A green outline surrounds the apparatus, forming a stylized icon of the laboratory operation.",
+            "figure_id": "ipa_evidence_572f44798800"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+            "section": {
+              "id": "s009",
+              "title": "Unit 3 Comprehensive Utilization of Marine Chemical Resources"
+            },
+            "quote_or_summary": "Crude salt obtained by evaporating seawater cannot be used directly as a chemical raw material because it contains other salts and insoluble impurities."
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "Purification of Crude Salt"
+        ]
+      },
+      "source_context_id": "s009_009_第三单元海洋化学资源的综合利用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s009_kp_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_74bbea5e4aae",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Extracting Bromine from Seawater",
+        "definition": "Using redox principles, chlorine is passed through the mother liquor remaining after salt extraction to convert bromide ions in the solution into elemental bromine.",
+        "formulas": [
+          {
+            "equation_text": "\\mathrm { C l } _ { 2 } + 2 \\mathrm { B r } ^ { - } = \\mathrm { B r } _ { 2 } + 2 \\mathrm { C l } ^ { - }",
+            "conditions": "Acidic conditions"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+            "section": {
+              "id": "s009",
+              "title": "Unit 3 Comprehensive Utilization of Marine Chemical Resources"
+            },
+            "quote_or_summary": "Based on redox principles, chlorine is introduced into the mother liquor after salt extraction to convert bromide ions in the solution into elemental bromine."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Extracting Bromine from Seawater"
+        ]
+      },
+      "source_context_id": "s009_009_第三单元海洋化学资源的综合利用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s009_kp_002"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_f7bbea162c66",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Extracting Magnesium from Seawater",
+        "definition": "Lime slurry is added to seawater in a precipitation tank to form magnesium hydroxide. The precipitate is then reacted with hydrochloric acid, and molten magnesium chloride is electrolyzed to produce magnesium metal.",
+        "rules": [
+          {
+            "statement": "MgCl2 + Ca(OH)2 = Mg(OH)2↓ + CaCl2",
+            "conditions": "Precipitation tank"
+          },
+          {
+            "statement": "Mg(OH)2 + 2HCl = MgCl2 + 2H2O",
+            "conditions": "Neutralization tank"
+          },
+          {
+            "statement": "MgCl2 (molten) --electrolysis--> Mg + Cl2↑",
+            "conditions": "Electrolysis"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page086_img002.jpg",
+            "name": "Industrial Process for Extracting Magnesium from Seawater",
+            "description": "Process flowchart for extracting magnesium from seawater: seawater enters a precipitation tank while shells are calcined to produce lime slurry. The product from the precipitation tank is filtered, sent to a neutralization tank, dried, and electrolyzed to obtain magnesium.",
+            "figure_id": "ipa_evidence_c27c6f7eeb67"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+            "section": {
+              "id": "s009",
+              "title": "Unit 3 Comprehensive Utilization of Marine Chemical Resources"
+            },
+            "quote_or_summary": "To extract magnesium from seawater, lime slurry is added to a seawater precipitation tank to obtain magnesium hydroxide precipitate. The magnesium hydroxide is then reacted with hydrochloric acid, and the resulting solution is evaporated and crystallized to obtain magnesium chloride hexahydrate crystals."
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "Extracting Magnesium from Seawater"
+        ]
+      },
+      "source_context_id": "s009_009_第三单元海洋化学资源的综合利用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s009_kp_003"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_b451e56c25c4",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Extracting Iodine from Kelp",
+        "definition": "Elemental iodine is obtained from iodine-accumulating seaweed through soaking, oxidation, separation, and related steps.",
+        "figures": [
+          {
+            "image_path": "images/page088_img001.jpg",
+            "name": "Industrial Process for Extracting Iodine from Kelp",
+            "description": "Flowchart of the industrial extraction of iodine from kelp: water -> dried kelp -> soaking -> leachate -> alkalization -> oxidation -> filtration -> filtrate -> crystallization -> crude iodine -> purification -> elemental iodine.",
+            "figure_id": "ipa_evidence_ed077951fa64"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+            "section": {
+              "id": "s009",
+              "title": "Unit 3 Comprehensive Utilization of Marine Chemical Resources"
+            },
+            "quote_or_summary": "At present, iodine is not extracted directly from seawater on an industrial scale. Instead, it is obtained from seaweeds that can concentrate iodine, such as kelp."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Extracting Iodine from Kelp"
+        ]
+      },
+      "source_context_id": "s009_009_第三单元海洋化学资源的综合利用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s009_kp_004"
+      ]
+    },
+    {
+      "node_id": "canon_problem_7e6087cd2853",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "Based on the information above, design an experimental procedure to test for iodine in iodized salt.",
+        "problem_type": "Experimental Design",
+        "answer": "Under acidic conditions, IO3- reacts with I- to produce I2, which can be detected using starch paper.",
+        "figures": [
+          {
+            "image_path": "images/page088_img003.jpg",
+            "name": "Structural Diagram of the Iodate Ion",
+            "description": "Structural diagram of an iodate ion: a three-branched arrangement with one large blue central sphere connected by curved lines to three smaller blue spheres.",
+            "figure_id": "ipa_evidence_033c2a6122e8"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+            "section": {
+              "id": "s009",
+              "title": "Unit 3 Comprehensive Utilization of Marine Chemical Resources"
+            },
+            "quote_or_summary": "Under acidic conditions, IO3- reacts with I- as follows: IO3- + 5I- + 6H+ = 3I2 + 3H2O. Based on this reaction, test paper and common household substances can be used to test for iodine in iodized salt."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Based on the information above, design an experimental procedure to test for iodine in iodized salt."
+        ]
+      },
+      "source_context_id": "s009_009_第三单元海洋化学资源的综合利用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s009_prob_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_640ccad06118",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Major Elements in Seawater",
+        "description": "Seawater contains more than 80 elements. Sodium, magnesium, chlorine, sulfur, potassium, and calcium are relatively abundant, while trace elements such as bromine and iodine are also widely present.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+            "section": {
+              "id": "s009",
+              "title": "Unit 3 Comprehensive Utilization of Marine Chemical Resources"
+            },
+            "quote_or_summary": "Seawater contains more than 80 elements. Most of the bromine and iodine on Earth is found in the oceans, and magnesium is also abundant."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Major Elements in Seawater"
+        ]
+      },
+      "source_context_id": "s009_009_第三单元海洋化学资源的综合利用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s009_kp_005"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_2aa78756683b",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Atomic Structure and Properties of Magnesium",
+        "description": "A magnesium atom has two electrons in its outermost shell and readily loses them in chemical reactions to form a magnesium ion. Magnesium is therefore a reactive metal.",
+        "figures": [
+          {
+            "image_path": "images/page087_img007.jpg",
+            "name": "Diagram of Magnesium Atomic Structure",
+            "description": "Diagram of magnesium atomic structure: four spheres are arranged tetrahedrally, with one light-blue sphere above and three spheres below in purple and blue.",
+            "figure_id": "ipa_evidence_aa081131eed9"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+            "section": {
+              "id": "s009",
+              "title": "Unit 3 Comprehensive Utilization of Marine Chemical Resources"
+            },
+            "quote_or_summary": "A magnesium atom has 2 electrons in its outermost shell, which it readily loses in chemical reactions to form a magnesium ion. Magnesium is therefore a reactive metal that can react with certain nonmetals, acids, and other substances."
+          }
+        ],
+        "confidence": 0.88,
+        "aliases": [
+          "Atomic Structure and Properties of Magnesium"
+        ]
+      },
+      "source_context_id": "s009_009_第三单元海洋化学资源的综合利用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s009_kp_006"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_947ea081b8d6",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "Unit 2 Interconversion of Sulfur and Its Compounds",
+        "chapter_num": "10",
+        "source_path": "enhanced_markdown/sections/010_第二单元硫及其化合物的相互转化.md",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/010_第二单元硫及其化合物的相互转化.md",
+            "section": {
+              "id": "s010",
+              "title": "Unit 2 Interconversion of Sulfur and Its Compounds"
+            },
+            "quote_or_summary": "# Unit 2 Interconversion of Sulfur and Its Compounds"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "Unit 2 Interconversion of Sulfur and Its Compounds"
+        ]
+      },
+      "source_context_id": "s010_010_第二单元硫及其化合物的相互转化",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "cs_010_unit"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_29774e28f446",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Interconversion of Sulfur and Its Compounds",
+        "definition": "The properties of sulfur and its compounds can be used to achieve interconversion among different sulfur-containing substances.",
+        "figures": [
+          {
+            "image_path": "images/page105_img005.jpg",
+            "name": "Figure 4-8 Interconversion of Sulfur and Its Compounds",
+            "description": "Diagram showing the interconversion relationships among sulfur and its compounds.",
+            "figure_id": "ipa_evidence_6f4df144bd76"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/010_第二单元硫及其化合物的相互转化.md",
+            "section": {
+              "id": "s010",
+              "title": "Unit 2 Interconversion of Sulfur and Its Compounds"
+            },
+            "quote_or_summary": "The properties of sulfur and its compounds can be used to achieve interconversion among different sulfur-containing substances."
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "Interconversion of Sulfur and Its Compounds"
+        ]
+      },
+      "source_context_id": "s010_010_第二单元硫及其化合物的相互转化",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_001_sulfur_conversion"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_ed2d1e824bbd",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Balancing Redox Equations",
+        "definition": "Electron transfer occurs in a redox reaction and appears as changes in the oxidation states of certain elements. The total number of electrons lost must equal the total number gained.",
+        "figures": [
+          {
+            "image_path": "images/page106_img002.jpg",
+            "name": "Diagram of Electron Transfer in a Redox Reaction",
+            "description": "Electron transfer in C + H₂SO₄ (concentrated) → CO₂ + SO₂ + H₂O",
+            "figure_id": "ipa_evidence_1cdc3a3ca8b5"
+          },
+          {
+            "image_path": "images/page106_img003.jpg",
+            "name": "Steps for Balancing a Redox Equation",
+            "description": "Make the total number of electrons lost equal the total number gained.",
+            "figure_id": "ipa_evidence_052088c2cf49"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/010_第二单元硫及其化合物的相互转化.md",
+            "section": {
+              "id": "s010",
+              "title": "Unit 2 Interconversion of Sulfur and Its Compounds"
+            },
+            "quote_or_summary": "Electron transfer occurs in redox reactions and is manifested as changes in the oxidation states of certain elements."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Balancing Redox Equations"
+        ]
+      },
+      "source_context_id": "s010_010_第二单元硫及其化合物的相互转化",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_002_redox_balancing"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_af41b719840b",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Oxidizing and Reducing Agents",
+        "definition": "For an element with multiple oxidation states, compounds in a high oxidation state may have oxidizing properties, whereas compounds in a low oxidation state may have reducing properties.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/010_第二单元硫及其化合物的相互转化.md",
+            "section": {
+              "id": "s010",
+              "title": "Unit 2 Interconversion of Sulfur and Its Compounds"
+            },
+            "quote_or_summary": "For an element with multiple oxidation states, compounds in a high oxidation state may have oxidizing properties, whereas compounds in a low oxidation state may have reducing properties."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Oxidizing and Reducing Agents"
+        ]
+      },
+      "source_context_id": "s010_010_第二单元硫及其化合物的相互转化",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_003_oxidizer_reducer"
+      ]
+    },
+    {
+      "node_id": "canon_problem_8c2c67a8cdc6",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "Complete and balance the following chemical equations. 1. Sulfur dioxide and hydrogen sulfide gases are mixed and react to form sulfur and water.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/010_第二单元硫及其化合物的相互转化.md",
+            "section": {
+              "id": "s010",
+              "title": "Unit 2 Interconversion of Sulfur and Its Compounds"
+            },
+            "quote_or_summary": "Complete and balance the following chemical equations. 1. Sulfur dioxide and hydrogen sulfide gases are mixed and react to form sulfur and water."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Complete and balance the following chemical equations. 1. Sulfur dioxide and hydrogen sulfide gases are mixed and react to form sulfur and water."
+        ]
+      },
+      "source_context_id": "s010_010_第二单元硫及其化合物的相互转化",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_001_equation_write"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_ba8792a5e3f7",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Common Valence States of Sulfur",
+        "definition": "Common oxidation states of sulfur include -2, 0, +4, and +6. Sulfur in the -2 oxidation state can only be oxidized, whereas sulfur in the +6 oxidation state can only be reduced.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/010_第二单元硫及其化合物的相互转化.md",
+            "section": {
+              "id": "s010",
+              "title": "Unit 2 Interconversion of Sulfur and Its Compounds"
+            },
+            "quote_or_summary": "Common oxidation states of sulfur include -2, 0, +4, and +6. Sulfur in the -2 oxidation state can only be oxidized, whereas sulfur in the +6 oxidation state can only be reduced."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Common Valence States of Sulfur"
+        ]
+      },
+      "source_context_id": "s010_010_第二单元硫及其化合物的相互转化",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_004_sulfur_valence"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_424ac20b58eb",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "Unit 3 Preventing Environmental Pollution from Sulfur Dioxide",
+        "chapter_num": "11",
+        "source_path": "enhanced_markdown/sections/011_第三单元防治二氧化硫对环境的污染.md",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/011_第三单元防治二氧化硫对环境的污染.md",
+            "section": {
+              "id": "s011",
+              "title": "Unit 3 Preventing Environmental Pollution from Sulfur Dioxide"
+            },
+            "quote_or_summary": "Unit 3 Preventing Environmental Pollution from Sulfur Dioxide"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "Unit 3 Preventing Environmental Pollution from Sulfur Dioxide"
+        ]
+      },
+      "source_context_id": "s011_011_第三单元防治二氧化硫对环境的污染",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s011_node_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_b8d60b7c88b5",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Sulfur Cycle in Nature",
+        "definition": "Sulfur-containing substances in crustal rocks, organisms, the atmosphere, and bodies of water continually transform and move through processes such as weathering, combustion, volcanic eruptions, absorption, and decomposition.",
+        "figures": [
+          {
+            "image_path": "images/page109_img001.jpg",
+            "description": "Atmospheric SO₂ is taken up by producers and passes through consumers, plant and animal remains, and decomposers to form SO₄²⁻ in soil or water. Fossil-fuel combustion and volcanic eruptions also produce SO₂.",
+            "figure_id": "ipa_evidence_16320652f408"
+          },
+          {
+            "image_path": "images/page109_img002.jpg",
+            "description": "Figure 4-9, diagram of the sulfur cycle in nature: three pixelated graphics are arranged in a triangle, representing three components or stages of the sulfur cycle.",
+            "figure_id": "ipa_evidence_5c9d0400edcd"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/011_第三单元防治二氧化硫对环境的污染.md",
+            "section": {
+              "id": "s011",
+              "title": "Unit 3 Preventing Environmental Pollution from Sulfur Dioxide"
+            },
+            "quote_or_summary": "Sulfur deposits, pyrite, coal, and other materials in Earth's crust contain sulfur. Through weathering and decomposition, combustion, volcanic eruptions, and other processes, these materials release gases such as SO₂ and H₂S."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Sulfur Cycle in Nature"
+        ]
+      },
+      "source_context_id": "s011_011_第三单元防治二氧化硫对环境的污染",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s011_node_002"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_218eb1ae9a1f",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Acid Rain and Its Hazards",
+        "definition": "Precipitation with a pH below 5.6, formed mainly when sulfur dioxide in the air produces sulfurous acid and is oxidized to sulfuric acid, which then falls with rain.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/011_第三单元防治二氧化硫对环境的污染.md",
+            "section": {
+              "id": "s011",
+              "title": "Unit 3 Preventing Environmental Pollution from Sulfur Dioxide"
+            },
+            "quote_or_summary": "Sulfur dioxide in the air is absorbed by precipitation to form sulfurous acid, which is oxidized to sulfuric acid, producing sulfuric acid-type acid rain. Acid rain has a pH below 5.6."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Acid Rain and Its Hazards"
+        ]
+      },
+      "source_context_id": "s011_011_第三单元防治二氧化硫对环境的污染",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s011_node_003"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_c3f7d4cb4a18",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Desulfurization Methods for Sulfur Dioxide",
+        "rules": [
+          {
+            "statement": "Limestone-gypsum process: powdered limestone is made into a slurry and pumped into an absorption tower as an absorbent, where it contacts and mixes with flue gas and is oxidized, ultimately forming gypsum.",
+            "conditions": "CaCO₃ + SO₂ = CaSO₃ + CO₂; 2CaSO₃ + O₂ = 2CaSO₄"
+          },
+          {
+            "statement": "Ammonia desulfurization: acid-base neutralization and redox reactions are combined, with aqueous ammonia used to absorb sulfur dioxide from waste gas.",
+            "conditions": "2NH₃ + H₂O + SO₂ = (NH₄)₂SO₃; 2(NH₄)₂SO₃ + O₂ = 2(NH₄)₂SO₄"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page114_img002.jpg",
+            "description": "Seawater flue-gas desulfurization process: flue gas → dust collector → sulfur dioxide absorption tower → reheating equipment → clean flue gas; seawater treatment plant ← air → treated seawater.",
+            "figure_id": "ipa_evidence_abd994a4ffbf"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/011_第三单元防治二氧化硫对环境的污染.md",
+            "section": {
+              "id": "s011",
+              "title": "Unit 3 Preventing Environmental Pollution from Sulfur Dioxide"
+            },
+            "quote_or_summary": "In this process, limestone powder is mixed with water to form a slurry, which is pumped into an absorption tower as the absorbent, brought into full contact with the flue gas, and oxidized, ultimately producing gypsum."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Desulfurization Methods for Sulfur Dioxide"
+        ]
+      },
+      "source_context_id": "s011_011_第三单元防治二氧化硫对环境的污染",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s011_node_004"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_91c0a9ae6317",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Air Quality Index (AQI)",
+        "definition": "A numerical value calculated from the concentrations of fine particulate matter, inhalable particulate matter, sulfur dioxide, nitrogen dioxide, ozone, and carbon monoxide in the air.",
+        "figures": [
+          {
+            "image_path": "images/page112_img001.jpg",
+            "description": "The figure uses a human hair with a diameter of 50–70 μm as a reference, alongside a fine sand grain with a diameter of 90 μm and diagrams of particles of different sizes.",
+            "figure_id": "ipa_evidence_0e23cad5241b"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/011_第三单元防治二氧化硫对环境的污染.md",
+            "section": {
+              "id": "s011",
+              "title": "Unit 3 Preventing Environmental Pollution from Sulfur Dioxide"
+            },
+            "quote_or_summary": "People can obtain information about air quality from the Air Quality Index (AQI). The index is calculated from the concentrations of fine particulate matter, inhalable particulate matter, and other pollutants in the air."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Air Quality Index (AQI)"
+        ]
+      },
+      "source_context_id": "s011_011_第三单元防治二氧化硫对环境的污染",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s011_node_005"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_4c9abe6d1099",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Fine Particulate Matter (PM2.5) and Inhalable Particulate Matter (PM10)",
+        "definition": "Particulate matter is classified by particle diameter: fine particulate matter has a diameter below 2.5 μm, and inhalable particulate matter has a diameter below 10 μm.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/011_第三单元防治二氧化硫对环境的污染.md",
+            "section": {
+              "id": "s011",
+              "title": "Unit 3 Preventing Environmental Pollution from Sulfur Dioxide"
+            },
+            "quote_or_summary": "Based on particle diameter, particulate matter can be classified as fine particulate matter (PM2.5, diameter less than 2.5 μm), inhalable particulate matter (PM10, diameter less than 10 μm), and so on."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Fine Particulate Matter (PM2.5) and Inhalable Particulate Matter (PM10)"
+        ]
+      },
+      "source_context_id": "s011_011_第三单元防治二氧化硫对环境的污染",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s011_node_006"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_024e21ac4438",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Interconversion of Sulfur-Containing Substances",
+        "methods": [
+          {
+            "step_text": "S → SO₂ → SO₃ → H₂SO₄ → Na₂SO₄"
+          },
+          {
+            "step_text": "SO₂ → H₂SO₃ → H₂SO₄"
+          },
+          {
+            "step_text": "H₂SO₄ → BaSO₄"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page116_img002.jpg",
+            "description": "Flowchart of sulfur-containing substance conversions: S → SO₂ → SO₃ → H₂SO₄ → Na₂SO₄, together with conversion pathways involving intermediate products.",
+            "figure_id": "ipa_evidence_38e52e1aff29"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/011_第三单元防治二氧化硫对环境的污染.md",
+            "section": {
+              "id": "s011",
+              "title": "Unit 3 Preventing Environmental Pollution from Sulfur Dioxide"
+            },
+            "quote_or_summary": "Give examples, from the perspective of redox reactions, of pathways for converting sulfur-containing substances, and write the chemical equations."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Interconversion of Sulfur-Containing Substances"
+        ]
+      },
+      "source_context_id": "s011_011_第三单元防治二氧化硫对环境的污染",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s011_node_007"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_ecd05361a0cd",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Testing for Sulfur Dioxide and Sulfur Trioxide",
+        "methods": [
+          {
+            "step_text": "Pass the gas successively through fuchsin solution and NaOH solution to test for SO₂ and SO₃."
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page117_img002.jpg",
+            "description": "Experimental apparatus: three gas-washing bottles are connected in series and contain, from left to right, BaCl₂ solution, fuchsin solution, and NaOH solution.",
+            "figure_id": "ipa_evidence_843ec9f6b0c5"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/011_第三单元防治二氧化硫对环境的污染.md",
+            "section": {
+              "id": "s011",
+              "title": "Unit 3 Preventing Environmental Pollution from Sulfur Dioxide"
+            },
+            "quote_or_summary": "Pass an air sample containing small amounts of SO₂ and SO₃ through the apparatus shown below to test for SO₂ and SO₃."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Testing for Sulfur Dioxide and Sulfur Trioxide"
+        ]
+      },
+      "source_context_id": "s011_011_第三单元防治二氧化硫对环境的污染",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s011_node_008"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_de890800fddb",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "Unit 1 Periodic Law and the Periodic Table",
+        "chapter_num": "12",
+        "source_path": "enhanced_markdown/sections/012_第一单元元素周期律和元素周期表.md",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/012_第一单元元素周期律和元素周期表.md",
+            "section": {
+              "id": "s012",
+              "title": "Unit 1 Periodic Law and the Periodic Table"
+            },
+            "quote_or_summary": "# Unit 1 Periodic Law and the Periodic Table"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "Unit 1 Periodic Law and the Periodic Table"
+        ]
+      },
+      "source_context_id": "s012_012_第一单元元素周期律和元素周期表",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "cs_012_unit1"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_b9f2fa8e1359",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Atomic Number",
+        "definition": "Chemists number elements in order of increasing nuclear charge. This number is called the atomic number, and its numerical value equals the nuclear charge of an atom of that element.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/012_第一单元元素周期律和元素周期表.md",
+            "section": {
+              "id": "s012",
+              "title": "Unit 1 Periodic Law and the Periodic Table"
+            },
+            "quote_or_summary": "For ease of study, chemists number the elements in order of increasing nuclear charge. This number is called the atomic number."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Atomic Number"
+        ]
+      },
+      "source_context_id": "s012_012_第一单元元素周期律和元素周期表",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_atomic_number"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_dfac553c4101",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Periodic Law",
+        "definition": "As nuclear charge increases, atomic radius, principal valence, metallic character, and nonmetallic character vary periodically.",
+        "figures": [
+          {
+            "image_path": "images/page120_img002.jpg",
+            "name": "Figure 5-1 Valence-Electron Counts for Elements with Nuclear Charges 1–18",
+            "description": "The table shows the relationship between nuclear charge and the number of valence electrons, revealing a repeating variation from 1 to 8.",
+            "figure_id": "ipa_evidence_f193a725209a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/012_第一单元元素周期律和元素周期表.md",
+            "section": {
+              "id": "s012",
+              "title": "Unit 1 Periodic Law and the Periodic Table"
+            },
+            "quote_or_summary": "The periodic variation of element properties with increasing nuclear charge is called the periodic law."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Periodic Law"
+        ]
+      },
+      "source_context_id": "s012_012_第一单元元素周期律和元素周期表",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_periodic_law"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_2dd27bcaefbc",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Periodic Table",
+        "definition": "The known elements are arranged according to defined rules in the periodic table, which visually reflects the periodic variation of elemental properties with increasing nuclear charge.",
+        "figures": [
+          {
+            "image_path": "images/page126_img003.jpg",
+            "name": "Figure 5-5 Periodic Table",
+            "description": "The original image link and value marker are retained; no textual description was generated.",
+            "figure_id": "ipa_evidence_434f77715fab"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/012_第一单元元素周期律和元素周期表.md",
+            "section": {
+              "id": "s012",
+              "title": "Unit 1 Periodic Law and the Periodic Table"
+            },
+            "quote_or_summary": "The known elements are arranged according to certain rules to form the periodic table."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Periodic Table"
+        ]
+      },
+      "source_context_id": "s012_012_第一单元元素周期律和元素周期表",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_periodic_table"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_62d5f9159655",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Ionic Bond",
+        "definition": "The strong electrostatic interaction between cations and anions is called an ionic bond.",
+        "figures": [
+          {
+            "image_path": "images/page134_img002.jpg",
+            "name": "Figure 5-14 Formation of an Ionic Bond by Electron Transfer between Sodium and Chlorine Atoms",
+            "description": "A Na atom loses an electron to form Na+, while a Cl atom gains an electron to form Cl-. The two ions are held together by electrostatic attraction.",
+            "figure_id": "ipa_evidence_8be9a966bd7d"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/012_第一单元元素周期律和元素周期表.md",
+            "section": {
+              "id": "s012",
+              "title": "Unit 1 Periodic Law and the Periodic Table"
+            },
+            "quote_or_summary": "The strong interaction between cations and anions in the compounds described above is called an ionic bond."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Ionic Bond"
+        ]
+      },
+      "source_context_id": "s012_012_第一单元元素周期律和元素周期表",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_ionic_bond"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_aacd293297ea",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Hydrogen Bond",
+        "definition": "A special intermolecular force called a hydrogen bond exists between some molecules. It is stronger than ordinary intermolecular forces.",
+        "figures": [
+          {
+            "image_path": "images/page138_img001.jpg",
+            "name": "Figure 5-18 Hydrogen Bonds in Liquid Water and Ice Crystals",
+            "description": "The image compares ice and water at the macroscopic level. At upper left, water molecules in ice form a regular hexagonal crystal structure through hydrogen bonding.",
+            "figure_id": "ipa_evidence_7a8866143a50"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/012_第一单元元素周期律和元素周期表.md",
+            "section": {
+              "id": "s012",
+              "title": "Unit 1 Periodic Law and the Periodic Table"
+            },
+            "quote_or_summary": "Studies show that a special intermolecular force exists between some molecules; it is called a hydrogen bond."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Hydrogen Bond"
+        ]
+      },
+      "source_context_id": "s012_012_第一单元元素周期律和元素周期表",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_hydrogen_bond"
+      ]
+    },
+    {
+      "node_id": "canon_problem_dc83dcfb25f9",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "1. Which of the following is related to the position of a main-group element in the periodic table? ( ) A. Relative atomic mass B. Number of neutrons in the nucleus C. Number of electrons in the penultimate shell D. Number of electron shells and number of valence electrons",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/012_第一单元元素周期律和元素周期表.md",
+            "section": {
+              "id": "s012",
+              "title": "Unit 1 Periodic Law and the Periodic Table"
+            },
+            "quote_or_summary": "## Understanding and Application\n\n1. Which property is related to the position of a main-group element in the periodic table? A. Relative atomic mass B. Number of neutrons in the nucleus C. Number of electrons in the penultimate shell D. Number of electron shells and valence electrons."
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "1. Which property is related to the position of a main-group element in the periodic table? A. Relative atomic mass B. Number of neutrons in the nucleus C. Number of electrons in the penultimate shell D. Number of electron shells and valence electrons."
+        ]
+      },
+      "source_context_id": "s012_012_第一单元元素周期律和元素周期表",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_apply_1"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_1e3cb4cc7a14",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Covalent Bond",
+        "definition": "The strong interaction formed when atoms share electron pairs is called a covalent bond.",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/012_第一单元元素周期律和元素周期表.md",
+            "section": {
+              "id": "s012",
+              "title": "Unit 1 Periodic Law and the Periodic Table"
+            },
+            "quote_or_summary": "The strong interaction formed between atoms through shared electron pairs is called a covalent bond."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Covalent Bond"
+        ]
+      },
+      "source_context_id": "s012_012_第一单元元素周期律和元素周期表",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_covalent_bond"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_684dbc5c0ffa",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "Unit 3 Diversity of Matter from a Microscopic Structure Perspective",
+        "chapter_num": "13",
+        "source_path": "enhanced_markdown/sections/013_第三单元从微观结构看物质的多样性.md",
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/013_第三单元从微观结构看物质的多样性.md",
+            "section": {
+              "id": "s013",
+              "title": "Unit 3 Diversity of Matter from a Microscopic Structure Perspective"
+            },
+            "quote_or_summary": "# Unit 3 Diversity of Matter from a Microscopic Structure Perspective"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "Unit 3 Diversity of Matter from a Microscopic Structure Perspective"
+        ]
+      },
+      "source_context_id": "s013_013_第三单元从微观结构看物质的多样性",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "cs_013_unit3"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_ee3242faf090",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Allotropy",
+        "definition": "The phenomenon in which the same element forms several different elemental substances is called allotropy (allotropism).",
+        "figures": [
+          {
+            "image_path": "images/page140_img002.jpg",
+            "name": "Diagram of Allotropes",
+            "description": "Three pixel-style three-dimensional spheres represent substances composed of the same element but having different structures.",
+            "figure_id": "ipa_evidence_aff4d11ad635"
+          },
+          {
+            "image_path": "images/page141_img004.jpg",
+            "name": "Structural Model of Diamond",
+            "description": "A three-dimensional network structure with spheres distributed across different levels; solid and dashed lines represent bonds.",
+            "figure_id": "ipa_evidence_612d36db76f6"
+          },
+          {
+            "image_path": "images/page141_img005.jpg",
+            "name": "Structural Model of Graphite",
+            "description": "A layered structure in which the upper and lower layers form hexagonal networks and the layers are held together by intermolecular forces.",
+            "figure_id": "ipa_evidence_fb6c76288b9f"
+          },
+          {
+            "image_path": "images/page141_img007.jpg",
+            "name": "Structural Model of Buckminsterfullerene",
+            "description": "A closed cage-like molecular structure resembling a soccer ball, composed of 60 cyan spheres connected by short white rods.",
+            "figure_id": "ipa_evidence_cbcd305e243f"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/013_第三单元从微观结构看物质的多样性.md",
+            "section": {
+              "id": "s013",
+              "title": "Unit 3 Diversity of Matter from a Microscopic Structure Perspective"
+            },
+            "quote_or_summary": "The phenomenon in which the same element forms several different elemental substances is called allotropy (allotropism)."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Allotropy"
+        ]
+      },
+      "source_context_id": "s013_013_第三单元从微观结构看物质的多样性",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_allotropy"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_cbb5f93d2410",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Isomerism",
+        "definition": "The phenomenon in which compounds have the same molecular formula but different structures is called isomerism.",
+        "figures": [
+          {
+            "image_path": "images/page143_img003.jpg",
+            "name": "Ball-and-Stick Model of Ethanol",
+            "description": "Two gray spheres are bonded together. The carbon on the left is bonded to three hydrogen atoms, while the carbon on the right is bonded to two hydrogen atoms and one oxygen atom; the oxygen is bonded to another hydrogen atom.",
+            "figure_id": "ipa_evidence_9b118d144d21"
+          },
+          {
+            "image_path": "images/page143_img004.jpg",
+            "name": "Ball-and-Stick Models of Two C₂H₆O Compounds",
+            "description": "A red sphere representing oxygen connects two dark spheres representing carbon, forming an asymmetric bent structure.",
+            "figure_id": "ipa_evidence_1262d6aba07c"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/013_第三单元从微观结构看物质的多样性.md",
+            "section": {
+              "id": "s013",
+              "title": "Unit 3 Diversity of Matter from a Microscopic Structure Perspective"
+            },
+            "quote_or_summary": "The phenomenon in which compounds have the same molecular formula but different structures is called isomerism."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Isomerism"
+        ]
+      },
+      "source_context_id": "s013_013_第三单元从微观结构看物质的多样性",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_isomerism"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_bca2f18a490d",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Crystals and Amorphous Solids",
+        "definition": "Common solid substances can generally be divided into crystals and amorphous materials.",
+        "figures": [
+          {
+            "image_path": "images/page144_img003.jpg",
+            "name": "Diamond",
+            "description": "Three rounded crystals are shown against a blue background, with pronounced reflections and visible crystal faces.",
+            "figure_id": "ipa_evidence_3518a9bfe302"
+          },
+          {
+            "image_path": "images/page144_img004.jpg",
+            "name": "Quartz Crystal",
+            "description": "A white cluster of crystals forms the base, with several sharp, elongated crystal forms projecting upward.",
+            "figure_id": "ipa_evidence_7700bf85c2af"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/013_第三单元从微观结构看物质的多样性.md",
+            "section": {
+              "id": "s013",
+              "title": "Unit 3 Diversity of Matter from a Microscopic Structure Perspective"
+            },
+            "quote_or_summary": "Common solid substances can generally be divided into crystals and amorphous materials."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "Crystals and Amorphous Solids"
+        ]
+      },
+      "source_context_id": "s013_013_第三单元从微观结构看物质的多样性",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_crystal_amorphous"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_d0149fde9377",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Ionic Crystal",
+        "definition": "A crystal formed by the regular arrangement of cations and anions in a defined pattern is called an ionic crystal.",
+        "figures": [
+          {
+            "image_path": "images/page145_img001.jpg",
+            "name": "Sodium Chloride Crystal and Its Ionic Arrangement",
+            "description": "A salt crystal is shown on the left and a unit-cell diagram on the right, with yellow Na⁺ spheres and pink Cl⁻ spheres arranged alternately.",
+            "figure_id": "ipa_evidence_4e276fdd531b"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/013_第三单元从微观结构看物质的多样性.md",
+            "section": {
+              "id": "s013",
+              "title": "Unit 3 Diversity of Matter from a Microscopic Structure Perspective"
+            },
+            "quote_or_summary": "A crystal formed by the regular arrangement of cations and anions in a specific pattern is called an ionic crystal."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Ionic Crystal"
+        ]
+      },
+      "source_context_id": "s013_013_第三单元从微观结构看物质的多样性",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_ionic_crystal"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_c0316e821efc",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Covalent Crystal",
+        "definition": "Crystals such as quartz and diamond are called covalent crystals.",
+        "figures": [
+          {
+            "image_path": "images/page145_img003.jpg",
+            "name": "Arrangement of Silicon and Oxygen Atoms in Quartz",
+            "description": "A ball-and-stick model of quartz in which black spheres represent silicon atoms and small white spheres represent oxygen atoms, forming a three-dimensional network.",
+            "figure_id": "ipa_evidence_95b0c4802472"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/013_第三单元从微观结构看物质的多样性.md",
+            "section": {
+              "id": "s013",
+              "title": "Unit 3 Diversity of Matter from a Microscopic Structure Perspective"
+            },
+            "quote_or_summary": "Crystals such as quartz and diamond are called covalent crystals."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Covalent Crystal"
+        ]
+      },
+      "source_context_id": "s013_013_第三单元从微观结构看物质的多样性",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_covalent_crystal"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_e1200857c9dc",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Molecular Crystal",
+        "definition": "Crystals formed by molecular substances such as dry ice are molecular crystals.",
+        "figures": [
+          {
+            "image_path": "images/page145_img002.jpg",
+            "name": "Dry Ice Crystal",
+            "description": "A macroscopic photograph of a blue crystal cluster showing irregular, needle-like, and clustered crystal forms.",
+            "figure_id": "ipa_evidence_61623649806a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/013_第三单元从微观结构看物质的多样性.md",
+            "section": {
+              "id": "s013",
+              "title": "Unit 3 Diversity of Matter from a Microscopic Structure Perspective"
+            },
+            "quote_or_summary": "Crystals formed by molecular substances such as dry ice are molecular crystals."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Molecular Crystal"
+        ]
+      },
+      "source_context_id": "s013_013_第三单元从微观结构看物质的多样性",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_molecular_crystal"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_d7fbf791b580",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "Liquid Crystal",
+        "definition": "A liquid crystal is an intermediate state of matter between a crystal and a liquid.",
+        "figures": [
+          {
+            "image_path": "images/page146_img002.jpg",
+            "name": "Microscopic Structure of a Liquid Crystal and a Liquid-Crystal Display",
+            "description": "A molecular-arrangement diagram appears on the left, and a photograph of a liquid-crystal display showing a blue sky and green landscape appears on the right.",
+            "figure_id": "ipa_evidence_0ae5ef53276b"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "enhanced_markdown/sections/013_第三单元从微观结构看物质的多样性.md",
+            "section": {
+              "id": "s013",
+              "title": "Unit 3 Diversity of Matter from a Microscopic Structure Perspective"
+            },
+            "quote_or_summary": "A liquid crystal is an intermediate state of matter between a crystal and a liquid."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "Liquid Crystal"
+        ]
+      },
+      "source_context_id": "s013_013_第三单元从微观结构看物质的多样性",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_liquid_crystal"
+      ]
+    }
+  ]
+}

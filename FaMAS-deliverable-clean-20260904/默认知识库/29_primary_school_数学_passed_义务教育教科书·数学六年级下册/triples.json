@@ -1,0 +1,132 @@
+{
+  "schema_version": "kg.triples.v1",
+  "run_id": "kg_义务教育教科书·数学六年级下册_20260701",
+  "triples": [
+    {
+      "triple_id": "triple_contains_0b3fc92f350c",
+      "subject_node_id": "canon_chaptersection_cf14c6428b8d",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_6bd762f050f1",
+      "edge_id": "canon_edge_contains_55cfc1342bef",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_093023_义务教育教科书·数学六年级下册_20260701\\enhanced_markdown\\sections\\ch1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 我国陆地总面积大约是 960 万平方千米。 下面是我国陆地各种地形分布情况的扇形统计图。"
+          },
+          "quote_or_summary": "可以通过调查、测量、实验、查阅资料等方法收集数据。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0fc53a6d7d02",
+      "subject_node_id": "canon_chaptersection_cf14c6428b8d",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5230c5f49a41",
+      "edge_id": "canon_edge_contains_f2c601aceaf2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_093023_义务教育教科书·数学六年级下册_20260701\\enhanced_markdown\\sections\\ch1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 我国陆地总面积大约是 960 万平方千米。 下面是我国陆地各种地形分布情况的扇形统计图。"
+          },
+          "quote_or_summary": "可以用平均数表示一组数据的整体水平。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_01309b780c81",
+      "subject_node_id": "canon_chaptersection_cf14c6428b8d",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_188479b54669",
+      "edge_id": "canon_edge_contains_7aa57f3726b2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_093023_义务教育教科书·数学六年级下册_20260701\\enhanced_markdown\\sections\\ch1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 我国陆地总面积大约是 960 万平方千米。 下面是我国陆地各种地形分布情况的扇形统计图。"
+          },
+          "quote_or_summary": "条形统计图、折线统计图、扇形统计图各有什么特点？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_6ac2d8d4bb40",
+      "subject_node_id": "canon_chaptersection_cf14c6428b8d",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_9a343a7edab6",
+      "edge_id": "canon_edge_contains_363e7e232ab5",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_093023_义务教育教科书·数学六年级下册_20260701\\enhanced_markdown\\sections\\ch1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 我国陆地总面积大约是 960 万平方千米。 下面是我国陆地各种地形分布情况的扇形统计图。"
+          },
+          "quote_or_summary": "你是怎样理解可能性的？举例说说什么情况下事件发生的可能性是相等的。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_ed13e71f3b42",
+      "subject_node_id": "canon_chaptersection_cf14c6428b8d",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_cb5b718cde38",
+      "edge_id": "canon_edge_contains_6156828164dd",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_093023_义务教育教科书·数学六年级下册_20260701\\enhanced_markdown\\sections\\ch1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 我国陆地总面积大约是 960 万平方千米。 下面是我国陆地各种地形分布情况的扇形统计图。"
+          },
+          "quote_or_summary": "要根据它们的占地形状和大小，选择合适的比例尺。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_9e2d36998349",
+      "subject_node_id": "canon_problem_f7da9b0e3409",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_188479b54669",
+      "edge_id": "canon_edge_tests_95e0223c3f71",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_093023_义务教育教科书·数学六年级下册_20260701\\enhanced_markdown\\sections\\ch1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 我国陆地总面积大约是 960 万平方千米。 下面是我国陆地各种地形分布情况的扇形统计图。"
+          },
+          "quote_or_summary": "小晴把学校气象站在 5 月 21 日白天测得的室外气温制成了折线统计图。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_42d1aa278d9f",
+      "subject_node_id": "canon_problem_01c63a32536c",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_6bd762f050f1",
+      "edge_id": "canon_edge_tests_f5e6f8cf2308",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_093023_义务教育教科书·数学六年级下册_20260701\\enhanced_markdown\\sections\\ch1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 我国陆地总面积大约是 960 万平方千米。 下面是我国陆地各种地形分布情况的扇形统计图。"
+          },
+          "quote_or_summary": "下面是东方小学六年级三班男生仰卧起坐测试成绩记录单。"
+        }
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

@@ -1,0 +1,1563 @@
+{
+  "schema_version": "kg.merged_nodes.v1",
+  "run_id": "kg_义务教育教科书·物理九年级上册_20260703",
+  "nodes": [
+    {
+      "node_id": "canon_chaptersection_d1155657efff",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "九 年级上册",
+        "chapter_num": "1",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\001_九年级上册.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\001_九年级上册.md",
+            "section": {
+              "id": "s001",
+              "title": "九 年级上册"
+            },
+            "quote_or_summary": "九 年级上册"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "九年级上册"
+        ]
+      },
+      "source_context_id": "s001_001_九年级上册",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s001_chapter"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_491712cfe083",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "九 年级上册",
+        "chapter_num": "2",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\002_九年级上册.md",
+        "line_range": {
+          "start": 5,
+          "end": 101
+        },
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\002_九年级上册.md",
+            "section": {
+              "id": "s002",
+              "title": "九 年级上册"
+            },
+            "quote_or_summary": "# 九 年级上册"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "九年级上册"
+        ]
+      },
+      "source_context_id": "s002_002_九年级上册",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s002_chapter_main"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_94bd7e5aaf74",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "第十二章 机械能和内能",
+        "chapter_num": "12",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\002_九年级上册.md",
+        "line_range": {
+          "start": 47,
+          "end": 48
+        },
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\002_九年级上册.md",
+            "section": {
+              "id": "s002",
+              "title": "九 年级上册"
+            },
+            "quote_or_summary": "第十二章 机械能和内能"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "第十二章机械能和内能"
+        ]
+      },
+      "source_context_id": "s002_002_九年级上册",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s002_chapter12"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_3a2f5daf85b7",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "第十一章 简单机械和功",
+        "chapter_num": "11",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\002_九年级上册.md",
+        "line_range": {
+          "start": 45,
+          "end": 46
+        },
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\002_九年级上册.md",
+            "section": {
+              "id": "s002",
+              "title": "九 年级上册"
+            },
+            "quote_or_summary": "第十一章 简单机械和功"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "第十一章简单机械和功"
+        ]
+      },
+      "source_context_id": "s002_002_九年级上册",
+      "revision_round": 2,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s002_chapter11"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_fcb543967b76",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "第十三章 电路初探",
+        "chapter_num": "13",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\002_九年级上册.md",
+        "line_range": {
+          "start": 49,
+          "end": 50
+        },
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\002_九年级上册.md",
+            "section": {
+              "id": "s002",
+              "title": "九 年级上册"
+            },
+            "quote_or_summary": "第十三章 电路初探"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "第十三章电路初探"
+        ]
+      },
+      "source_context_id": "s002_002_九年级上册",
+      "revision_round": 2,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s002_chapter13"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_71748c0b9910",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "杠杆",
+        "definition": "支点：杠杆绕着转动的点；力臂：从支点到力的作用线的距离。",
+        "rules": [
+          {
+            "statement": "杠杆平衡条件：动力×动力臂=阻力×阻力臂",
+            "conditions": ""
+          }
+        ],
+        "formulas": [
+          {
+            "statement": "F_1 l_1 = F_2 l_2"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page034_img002.jpg",
+            "name": "图11-44 碓",
+            "description": "古代捣谷的碓模型",
+            "figure_id": "ipa_evidence_2d3511d65fa9"
+          },
+          {
+            "image_path": "images/page034_img003.jpg",
+            "name": "图11-45 桔槔",
+            "description": "古代汲水的桔槔模型",
+            "figure_id": "ipa_evidence_bb2b0828ffaa"
+          },
+          {
+            "image_path": "images/page034_img004.jpg",
+            "name": "图11-46 战国时期的天平和砝码",
+            "description": "桔棍：图中展示了一件古代桔槔（或类似提水装置）的模型",
+            "figure_id": "ipa_evidence_dde20d22b835"
+          },
+          {
+            "image_path": "images/page035_img001.jpg",
+            "name": "图11-47",
+            "description": "杠杆示意图，标注了支点、标、本、权、重",
+            "figure_id": "ipa_evidence_567dec540c34"
+          },
+          {
+            "image_path": "images/page035_img002.jpg",
+            "name": "图11-48",
+            "description": "国际空间站上的机械臂",
+            "figure_id": "ipa_evidence_3e799f06a369"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\004_小组活动评价表.md",
+            "section": {
+              "id": "s004",
+              "title": "小组活动评价表"
+            },
+            "quote_or_summary": "杠杆可分为三类：省力杠杆、费力杠杆、等臂杠杆。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "杠杆"
+        ]
+      },
+      "source_context_id": "s004_004_小组活动评价表",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_KnowledgePoint_Lever"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_33c59f6e093a",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "滑轮",
+        "definition": "使用定滑轮可以改变施力的方向，但既不省力，也不省距离。使用动滑轮可以省力。",
+        "figures": [
+          {
+            "image_path": "images/page036_img001.jpg",
+            "name": "图11-49 电梯及其示意图",
+            "description": "电梯典型结构包括定滑轮、轿厢、钢丝绳、配重",
+            "figure_id": "ipa_evidence_d3f9bd88906f"
+          },
+          {
+            "image_path": "images/page036_img002.jpg",
+            "name": "图11-49(b)",
+            "description": "电梯及其示意图",
+            "figure_id": "ipa_evidence_fe465f08d67a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\004_小组活动评价表.md",
+            "section": {
+              "id": "s004",
+              "title": "小组活动评价表"
+            },
+            "quote_or_summary": "滑轮组是定滑轮和动滑轮的组合，它既能改变施力的方向，也能省力。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "滑轮"
+        ]
+      },
+      "source_context_id": "s004_004_小组活动评价表",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_KnowledgePoint_Pulley"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_9708fd7c181a",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "功",
+        "definition": "力对物体做的功，等于力与物体在力的方向上通过的距离的乘积。",
+        "formulas": [
+          {
+            "statement": "W = F s"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\004_小组活动评价表.md",
+            "section": {
+              "id": "s004",
+              "title": "小组活动评价表"
+            },
+            "quote_or_summary": "公式为 W = F s。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "功"
+        ]
+      },
+      "source_context_id": "s004_004_小组活动评价表",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_KnowledgePoint_Work"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_125b6faaf51a",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "功率",
+        "definition": "功率是表示做功快慢的物理量，它是功与做功所用时间的比。",
+        "formulas": [
+          {
+            "statement": "P = \\frac { W } { t }"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\004_小组活动评价表.md",
+            "section": {
+              "id": "s004",
+              "title": "小组活动评价表"
+            },
+            "quote_or_summary": "即 P = W / t。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "功率"
+        ]
+      },
+      "source_context_id": "s004_004_小组活动评价表",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_KnowledgePoint_Power"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_628dff2b5a37",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "机械效率",
+        "definition": "有用功与总功的比值叫作机械效率，它常用百分数表示。",
+        "formulas": [
+          {
+            "statement": "\\eta = \\frac { W _ { \\mathrm { \\# H } } } { W _ { \\mathrm { \\# \\# } } } \\times 1 0 0 %"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\004_小组活动评价表.md",
+            "section": {
+              "id": "s004",
+              "title": "小组活动评价表"
+            },
+            "quote_or_summary": "公式为 η = W_有用 / W_总 × 100%。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "机械效率"
+        ]
+      },
+      "source_context_id": "s004_004_小组活动评价表",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_KnowledgePoint_Efficiency"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_31e656047c33",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "小组活动评价表",
+        "chapter_num": "4",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\004_小组活动评价表.md",
+        "line_range": {
+          "start": 815,
+          "end": 972
+        },
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\004_小组活动评价表.md",
+            "section": {
+              "id": "s004",
+              "title": "小组活动评价表"
+            },
+            "quote_or_summary": "小组活动评价表"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "小组活动评价表"
+        ]
+      },
+      "source_context_id": "s004_004_小组活动评价表",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_ChapterSection_s004"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_3f7d255bd7d4",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "发动机口的秘密",
+        "chapter_num": "5",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\005_发动机口的秘密.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\005_发动机口的秘密.md",
+            "section": {
+              "id": "s005",
+              "title": "发动机口的秘密"
+            },
+            "quote_or_summary": "# 发动机口的秘密\n●动能势能机械能\n●内能 热传递"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "发动机口的秘密"
+        ]
+      },
+      "source_context_id": "s005_005_发动机口的秘密",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s005_section"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_8b2619990ba8",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "动能",
+        "definition": "一个物体能对另一个物体做功，就表明这个物体具有能量。这种由于运动而具有的能量叫作动能.",
+        "figures": [
+          {
+            "image_path": "images/page038_img003.jpg",
+            "name": "图12-3",
+            "description": "一把锤子正向下砸向一个钉子，钉子已部分嵌入木板中；背景可见木质楼梯结构，画面聚焦于锤头与钉子接触瞬间的动态场景。",
+            "figure_id": "ipa_evidence_a362e34ca77b"
+          },
+          {
+            "image_path": "images/page038_img004.jpg",
+            "name": "图12-4",
+            "description": "一颗子弹正高速撞击一个固定在支架上的鸡蛋，鸡蛋表面出现明显的裂纹，撞击点处有碎片飞溅，子弹后方可见白色尾迹。",
+            "figure_id": "ipa_evidence_a17ab1a245e8"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\005_发动机口的秘密.md",
+            "section": {
+              "id": "s005",
+              "title": "发动机口的秘密"
+            },
+            "quote_or_summary": "运动的物体能对其他物体做功，它就具有能量。这种由于运动而具有的能量叫作动能."
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "动能"
+        ]
+      },
+      "source_context_id": "s005_005_发动机口的秘密",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_kinetic_energy"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_55885d70c3ec",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "势能",
+        "definition": "发生弹性形变的物体能对其他物体做功，表明它具有能量，这种能量叫作弹性势能。被举高的物体同样具有做功的本领，也具有势能，这种势能叫作重力势能.",
+        "figures": [
+          {
+            "image_path": "images/page040_img004.jpg",
+            "name": "图12-7(c)",
+            "description": "弹簧驱动小车：图中显示一个绿色小车停在水平木板上，其左侧连接一根被压缩的蓝色螺旋弹簧，弹簧另一端固定在左侧竖直木板上；小车右侧有运动模糊效果，表明其正被弹簧弹出而向右运动。",
+            "figure_id": "ipa_evidence_7aab3a48165e"
+          },
+          {
+            "image_path": "images/page041_img004.jpg",
+            "name": "图12-9",
+            "description": "模拟打桩装置图：左侧为一个装有颗粒状沙土的透明圆柱容器，上方有带三个孔的木质平台，三根金属杆从平台垂下伸入沙中；右侧并列放置三个大小递减的木块（大、中、小），呈阶梯状排列。",
+            "figure_id": "ipa_evidence_5bfb63c6181a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\005_发动机口的秘密.md",
+            "section": {
+              "id": "s005",
+              "title": "发动机口的秘密"
+            },
+            "quote_or_summary": "像这样，发生弹性形变的物体能对其他物体做功，表明它具有能量，这种能量叫作弹性势能。被举高的物体同样具有做功的本领，也具有势能，这种势能叫作重力势能."
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "势能"
+        ]
+      },
+      "source_context_id": "s005_005_发动机口的秘密",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_potential_energy"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_3a7c88e1928f",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "机械能",
+        "definition": "在物理学中，动能和势能统称为机械能。一个物体可以同时具有动能和势能。大量的事实说明，动能和势能可以相互转化.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\005_发动机口的秘密.md",
+            "section": {
+              "id": "s005",
+              "title": "发动机口的秘密"
+            },
+            "quote_or_summary": "在物理学中，动能和势能统称为机械能。一个物体可以同时具有动能和势能。例如，正被起重机吊起的重物，跳水过程中的运动员，等等."
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "机械能"
+        ]
+      },
+      "source_context_id": "s005_005_发动机口的秘密",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_mechanical_energy"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_54efd59544f3",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "内能",
+        "definition": "物体内部大量分子的无规则运动叫作热运动。我们把物体内所有分子动能和分子势能的总和叫作物体的内能。任何物体都具有内能.",
+        "figures": [
+          {
+            "image_path": "images/page047_img001.jpg",
+            "name": "图12-20",
+            "description": "冷水和热水中墨水扩散对比：左侧烧杯标注“冷水”，液面约250 mL，滴入墨水后呈不规则、集中扩散的红色纹路；右侧烧杯标注“热水”，液面约350 mL，滴入墨水后已明显扩散，呈现较均匀的淡红色区域。",
+            "figure_id": "ipa_evidence_29d8441ab934"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\005_发动机口的秘密.md",
+            "section": {
+              "id": "s005",
+              "title": "发动机口的秘密"
+            },
+            "quote_or_summary": "在物理学中，我们把物体内所有分子动能和分子势能的总和叫作物体的内能。任何物体都具有内能。物体的温度越高，它的内能就越大."
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "内能"
+        ]
+      },
+      "source_context_id": "s005_005_发动机口的秘密",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_internal_energy"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_ad702e98eebd",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "比热容",
+        "definition": "物理学中，将物体温度升高时吸收的热量与它的质量和升高温度的乘积之比，叫作比热容。比热容用符号c表示，它的单位是焦/(千克·摄氏度).",
+        "formulas": [
+          {
+            "statement": "c = Q / (m \\cdot \\Delta t)"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page050_img001.jpg",
+            "name": "图12-23",
+            "description": "实验装置示意图：图中展示了两个并列的加热实验装置，均使用铁架台、酒精灯、烧杯、温度计和玻璃棒。左侧装置烧杯中装有沙子，右侧装置烧杯中装有水。",
+            "figure_id": "ipa_evidence_d4de6331ba48"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\005_发动机口的秘密.md",
+            "section": {
+              "id": "s005",
+              "title": "发动机口的秘密"
+            },
+            "quote_or_summary": "物理学中，将物体温度升高时吸收的热量与它的质量和升高温度的乘积之比，叫作比热容。比热容在数值上等于单位质量的某种物质温度升高(或降低)1℃所吸收(或放出)的热量."
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "比热容"
+        ]
+      },
+      "source_context_id": "s005_005_发动机口的秘密",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_specific_heat_capacity"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_7c6b9b0972cd",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "热值",
+        "definition": "燃料完全燃烧放出的热量与燃料的质量之比，叫作这种燃料的热值。燃料的热值用q表示，单位是 J/kg.",
+        "formulas": [
+          {
+            "statement": "Q_{放} = m q"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page060_img002.jpg",
+            "name": "图12-38(a)",
+            "description": "实验装置示意图：图中展示了一个用于比较燃料热值的实验装置：铁架台上固定着一个烧杯，烧杯内盛有液体（水），一支温度计悬挂在烧杯中，其感温泡浸入水中；烧杯下方放置一个燃烧皿，其中正燃烧着酒精。",
+            "figure_id": "ipa_evidence_9dce44577b3d"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\005_发动机口的秘密.md",
+            "section": {
+              "id": "s005",
+              "title": "发动机口的秘密"
+            },
+            "quote_or_summary": "燃料完全燃烧放出的热量与燃料的质量之比，叫作这种燃料的热值。燃料的热值用q表示，单位是 J/kg."
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "热值"
+        ]
+      },
+      "source_context_id": "s005_005_发动机口的秘密",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_heat_value"
+      ]
+    },
+    {
+      "node_id": "canon_problem_74f3ba0935ad",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "例题初温为 20 ℃，质量为5kg的一壶水温度升高到 100 ℃，需要吸收多少热量？",
+        "answer": "1.68 × 10^6 J",
+        "solution_steps": [
+          {
+            "step_text": "解水吸收的热量 Q = c m (t - t_0)"
+          },
+          {
+            "step_text": "= 4.2 × 10^3 J/(kg·℃) × 5 kg × (100 - 20) ℃"
+          },
+          {
+            "step_text": "= 1.68 × 10^6 J"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\005_发动机口的秘密.md",
+            "section": {
+              "id": "s005",
+              "title": "发动机口的秘密"
+            },
+            "quote_or_summary": "例题初温为 20 ℃，质量为5kg的一壶水温度升高到 100 ℃，需要吸收多少热量？"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "例题初温为20℃，质量为5kg的一壶水温度升高到100℃，需要吸收多少热量？"
+        ]
+      },
+      "source_context_id": "s005_005_发动机口的秘密",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_water_heating"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_fe4c944f969f",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "一、初识家用电器和电路",
+        "chapter_num": "6",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\006_一、初识家用电器和电路.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\006_一、初识家用电器和电路.md",
+            "section": {
+              "id": "s006",
+              "title": "一、初识家用电器和电路"
+            },
+            "quote_or_summary": "# 一、初识家用电器和电路"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "一、初识家用电器和电路"
+        ]
+      },
+      "source_context_id": "s006_006_一、初识家用电器和电路",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "sec_006_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_5af5096cf94e",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "用电器",
+        "definition": "用电器是利用电能进行工作的装置。它与电源连接后，可以将电能转化为我们所需要的能。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\006_一、初识家用电器和电路.md",
+            "section": {
+              "id": "s006",
+              "title": "一、初识家用电器和电路"
+            },
+            "quote_or_summary": "用电器是利用电能进行工作的装置。它与电源连接后，可以将电能转化为我们所需要的能。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "用电器"
+        ]
+      },
+      "source_context_id": "s006_006_一、初识家用电器和电路",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_8437d1229cc7",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "电源",
+        "definition": "电源是能持续供电的装置。从能量转化的观点来看，电源是把其他形式的能转化为电能的装置。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\006_一、初识家用电器和电路.md",
+            "section": {
+              "id": "s006",
+              "title": "一、初识家用电器和电路"
+            },
+            "quote_or_summary": "电源是能持续供电的装置。从能量转化的观点来看，电源是把其他形式的能转化为电能的装置。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "电源"
+        ]
+      },
+      "source_context_id": "s006_006_一、初识家用电器和电路",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_002"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_6f2827f90081",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "电路",
+        "definition": "电路就是用导线把电源、用电器、开关等元件连接起来组成的电流的路径。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\006_一、初识家用电器和电路.md",
+            "section": {
+              "id": "s006",
+              "title": "一、初识家用电器和电路"
+            },
+            "quote_or_summary": "电路就是用导线把电源、用电器、开关等元件连接起来组成的电流的路径。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "电路"
+        ]
+      },
+      "source_context_id": "s006_006_一、初识家用电器和电路",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_003"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_3bfb1a36f164",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "短路",
+        "definition": "如果不经过用电器，用导线直接将电源的两极相连，就会形成短路，损坏电源。",
+        "figures": [
+          {
+            "image_path": "images/page070_img002.jpg",
+            "name": "图13-5 短路",
+            "description": "错误的电路连接示意图：图中展示两个错误的电路连接实例，均显示导线未正确连接至用电器，且整体被红色叉号否定。",
+            "figure_id": "ipa_evidence_93843632221d"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\006_一、初识家用电器和电路.md",
+            "section": {
+              "id": "s006",
+              "title": "一、初识家用电器和电路"
+            },
+            "quote_or_summary": "如果不经过用电器，用导线直接将电源的两极相连，就会形成短路，损坏电源。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "短路"
+        ]
+      },
+      "source_context_id": "s006_006_一、初识家用电器和电路",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_004"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_fb47961c0e26",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "通路",
+        "definition": "闭合开关，形成通路，电路中有电流流过，小灯泡发光。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\006_一、初识家用电器和电路.md",
+            "section": {
+              "id": "s006",
+              "title": "一、初识家用电器和电路"
+            },
+            "quote_or_summary": "闭合开关，形成通路，电路中有电流流过，小灯泡发光。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "通路"
+        ]
+      },
+      "source_context_id": "s006_006_一、初识家用电器和电路",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_005"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_d01053d578d5",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "断路",
+        "definition": "断开开关，形成断路，电路中没有电流，小灯泡熄灭。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\006_一、初识家用电器和电路.md",
+            "section": {
+              "id": "s006",
+              "title": "一、初识家用电器和电路"
+            },
+            "quote_or_summary": "断开开关，形成断路，电路中没有电流，小灯泡熄灭。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "断路"
+        ]
+      },
+      "source_context_id": "s006_006_一、初识家用电器和电路",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_006"
+      ]
+    },
+    {
+      "node_id": "canon_problem_2c63d1a87e96",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "现有电池、小灯泡、灯座、开关和导线，请你根据对手电筒的观察和研究，试着把它们连接起来，使开关能控制小灯泡的发光与熄灭。",
+        "figures": [
+          {
+            "image_path": "images/page070_img001.jpg",
+            "name": "图13-4",
+            "description": "图中展示的实验元件包括：一个绿色电池盒，标有“+”和“−”极性；一个安装在黑色底座上的小灯泡；一个闸刀开关；一组带鳄鱼夹的彩色导线。",
+            "figure_id": "ipa_evidence_4145cb64e5f9"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\006_一、初识家用电器和电路.md",
+            "section": {
+              "id": "s006",
+              "title": "一、初识家用电器和电路"
+            },
+            "quote_or_summary": "现有电池、小灯泡、灯座、开关和导线，请你根据对手电筒的观察和研究，试着把它们连接起来，使开关能控制小灯泡的发光与熄灭。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "现有电池、小灯泡、灯座、开关和导线，请你根据对手电筒的观察和研究，试着把它们连接起来，使开关能控制小灯泡的发光与熄灭。"
+        ]
+      },
+      "source_context_id": "s006_006_一、初识家用电器和电路",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_001"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_bd2ddb8315d7",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "生活·物理·社会",
+        "chapter_num": "7",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\007_生活·物理·社会.md",
+        "line_range": {
+          "start": 1885,
+          "end": 2173
+        },
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\007_生活·物理·社会.md",
+            "section": {
+              "id": "s007",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "# 生活·物理·社会"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "生活·物理·社会"
+        ]
+      },
+      "source_context_id": "s007_007_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "cs_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_f107a495713c",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "集成电路",
+        "definition": "应用半导体技术制成的特殊电路.",
+        "description": "许多家用电器和电子仪器都使用了集成电路.",
+        "figures": [
+          {
+            "image_path": "images/page072_img001.jpg",
+            "name": "图13-9",
+            "description": "一块绿色印刷电路板的特写，上面安装有多个黑色长方形集成电路芯片、橙色和黄色等颜色的电阻电容元件及其他电子元器件，整体呈现密集排布的电子线路结构。",
+            "figure_id": "ipa_evidence_7f766e8869eb"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\007_生活·物理·社会.md",
+            "section": {
+              "id": "s007",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "集成电路是应用半导体技术制成的特殊电路."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "集成电路"
+        ]
+      },
+      "source_context_id": "s007_007_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_91d29fd93230",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "并联电路",
+        "definition": "把用电器并列地连接起来的方式，叫作并联.",
+        "figures": [
+          {
+            "image_path": "images/page073_img004.jpg",
+            "name": "图13-12(b)",
+            "description": "图13-12(b) 并联：图中展示两个带灯座的小灯泡，分别安装在独立的接线板上；两灯泡的左右两侧接线柱均通过导线分别连接（即每个灯泡的两端各自连通），构成并联结构；一根连续导线从左侧接线板左端延伸至右侧接线板右端，穿过两个灯座下方。",
+            "figure_id": "ipa_evidence_e4204113d14a"
+          },
+          {
+            "image_path": "images/page073_img005.jpg",
+            "name": "图13-12(b)",
+            "description": "两个小灯泡并联连接示意图：图中显示两个相同的小灯泡分别安装在独立底座上，两组接线柱的左侧接线柱用导线相连，右侧接线柱也用导线相连，形成两个灯泡并列连接的电路结构，即并联连接。",
+            "figure_id": "ipa_evidence_aacfea302af6"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\007_生活·物理·社会.md",
+            "section": {
+              "id": "s007",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "把用电器并列地连接起来的方式，叫作并联"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "并联电路"
+        ]
+      },
+      "source_context_id": "s007_007_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_003"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_45c0f0389e2d",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "电流",
+        "definition": "用电流强度(简称电流)来表示电流的大小.",
+        "figures": [
+          {
+            "image_path": "images/page076_img001.jpg",
+            "name": "图13-16",
+            "description": "水流流过水轮机，能使水轮机转动起来.与此类似，电流通过灯丝，能使小灯泡发光.",
+            "figure_id": "ipa_evidence_50e65549085d"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\007_生活·物理·社会.md",
+            "section": {
+              "id": "s007",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "用电流强度(简称电流)来表示电流的大小"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "电流"
+        ]
+      },
+      "source_context_id": "s007_007_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_004"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_17db2d5e8296",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "电流表",
+        "definition": "测量电路中电流大小的仪器叫电流表.",
+        "figures": [
+          {
+            "image_path": "images/page078_img002.jpg",
+            "name": "图13-18",
+            "description": "电流表\n- 表盘：白色背景，指针指向0刻度；标有字母'A'；双排刻度：上排0~3，下排0~0.6；单位为A。\n- 接线柱：三个，左侧蓝色（无‘−’标识），中间红色，右侧红色；对应接线柱下方标注‘−’、‘0.6’、‘3’（但图中左侧蓝色接线柱未见‘−’字样）。\n- 仪器信息：表盘下方印有‘MADE IN CHINA’和型号‘ZC-25 Ω NTY(4)’。",
+            "figure_id": "ipa_evidence_c46ffb6deec6"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\007_生活·物理·社会.md",
+            "section": {
+              "id": "s007",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "测量电路中电流大小的仪器叫电流表"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "电流表"
+        ]
+      },
+      "source_context_id": "s007_007_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_005"
+      ]
+    },
+    {
+      "node_id": "canon_problem_303ddf5659d2",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "设法用一段导线、一节干电池使一个小灯泡发光.你能想出几种方法？请画出实物图，并试一试.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\007_生活·物理·社会.md",
+            "section": {
+              "id": "s007",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "设法用一段导线、一节干电池使一个小灯泡发光."
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "设法用一段导线、一节干电池使一个小灯泡发光.你能想出几种方法？请画出实物图，并试一试."
+        ]
+      },
+      "source_context_id": "s007_007_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_001"
+      ]
+    },
+    {
+      "node_id": "canon_problem_cb77f75a772c",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "如图13-11所示的三个电路各处于通路、断路、短路中的哪一种状态?",
+        "figures": [
+          {
+            "image_path": "images/page072_img004.jpg",
+            "name": "图13-11(c)",
+            "description": "图13-11(c)",
+            "figure_id": "ipa_evidence_125194bb9061"
+          },
+          {
+            "image_path": "images/page072_img005.jpg",
+            "name": "图13-11 (c)",
+            "description": "图13-11 (c)",
+            "figure_id": "ipa_evidence_b7d41bc30940"
+          },
+          {
+            "image_path": "images/page072_img006.jpg",
+            "name": "实物电路连接图",
+            "description": "实物电路连接图",
+            "figure_id": "ipa_evidence_d4bffa551422"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\007_生活·物理·社会.md",
+            "section": {
+              "id": "s007",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "如图13-11所示的三个电路各处于通路、断路、短路中的哪一种状态?"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "如图13-11所示的三个电路各处于通路、断路、短路中的哪一种状态?"
+        ]
+      },
+      "source_context_id": "s007_007_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_002"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_850a496c8629",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "串联电路",
+        "definition": "把用电器逐个顺次连接起来的方式，叫作串联.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\007_生活·物理·社会.md",
+            "section": {
+              "id": "s007",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "把用电器逐个顺次连接起来的方式，叫作串联"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "串联电路"
+        ]
+      },
+      "source_context_id": "s007_007_生活·物理·社会",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_002"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_68628e9c09c3",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "四、电压和电压表的使用",
+        "chapter_num": "8",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\008_四、电压和电压表的使用.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\008_四、电压和电压表的使用.md",
+            "section": {
+              "id": "s008",
+              "title": "四、电压和电压表的使用"
+            },
+            "quote_or_summary": "# 四、电压和电压表的使用"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "四、电压和电压表的使用"
+        ]
+      },
+      "source_context_id": "s008_008_四、电压和电压表的使用",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s008_chapter"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_a9f64be83884",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "电压",
+        "definition": "电路中电流的形成是由于电路两端存在电压。电源的作用就是维持正负极间有一定的电压。",
+        "figures": [
+          {
+            "image_path": "images/page081_img001.jpg",
+            "name": "图13-25(a)",
+            "description": "水路循环系统示意图，类比电压与水压。",
+            "figure_id": "ipa_evidence_032c01805a72"
+          },
+          {
+            "image_path": "images/page081_img002.jpg",
+            "name": "图13-25(b)",
+            "description": "由干电池、灯泡、开关组成的串联电路实物图。",
+            "figure_id": "ipa_evidence_3f9f19852755"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\008_四、电压和电压表的使用.md",
+            "section": {
+              "id": "s008",
+              "title": "四、电压和电压表的使用"
+            },
+            "quote_or_summary": "电路中电流的形成是由于电路两端存在电压(voltage)。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "电压"
+        ]
+      },
+      "source_context_id": "s008_008_四、电压和电压表的使用",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s008_voltage"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_bd4cbb10c59c",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "电压表",
+        "definition": "测量电压大小的仪器。应与被测电路并联，电流从标有\"3\"或\"15\"的接线柱流入，从标有\"-\"的接线柱流出。",
+        "figures": [
+          {
+            "image_path": "images/page082_img001.jpg",
+            "name": "图13-27",
+            "description": "实验室常用的双量程指针式电压表实物图。",
+            "figure_id": "ipa_evidence_3f82f56b843c"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\008_四、电压和电压表的使用.md",
+            "section": {
+              "id": "s008",
+              "title": "四、电压和电压表的使用"
+            },
+            "quote_or_summary": "电路两端的电压可用电压表(voltmeter)测量。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "电压表"
+        ]
+      },
+      "source_context_id": "s008_008_四、电压和电压表的使用",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s008_voltmeter"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_f01464970822",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "欧姆定律",
+        "formulas": [
+          {
+            "statement": "\\pmb { I } = \\frac { \\pmb { U } } { \\pmb { R } }"
+          }
+        ],
+        "rules": [
+          {
+            "statement": "导体中的电流与导体两端的电压成正比，与导体的电阻成反比。"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\008_四、电压和电压表的使用.md",
+            "section": {
+              "id": "s008",
+              "title": "四、电压和电压表的使用"
+            },
+            "quote_or_summary": "导体中的电流与导体两端的电压成正比，与导体的电阻成反比。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "欧姆定律"
+        ]
+      },
+      "source_context_id": "s008_008_四、电压和电压表的使用",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s008_ohms_law"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_160a74130ad4",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "电阻",
+        "definition": "表示导体对电流阻碍作用的物理量。电阻的大小与导体的长度、横截面积和材料有关。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\008_四、电压和电压表的使用.md",
+            "section": {
+              "id": "s008",
+              "title": "四、电压和电压表的使用"
+            },
+            "quote_or_summary": "物理学中用电阻(resistance)表示导体对电流的阻碍作用。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "电阻"
+        ]
+      },
+      "source_context_id": "s008_008_四、电压和电压表的使用",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s008_resistance"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_9663e8a1aa97",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "变阻器",
+        "definition": "用来改变接入电路中的电阻大小的器件。滑动变阻器是靠改变接入电路中的电阻丝的长度来改变电阻。",
+        "figures": [
+          {
+            "image_path": "images/page098_img002.jpg",
+            "name": "图14-6",
+            "description": "滑动变阻器实物及结构示意图。",
+            "figure_id": "ipa_evidence_2450febe5c05"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\008_四、电压和电压表的使用.md",
+            "section": {
+              "id": "s008",
+              "title": "四、电压和电压表的使用"
+            },
+            "quote_or_summary": "科技人员发明了一种几乎可以连续改变电阻大小的器件——滑动变阻器。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "变阻器"
+        ]
+      },
+      "source_context_id": "s008_008_四、电压和电压表的使用",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s008_rheostat"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_6e2bff7fc580",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "串联电路电压特点",
+        "rules": [
+          {
+            "statement": "在串联电路中，电路两端的总电压等于各部分电路两端的电压之和。"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page084_img001.jpg",
+            "name": "图13-31",
+            "description": "串联电路原理图，标注了U、U₁、U₂。",
+            "figure_id": "ipa_evidence_9d460d7b07df"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\008_四、电压和电压表的使用.md",
+            "section": {
+              "id": "s008",
+              "title": "四、电压和电压表的使用"
+            },
+            "quote_or_summary": "实验表明，在串联电路中，电路两端的总电压等于各部分电路两端的电压之和。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "串联电路电压特点"
+        ]
+      },
+      "source_context_id": "s008_008_四、电压和电压表的使用",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s008_series_voltage"
+      ]
+    },
+    {
+      "node_id": "canon_problem_e7b20538c8b0",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "已知加在人双手间的电压和人体的电阻，可根据欧姆定律算出通过人体的电流，再与此种情况下会导致生命危险的电流值进行比较，即可得出结论。",
+        "answer": "计算结果表明，触电时通过人体的电流达0.147A，远大于0.03A，此人会有生命危险。",
+        "figures": [
+          {
+            "image_path": "images/page105_img002.jpg",
+            "name": "图14-14",
+            "description": "双线触电示意图。",
+            "figure_id": "ipa_evidence_c1adf73df2de"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\008_四、电压和电压表的使用.md",
+            "section": {
+              "id": "s008",
+              "title": "四、电压和电压表的使用"
+            },
+            "quote_or_summary": "例题家庭电路中通常使用的是电压为220V的交流电．一般认为，通过人体心脏的电流达30mA..."
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "已知加在人双手间的电压和人体的电阻，可根据欧姆定律算出通过人体的电流，再与此种情况下会导致生命危险的电流值进行比较，即可得出结论。"
+        ]
+      },
+      "source_context_id": "s008_008_四、电压和电压表的使用",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s008_example_problem"
+      ]
+    }
+  ]
+}

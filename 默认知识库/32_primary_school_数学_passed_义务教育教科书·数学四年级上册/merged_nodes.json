@@ -1,0 +1,1135 @@
+{
+  "schema_version": "kg.merged_nodes.v1",
+  "run_id": "kg_义务教育教科书·数学四年级上册_20260629",
+  "nodes": [
+    {
+      "node_id": "canon_chaptersection_55f5ba08b4ec",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "两、三位数除以两位数",
+        "chapter_num": "1",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\001_两、三位数除以两位数.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\001_两、三位数除以两位数.md",
+            "section": {
+              "id": "s001",
+              "title": "两、 三位数除以两位数"
+            },
+            "quote_or_summary": "# 两、三位数除以两位数"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "两、三位数除以两位数"
+        ]
+      },
+      "source_context_id": "s001_001_两、三位数除以两位数",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s001_chapter"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_04698172c53e",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "除数是整十数的除法",
+        "definition": "把除数看作和它接近的整十数试商。",
+        "rules": [
+          {
+            "statement": "先用被除数的前两位除以除数。如果被除数前两位比除数小，就用前三位除以除数。"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page010_img014.jpg",
+            "name": "竖式计算示例",
+            "description": "20 除 96 的竖式计算步骤示意图",
+            "figure_id": "ipa_evidence_57edc27ed1b9"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\001_两、三位数除以两位数.md",
+            "section": {
+              "id": "s001",
+              "title": "两、 三位数除以两位数"
+            },
+            "quote_or_summary": "回顾前面的学习过程，说说怎样计算除数是两位数的除法。把除数看作和它接近的整十数试商。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "除数是整十数的除法"
+        ]
+      },
+      "source_context_id": "s001_001_两、三位数除以两位数",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s001_kp_div_rule"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_1c22de1accb6",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "商不变的规律",
+        "rules": [
+          {
+            "statement": "被除数和除数同时乘或除以同一个数（0 除外），商不变。"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page027_img013.jpg",
+            "name": "简便计算示例",
+            "description": "展示 600 除以 20 等算式的简便计算图示",
+            "figure_id": "ipa_evidence_d79d7c0b0409"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\001_两、三位数除以两位数.md",
+            "section": {
+              "id": "s001",
+              "title": "两、 三位数除以两位数"
+            },
+            "quote_or_summary": "被除数和除数同时乘或除以同一个数（0 除外），商不变。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "商不变的规律"
+        ]
+      },
+      "source_context_id": "s001_001_两、三位数除以两位数",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s001_kp_quotient_invariant"
+      ]
+    },
+    {
+      "node_id": "canon_problem_fe65d0a063d1",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "四年级一班有 34 人，一共借书 272 本。四年级一班平均每人借书多少本？",
+        "figures": [
+          {
+            "image_path": "images/page020_img001.jpg",
+            "name": "借书场景插图",
+            "description": "描述班级人数和借书总数的应用题插图",
+            "figure_id": "ipa_evidence_24362629ac02"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\001_两、三位数除以两位数.md",
+            "section": {
+              "id": "s001",
+              "title": "两、 三位数除以两位数"
+            },
+            "quote_or_summary": "四年级一班有 34 人，一共借书 272 本。四年级一班平均每人借书多少本？"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "四年级一班有34人，一共借书272本。四年级一班平均每人借书多少本？"
+        ]
+      },
+      "source_context_id": "s001_001_两、三位数除以两位数",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s001_prob_books"
+      ]
+    },
+    {
+      "node_id": "canon_problem_892f3efb86ab",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "王大伯家养了 185 只公鸡和 229 只母鸡，还养了 46 只鸭。鸡的只数是鸭的几倍？",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\001_两、三位数除以两位数.md",
+            "section": {
+              "id": "s001",
+              "title": "两、 三位数除以两位数"
+            },
+            "quote_or_summary": "王大伯家养了 185 只公鸡和 229 只母鸡，还养了 46 只鸭。鸡的只数是鸭的几倍？"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "王大伯家养了185只公鸡和229只母鸡，还养了46只鸭。鸡的只数是鸭的几倍？"
+        ]
+      },
+      "source_context_id": "s001_001_两、三位数除以两位数",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s001_prob_chicken"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_5b3613064a4b",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "试商方法",
+        "methods": [
+          {
+            "step_text": "把除数看作和它接近的整十数试商。"
+          },
+          {
+            "step_text": "如果被除数前两位比除数小，就用前三位除以除数。"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\001_两、三位数除以两位数.md",
+            "section": {
+              "id": "s001",
+              "title": "两、 三位数除以两位数"
+            },
+            "quote_or_summary": "32 接近 30，把 32 看作 30 来试商。"
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "试商方法"
+        ]
+      },
+      "source_context_id": "s001_001_两、三位数除以两位数",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s001_kp_trial_quotient"
+      ]
+    },
+    {
+      "node_id": "canon_problem_05e0eb4423e0",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "花店有 388 枝玫瑰花，每 30 枝扎成一束，可以扎成几束，还剩多少枝？",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\001_两、三位数除以两位数.md",
+            "section": {
+              "id": "s001",
+              "title": "两、 三位数除以两位数"
+            },
+            "quote_or_summary": "花店有 388 枝玫瑰花，每 30 枝扎成一束，可以扎成几束，还剩多少枝？"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "花店有388枝玫瑰花，每30枝扎成一束，可以扎成几束，还剩多少枝？"
+        ]
+      },
+      "source_context_id": "s001_001_两、三位数除以两位数",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s001_prob_flower"
+      ]
+    },
+    {
+      "node_id": "canon_problem_a45028abfdb6",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "青山果园收获了 300 箱苹果和 260 箱梨，一辆卡车每次能运 40 箱，多少次才能全部运完？",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\001_两、三位数除以两位数.md",
+            "section": {
+              "id": "s001",
+              "title": "两、 三位数除以两位数"
+            },
+            "quote_or_summary": "青山果园收获了 300 箱苹果和 260 箱梨，一辆卡车每次能运 40 箱，多少次才能全部运完？"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "青山果园收获了300箱苹果和260箱梨，一辆卡车每次能运40箱，多少次才能全部运完？"
+        ]
+      },
+      "source_context_id": "s001_001_两、三位数除以两位数",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s001_prob_apple"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_f80f3e245345",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "整理与练 习",
+        "chapter_num": "2",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\002_整理与练习.md",
+        "line_range": {
+          "start": 1635,
+          "end": 2295
+        },
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\002_整理与练习.md",
+            "section": {
+              "id": "s002",
+              "title": "整理与练 习"
+            },
+            "quote_or_summary": "# 整理与练 习"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "整理与练习"
+        ]
+      },
+      "source_context_id": "s002_002_整理与练习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "chp_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_b32aeb411745",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "除法试商策略",
+        "definition": "计算除数是两位数的除法时，可以把除数看作整十数来试商。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\002_整理与练习.md",
+            "section": {
+              "id": "s002",
+              "title": "整理与练 习"
+            },
+            "quote_or_summary": "计算 285 ÷ 34，可以先把 34 当作 30 来试商……"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "除法试商策略"
+        ]
+      },
+      "source_context_id": "s002_002_整理与练习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_507fee755ea5",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "周期现象",
+        "definition": "同一事物依次重复出现叫作周期现象。",
+        "figures": [
+          {
+            "image_path": "images/page032_img007.jpg",
+            "name": "花盆排列图",
+            "description": "三个并列的椭圆圈，每个圈内有三个圆形色块，从左到右依次为蓝色、黄色、粉色；圈后有省略号表示序列延续。",
+            "figure_id": "ipa_evidence_f6f903e66ee9"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\002_整理与练习.md",
+            "section": {
+              "id": "s002",
+              "title": "整理与练 习"
+            },
+            "quote_or_summary": "像上面这样同一事物依次重复出现叫作周期现象。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "周期现象"
+        ]
+      },
+      "source_context_id": "s002_002_整理与练习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_002"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_5e32bd381742",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "观察物体",
+        "definition": "从前面、右面和上面观察物体，看到的形状不同。",
+        "figures": [
+          {
+            "image_path": "images/page034_img001.jpg",
+            "name": "教室场景图",
+            "description": "教室里，一位女教师站在讲台后，手指向上讲解；讲台上放着一个橙色投票箱，箱体正面写有“投票箱”三字。",
+            "figure_id": "ipa_evidence_0395c0ac4f6c"
+          },
+          {
+            "image_path": "images/page034_img002.jpg",
+            "name": "投票箱视图",
+            "description": "这是从前面看到的。这是从右面看到的。这是从上面看到的。",
+            "figure_id": "ipa_evidence_b6992e0d4070"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\002_整理与练习.md",
+            "section": {
+              "id": "s002",
+              "title": "整理与练 习"
+            },
+            "quote_or_summary": "你能指出投票箱的前面、右面和上面吗？"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "观察物体"
+        ]
+      },
+      "source_context_id": "s002_002_整理与练习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_003"
+      ]
+    },
+    {
+      "node_id": "canon_problem_960d80a7058d",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "小红从家到学校用了 13 分钟，平均每分钟走多少米？她用同样的速度从家到少年宫要走几分钟？从学校到少年宫呢？",
+        "problem_type": "应用题",
+        "figures": [
+          {
+            "image_path": "images/page029_img006.jpg",
+            "name": "场景示意图",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_4179f7222a8b"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\002_整理与练习.md",
+            "section": {
+              "id": "s002",
+              "title": "整理与练 习"
+            },
+            "quote_or_summary": "小红从家到学校用了 13 分钟，平均每分钟走多少米？"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "小红从家到学校用了13分钟，平均每分钟走多少米？她用同样的速度从家到少年宫要走几分钟？从学校到少年宫呢？"
+        ]
+      },
+      "source_context_id": "s002_002_整理与练习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_001"
+      ]
+    },
+    {
+      "node_id": "canon_problem_323b8d333f5a",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "平均每头奶牛每天吃饲料多少千克？",
+        "problem_type": "应用题",
+        "figures": [
+          {
+            "image_path": "images/page030_img006.jpg",
+            "name": "奶牛场景",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_7f4a63b7449a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\002_整理与练习.md",
+            "section": {
+              "id": "s002",
+              "title": "整理与练 习"
+            },
+            "quote_or_summary": "平均每头奶牛每天吃饲料多少千克？"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "平均每头奶牛每天吃饲料多少千克？"
+        ]
+      },
+      "source_context_id": "s002_002_整理与练习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_003"
+      ]
+    },
+    {
+      "node_id": "canon_problem_4aa635c699e7",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "王叔叔要包装 480 个乒乓球，一共装了 8 盒，每盒 12 袋。平均每袋装多少个？",
+        "problem_type": "应用题",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\002_整理与练习.md",
+            "section": {
+              "id": "s002",
+              "title": "整理与练 习"
+            },
+            "quote_or_summary": "王叔叔要包装 480 个乒乓球，一共装了 8 盒，每盒 12 袋。平均每袋装多少个？"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "王叔叔要包装480个乒乓球，一共装了8盒，每盒12袋。平均每袋装多少个？"
+        ]
+      },
+      "source_context_id": "s002_002_整理与练习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_004"
+      ]
+    },
+    {
+      "node_id": "canon_problem_ad624f8e99b1",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "李冬有 400 元，买一套紫砂茶具后，还可以买多少套陶瓷茶具？",
+        "problem_type": "应用题",
+        "figures": [
+          {
+            "image_path": "images/page030_img001.jpg",
+            "name": "紫砂茶具",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_c441cfb7f385"
+          },
+          {
+            "image_path": "images/page030_img002.jpg",
+            "name": "陶瓷茶具",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_9ee8e074c578"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\002_整理与练习.md",
+            "section": {
+              "id": "s002",
+              "title": "整理与练 习"
+            },
+            "quote_or_summary": "李冬有 400 元，买一套紫砂茶具后，还可以买多少套陶瓷茶具？"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "李冬有400元，买一套紫砂茶具后，还可以买多少套陶瓷茶具？"
+        ]
+      },
+      "source_context_id": "s002_002_整理与练习",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_002"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_4fbd58304031",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "统计表和条形统计图（一）",
+        "chapter_num": "3",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+            "section": {
+              "id": "s003",
+              "title": "统计表和条形统计图(一)"
+            },
+            "quote_or_summary": "# 统计表和条形统计图（一）"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page042_img005.jpg",
+            "name": "统计表和条形统计图示例",
+            "description": "包含节目类别和人数数据的统计表及条形统计图网格",
+            "figure_id": "ipa_evidence_5d0d7cdb416e"
+          }
+        ],
+        "aliases": [
+          "统计表和条形统计图（一）"
+        ]
+      },
+      "source_context_id": "s003_003_统计表和条形统计图(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_section_001",
+        "node_s003_section_001",
+        "node_s003_section"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_a4afcfa35dca",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "统计表",
+        "definition": "统计表用表格呈现数据。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+            "section": {
+              "id": "s003",
+              "title": "统计表和条形统计图(一)"
+            },
+            "quote_or_summary": "统计表用表格呈现数据，条形统计图用直条呈现数据。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "统计表"
+        ]
+      },
+      "source_context_id": "s003_003_统计表和条形统计图(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_kp_001",
+        "node_s003_kp_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_73d1f812e248",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "条形统计图",
+        "definition": "条形统计图用直条呈现数据。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+            "section": {
+              "id": "s003",
+              "title": "统计表和条形统计图(一)"
+            },
+            "quote_or_summary": "统计表用表格呈现数据，条形统计图用直条呈现数据。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "条形统计图"
+        ]
+      },
+      "source_context_id": "s003_003_统计表和条形统计图(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_kp_002",
+        "node_s003_kp_002"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_2b7ab87ed3a4",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "分段整理",
+        "definition": "通过分段整理，可以知道每种服装要买多少套。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+            "section": {
+              "id": "s003",
+              "title": "统计表和条形统计图(一)"
+            },
+            "quote_or_summary": "通过分段整理，可以知道每种服装要买多少套。分段整理时，要注意不重复、不遗漏。"
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "分段整理"
+        ]
+      },
+      "source_context_id": "s003_003_统计表和条形统计图(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_kp_003",
+        "node_s003_kp_003"
+      ]
+    },
+    {
+      "node_id": "canon_problem_712e3152fc1c",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "梅峰小学准备为鼓号队员购买服装。服装分为大号、中号和小号。身高 130～139 cm 的队员适合穿小号，140～149cm 的适合穿中号，150～159 cm 的适合大号。你知道每种服装各要购买多少套吗？",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+            "section": {
+              "id": "s003",
+              "title": "统计表和条形统计图(一)"
+            },
+            "quote_or_summary": "梅峰小学准备为鼓号队员购买服装。服装分为大号、中号和小号。身高 130～139 cm 的队员适合穿小号，140～149cm 的适合穿中号，150～159 cm 的适合大号。"
+          }
+        ],
+        "confidence": 0.9,
+        "figures": [
+          {
+            "image_path": "images/page044_img002.jpg",
+            "name": "鼓号队员身高场景",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_9e825bcb423b"
+          }
+        ],
+        "aliases": [
+          "梅峰小学准备为鼓号队员购买服装。服装分为大号、中号和小号。身高130～139cm的队员适合穿小号，140～149cm的适合穿中号，150～159cm的适合大号。你知道每种服装各要购买多少套吗？"
+        ]
+      },
+      "source_context_id": "s003_003_统计表和条形统计图(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_prob_001",
+        "node_s003_prob_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_c8e90d97e3f0",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "统计图的特点",
+        "definition": "统计表和条形统计图都能清楚地看出统计的结果。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+            "section": {
+              "id": "s003",
+              "title": "统计表和条形统计图(一)"
+            },
+            "quote_or_summary": "统计表和条形统计图都能清楚地看出统计的结果。条形统计图能直观、形象地表示数量的多少。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "统计图的特点"
+        ]
+      },
+      "source_context_id": "s003_003_统计表和条形统计图(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_kp_004",
+        "node_s003_kp_004"
+      ]
+    },
+    {
+      "node_id": "canon_problem_daa992582f21",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "我国长江、黄河、珠江和淮河的长度如下表：你能根据表中的数据把条形统计图绘制完整吗？",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+            "section": {
+              "id": "s003",
+              "title": "统计表和条形统计图(一)"
+            },
+            "quote_or_summary": "我国长江、黄河、珠江和淮河的长度如下表：你能根据表中的数据把条形统计图绘制完整吗？"
+          }
+        ],
+        "confidence": 0.85,
+        "figures": [
+          {
+            "image_path": "images/page047_img003.jpg",
+            "name": "河流长度统计图",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_63afdb39f437"
+          }
+        ],
+        "aliases": [
+          "我国长江、黄河、珠江和淮河的长度如下表：你能根据表中的数据把条形统计图绘制完整吗？"
+        ]
+      },
+      "source_context_id": "s003_003_统计表和条形统计图(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_prob_002",
+        "node_s003_prob_002"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_61dc2b4b9d5b",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "统计图的多样性",
+        "definition": "在报纸、杂志、电视、互联网等媒体中，经常能够见到各种各样的统计图。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+            "section": {
+              "id": "s003",
+              "title": "统计表和条形统计图(一)"
+            },
+            "quote_or_summary": "在报纸、杂志、电视、互联网等媒体中，经常能够见到各种各样的统计图。"
+          }
+        ],
+        "confidence": 0.8,
+        "figures": [
+          {
+            "image_path": "images/page050_img002.jpg",
+            "name": "粮食总产量统计图",
+            "description": "粮食总产量统计图（麦穗图）：一幅以麦穗为单位的条形统计图，横轴排列 8 个麦穗图形，每个麦穗上方标注对应年份粮食总产量数值。",
+            "figure_id": "ipa_evidence_b9f2c1b70983"
+          }
+        ],
+        "aliases": [
+          "统计图的多样性"
+        ]
+      },
+      "source_context_id": "s003_003_统计表和条形统计图(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_kp_005",
+        "node_s003_kp_005"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_baa50d2b209d",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "平角",
+        "definition": "一条射线绕端点旋转，当终边和始边成一条直线时所成的角。",
+        "figures": [
+          {
+            "image_path": "images/page086_img004.jpg",
+            "name": "平角形成示意图",
+            "description": "L-shaped wooden strip and its unfolding diagram showing transformation to straight line.",
+            "figure_id": "ipa_evidence_93db7d427927"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+            "section": {
+              "id": "s003",
+              "title": "统计表和条形统计图(一)"
+            },
+            "quote_or_summary": "这时形成的角包含了几个直角？是多少度？这个角等于 180°。这是平角，平角等于 180°。"
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "平角"
+        ]
+      },
+      "source_context_id": "s003_003_统计表和条形统计图(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_straight_angle",
+        "node_s003_straight_angle"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_721ecfe0bbc3",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "锐角、钝角",
+        "definition": "锐角小于 90°，钝角大于 90°且小于 180°。",
+        "figures": [
+          {
+            "image_path": "images/page086_img009.jpg",
+            "name": "锐角示意图",
+            "description": "角的示意图：一个由两条青色射线构成的锐角，顶点在左下角，其中一条射线水平向右延伸，另一条向上倾斜；角内部用粉色弧线标记。",
+            "figure_id": "ipa_evidence_9d66d6069e1a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+            "section": {
+              "id": "s003",
+              "title": "统计表和条形统计图(一)"
+            },
+            "quote_or_summary": "锐角比直角小，锐角小于 90°。钝角比直角大，比平角小。钝角大于 90°，小于 180°。"
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "锐角、钝角"
+        ]
+      },
+      "source_context_id": "s003_003_统计表和条形统计图(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_acute_obtuse",
+        "node_s003_acute_obtuse"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_5dc728adc0dd",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "垂线",
+        "definition": "两条直线相交成直角时，这两条直线互相垂直。",
+        "figures": [
+          {
+            "image_path": "images/page097_img005.jpg",
+            "name": "互相垂直的直线",
+            "description": "图示：两条互相垂直的直线，一条水平，一条竖直，右上角交点处标有紫色直角符号。",
+            "figure_id": "ipa_evidence_9faabc5f87f3"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+            "section": {
+              "id": "s003",
+              "title": "统计表和条形统计图(一)"
+            },
+            "quote_or_summary": "两条直线相交成直角时，这两条直线互相垂直，其中一条直线是另一条直线的垂线。"
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "垂线"
+        ]
+      },
+      "source_context_id": "s003_003_统计表和条形统计图(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_perpendicular",
+        "node_s003_perpendicular"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_75c1f70d68ef",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "平行线",
+        "definition": "在同一平面内不相交的两条直线互相平行。",
+        "figures": [
+          {
+            "image_path": "images/page095_img002.jpg",
+            "name": "方格纸上的平行线",
+            "description": "在蓝色方格纸上画有两条紫红色的水平直线，它们位于同一平面内，彼此平行，不相交。",
+            "figure_id": "ipa_evidence_9878ffce94b6"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+            "section": {
+              "id": "s003",
+              "title": "统计表和条形统计图(一)"
+            },
+            "quote_or_summary": "像这样不相交的两条直线互相平行，其中一条直线是另一条直线的平行线。"
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "平行线"
+        ]
+      },
+      "source_context_id": "s003_003_统计表和条形统计图(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_parallel",
+        "node_s003_parallel"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_e06cddd5aa89",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "点到直线的距离",
+        "definition": "从直线外一点到这条直线所画的垂直线段的长度。",
+        "figures": [
+          {
+            "image_path": "images/page092_img002.jpg",
+            "name": "点到直线的垂线段",
+            "description": "点 P 在一条水平直线上方，从点 P 向该直线引出多条线段，其中中间一条线段与直线垂直，垂足处标有直角符号。",
+            "figure_id": "ipa_evidence_84321079ccec"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+            "section": {
+              "id": "s003",
+              "title": "统计表和条形统计图(一)"
+            },
+            "quote_or_summary": "从直线外一点到这条直线所画的垂直线段的长度，叫作这点到直线的距离。"
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "点到直线的距离"
+        ]
+      },
+      "source_context_id": "s003_003_统计表和条形统计图(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_distance",
+        "node_s003_distance"
+      ]
+    },
+    {
+      "node_id": "canon_problem_a2fd099d1a4a",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "用量角器画一个 50°的角。",
+        "problem_type": "画图题",
+        "figures": [
+          {
+            "image_path": "images/page087_img005.jpg",
+            "name": "量角器测量 50°角",
+            "description": "图中展示了一个蓝色半圆量角器，其底边中心对准一条水平射线的端点，0°刻度线与该射线重合。",
+            "figure_id": "ipa_evidence_e221d5a37358"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+            "section": {
+              "id": "s003",
+              "title": "统计表和条形统计图(一)"
+            },
+            "quote_or_summary": "用量角器画一个 50°的角。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "用量角器画一个50°的角。"
+        ]
+      },
+      "source_context_id": "s003_003_统计表和条形统计图(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_draw_angle",
+        "node_s003_draw_angle"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_f07bd4b0aca4",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "统计表和条形统计图 (一)",
+        "chapter_num": "3",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+        "line_range": {
+          "start": 2296,
+          "end": 5173
+        },
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+            "section": {
+              "id": "s003",
+              "title": "统计表和条形统计图(一)"
+            },
+            "quote_or_summary": "统计表和条形统计图 (一)"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "统计表和条形统计图(一)"
+        ]
+      },
+      "source_context_id": "s003_003_统计表和条形统计图(一)",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_section"
+      ]
+    },
+    {
+      "node_id": "canon_problem_51b82331b1dd",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "先照样子折一折，再填一填，并说说它们各是什么角。∠1 =（ ）°",
+        "problem_type": "操作题",
+        "figures": [
+          {
+            "image_path": "images/page088_img004.jpg",
+            "name": "八等分圆折纸角",
+            "description": "图中是一个被虚线平均分成 8 个扇形的圆，圆心处标有角 1，用紫色弧线表示该角。",
+            "figure_id": "ipa_evidence_58330b93c21b"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260629_224437_义务教育教科书·数学四年级上册_20260629\\enhanced_markdown\\sections\\003_统计表和条形统计图(一).md",
+            "section": {
+              "id": "s003",
+              "title": "统计表和条形统计图(一)"
+            },
+            "quote_or_summary": "先照样子折一折，再填一填，并说说它们各是什么角。∠1 =（ ）°"
+          }
+        ],
+        "confidence": 0.88,
+        "aliases": [
+          "先照样子折一折，再填一填，并说说它们各是什么角。∠1=（）°"
+        ]
+      },
+      "source_context_id": "s003_003_统计表和条形统计图(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s003_fold_angle"
+      ]
+    }
+  ]
+}

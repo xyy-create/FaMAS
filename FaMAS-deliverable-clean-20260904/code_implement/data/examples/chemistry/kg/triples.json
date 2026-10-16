@@ -1,0 +1,1482 @@
+{
+  "schema_version": "kg.triples.v1",
+  "run_id": "chemistry_example",
+  "triples": [
+    {
+      "triple_id": "triple_contains_028297bafd9b",
+      "subject_node_id": "canon_chaptersection_097a5a8522f8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8e1cbb068c9d",
+      "edge_id": "canon_edge_contains_6680ee9f402b",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/001_物质的分类及计量.md",
+          "section": {
+            "id": "s001",
+            "title": "物质的分类及计量"
+          },
+          "quote_or_summary": "化学是研究物质的组成、结构、性质、转化及其应用的一门自然科学。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_2dc4cd4671bc",
+      "subject_node_id": "canon_chaptersection_097a5a8522f8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b7fc9679514f",
+      "edge_id": "canon_edge_contains_9026fad93b67",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/001_物质的分类及计量.md",
+          "section": {
+            "id": "s001",
+            "title": "物质的分类及计量"
+          },
+          "quote_or_summary": "接触到的物质大多是组成和分散状态不同的混合物。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_2db4ca0f3a11",
+      "subject_node_id": "canon_chaptersection_2d4ea1db8700",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7da39e1c8a8d",
+      "edge_id": "canon_edge_contains_41706a833b0e",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+          "section": {
+            "id": "s002",
+            "title": "第一单元 物质及其反应的分类"
+          },
+          "quote_or_summary": "根据物质的存在状态、性质等可以对物质进行分类。例如，根据物质的存在状态，将物质分为气态物质、液态物质和固态物质。"
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "triple_id": "triple_contains_680794f02262",
+      "subject_node_id": "canon_chaptersection_2d4ea1db8700",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_45e41dec9b0e",
+      "edge_id": "canon_edge_contains_5739f40d15ea",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+          "section": {
+            "id": "s002",
+            "title": "第一单元 物质及其反应的分类"
+          },
+          "quote_or_summary": "我们把由一种或几种物质（称为分散质）分散到另一种物质（称为分散剂）中形成的混合物体系称为分散系。"
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "triple_id": "triple_contains_36a5c816859a",
+      "subject_node_id": "canon_chaptersection_2d4ea1db8700",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_4150bf7775f9",
+      "edge_id": "canon_edge_contains_fbea0cdffccc",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+          "section": {
+            "id": "s002",
+            "title": "第一单元 物质及其反应的分类"
+          },
+          "quote_or_summary": "分散质粒子的直径在 $10^{-9}$m 至 $10^{-7}$m 之间的分散系叫作胶体。当光束通过胶体时，可以看到一条光亮的通路，该现象称为丁达尔效应。"
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "triple_id": "triple_contains_a0c96d065162",
+      "subject_node_id": "canon_chaptersection_2d4ea1db8700",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_41c56e515151",
+      "edge_id": "canon_edge_contains_a9fef258a023",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+          "section": {
+            "id": "s002",
+            "title": "第一单元 物质及其反应的分类"
+          },
+          "quote_or_summary": "这些在水溶液或熔融状态下能导电的化合物叫作电解质。电解质在水溶液中或熔融状态下产生自由移动的离子的过程称为电离。"
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "triple_id": "triple_contains_d1e6adb0b72b",
+      "subject_node_id": "canon_chaptersection_2d4ea1db8700",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_57e6dadea308",
+      "edge_id": "canon_edge_contains_4250e6198e36",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+          "section": {
+            "id": "s002",
+            "title": "第一单元 物质及其反应的分类"
+          },
+          "quote_or_summary": "物质的量（amount of substance）是国际单位制中的基本物理量之一，符号为n，常用单位为摩尔（简称摩，符号为mol）。"
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "triple_id": "triple_contains_e3b55eb631c7",
+      "subject_node_id": "canon_chaptersection_2d4ea1db8700",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_3c1921765562",
+      "edge_id": "canon_edge_contains_9d495f7f6473",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+          "section": {
+            "id": "s002",
+            "title": "第一单元 物质及其反应的分类"
+          },
+          "quote_or_summary": "我们将单位物质的量的气体所占的体积称为气体摩尔体积。在标准状况（273K、101kPa）下，1mol任何气体所占的体积都约为22.4L。"
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "triple_id": "triple_contains_1825467f5f28",
+      "subject_node_id": "canon_chaptersection_2d4ea1db8700",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_67fa130f3217",
+      "edge_id": "canon_edge_contains_1bb74f6b8969",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+          "section": {
+            "id": "s002",
+            "title": "第一单元 物质及其反应的分类"
+          },
+          "quote_or_summary": "像这样有元素化合价发生变化的反应，称为氧化还原反应。而元素化合价不发生变化的反应，称为非氧化还原反应。"
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "triple_id": "triple_requires_adfc0ab522d9",
+      "subject_node_id": "canon_knowledgepoint_4150bf7775f9",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_45e41dec9b0e",
+      "edge_id": "canon_edge_requires_a62d0caefa1c",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+          "section": {
+            "id": "s002",
+            "title": "第一单元 物质及其反应的分类"
+          },
+          "quote_or_summary": "分散质粒子的直径在 $10^{-9}$m 至 $10^{-7}$m 之间的分散系叫作胶体。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_requires_3087dbba91b0",
+      "subject_node_id": "canon_knowledgepoint_3c1921765562",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_57e6dadea308",
+      "edge_id": "canon_edge_requires_d16edc18c89c",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/002_第一单元物质及其反应的分类.md",
+          "section": {
+            "id": "s002",
+            "title": "第一单元 物质及其反应的分类"
+          },
+          "quote_or_summary": "我们将单位物质的量的气体所占的体积称为气体摩尔体积。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_092e85a34522",
+      "subject_node_id": "canon_chaptersection_f332629cbdb9",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_1a756af08e93",
+      "edge_id": "canon_edge_contains_5c8237137e0f",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/003_研究物质的基本方法.md",
+          "section": {
+            "id": "s003",
+            "title": "研究物质的基本方法"
+          },
+          "quote_or_summary": "从古至今，人类在探索物质世界的漫长过程中，不断实践、总结和反思，积累了丰富的研究物质的实验方法。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_bff5a172eaaa",
+      "subject_node_id": "canon_chaptersection_153320d663f4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_6ad037206f32",
+      "edge_id": "canon_edge_contains_d3783ba6ed90",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/004_第一单元研究物质的实验方法.md",
+          "section": {
+            "id": "s004",
+            "title": "第一单元 研究物质的实验方法"
+          },
+          "quote_or_summary": "常见的混合物分离的方法有过滤、结晶、蒸馏、分液、萃取等。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_471fe7649159",
+      "subject_node_id": "canon_chaptersection_153320d663f4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_e5eb1ab335f3",
+      "edge_id": "canon_edge_contains_9bd273d23070",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/004_第一单元研究物质的实验方法.md",
+          "section": {
+            "id": "s004",
+            "title": "第一单元 研究物质的实验方法"
+          },
+          "quote_or_summary": "运用蒸馏的方法，可以分离沸点相差较大的液体混合物。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_96415f584fd8",
+      "subject_node_id": "canon_chaptersection_153320d663f4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_78349be19bbb",
+      "edge_id": "canon_edge_contains_356453a22386",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/004_第一单元研究物质的实验方法.md",
+          "section": {
+            "id": "s004",
+            "title": "第一单元 研究物质的实验方法"
+          },
+          "quote_or_summary": "这种利用物质在互不相溶的溶剂中溶解度的不同，将物质从一种溶剂转移到另一种溶剂中，从而实现分离的方法称为萃取。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_990f97e6ff14",
+      "subject_node_id": "canon_chaptersection_153320d663f4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7cc78011c17e",
+      "edge_id": "canon_edge_contains_aea99eaa96bc",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/004_第一单元研究物质的实验方法.md",
+          "section": {
+            "id": "s004",
+            "title": "第一单元 研究物质的实验方法"
+          },
+          "quote_or_summary": "实验室使用容量瓶来配制一定体积、一定物质的量浓度的溶液。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_51c95d03701d",
+      "subject_node_id": "canon_chaptersection_153320d663f4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ad3959177e37",
+      "edge_id": "canon_edge_contains_c90748748250",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/004_第一单元研究物质的实验方法.md",
+          "section": {
+            "id": "s004",
+            "title": "第一单元 研究物质的实验方法"
+          },
+          "quote_or_summary": "化学反应中参加反应的各物质的物质的量之比等于化学方程式中对应物质的化学计量数之比。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8844b5e5368b",
+      "subject_node_id": "canon_chaptersection_153320d663f4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c0d6a604209f",
+      "edge_id": "canon_edge_contains_5b1a4f760150",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/004_第一单元研究物质的实验方法.md",
+          "section": {
+            "id": "s004",
+            "title": "第一单元 研究物质的实验方法"
+          },
+          "quote_or_summary": "许多金属或它们的化合物在火焰上灼烧时都会使火焰呈现特殊的颜色，这叫作焰色反应。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_57447cae8866",
+      "subject_node_id": "canon_chaptersection_153320d663f4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_172d4d07eaa7",
+      "edge_id": "canon_edge_contains_598adcc4abca",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/004_第一单元研究物质的实验方法.md",
+          "section": {
+            "id": "s004",
+            "title": "第一单元 研究物质的实验方法"
+          },
+          "quote_or_summary": "此外，科学家还借助仪器来分析化学物质的组成。例如，用元素分析仪确定物质中是否含有C、H、O、N、S、Cl、Br等元素。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_7023b33cbeee",
+      "subject_node_id": "canon_chaptersection_542fb65289d4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7078c7cca0a0",
+      "edge_id": "canon_edge_contains_fe3a8772b55b",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/005_第三单元人类对原子结构的认识.md",
+          "section": {
+            "id": "s005",
+            "title": "第三单元人类对原子结构的认识"
+          },
+          "quote_or_summary": "19世纪初，英国科学家道尔顿总结了一些元素形成化合物时的质量比例关系，提出了原子学说。他认为物质由原子组成，原子不能被创造，也不能被毁灭。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_ea548485ac06",
+      "subject_node_id": "canon_chaptersection_542fb65289d4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_55cc4ae3380b",
+      "edge_id": "canon_edge_contains_1c0d61f9f502",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/005_第三单元人类对原子结构的认识.md",
+          "section": {
+            "id": "s005",
+            "title": "第三单元人类对原子结构的认识"
+          },
+          "quote_or_summary": "1897年，英国物理学家汤姆生发现原子中存在电子，并推测这种粒子是均匀地嵌在云状的正电荷球体中，于是提出了“葡萄干面包式”的原子结构模型。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_ead25491dbd3",
+      "subject_node_id": "canon_chaptersection_542fb65289d4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d9d7e7d60a08",
+      "edge_id": "canon_edge_contains_10d43d57195d",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/005_第三单元人类对原子结构的认识.md",
+          "section": {
+            "id": "s005",
+            "title": "第三单元人类对原子结构的认识"
+          },
+          "quote_or_summary": "1913年，丹麦物理学家玻尔在研究氢原子光谱时，引人了量子论观点，大胆地提出了新的原子结构模型：原子核外，电子在一系列稳定的轨道上运动，每个轨道都具有一个确定的能量值。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a65d3a37ec8f",
+      "subject_node_id": "canon_chaptersection_542fb65289d4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_456730e8899d",
+      "edge_id": "canon_edge_contains_648251120832",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/005_第三单元人类对原子结构的认识.md",
+          "section": {
+            "id": "s005",
+            "title": "第三单元人类对原子结构的认识"
+          },
+          "quote_or_summary": "原子是由原子核（nucleus）和核外电子（electron）构成的，原子的质量几乎都集中在原子核上。绝大多数原子核由带正电荷的质子（proton）和不带电荷的中子（neutron）构成。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0489e11c5b90",
+      "subject_node_id": "canon_chaptersection_542fb65289d4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_6e1265e6c5a7",
+      "edge_id": "canon_edge_contains_3872d54187cb",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/005_第三单元人类对原子结构的认识.md",
+          "section": {
+            "id": "s005",
+            "title": "第三单元人类对原子结构的认识"
+          },
+          "quote_or_summary": "具有一定质子数和一定中子数的一种原子称为一种核素；质子数相同、质量数（或中子数）不同的核素互称为同位素。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_dd026a823992",
+      "subject_node_id": "canon_chaptersection_542fb65289d4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_0969afc5b65d",
+      "edge_id": "canon_edge_contains_ebf3daf37793",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/005_第三单元人类对原子结构的认识.md",
+          "section": {
+            "id": "s005",
+            "title": "第三单元人类对原子结构的认识"
+          },
+          "quote_or_summary": "电子在原子核外是分层排布的，各电子层由内向外的序数n依次为1、2、3……分别称为K、L、M……。原子核外各电子层最多能容纳的电子数为$2 n ^ { 2 }$。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8f69138c3cf8",
+      "subject_node_id": "canon_chaptersection_84bcc880e5d5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_034de1ef0b68",
+      "edge_id": "canon_edge_contains_88b50db5647d",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/006_从海水中获得的化学物质.md",
+          "section": {
+            "id": "s006",
+            "title": "从海水中获得的化学物质"
+          },
+          "quote_or_summary": "海洋化学资源的综合利用"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_c66dbc2a3c48",
+      "subject_node_id": "canon_chaptersection_84bcc880e5d5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b5743a5d2ccc",
+      "edge_id": "canon_edge_contains_cfa8a848a17f",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/006_从海水中获得的化学物质.md",
+          "section": {
+            "id": "s006",
+            "title": "从海水中获得的化学物质"
+          },
+          "quote_or_summary": "其中含量最高的是氯化钠"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_5ca9cb3dee30",
+      "subject_node_id": "canon_chaptersection_84bcc880e5d5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_a5e9c1181f3b",
+      "edge_id": "canon_edge_contains_cb87dd2c1c67",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/006_从海水中获得的化学物质.md",
+          "section": {
+            "id": "s006",
+            "title": "从海水中获得的化学物质"
+          },
+          "quote_or_summary": "通过电解方法将其转化为生产、生活和科学实验中用途更为广泛的新物质"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_177a15b09234",
+      "subject_node_id": "canon_chaptersection_54dea42ff0e6",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_13914b5b3df5",
+      "edge_id": "canon_edge_contains_5c87b9fb6de9",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+          "section": {
+            "id": "s007",
+            "title": "第一单元 氯气及氯的化合物"
+          },
+          "quote_or_summary": "## 氯气的发现与制备"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a304ab6f6796",
+      "subject_node_id": "canon_chaptersection_54dea42ff0e6",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5c8f0c02d9cb",
+      "edge_id": "canon_edge_contains_faf6812ba4c7",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+          "section": {
+            "id": "s007",
+            "title": "第一单元 氯气及氯的化合物"
+          },
+          "quote_or_summary": "以电解饱和食盐水为基础制取氯气、烧碱等产品的工业称为氯碱工业"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_befcf45d90e6",
+      "subject_node_id": "canon_chaptersection_54dea42ff0e6",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c6381eb64d37",
+      "edge_id": "canon_edge_contains_0a9befc8098d",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+          "section": {
+            "id": "s007",
+            "title": "第一单元 氯气及氯的化合物"
+          },
+          "quote_or_summary": "在通常情况下，氯气是一种黄绿色、密度比空气大、有刺激性气味的有毒气体"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_defa1f281253",
+      "subject_node_id": "canon_chaptersection_54dea42ff0e6",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_74b4fa2c87d5",
+      "edge_id": "canon_edge_contains_1b5adce246e8",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+          "section": {
+            "id": "s007",
+            "title": "第一单元 氯气及氯的化合物"
+          },
+          "quote_or_summary": "溶解在水中的部分氯气能与水反应，生成盐酸和次氯酸，次氯酸有漂白作用"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_be9f56232d41",
+      "subject_node_id": "canon_chaptersection_54dea42ff0e6",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_67fa130f3217",
+      "edge_id": "canon_edge_contains_9631fb87689c",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+          "section": {
+            "id": "s007",
+            "title": "第一单元 氯气及氯的化合物"
+          },
+          "quote_or_summary": "氧化还原反应是有电子转移的化学反应，失去电子的物质是还原剂"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_53618baa068c",
+      "subject_node_id": "canon_chaptersection_54dea42ff0e6",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5e2534234321",
+      "edge_id": "canon_edge_contains_e4f2608e1296",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+          "section": {
+            "id": "s007",
+            "title": "第一单元 氯气及氯的化合物"
+          },
+          "quote_or_summary": "工业上利用氯气和氢氧化钠或石灰乳反应制取漂白剂和漂白粉"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_30fed2a4b434",
+      "subject_node_id": "canon_problem_b6e46e6c49aa",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_5e2534234321",
+      "edge_id": "canon_edge_tests_429f29d48c8b",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+          "section": {
+            "id": "s007",
+            "title": "第一单元 氯气及氯的化合物"
+          },
+          "quote_or_summary": "漂白粉的有效成分是 Ca(ClO)2 和 CaCl2"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_bbf22e217abd",
+      "subject_node_id": "canon_problem_b6e46e6c49aa",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_74b4fa2c87d5",
+      "edge_id": "canon_edge_tests_896151e44e55",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+          "section": {
+            "id": "s007",
+            "title": "第一单元 氯气及氯的化合物"
+          },
+          "quote_or_summary": "液氯是纯净物，氯水是混合物"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_6b8f50baab8f",
+      "subject_node_id": "canon_problem_b6e46e6c49aa",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_c6381eb64d37",
+      "edge_id": "canon_edge_tests_4522106fa5a0",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/007_第一单元氯气及氯的化合物.md",
+          "section": {
+            "id": "s007",
+            "title": "第一单元 氯气及氯的化合物"
+          },
+          "quote_or_summary": "液氯是纯净物，氯水是混合物"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_fb8f9a85244d",
+      "subject_node_id": "canon_chaptersection_87a32a1af508",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_128fdc96b226",
+      "edge_id": "canon_edge_contains_392352f642dd",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+          "section": {
+            "id": "s008",
+            "title": "第二单元 金属钠及钠的化合物"
+          },
+          "quote_or_summary": "第二单元 金属钠及钠的化合物。本单元介绍钠及其化合物的性质、制备和应用。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8ea2898d6963",
+      "subject_node_id": "canon_chaptersection_87a32a1af508",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c2fb332f0f20",
+      "edge_id": "canon_edge_contains_6e9ea90a7891",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+          "section": {
+            "id": "s008",
+            "title": "第二单元 金属钠及钠的化合物"
+          },
+          "quote_or_summary": "第二单元 金属钠及钠的化合物。本单元介绍钠及其化合物的性质、制备和应用。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d6c53b4603c8",
+      "subject_node_id": "canon_chaptersection_87a32a1af508",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_4fc194b426a2",
+      "edge_id": "canon_edge_contains_e63d9ef003ab",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+          "section": {
+            "id": "s008",
+            "title": "第二单元 金属钠及钠的化合物"
+          },
+          "quote_or_summary": "第二单元 金属钠及钠的化合物。本单元介绍钠及其化合物的性质、制备和应用。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8f2a0ac25cf0",
+      "subject_node_id": "canon_chaptersection_87a32a1af508",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_41c56e515151",
+      "edge_id": "canon_edge_contains_b8c3d6e4c5c5",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+          "section": {
+            "id": "s008",
+            "title": "第二单元 金属钠及钠的化合物"
+          },
+          "quote_or_summary": "第二单元 金属钠及钠的化合物。本单元介绍钠及其化合物的性质、制备和应用。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_6084ead44dca",
+      "subject_node_id": "canon_chaptersection_87a32a1af508",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_56b89e652b9d",
+      "edge_id": "canon_edge_contains_e40742c4b076",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+          "section": {
+            "id": "s008",
+            "title": "第二单元 金属钠及钠的化合物"
+          },
+          "quote_or_summary": "第二单元 金属钠及钠的化合物。本单元介绍钠及其化合物的性质、制备和应用。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_5f1cbb07a7c6",
+      "subject_node_id": "canon_chaptersection_87a32a1af508",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_629da6eb9a53",
+      "edge_id": "canon_edge_contains_abc15336b901",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+          "section": {
+            "id": "s008",
+            "title": "第二单元 金属钠及钠的化合物"
+          },
+          "quote_or_summary": "第二单元 金属钠及钠的化合物。本单元介绍钠及其化合物的性质、制备和应用。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_9ba89f9ec987",
+      "subject_node_id": "canon_chaptersection_87a32a1af508",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8085e5a08e94",
+      "edge_id": "canon_edge_contains_8cbe769384fc",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/008_第二单元金属钠及钠的化合物.md",
+          "section": {
+            "id": "s008",
+            "title": "第二单元 金属钠及钠的化合物"
+          },
+          "quote_or_summary": "第二单元 金属钠及钠的化合物。本单元介绍钠及其化合物的性质、制备和应用。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_664417892422",
+      "subject_node_id": "canon_chaptersection_20aa238721d7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c91dd3947583",
+      "edge_id": "canon_edge_contains_b9b583a0409a",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+          "section": {
+            "id": "s009",
+            "title": "第三单元 海洋化学资源的综合利用"
+          },
+          "quote_or_summary": "经过海水晒盐获得的粗盐并不能直接用作化工原料，这是由于粗盐中含有其他一些盐和难溶性杂质。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_07ed7b1610d6",
+      "subject_node_id": "canon_chaptersection_20aa238721d7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_74bbea5e4aae",
+      "edge_id": "canon_edge_contains_a6adb9044450",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+          "section": {
+            "id": "s009",
+            "title": "第三单元 海洋化学资源的综合利用"
+          },
+          "quote_or_summary": "通常利用氧化还原反应原理，将氯气通入提取食盐后的母液中，将溶液中的溴离子转化为溴单质。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_c120cfc9553a",
+      "subject_node_id": "canon_chaptersection_20aa238721d7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_f7bbea162c66",
+      "edge_id": "canon_edge_contains_d9708a12571b",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+          "section": {
+            "id": "s009",
+            "title": "第三单元 海洋化学资源的综合利用"
+          },
+          "quote_or_summary": "工业上从海水中提取镁的生产流程如图3-12所示。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_f7a3091aec30",
+      "subject_node_id": "canon_chaptersection_20aa238721d7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b451e56c25c4",
+      "edge_id": "canon_edge_contains_3e39f6754a5d",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+          "section": {
+            "id": "s009",
+            "title": "第三单元 海洋化学资源的综合利用"
+          },
+          "quote_or_summary": "目前工业上并不直接通过海水提取碘，而是以具有富集碘能力的海藻（如海带等）为原料获取碘。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_7ca1d66be84d",
+      "subject_node_id": "canon_chaptersection_20aa238721d7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_640ccad06118",
+      "edge_id": "canon_edge_contains_879aae896a4d",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+          "section": {
+            "id": "s009",
+            "title": "第三单元 海洋化学资源的综合利用"
+          },
+          "quote_or_summary": "海水中含有80多种元素，地球上绝大部分的溴、碘元素都存在于海洋中，镁的含量也很大。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d88f125d25f2",
+      "subject_node_id": "canon_chaptersection_20aa238721d7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_2aa78756683b",
+      "edge_id": "canon_edge_contains_880c7e424710",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+          "section": {
+            "id": "s009",
+            "title": "第三单元 海洋化学资源的综合利用"
+          },
+          "quote_or_summary": "镁原子最外层有2个电子，在化学反应中容易失去，形成镁离子。因此，镁是活泼金属，可以与某些非金属单质、酸等物质发生反应。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_f9a2d63aa2d9",
+      "subject_node_id": "canon_problem_7e6087cd2853",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b451e56c25c4",
+      "edge_id": "canon_edge_tests_7049089fa673",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+          "section": {
+            "id": "s009",
+            "title": "第三单元 海洋化学资源的综合利用"
+          },
+          "quote_or_summary": "已知在酸性条件下，IO3-会和I-发生如下反应：IO3- + 5I- + 6H+ = 3I2 + 3H2O。根据该反应，我们可以用试纸和生活中常见的物质检验加碘盐中碘的存在。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_7ac1ee8e3440",
+      "subject_node_id": "canon_knowledgepoint_c91dd3947583",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_640ccad06118",
+      "edge_id": "canon_edge_requires_fca5066563fb",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+          "section": {
+            "id": "s009",
+            "title": "第三单元 海洋化学资源的综合利用"
+          },
+          "quote_or_summary": "粗盐中含有其他一些盐和难溶性杂质...海水中含有80多种元素，地球上绝大部分的溴、碘元素都存在于海洋中，镁的含量也很大。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_requires_cdd46660e314",
+      "subject_node_id": "canon_knowledgepoint_f7bbea162c66",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_2aa78756683b",
+      "edge_id": "canon_edge_requires_460adba2566e",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+          "section": {
+            "id": "s009",
+            "title": "第三单元 海洋化学资源的综合利用"
+          },
+          "quote_or_summary": "电解熔融氯化镁可以得到金属镁...镁原子最外层有2个电子，在化学反应中容易失去，形成镁离子。因此，镁是活泼金属。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_requires_82f1db09d58c",
+      "subject_node_id": "canon_knowledgepoint_74bbea5e4aae",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_640ccad06118",
+      "edge_id": "canon_edge_requires_0029496c67da",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/009_第三单元海洋化学资源的综合利用.md",
+          "section": {
+            "id": "s009",
+            "title": "第三单元 海洋化学资源的综合利用"
+          },
+          "quote_or_summary": "从海水中除了可以提取食盐外，还可以提取镁、溴等元素...地球上绝大部分的溴、碘元素都存在于海洋中。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_002463b4ec87",
+      "subject_node_id": "canon_chaptersection_947ea081b8d6",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_29774e28f446",
+      "edge_id": "canon_edge_contains_073461fe263e",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/010_第二单元硫及其化合物的相互转化.md",
+          "section": {
+            "id": "s010",
+            "title": "第二单元 硫及其化合物的相互转化"
+          },
+          "quote_or_summary": "利用硫及其化合物的性质可以实现不同的含硫物质间的相互转化。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_abf85791362c",
+      "subject_node_id": "canon_chaptersection_947ea081b8d6",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ed2d1e824bbd",
+      "edge_id": "canon_edge_contains_a35d7397e6a4",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/010_第二单元硫及其化合物的相互转化.md",
+          "section": {
+            "id": "s010",
+            "title": "第二单元 硫及其化合物的相互转化"
+          },
+          "quote_or_summary": "氧化还原反应中发生了电子转移，表现为某些元素化合价的变化。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_68f6294ce8e3",
+      "subject_node_id": "canon_chaptersection_947ea081b8d6",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_af41b719840b",
+      "edge_id": "canon_edge_contains_df4be97f9425",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/010_第二单元硫及其化合物的相互转化.md",
+          "section": {
+            "id": "s010",
+            "title": "第二单元 硫及其化合物的相互转化"
+          },
+          "quote_or_summary": "有多种价态的元素，其高价态的化合物可能具有氧化性，低价态的化合物可能具有还原性。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_393e0eda3866",
+      "subject_node_id": "canon_chaptersection_947ea081b8d6",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ba8792a5e3f7",
+      "edge_id": "canon_edge_contains_6900bc46ec52",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/010_第二单元硫及其化合物的相互转化.md",
+          "section": {
+            "id": "s010",
+            "title": "第二单元 硫及其化合物的相互转化"
+          },
+          "quote_or_summary": "硫元素的常见化合价有-2、0、+4和+6等。其中，-2价的硫只能被氧化，+6价的硫只能被还原。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_b01c1abbd53d",
+      "subject_node_id": "canon_problem_8c2c67a8cdc6",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ed2d1e824bbd",
+      "edge_id": "canon_edge_tests_8a8f040f9c8f",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/010_第二单元硫及其化合物的相互转化.md",
+          "section": {
+            "id": "s010",
+            "title": "第二单元 硫及其化合物的相互转化"
+          },
+          "quote_or_summary": "请完成下列化学方程式的书写并配平。1.二氧化硫和硫化氢气体混合，反应生成硫和水。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_52c3feed6a4d",
+      "subject_node_id": "canon_knowledgepoint_ed2d1e824bbd",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_ba8792a5e3f7",
+      "edge_id": "canon_edge_requires_0d330313d09c",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/010_第二单元硫及其化合物的相互转化.md",
+          "section": {
+            "id": "s010",
+            "title": "第二单元 硫及其化合物的相互转化"
+          },
+          "quote_or_summary": "氧化还原反应中发生了电子转移，表现为某些元素化合价的变化。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_0adddbc5a7ff",
+      "subject_node_id": "canon_knowledgepoint_29774e28f446",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_ed2d1e824bbd",
+      "edge_id": "canon_edge_requires_6a1d25a3ff86",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/010_第二单元硫及其化合物的相互转化.md",
+          "section": {
+            "id": "s010",
+            "title": "第二单元 硫及其化合物的相互转化"
+          },
+          "quote_or_summary": "通过氧化还原反应，可以实现不同价态含硫物质之间的转化。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_0fcced4d72dc",
+      "subject_node_id": "canon_chaptersection_424ac20b58eb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b8d60b7c88b5",
+      "edge_id": "canon_edge_contains_3f37aca5d044",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/011_第三单元防治二氧化硫对环境的污染.md",
+          "section": {
+            "id": "s011",
+            "title": "第三单元 防治二氧化硫对环境的污染"
+          },
+          "quote_or_summary": "地壳中的硫黄矿、硫铁矿和煤等都含有硫元素，这些矿物通过风化分解、燃烧、火山爆发等方式释放出SO₂、H₂S等气体"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_78ad7d45a5c2",
+      "subject_node_id": "canon_chaptersection_424ac20b58eb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_218eb1ae9a1f",
+      "edge_id": "canon_edge_contains_97721c98c729",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/011_第三单元防治二氧化硫对环境的污染.md",
+          "section": {
+            "id": "s011",
+            "title": "第三单元 防治二氧化硫对环境的污染"
+          },
+          "quote_or_summary": "空气中的二氧化硫被降水吸收，生成亚硫酸，亚硫酸被氧化为硫酸，形成硫酸型酸雨。酸雨的pH小于5.6"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_30880409ddea",
+      "subject_node_id": "canon_chaptersection_424ac20b58eb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c3f7d4cb4a18",
+      "edge_id": "canon_edge_contains_6842007cd91d",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/011_第三单元防治二氧化硫对环境的污染.md",
+          "section": {
+            "id": "s011",
+            "title": "第三单元 防治二氧化硫对环境的污染"
+          },
+          "quote_or_summary": "该工艺原理是，将石灰石粉末加水制成浆液作为吸收剂泵入吸收塔，与烟气充分接触混合并氧化，最终生成石膏"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_73455c1cf9d8",
+      "subject_node_id": "canon_chaptersection_424ac20b58eb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_91c0a9ae6317",
+      "edge_id": "canon_edge_contains_b20a5ef6590c",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/011_第三单元防治二氧化硫对环境的污染.md",
+          "section": {
+            "id": "s011",
+            "title": "第三单元 防治二氧化硫对环境的污染"
+          },
+          "quote_or_summary": "人们可以通过空气质量指数AQI来获取空气质量状况的信息。空气质量指数是根据空气中的细颗粒物、可吸入颗粒物等浓度计算出来的数值"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_9714c3c76148",
+      "subject_node_id": "canon_chaptersection_424ac20b58eb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_4c9abe6d1099",
+      "edge_id": "canon_edge_contains_1c38a9d9f9a4",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/011_第三单元防治二氧化硫对环境的污染.md",
+          "section": {
+            "id": "s011",
+            "title": "第三单元 防治二氧化硫对环境的污染"
+          },
+          "quote_or_summary": "根据颗粒物直径的大小可以将其分为细颗粒物（PM2.5，直径小于2.5μm）、可吸入颗粒物（PM10，直径小于10μm）等"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_04bca1dd8c36",
+      "subject_node_id": "canon_chaptersection_424ac20b58eb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_024e21ac4438",
+      "edge_id": "canon_edge_contains_38fd9a5c4a62",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/011_第三单元防治二氧化硫对环境的污染.md",
+          "section": {
+            "id": "s011",
+            "title": "第三单元 防治二氧化硫对环境的污染"
+          },
+          "quote_or_summary": "请从氧化还原反应的角度举例说明含硫物质转化的途径，写出化学方程式"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_75f66fdc0f57",
+      "subject_node_id": "canon_chaptersection_424ac20b58eb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ecd05361a0cd",
+      "edge_id": "canon_edge_contains_16c7a989ab0d",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/011_第三单元防治二氧化硫对环境的污染.md",
+          "section": {
+            "id": "s011",
+            "title": "第三单元 防治二氧化硫对环境的污染"
+          },
+          "quote_or_summary": "将混有少量SO₂、SO₃的空气样品通入下图所示的装置中，以检验其中的SO₂、SO₃"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_5d6880e3d7a9",
+      "subject_node_id": "canon_chaptersection_de890800fddb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b9f2fa8e1359",
+      "edge_id": "canon_edge_contains_5cbd92fbcf60",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/012_第一单元元素周期律和元素周期表.md",
+          "section": {
+            "id": "s012",
+            "title": "第一单元 元素周期律和元素周期表"
+          },
+          "quote_or_summary": "为了方便研究，化学家按照核电荷数由小到大的顺序给元素依次编号，这种编号叫作原子序数（atomic number）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_1e4cdfba81fa",
+      "subject_node_id": "canon_chaptersection_de890800fddb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_dfac553c4101",
+      "edge_id": "canon_edge_contains_dc6369186ceb",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/012_第一单元元素周期律和元素周期表.md",
+          "section": {
+            "id": "s012",
+            "title": "第一单元 元素周期律和元素周期表"
+          },
+          "quote_or_summary": "元素的性质随着元素核电荷数的递增呈周期性变化的规律叫作元素周期律。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_1d2126f91ac6",
+      "subject_node_id": "canon_chaptersection_de890800fddb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_2dd27bcaefbc",
+      "edge_id": "canon_edge_contains_66f2b8bc90c6",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/012_第一单元元素周期律和元素周期表.md",
+          "section": {
+            "id": "s012",
+            "title": "第一单元 元素周期律和元素周期表"
+          },
+          "quote_or_summary": "人们把已经发现的元素按一定的规则排列成元素周期表（periodic table）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_58456781ea97",
+      "subject_node_id": "canon_chaptersection_de890800fddb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_62d5f9159655",
+      "edge_id": "canon_edge_contains_ecd063781975",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/012_第一单元元素周期律和元素周期表.md",
+          "section": {
+            "id": "s012",
+            "title": "第一单元 元素周期律和元素周期表"
+          },
+          "quote_or_summary": "上述化合物中，阴、阳离子之间存在的强烈的相互作用，称为离子键（ionic bond）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d094931c29e5",
+      "subject_node_id": "canon_chaptersection_de890800fddb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_aacd293297ea",
+      "edge_id": "canon_edge_contains_0689102c7458",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/012_第一单元元素周期律和元素周期表.md",
+          "section": {
+            "id": "s012",
+            "title": "第一单元 元素周期律和元素周期表"
+          },
+          "quote_or_summary": "研究表明，在有些分子之间还存在一种特殊的分子间作用力，称为氢键（hydrogen bond）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_cfb172d4209d",
+      "subject_node_id": "canon_chaptersection_de890800fddb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_1e3cb4cc7a14",
+      "edge_id": "canon_edge_contains_7ac75a69d300",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/012_第一单元元素周期律和元素周期表.md",
+          "section": {
+            "id": "s012",
+            "title": "第一单元 元素周期律和元素周期表"
+          },
+          "quote_or_summary": "像这样，原子间通过共用电子对形成的强烈的相互作用称为共价键（covalent bond）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_4f5ec4f16bc6",
+      "subject_node_id": "canon_problem_dc83dcfb25f9",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_2dd27bcaefbc",
+      "edge_id": "canon_edge_tests_65db7437bcf4",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/012_第一单元元素周期律和元素周期表.md",
+          "section": {
+            "id": "s012",
+            "title": "第一单元 元素周期律和元素周期表"
+          },
+          "quote_or_summary": "1.与主族元素在元素周期表中所处的位置有关的是（ ）A.相对原子质量 B.核内中子数C.次外层电子数 D.电子层数和最外层电子数"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_a4b2cd868bf1",
+      "subject_node_id": "canon_chaptersection_684dbc5c0ffa",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ee3242faf090",
+      "edge_id": "canon_edge_contains_5169f1d7f441",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/013_第三单元从微观结构看物质的多样性.md",
+          "section": {
+            "id": "s013",
+            "title": "第三单元从微观结构看物质的多样性"
+          },
+          "quote_or_summary": "同一种元素能够形成几种不同的单质，这种现象称为同素异形现象（allotropism）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_1f826777e171",
+      "subject_node_id": "canon_chaptersection_684dbc5c0ffa",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_cbb5f93d2410",
+      "edge_id": "canon_edge_contains_d5cbd2ce9811",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/013_第三单元从微观结构看物质的多样性.md",
+          "section": {
+            "id": "s013",
+            "title": "第三单元从微观结构看物质的多样性"
+          },
+          "quote_or_summary": "化合物具有相同的分子式，但具有不同结构的现象，称为同分异构现象（isomerism）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_b0d3d4961f28",
+      "subject_node_id": "canon_chaptersection_684dbc5c0ffa",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_bca2f18a490d",
+      "edge_id": "canon_edge_contains_6639c527ec4c",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/013_第三单元从微观结构看物质的多样性.md",
+          "section": {
+            "id": "s013",
+            "title": "第三单元从微观结构看物质的多样性"
+          },
+          "quote_or_summary": "常见的固态物质一般可分为晶体（crystal）和非晶体（amorphous material）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_2308912472d0",
+      "subject_node_id": "canon_chaptersection_684dbc5c0ffa",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d0149fde9377",
+      "edge_id": "canon_edge_contains_8e057cb7810b",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/013_第三单元从微观结构看物质的多样性.md",
+          "section": {
+            "id": "s013",
+            "title": "第三单元从微观结构看物质的多样性"
+          },
+          "quote_or_summary": "由阴、阳离子按一定方式有规则地排列形成的晶体叫作离子晶体（ioniccrystal)。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_5330c324c343",
+      "subject_node_id": "canon_chaptersection_684dbc5c0ffa",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c0316e821efc",
+      "edge_id": "canon_edge_contains_bbd30cce027d",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/013_第三单元从微观结构看物质的多样性.md",
+          "section": {
+            "id": "s013",
+            "title": "第三单元从微观结构看物质的多样性"
+          },
+          "quote_or_summary": "像石英、金刚石这样的晶体称为共价晶体（covalent crystal）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_76401d12820d",
+      "subject_node_id": "canon_chaptersection_684dbc5c0ffa",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_e1200857c9dc",
+      "edge_id": "canon_edge_contains_24c245c7acbf",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/013_第三单元从微观结构看物质的多样性.md",
+          "section": {
+            "id": "s013",
+            "title": "第三单元从微观结构看物质的多样性"
+          },
+          "quote_or_summary": "干冰等由分子构成的物质所形成的晶体属于分子晶体（molecularcrystal）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_099153b18136",
+      "subject_node_id": "canon_chaptersection_684dbc5c0ffa",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d7fbf791b580",
+      "edge_id": "canon_edge_contains_2b0a17e0d485",
+      "evidence": [
+        {
+          "source_path": "code_implement/data/intermediate/ipa_outputs/full_pipeline/ipa_chemistry_example/enhanced_markdown/sections/013_第三单元从微观结构看物质的多样性.md",
+          "section": {
+            "id": "s013",
+            "title": "第三单元从微观结构看物质的多样性"
+          },
+          "quote_or_summary": "液晶（liquid crystal）是一种介于晶体和液体之间的中间态物质。"
+        }
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

@@ -1,0 +1,2274 @@
+{
+  "schema_version": "kg.triples.v1",
+  "run_id": "kg_普通高中教科书·物理选择性必修第一册_20260703",
+  "triples": [
+    {
+      "triple_id": "triple_contains_13f7642bc121",
+      "subject_node_id": "canon_chaptersection_a52723ddd481",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_09129390d69a",
+      "edge_id": "canon_edge_contains_cf6b7f48080d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "动量守恒定律是自然界中最普遍的规律之一"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_72bf561cbe44",
+      "subject_node_id": "canon_chaptersection_b7797498e6f8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_f27ad029f3cc",
+      "edge_id": "canon_edge_contains_21f8df74af57",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "## 动量"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_21ffda6a90b6",
+      "subject_node_id": "canon_chaptersection_b7797498e6f8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5edc3edd6c86",
+      "edge_id": "canon_edge_contains_7b12e8e0c0f0",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "## 寻求碰撞中的不变量"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d77b44af9e4b",
+      "subject_node_id": "canon_chaptersection_b7797498e6f8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_747ab35a636a",
+      "edge_id": "canon_edge_contains_6400a13f5f32",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "质量与速度的乘积之和却基本不变。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_6351c60f17ca",
+      "subject_node_id": "canon_problem_b06e754c01c6",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_f27ad029f3cc",
+      "edge_id": "canon_edge_tests_c4961b1c6f0c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "用两根长度相同的细线悬挂钢球 A、B 碰撞演示。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_0ca69ab8f62b",
+      "subject_node_id": "canon_problem_b06e754c01c6",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_5edc3edd6c86",
+      "edge_id": "canon_edge_tests_346a307e5b04",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "为什么会发生这样的现象呢？"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_493cbf0078dc",
+      "subject_node_id": "canon_problem_005eecc1f130",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_5edc3edd6c86",
+      "edge_id": "canon_edge_tests_023a297e5dcd",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "将 A 球换成质量更大的 C 球撞击 B 球。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_183f636103da",
+      "subject_node_id": "canon_problem_a412a0ace9a2",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_747ab35a636a",
+      "edge_id": "canon_edge_tests_c0469e5ee16a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "计算两辆小车碰撞前后质量与速度的乘积。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_f2fb5d9aca11",
+      "subject_node_id": "canon_chaptersection_a4f1a67f0da7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_f27ad029f3cc",
+      "edge_id": "canon_edge_contains_1ca031bba2b9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "物理学中把质量和速度的乘积 mv 定义为物体的动量（momentum），用字母 p 表示"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0169d09ed48e",
+      "subject_node_id": "canon_chaptersection_a4f1a67f0da7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7ac3d1913483",
+      "edge_id": "canon_edge_contains_2af19b7dda06",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "物理学中把力与力的作用时间的乘积叫作力的冲量（impulse），用字母 I 表示"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_4dd9ce1b2883",
+      "subject_node_id": "canon_chaptersection_a4f1a67f0da7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_2fd694c02b33",
+      "edge_id": "canon_edge_contains_4264292e08cc",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "物体在一个过程中所受力的冲量等于它在这个过程始末的动量变化量。这个关系叫作动量定理（theorem of momentum）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_72612e603b96",
+      "subject_node_id": "canon_chaptersection_a4f1a67f0da7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_09129390d69a",
+      "edge_id": "canon_edge_contains_74d7f79daea4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "两个碰撞的物体在所受外部对它们的作用力的矢量和为 0 的情况下动量守恒。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_b066b1666663",
+      "subject_node_id": "canon_problem_15f670855abf",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_f27ad029f3cc",
+      "edge_id": "canon_edge_tests_cedf014be317",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "一个质量为 0.1kg 的钢球，以 6m/s 的速度水平向右运动... 碰撞前后钢球的动量变化了多少？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_f5263043ca47",
+      "subject_node_id": "canon_problem_3dceccfe99aa",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_2fd694c02b33",
+      "edge_id": "canon_edge_tests_c6dba9a3e26b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "若球棒与垒球的作用时间为 0.002 s，球棒对垒球的平均作用力是多大？... 由动量定理知..."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_d82464d2afb7",
+      "subject_node_id": "canon_knowledgepoint_2fd694c02b33",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_f27ad029f3cc",
+      "edge_id": "canon_edge_requires_321d7b42ffb7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "物体在一个过程中所受力的冲量等于它在这个过程始末的动量变化量。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_requires_2f80f13f2566",
+      "subject_node_id": "canon_knowledgepoint_2fd694c02b33",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_7ac3d1913483",
+      "edge_id": "canon_edge_requires_cb3b5786d8bb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "物理学中把力与力的作用时间的乘积叫作力的冲量（impulse）... I = p' - p"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_requires_2b003a8b73c8",
+      "subject_node_id": "canon_knowledgepoint_09129390d69a",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_2fd694c02b33",
+      "edge_id": "canon_edge_requires_f462463c75bd",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "动量定理给出了单个物体在一个过程中所受力的冲量与它在这个过程始末的动量变化量的关系... 如果我们用动量定理分别研究两个相互作用的物体，会有新的收获吗？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_52d86ec12d85",
+      "subject_node_id": "canon_knowledgepoint_09129390d69a",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_f27ad029f3cc",
+      "edge_id": "canon_edge_requires_809da81a6534",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "两个碰撞的物体在所受外部对它们的作用力的矢量和为 0 的情况下动量守恒。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_b744a08e555a",
+      "subject_node_id": "canon_chaptersection_026d8a28a143",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_09129390d69a",
+      "edge_id": "canon_edge_contains_d40799ed8ef1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "理论和实验都表明：如果一个系统不受外力，或者所受外力的矢量和为0，这个系统的总动量保持不变。这就是动量守恒定律。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_9b6a881ca04c",
+      "subject_node_id": "canon_chaptersection_026d8a28a143",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_873d80b99fa7",
+      "edge_id": "canon_edge_contains_75ea33854c75",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "系统中物体间的作用力，叫作内力（internal force）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_074fbe007f4a",
+      "subject_node_id": "canon_chaptersection_026d8a28a143",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ace93d18cbcf",
+      "edge_id": "canon_edge_contains_7b6b73d4faf1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "系统以外的物体施加给系统内物体的力，叫作外力（extemalforce）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0a51ffdf56a2",
+      "subject_node_id": "canon_chaptersection_026d8a28a143",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5f81c0d68320",
+      "edge_id": "canon_edge_contains_941b5560232e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "事实上，动量守恒定律的适用范围非常广泛。近代物理的研究对象已经扩展到我们直接经验所不熟悉的高速、微观领域。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_1e5ad6b6e6b5",
+      "subject_node_id": "canon_problem_a5bc9b40f423",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_09129390d69a",
+      "edge_id": "canon_edge_tests_dea0c72680f9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "如图1.3-2，静止的两辆小车用细线相连，中间有一个压缩了的轻质弹簧。烧断细线后，由于弹力的作用，两辆小车分别向左、右运动，它们都获得了动量，它们的总动量是否增加了？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_955b82c17b65",
+      "subject_node_id": "canon_chaptersection_ffe34dba5003",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_2cb6d923c721",
+      "edge_id": "canon_edge_contains_6f8ecb12db3e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s6.md",
+          "section": {
+            "id": "s006",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "发射炮弹时，炮弹从炮筒中飞出，炮身则向后退。这种情况由于系统内力很大，外力可忽略，可用动量守恒定律来解释。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a6b230764281",
+      "subject_node_id": "canon_chaptersection_ffe34dba5003",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c1c9ed9ac388",
+      "edge_id": "canon_edge_contains_d9bbee69bba7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s6.md",
+          "section": {
+            "id": "s006",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "我国早在宋代就发明了火箭（图1.6-3）。箭杆上捆了一个前端封闭的火药筒，点燃后生成的燃气以很大速度向后喷出，箭杆由于反冲而向前运动。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_76b6c230033f",
+      "subject_node_id": "canon_chaptersection_ffe34dba5003",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5c25be60b25e",
+      "edge_id": "canon_edge_contains_a25a0e72ffcf",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s6.md",
+          "section": {
+            "id": "s006",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "为了解决这个问题，科学家提出了多级火箭的概念。把火箭一级一级地接在一起，第一级燃料用完之后就把箭体抛弃，减轻负担。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_33fe27fe6244",
+      "subject_node_id": "canon_problem_af5f1640d61f",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_c1c9ed9ac388",
+      "edge_id": "canon_edge_tests_478ee5e4b0d1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s6.md",
+          "section": {
+            "id": "s006",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "上面“思考与讨论”中所描述的情境与火箭发射的原理大致相同。设火箭飞行时在极短的时间△t内喷射燃气的质量是△m。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_7e76a4fdeea4",
+      "subject_node_id": "canon_problem_62c8dc851a4b",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_2cb6d923c721",
+      "edge_id": "canon_edge_tests_93f1d2a80452",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s6.md",
+          "section": {
+            "id": "s006",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "一个连同装备共有100kg的航天员，脱离宇宙飞船后，在离飞船45m的位置与飞船处于相对静止的状态（图1.6-8）。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_8da2acb69bc2",
+      "subject_node_id": "canon_problem_bea5b61e43c6",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_c1c9ed9ac388",
+      "edge_id": "canon_edge_tests_626514b5ca69",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s6.md",
+          "section": {
+            "id": "s006",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "用火箭发射人造地球卫星，假设最后一级火箭的燃料用完后，火箭壳体和卫星一起以7.0×10m/s的速度绕地球做匀速圆周运动。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_a4c4d4578380",
+      "subject_node_id": "canon_knowledgepoint_c1c9ed9ac388",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_2cb6d923c721",
+      "edge_id": "canon_edge_requires_cd71cf713e3e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s6.md",
+          "section": {
+            "id": "s006",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "喷气式飞机和火箭的飞行应用了反冲的原理，它们都靠喷出气流的反冲作用而获得巨大的速度。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_315c26e8ca0d",
+      "subject_node_id": "canon_knowledgepoint_5c25be60b25e",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_c1c9ed9ac388",
+      "edge_id": "canon_edge_requires_4cd76e745db1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch1_s6.md",
+          "section": {
+            "id": "s006",
+            "title": "第一章 动量守恒定律"
+          },
+          "quote_or_summary": "现代火箭发动机的喷气速度通常在2000～5000m/s，近期内难以大幅度提高。因此，若要提高火箭的速度，需要在减轻火箭本身质量上下功夫。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_7396807621c5",
+      "subject_node_id": "canon_chaptersection_7b8976a82b32",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5a98ff2856cc",
+      "edge_id": "canon_edge_contains_a946618280dc",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s1.md",
+          "section": {
+            "id": "s007",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "我们把物体或物体的一部分在一个位置附近的往复运动称为机械振动（mechanical vibration），简称振动。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_38a39aab79e1",
+      "subject_node_id": "canon_chaptersection_7b8976a82b32",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ea4f919328f2",
+      "edge_id": "canon_edge_contains_54575c8e0947",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s1.md",
+          "section": {
+            "id": "s007",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "我们把小球和弹簧组成的系统称为弹簧振子（springoscillator），有时也简称为振子。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_fa1030860bf6",
+      "subject_node_id": "canon_chaptersection_7b8976a82b32",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_1b1fde9fb769",
+      "edge_id": "canon_edge_contains_45d61e15d0a2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s1.md",
+          "section": {
+            "id": "s007",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "小球的位置坐标反映了小球相对于平衡位置的位移，小球的位置一时间图像就是小球的位移一时间图像。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_d31bb6c51fe6",
+      "subject_node_id": "canon_problem_2e903777b45f",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_5a98ff2856cc",
+      "edge_id": "canon_edge_tests_d14e28d7efd0",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s1.md",
+          "section": {
+            "id": "s007",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "钟摆的来回摆动，水中浮标的上下浮动，担物行走时扁担下物体的颤动，树梢在微风中的摇摆……"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_0901365189a6",
+      "subject_node_id": "canon_chaptersection_078956de3092",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b0774acd5c5a",
+      "edge_id": "canon_edge_contains_3eda3a2df434",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s008",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "如果物体的位移与时间的关系遵从正弦函数的规律，这样的振动是一种简谐运动"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_ce293c69155d",
+      "subject_node_id": "canon_chaptersection_078956de3092",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_01094b62368d",
+      "edge_id": "canon_edge_contains_572618cdd68d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s008",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "我们把振动物体离开平衡位置的最大距离，叫作振动的振幅"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_e1f4664c3b04",
+      "subject_node_id": "canon_chaptersection_078956de3092",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_46c09af3c650",
+      "edge_id": "canon_edge_contains_7f72e11373e4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s008",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "做简谐运动的物体完成一次全振动所需要的时间，叫作振动的周期"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_438322273c2b",
+      "subject_node_id": "canon_chaptersection_078956de3092",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_f57853175b63",
+      "edge_id": "canon_edge_contains_4c8698ee9480",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s008",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "物体完成全振动的次数与所用时间之比叫作振动的频率"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_9e070e3dabeb",
+      "subject_node_id": "canon_chaptersection_078956de3092",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_326d8c9bc4d7",
+      "edge_id": "canon_edge_contains_6479d3a208a9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s008",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "物理学中把(ωt+φ)叫作相位，φ是t=0时的相位，称作初相位"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_1ef91cc74c24",
+      "subject_node_id": "canon_problem_8b6cfcf6de61",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b0774acd5c5a",
+      "edge_id": "canon_edge_tests_b7ddf458b860",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s008",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "图2.1-6是某质点做简谐运动的振动图像。根据图像中的信息，回答下列问题。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_0c3a4242d5ed",
+      "subject_node_id": "canon_problem_36d2a71b230d",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b0774acd5c5a",
+      "edge_id": "canon_edge_tests_713ad64de366",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s008",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "如图2.2-5，弹簧振子的平衡位置为O点，在B、C两点之间做简谐运动。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_86a39cd964f5",
+      "subject_node_id": "canon_problem_36d2a71b230d",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_01094b62368d",
+      "edge_id": "canon_edge_tests_5c52dd1f8afe",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s008",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "由于B点和C点之间的距离为0.2m，所以，振动的振幅 A = 0.1 m。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_b25fc40e03a6",
+      "subject_node_id": "canon_problem_36d2a71b230d",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_46c09af3c650",
+      "edge_id": "canon_edge_tests_f42783dd5ce9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s008",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "由于小球从最右端的B点运动到最左端的C点所用时间为0.5s，所以振动的周期T = 1.0 s"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_8c8bce302a00",
+      "subject_node_id": "canon_chaptersection_82c9577a56e7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_15b4a3e12150",
+      "edge_id": "canon_edge_contains_7cdbc60881a7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s4.md",
+          "section": {
+            "id": "s010",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "如果细线的长度不可改变，细线的质量与小球相比可以忽略，球的直径与线的长度相比也可以忽略，这样的装置就叫作单摆。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_3c61dc8a436f",
+      "subject_node_id": "canon_chaptersection_82c9577a56e7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_4740c9a3bade",
+      "edge_id": "canon_edge_contains_87aaba9a722d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s4.md",
+          "section": {
+            "id": "s010",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "重力 G 沿圆弧切线方向的分力 F = mg sin θ，正是这个力充当回复力。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_7cda8875b685",
+      "subject_node_id": "canon_chaptersection_82c9577a56e7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_11fdd036ddfa",
+      "edge_id": "canon_edge_contains_537361adba40",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s4.md",
+          "section": {
+            "id": "s010",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "可见，单摆在摆角很小的情况下做简谐运动。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_c4ad2ee754ab",
+      "subject_node_id": "canon_chaptersection_82c9577a56e7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_a81a254c5aee",
+      "edge_id": "canon_edge_contains_9a95ff4c6b7e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s4.md",
+          "section": {
+            "id": "s010",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "实验表明：单摆做简谐运动的周期与摆长有关，摆长越长，周期越大；单摆的周期与摆球质量和振幅无关。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_4dbf823219a9",
+      "subject_node_id": "canon_problem_74350b76ae2f",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_11fdd036ddfa",
+      "edge_id": "canon_edge_tests_511ffb14d155",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s4.md",
+          "section": {
+            "id": "s010",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "用什么方法探究单摆的振动是否为简谐运动？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_0232af3461b0",
+      "subject_node_id": "canon_problem_f15096465c6d",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_11fdd036ddfa",
+      "edge_id": "canon_edge_tests_a062c1f080b0",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s4.md",
+          "section": {
+            "id": "s010",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "如图 2.4-2，细线下悬挂一个除去了柱塞的注射器，注射器内装上墨汁。当注射器摆动时，沿着垂直于摆动的方向匀速拖动木板，观察喷在木板上的墨汁图样。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_d38761199407",
+      "subject_node_id": "canon_knowledgepoint_15b4a3e12150",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_4740c9a3bade",
+      "edge_id": "canon_edge_requires_cb1a1e43ce6f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s4.md",
+          "section": {
+            "id": "s010",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "单摆是实际摆的理想化模型。显然，单摆摆动时摆球在做振动，下面我们来研究单摆的运动情况。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_requires_bfda21cbaed4",
+      "subject_node_id": "canon_knowledgepoint_4740c9a3bade",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_11fdd036ddfa",
+      "edge_id": "canon_edge_requires_cccc409b049f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s4.md",
+          "section": {
+            "id": "s010",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "因此，单摆振动的回复力F可表示为 F = - k x。可见，单摆在摆角很小的情况下做简谐运动。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_6b11007f5340",
+      "subject_node_id": "canon_knowledgepoint_11fdd036ddfa",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_a81a254c5aee",
+      "edge_id": "canon_edge_requires_81882a660d0a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s4.md",
+          "section": {
+            "id": "s010",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "单摆做简谐运动的周期与摆长有关，摆长越长，周期越大；单摆的周期与摆球质量和振幅无关。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_27d8f44bd30f",
+      "subject_node_id": "canon_chaptersection_3a9a03a738e2",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_9a7e89d62136",
+      "edge_id": "canon_edge_contains_a5def1929cfd",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s5.md",
+          "section": {
+            "id": "s011",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "惠更斯确定了计算单摆周期的公式 T = 2π√(l/g)，与振幅、摆球质量无关。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_ab9446394309",
+      "subject_node_id": "canon_chaptersection_3a9a03a738e2",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ee93529ed10c",
+      "edge_id": "canon_edge_contains_e9c478fe8561",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s5.md",
+          "section": {
+            "id": "s011",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "当摆角较小时，单摆做简谐运动，根据其周期公式可得 g = 4π²l/T²。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_d31664758ca0",
+      "subject_node_id": "canon_problem_e82bc67983d1",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_9a7e89d62136",
+      "edge_id": "canon_edge_tests_4b1e2113c452",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s5.md",
+          "section": {
+            "id": "s011",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "一个理想单摆，已知其周期为 T。如果由于某种原因（如转移到其他星球）自由落体加速度变为原来的 1/2，它的周期变为多少？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_6106a2adef59",
+      "subject_node_id": "canon_problem_1870d5a26200",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_9a7e89d62136",
+      "edge_id": "canon_edge_tests_6fa0841c45d3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s5.md",
+          "section": {
+            "id": "s011",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "周期是 2s 的单摆叫秒摆，秒摆的摆长是多少？把一个地球上的秒摆拿到月球上去，已知月球上的自由落体加速度为 1.6 m/s²，它在月球上做 50 次全振动要用多少时间？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_011a2115ff24",
+      "subject_node_id": "canon_knowledgepoint_ee93529ed10c",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_9a7e89d62136",
+      "edge_id": "canon_edge_requires_4e7ada256188",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s5.md",
+          "section": {
+            "id": "s011",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "根据其周期公式可得 g = 4π²l/T²。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_0cebdb125f8d",
+      "subject_node_id": "canon_problem_b770d4dc45c1",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_9a7e89d62136",
+      "edge_id": "canon_edge_tests_669661e12474",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s5.md",
+          "section": {
+            "id": "s011",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "图 2.4-7 是两个单摆的振动图像。（1）甲、乙两个摆的摆长之比是多少？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_76eecf6461fb",
+      "subject_node_id": "canon_problem_35b3650f9a1e",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_9a7e89d62136",
+      "edge_id": "canon_edge_tests_2a2b95ab82df",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s5.md",
+          "section": {
+            "id": "s011",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "一条细线下面挂着一个小球，让它自由摆动，画出它的振动图像如图 2.4-8 所示。（1）请根据图中的数据计算出它的摆长。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_3364adff4a72",
+      "subject_node_id": "canon_chaptersection_6b58b299180b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_da0cc254c8d1",
+      "edge_id": "canon_edge_contains_7d448a443151",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s6.md",
+          "section": {
+            "id": "s012",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "这种振幅随时间逐渐减小的振动称为阻尼振动（dampedvibration）"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_7fb9f412c394",
+      "subject_node_id": "canon_chaptersection_6b58b299180b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_a8f9ed955308",
+      "edge_id": "canon_edge_contains_fa59910d3c77",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s6.md",
+          "section": {
+            "id": "s012",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "其振动频率称为固有频率（naturalfrequency）"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0b6f58e49862",
+      "subject_node_id": "canon_chaptersection_6b58b299180b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_89a659df8116",
+      "edge_id": "canon_edge_contains_ea42926c22a1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s6.md",
+          "section": {
+            "id": "s012",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "系统在驱动力作用下的振动叫作受迫振动（forcedvibration）"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_372537704d5f",
+      "subject_node_id": "canon_chaptersection_6b58b299180b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_aaa866b88adc",
+      "edge_id": "canon_edge_contains_22fcebe40680",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s6.md",
+          "section": {
+            "id": "s012",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "当驱动力的频率等于固有频率时，物体做受迫振动的振幅达到最大值，这种现象称为共振（resonance）"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_a3300ffcc858",
+      "subject_node_id": "canon_problem_f1138a7507d4",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_89a659df8116",
+      "edge_id": "canon_edge_tests_3c3c7c816048",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s6.md",
+          "section": {
+            "id": "s012",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "现使圆盘以4s的周期匀速运动，经过一段时间后，小球振动达到稳定，它振动的频率是多少？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_b0e7aa07c43f",
+      "subject_node_id": "canon_problem_f529cf52da4d",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_aaa866b88adc",
+      "edge_id": "canon_edge_tests_fe08b3511e62",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s6.md",
+          "section": {
+            "id": "s012",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "图2.6-8是一个单摆的共振曲线。（1）试估计此单摆的摆长。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_c623657894cd",
+      "subject_node_id": "canon_problem_ccc292409d70",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_da0cc254c8d1",
+      "edge_id": "canon_edge_tests_b3faebd3f3cf",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch2_s6.md",
+          "section": {
+            "id": "s012",
+            "title": "第二章 机械振动"
+          },
+          "quote_or_summary": "图2.6-9是单摆做阻尼振动的位移一时间图像，请比较摆球在P与N时的势能、动能、机械能的大小。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d7e62da47e82",
+      "subject_node_id": "canon_chaptersection_7b469341d094",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_11304b8b74be",
+      "edge_id": "canon_edge_contains_6267ab4d475a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s1.md",
+          "section": {
+            "id": "s013",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "振动的传播称为波动，简称波（wave）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_e61a89ea1663",
+      "subject_node_id": "canon_chaptersection_7b469341d094",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ed1c5fda5ac8",
+      "edge_id": "canon_edge_contains_cfccf0638667",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s1.md",
+          "section": {
+            "id": "s013",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "质点的振动方向与波的传播方向相互垂直的波，叫作横波（transverse wave）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_c128fc618ac5",
+      "subject_node_id": "canon_chaptersection_7b469341d094",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_83f0b49bee50",
+      "edge_id": "canon_edge_contains_73cd3ccde4cc",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s1.md",
+          "section": {
+            "id": "s013",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "质点的振动方向与波的传播方向在同一直线上的波，叫作纵波（longitudinal wave）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_53920c3b54c6",
+      "subject_node_id": "canon_chaptersection_7b469341d094",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_053115041903",
+      "edge_id": "canon_edge_contains_97694b5b6139",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s1.md",
+          "section": {
+            "id": "s013",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "机械振动在介质中传播，形成了机械波（mechanical wave）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d1e088e0a06e",
+      "subject_node_id": "canon_chaptersection_7b469341d094",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_0d3c04c1ba90",
+      "edge_id": "canon_edge_contains_09924591e051",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s1.md",
+          "section": {
+            "id": "s013",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "绳、弹簧、水、空气等是波借以传播的物质，叫作介质（medium）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_0dc07693ea27",
+      "subject_node_id": "canon_problem_7c911993da33",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_11304b8b74be",
+      "edge_id": "canon_edge_tests_86be1a339125",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s1.md",
+          "section": {
+            "id": "s013",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "彩带上的波浪向前传播时，彩带上的每个点也在向前运动吗？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_07cf6fef3176",
+      "subject_node_id": "canon_problem_6911fa09c869",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ed1c5fda5ac8",
+      "edge_id": "canon_edge_tests_be269725cf43",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s1.md",
+          "section": {
+            "id": "s013",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "图3.1-6是某绳波形成过程的示意图。质点1在外力作用下沿竖直方向做简谐运动，带动其余质点依次上下振动，把振动从绳的左端传到右端。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_b9050d57673c",
+      "subject_node_id": "canon_chaptersection_d6c1b60a2540",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_04e5655231bf",
+      "edge_id": "canon_edge_contains_e1573f73451d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s2.md",
+          "section": {
+            "id": "s014",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "把该时刻绳上各质点的具体位置反映在坐标系中，就可以得到这一时刻绳子上波的图像。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_844de65ec3b2",
+      "subject_node_id": "canon_chaptersection_d6c1b60a2540",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_575ca134e26e",
+      "edge_id": "canon_edge_contains_fdea4866d8af",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s2.md",
+          "section": {
+            "id": "s014",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "如果波的图像是正弦曲线，这样的波叫作正弦波，也叫简谐波。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_996fa45dcf08",
+      "subject_node_id": "canon_chaptersection_d6c1b60a2540",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_3e4b1b4f8358",
+      "edge_id": "canon_edge_contains_d570e06f1803",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s2.md",
+          "section": {
+            "id": "s014",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "在波的传播方向上，振动相位总是相同的两个相邻质点间的距离，叫作波长。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_e17ea9f4d0c8",
+      "subject_node_id": "canon_chaptersection_d6c1b60a2540",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_41895f8e85c6",
+      "edge_id": "canon_edge_contains_145577e78293",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s2.md",
+          "section": {
+            "id": "s014",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "机械波在介质中传播的速度为 v = \\lambda / T，而 f = 1 / T，所以上式也可以写成 v = f \\lambda。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_80d4d93be460",
+      "subject_node_id": "canon_problem_fe1eb93d2e51",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_04e5655231bf",
+      "edge_id": "canon_edge_tests_d3b0d844f735",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s2.md",
+          "section": {
+            "id": "s014",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "图3.2-5中的实线是一列正弦波在某一时刻的波形图。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_3dff91605a1d",
+      "subject_node_id": "canon_problem_fe1eb93d2e51",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_41895f8e85c6",
+      "edge_id": "canon_edge_tests_d1dcf09f6781",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s2.md",
+          "section": {
+            "id": "s014",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "由公式 v = { \\frac { \\Delta x } { t } } 就能够求出波的传播速度"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_5e698a5899fa",
+      "subject_node_id": "canon_problem_fe1eb93d2e51",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_3e4b1b4f8358",
+      "edge_id": "canon_edge_tests_a89dee36423d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s2.md",
+          "section": {
+            "id": "s014",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "由图又可以知道波长\\lambda，由公式 v = { \\frac { \\lambda } { T } } 就能够求出周期"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_9ead6ff65ef5",
+      "subject_node_id": "canon_problem_fe1eb93d2e51",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_575ca134e26e",
+      "edge_id": "canon_edge_tests_bef1b4066b01",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s2.md",
+          "section": {
+            "id": "s014",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "图3.2-5中的实线是一列正弦波在某一时刻的波形图。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_requires_70a62388d3ad",
+      "subject_node_id": "canon_knowledgepoint_41895f8e85c6",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_3e4b1b4f8358",
+      "edge_id": "canon_edge_requires_ed3f236a7d06",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s2.md",
+          "section": {
+            "id": "s014",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "机械波在介质中传播的速度为 v = \\lambda / T"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_e4c74a8cf00b",
+      "subject_node_id": "canon_chaptersection_3bb5a735d1bf",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_849a65c6da8d",
+      "edge_id": "canon_edge_contains_c3f2cb62595e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s3.md",
+          "section": {
+            "id": "s015",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "## 波的反射"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_298d75d713f8",
+      "subject_node_id": "canon_chaptersection_3bb5a735d1bf",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c8f9373ba6c0",
+      "edge_id": "canon_edge_contains_bec6f3f81ed1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s3.md",
+          "section": {
+            "id": "s015",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "## 波的折射"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_fe028ed41c65",
+      "subject_node_id": "canon_chaptersection_3bb5a735d1bf",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_92c979d4c3a8",
+      "edge_id": "canon_edge_contains_30091d77567d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s3.md",
+          "section": {
+            "id": "s015",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "## 波的衍射"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_85fc746e4298",
+      "subject_node_id": "canon_problem_62a2b12e06ce",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_849a65c6da8d",
+      "edge_id": "canon_edge_tests_7af0369bfde7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s3.md",
+          "section": {
+            "id": "s015",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "蝙蝠是通过声波的反射来判断前方是否有障碍物的"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_3d265e71b85a",
+      "subject_node_id": "canon_problem_137c5c8a6dd6",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_92c979d4c3a8",
+      "edge_id": "canon_edge_tests_2a8cf761c202",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s3.md",
+          "section": {
+            "id": "s015",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "走到离操场不远的教学大楼后面，听到喇叭播放的音乐声有所减弱"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_ff3c143faefc",
+      "subject_node_id": "canon_problem_7ece22e11606",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_92c979d4c3a8",
+      "edge_id": "canon_edge_tests_f7371d74f3cf",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s3.md",
+          "section": {
+            "id": "s015",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "把M、N两块挡板中的空隙当作一个小孔做水波的衍射实验"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_7309020ce743",
+      "subject_node_id": "canon_problem_b450c8738901",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_92c979d4c3a8",
+      "edge_id": "canon_edge_tests_37d71968561a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s3.md",
+          "section": {
+            "id": "s015",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "从波的衍射角度思考"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_f3122b1cec0d",
+      "subject_node_id": "canon_chaptersection_13cc3410894a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_fb9c15b7dd49",
+      "edge_id": "canon_edge_contains_3ac7b9c55f10",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s4.md",
+          "section": {
+            "id": "s016",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "事实表明，几列波相遇时能够保持各自的运动特征，继续传播，在它们重叠的区域里，介质的质点同时参与这几列波引起的振动"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_fab5aa671c24",
+      "subject_node_id": "canon_chaptersection_13cc3410894a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5a95b7373774",
+      "edge_id": "canon_edge_contains_41da493d733b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s4.md",
+          "section": {
+            "id": "s016",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "可见，频率相同、相位差恒定、振动方向相同的两列波叠加时，某些区域的振动总是加强，某些区域的振动总是减弱，这种现象叫作波的干涉"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_15db70629802",
+      "subject_node_id": "canon_chaptersection_13cc3410894a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_e97e4552eb40",
+      "edge_id": "canon_edge_contains_b58ea0d02b80",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s4.md",
+          "section": {
+            "id": "s016",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "声音是一种波，通过波的干涉能够起到消音的作用。这一原理使我们可以主动出击，通过发出与噪声振幅、频率相同，相位相反的声波来抵消噪声"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_ec77ed2f09c1",
+      "subject_node_id": "canon_problem_563242ba9413",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_5a95b7373774",
+      "edge_id": "canon_edge_tests_21cc57536352",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s4.md",
+          "section": {
+            "id": "s016",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "图3.4-6表示两列频率相同的横波相遇时某一时刻的情况，实线表示波峰，虚线表示波谷。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_46865a5a5bea",
+      "subject_node_id": "canon_problem_6aad199339eb",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_e97e4552eb40",
+      "edge_id": "canon_edge_tests_78752e629f67",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s4.md",
+          "section": {
+            "id": "s016",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "图3.4-7所示的消声器可以用来削弱高速气流产生的噪声。试说明该消声器的工作原理及要达到良好的消声效果必须满足的条件。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_664993ce1dd0",
+      "subject_node_id": "canon_problem_6076df45c7d9",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_5a95b7373774",
+      "edge_id": "canon_edge_tests_cee67a95c3d1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s4.md",
+          "section": {
+            "id": "s016",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "求A、B间合振动振幅最小的点的位置。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_ceb561639939",
+      "subject_node_id": "canon_knowledgepoint_5a95b7373774",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_fb9c15b7dd49",
+      "edge_id": "canon_edge_requires_45baa202d12a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s4.md",
+          "section": {
+            "id": "s016",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "两列周期相同的波相遇时... 这种现象叫作波的干涉"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_cc177c309281",
+      "subject_node_id": "canon_chaptersection_d202e509735b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ff867ad5743f",
+      "edge_id": "canon_edge_contains_1df69bb4f0b5",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s5.md",
+          "section": {
+            "id": "s017",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "发现波源与观察者相互靠近或者相互远离时，接收到的波的频率都会发生变化。人们把这种现象叫作多普勒效应。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a86893784769",
+      "subject_node_id": "canon_chaptersection_d202e509735b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_48e250f976c6",
+      "edge_id": "canon_edge_contains_ba5cede24713",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s5.md",
+          "section": {
+            "id": "s017",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "交通警察向行进中的车辆发射频率已知的超声波，同时测量反射波的频率，根据反射波频率变化的多少就能知道车辆的速度。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_b7ece9866a81",
+      "subject_node_id": "canon_problem_c7219bfb86e4",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ff867ad5743f",
+      "edge_id": "canon_edge_tests_cf0d99c4b4cb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch3_s5.md",
+          "section": {
+            "id": "s017",
+            "title": "第三章 机械波"
+          },
+          "quote_or_summary": "为了理解多普勒效应，可以设想一个抛球的游戏（图3.5-5）。设想甲每隔1s向乙抛一个球，如果甲、乙都站着不动，乙每隔1s接到一个球。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_9810c0218441",
+      "subject_node_id": "canon_chaptersection_df0dbf6d5a41",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_3838e284032d",
+      "edge_id": "canon_edge_contains_569a249ef6b1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s020",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "如果两列机械波的频率相同、相位差恒定、振动方向相同，就会发生干涉。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_62171b76e4fb",
+      "subject_node_id": "canon_chaptersection_df0dbf6d5a41",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_fe716d8cb737",
+      "edge_id": "canon_edge_contains_e51d869e9415",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s020",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "在暗室中用氨氛激光器发出的红色激光照射金属挡板上的两条平行的狭缝"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d822f183cbf8",
+      "subject_node_id": "canon_chaptersection_df0dbf6d5a41",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_e7172adfd00b",
+      "edge_id": "canon_edge_contains_0ba72a33675f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s020",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "当两个光源与屏上某点的距离之差等于半波长的偶数倍时，两列光波在这点相互加强"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_5c5dc5180d64",
+      "subject_node_id": "canon_chaptersection_df0dbf6d5a41",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_75079bb41e90",
+      "edge_id": "canon_edge_contains_5a7c58794324",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s020",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "相邻两条亮条纹或暗条纹的中心间距是 \\Delta x = \\frac{l}{d}\\lambda"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_ece893caa2d5",
+      "subject_node_id": "canon_chaptersection_df0dbf6d5a41",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_742ee8a3817e",
+      "edge_id": "canon_edge_contains_0b4f463b4e2a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s020",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "灯焰的像和节前“问题”中提到的现象，都是液膜前后两个面反射的光共同形成的"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_4c6b44c4d37a",
+      "subject_node_id": "canon_chaptersection_df0dbf6d5a41",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_f8d3a523a0c7",
+      "edge_id": "canon_edge_contains_b2e9d60f6643",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s020",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "将一块平板玻璃放置在另一平板玻璃之上，在一端夹入两张纸片，从而在两玻璃表面之间形成一个劈形空气薄膜"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_b2a5dd05e554",
+      "subject_node_id": "canon_knowledgepoint_e7172adfd00b",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_3838e284032d",
+      "edge_id": "canon_edge_requires_5aa38b76a525",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s020",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "我们知道：如果两列机械波的频率相同、相位差恒定、振动方向相同，就会发生干涉。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_964ce2681601",
+      "subject_node_id": "canon_knowledgepoint_75079bb41e90",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_e7172adfd00b",
+      "edge_id": "canon_edge_requires_56e612623e9b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s020",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "根据前面的分析，当两列波的路程差为波长的整数倍...时出现亮条纹"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_b386baaea302",
+      "subject_node_id": "canon_knowledgepoint_742ee8a3817e",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_3838e284032d",
+      "edge_id": "canon_edge_requires_f2f8bbcfd8f4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s020",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "来自两个面的反射光相互叠加，发生干涉，也称薄膜干涉。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_2eb1cc1e4e89",
+      "subject_node_id": "canon_knowledgepoint_f8d3a523a0c7",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_742ee8a3817e",
+      "edge_id": "canon_edge_requires_be9995f9608e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s020",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "劈尖干涉是一种薄膜干涉，如图 4.3-7 所示。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_21a7aa41ae5c",
+      "subject_node_id": "canon_chaptersection_5ee97546f590",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_60eb6a4e699c",
+      "edge_id": "canon_edge_contains_78c6c6f29534",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s5.md",
+          "section": {
+            "id": "s022",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "## 5 光的衍射\n\n## 问题\n\n我们知道，波能够绕过障碍物发生衍射。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a1bef20a9ea4",
+      "subject_node_id": "canon_chaptersection_5ee97546f590",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b9b0cb8d23f0",
+      "edge_id": "canon_edge_contains_e506a846e8af",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s5.md",
+          "section": {
+            "id": "s022",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "当缝调到很窄时，尽管亮条纹的亮度有所降低，但是宽度反而增大了，而且还出现了明暗相间的条纹。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8f2e04a4cb62",
+      "subject_node_id": "canon_chaptersection_5ee97546f590",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_0bcb960d3b7b",
+      "edge_id": "canon_edge_contains_ea22c13ebf08",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s5.md",
+          "section": {
+            "id": "s022",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "它是由许多等宽的狭缝等距离地排列起来形成的光学元件。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_421a5a11c78a",
+      "subject_node_id": "canon_chaptersection_5ee97546f590",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_af01673084f3",
+      "edge_id": "canon_edge_contains_6dea0f38d82c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s5.md",
+          "section": {
+            "id": "s022",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "影的中心会出现一个亮斑！泊松认为这是荒谬可笑的，并认为这样就驳倒了光的波动说。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_edd001fdb5a2",
+      "subject_node_id": "canon_chaptersection_5ee97546f590",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_03a77f7e1ecc",
+      "edge_id": "canon_edge_contains_28cbd1e40c76",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s5.md",
+          "section": {
+            "id": "s022",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "这使得X射线照射在晶体上会发生明显的衍射现象。衍射图样中斑点的强度和位置包含着有关晶体的大量信息。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_dc956722835e",
+      "subject_node_id": "canon_problem_3221590f6799",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_60eb6a4e699c",
+      "edge_id": "canon_edge_tests_8be06ae0a376",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s5.md",
+          "section": {
+            "id": "s022",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "用两支铅笔夹成一条狭缝，将眼睛紧贴着狭缝且让狭缝与日光灯管或其他线状光源平行，你会观察到怎样的现象？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_9f7c4a03216c",
+      "subject_node_id": "canon_problem_4626ef12104f",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b9b0cb8d23f0",
+      "edge_id": "canon_edge_tests_09c0cb1fcc05",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s5.md",
+          "section": {
+            "id": "s022",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "在挡板上安装一个宽度可以调节的狭缝，缝后放一个光屏。用平行单色光照射狭缝，当缝的宽度较小时，我们会从光屏上看到衍射条纹。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_25fbebaca22a",
+      "subject_node_id": "canon_chaptersection_e6e498ad5223",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_e42933b57f40",
+      "edge_id": "canon_edge_contains_82730d824852",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s6.md",
+          "section": {
+            "id": "s023",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "波分为纵波和横波。在纵波中，各点的振动方向总与波的传播方向在同一直线上。在横波中，各点的振动方向总与波的传播方向垂直。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_27aadc5cf9a6",
+      "subject_node_id": "canon_chaptersection_e6e498ad5223",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b53e2ca2e9be",
+      "edge_id": "canon_edge_contains_256e01d4ac91",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s6.md",
+          "section": {
+            "id": "s023",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "不同的横波，即使传播方向相同，振动方向也可能是不同的。这个现象称为“偏振现象”。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_ebb464096201",
+      "subject_node_id": "canon_chaptersection_e6e498ad5223",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b98e58cea97d",
+      "edge_id": "canon_edge_contains_b478f1d20067",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s6.md",
+          "section": {
+            "id": "s023",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "实际上，太阳以及日光灯、发光二极管等普通光源发出的光，包含着在垂直于传播方向上沿一切方向振动的光，而且沿着各个方向振动的光波的强度都相同。这种光是自然光。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_dea4dde4b4cd",
+      "subject_node_id": "canon_chaptersection_e6e498ad5223",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_77eeedc9cb40",
+      "edge_id": "canon_edge_contains_2623947d45bb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s6.md",
+          "section": {
+            "id": "s023",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "1960年，美国物理学家梅曼率先在实验室中制造出了频率相同、相位差恒定、振动方向一致的光波，这就是激光。由于上述性质，激光具有高度的相干性。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_94d9e9646803",
+      "subject_node_id": "canon_chaptersection_e6e498ad5223",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_25fb34e6e11b",
+      "edge_id": "canon_edge_contains_c1e837e7d92c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s6.md",
+          "section": {
+            "id": "s023",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "自然光在玻璃、水面、木质桌面等表面反射时，反射光和折射光都是偏振光，入射角变化时偏振的程度也有变化。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_f48bb399584b",
+      "subject_node_id": "canon_problem_13f191e76966",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b53e2ca2e9be",
+      "edge_id": "canon_edge_tests_8e98712e88bb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s6.md",
+          "section": {
+            "id": "s023",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "在观看立体电影时，观众要戴上特制的眼镜，如果不戴这副眼镜，银幕上的图像就模糊不清了。这是为什么？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_832d064ab4a9",
+      "subject_node_id": "canon_problem_81e54d654e34",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_e42933b57f40",
+      "edge_id": "canon_edge_tests_ff23d382a62c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s6.md",
+          "section": {
+            "id": "s023",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "由哪些现象或实验结果可以说明：（1）光是一种波;（2）光是横波;（3）与水波的波长相比较，光波的波长非常短；（4）绿光的波长比红光的波长短。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_afcabab7f0f3",
+      "subject_node_id": "canon_problem_81e54d654e34",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b53e2ca2e9be",
+      "edge_id": "canon_edge_tests_b8d117e5470a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s6.md",
+          "section": {
+            "id": "s023",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "由哪些现象或实验结果可以说明：（1）光是一种波;（2）光是横波;（3）与水波的波长相比较，光波的波长非常短；（4）绿光的波长比红光的波长短。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_8c8586d07b9b",
+      "subject_node_id": "canon_knowledgepoint_b53e2ca2e9be",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_e42933b57f40",
+      "edge_id": "canon_edge_requires_78765f2a9e64",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_055034_普通高中教科书·物理选择性必修第一册_20260703\\enhanced_markdown\\sections\\ch4_s6.md",
+          "section": {
+            "id": "s023",
+            "title": "第四章 光"
+          },
+          "quote_or_summary": "不同的横波，即使传播方向相同，振动方向也可能是不同的。这个现象称为“偏振现象”。"
+        }
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

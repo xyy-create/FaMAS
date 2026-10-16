@@ -1,0 +1,1061 @@
+{
+  "schema_version": "kg.schema.label_property.v2",
+  "textbook_profile": {
+    "publisher": "",
+    "grade": ""
+  },
+  "node_labels": [
+    {
+      "label_id": "KnowledgePoint",
+      "label_zh": "知识点",
+      "description": "教材中的可抽取知识单元，是跨学科 KG 的通用核心 node label；当学科内容需要独立关系能力时，可由 SA 新增更具体的 subject-level node label。",
+      "identity_rule": "有稳定名称、定义或可归一化表达，并可被章节、题目或其他知识点引用。",
+      "properties": [
+        {
+          "name": "name",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "definition",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "description",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "aliases",
+          "value_type": "list[string]",
+          "required": false
+        },
+        {
+          "name": "rules",
+          "value_type": "list[RuleStatement]",
+          "required": false
+        },
+        {
+          "name": "formulas",
+          "value_type": "list[FormulaStatement]",
+          "required": false
+        },
+        {
+          "name": "methods",
+          "value_type": "list[MethodStep]",
+          "required": false
+        },
+        {
+          "name": "quantity_relationships",
+          "value_type": "list[QuantityRelationship]",
+          "required": false
+        },
+        {
+          "name": "tools",
+          "value_type": "list[ToolRef]",
+          "required": false
+        },
+        {
+          "name": "examples",
+          "value_type": "list[ExampleRef]",
+          "required": false
+        },
+        {
+          "name": "figures",
+          "value_type": "list[FigureRef]",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "多位数",
+        "力的合成",
+        "氧化还原反应",
+        "细胞结构"
+      ],
+      "negative_examples": [
+        "页眉页脚",
+        "装饰图"
+      ]
+    },
+    {
+      "label_id": "Problem",
+      "label_zh": "题目",
+      "description": "教材中的例题、练习题、活动题或应用题。",
+      "identity_rule": "有题目文本、题目位置和可追溯出处。",
+      "properties": [
+        {
+          "name": "problem_text",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "problem_type",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "answer",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "solution_steps",
+          "value_type": "list[MethodStep]",
+          "required": false
+        },
+        {
+          "name": "figures",
+          "value_type": "list[FigureRef]",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "例题",
+        "练一练",
+        "应用题"
+      ],
+      "negative_examples": [
+        "页码",
+        "栏目图标"
+      ]
+    },
+    {
+      "label_id": "ChapterSection",
+      "label_zh": "章节/小节",
+      "description": "教材章节、小节或整理练习单元。",
+      "identity_rule": "来自 section metadata，有稳定章节编号、标题和文件来源。",
+      "properties": [
+        {
+          "name": "title",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "chapter_num",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "section_num",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "source_path",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "line_range",
+          "value_type": "object",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "认 识 多 位 数",
+        "三位数乘两位数"
+      ],
+      "negative_examples": [
+        "段落中的普通短语"
+      ]
+    },
+    {
+      "label_id": "Element",
+      "label_zh": "化学元素",
+      "description": "具有相同核电荷数（质子数）的一类原子的总称，是化学学科的核心实体。",
+      "identity_rule": "由原子序数唯一确定，有稳定的符号和名称，可被多个题目或知识点引用。",
+      "properties": [
+        {
+          "name": "symbol",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "name",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "atomic_number",
+          "value_type": "integer",
+          "required": true
+        },
+        {
+          "name": "relative_atomic_mass",
+          "value_type": "float",
+          "required": false
+        },
+        {
+          "name": "category",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "group",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "period",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "铁",
+        "氧",
+        "碳",
+        "氢"
+      ],
+      "negative_examples": [
+        "水",
+        "二氧化碳",
+        "混合物"
+      ]
+    },
+    {
+      "label_id": "ChemicalSubstance",
+      "label_zh": "化学物质",
+      "description": "具体的化学实体，包括单质、化合物和混合物。区别于抽象概念（如氧化还原）。",
+      "identity_rule": "有明确的化学名称、分子式或物理存在形式，可参与化学反应或具有特定性质。",
+      "properties": [
+        {
+          "name": "name",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "formula",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "english_name",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "state",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "figures",
+          "value_type": "list[FigureRef]",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "氯气",
+        "硫酸",
+        "钠",
+        "水"
+      ],
+      "negative_examples": [
+        "氧化还原反应",
+        "摩尔质量",
+        "页码"
+      ]
+    },
+    {
+      "label_id": "Ion",
+      "label_zh": "离子",
+      "description": "带电的原子或原子团，作为化合物的组成单元。",
+      "identity_rule": "有稳定的电荷和符号表示，常出现在反应机理或溶解性表中。",
+      "properties": [
+        {
+          "name": "symbol",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "charge",
+          "value_type": "integer",
+          "required": false
+        },
+        {
+          "name": "type",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "Ag⁺",
+        "Ba²+",
+        "SO₄²-"
+      ],
+      "negative_examples": [
+        "普通名词"
+      ]
+    },
+    {
+      "label_id": "ChemicalCategory",
+      "label_zh": "化学物质类别",
+      "description": "对化学物质进行分类的集合概念，如酸、碱、盐、氧化物、族等。",
+      "identity_rule": "代表一类具有共同化学性质的物质集合，在教材中作为分类标签出现。",
+      "properties": [
+        {
+          "name": "name",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "definition",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "examples",
+          "value_type": "list[string]",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "碱金属",
+        "卤素",
+        "强电解质",
+        "酸性氧化物"
+      ],
+      "negative_examples": [
+        "第一章",
+        "练习题"
+      ]
+    },
+    {
+      "label_id": "SolubilityRule",
+      "label_zh": "溶解性规律",
+      "description": "描述物质在水中溶解性的规则集合，通常以表格形式呈现。",
+      "identity_rule": "有明确的规则陈述或标准参考表（如附录）。",
+      "properties": [
+        {
+          "name": "rule_text",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "conditions",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "figures",
+          "value_type": "list[FigureRef]",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "常见酸碱盐溶解性表",
+        "沉淀生成规律"
+      ],
+      "negative_examples": [
+        "单一物质的性质"
+      ]
+    }
+  ],
+  "edge_labels": [
+    {
+      "predicate_id": "contains",
+      "label_zh": "包含",
+      "source_label": "ChapterSection",
+      "target_label": "KnowledgePoint",
+      "definition": "章节或小节包含某个知识点。",
+      "properties": [
+        {
+          "name": "relation_label",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "rationale",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "figures",
+          "value_type": "list[FigureRef]",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "章节包含知识点"
+      ],
+      "negative_examples": [
+        "任意相邻文本"
+      ]
+    },
+    {
+      "predicate_id": "tests",
+      "label_zh": "考察",
+      "source_label": "Problem",
+      "target_label": "KnowledgePoint",
+      "definition": "题目考察某个知识点。",
+      "properties": [
+        {
+          "name": "relation_label",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "rationale",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "figures",
+          "value_type": "list[FigureRef]",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "题目考察多位数读写"
+      ],
+      "negative_examples": [
+        "题目与知识点只是同页出现"
+      ]
+    },
+    {
+      "predicate_id": "requires",
+      "label_zh": "前置/依赖",
+      "source_label": "KnowledgePoint",
+      "target_label": "KnowledgePoint",
+      "definition": "一个知识点学习或解题需要另一个知识点作为前置基础。",
+      "properties": [
+        {
+          "name": "relation_label",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "rationale",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "figures",
+          "value_type": "list[FigureRef]",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "三位数乘两位数需要两位数乘法"
+      ],
+      "negative_examples": [
+        "两个知识点同章出现"
+      ]
+    },
+    {
+      "predicate_id": "prerequisite_for",
+      "label_zh": "先修于",
+      "source_label": "KnowledgePoint",
+      "target_label": "KnowledgePoint",
+      "definition": "知识点 A 是学习、理解或解决知识点 B 的先修基础；方向为 A prerequisite_for B。",
+      "properties": [
+        {
+          "name": "relation_label",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "rationale",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "figures",
+          "value_type": "list[FigureRef]",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "两位数乘法先修于三位数乘两位数",
+        "物质的量先修于气体摩尔体积"
+      ],
+      "negative_examples": [
+        "两个知识点只是相邻出现"
+      ]
+    },
+    {
+      "predicate_id": "extends",
+      "label_zh": "拓展/进阶",
+      "source_label": "KnowledgePoint",
+      "target_label": "KnowledgePoint",
+      "definition": "知识点 A 是知识点 B 的拓展、进阶、推广、变式或更一般/更特殊情形。",
+      "properties": [
+        {
+          "name": "relation_label",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "rationale",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "figures",
+          "value_type": "list[FigureRef]",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "分式方程是方程概念的拓展",
+        "匀变速直线运动是直线运动模型的进阶"
+      ],
+      "negative_examples": [
+        "并列概念无明确拓展关系"
+      ]
+    },
+    {
+      "predicate_id": "uses_method",
+      "label_zh": "使用方法",
+      "source_label": "Problem",
+      "target_label": "KnowledgePoint",
+      "definition": "题目、例题或活动任务使用某个方法性知识点、实验方法、表示方法或解题策略。",
+      "properties": [
+        {
+          "name": "relation_label",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "rationale",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "figures",
+          "value_type": "list[FigureRef]",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "应用题使用列表法",
+        "实验题使用控制变量法",
+        "化学计算题使用守恒法"
+      ],
+      "negative_examples": [
+        "题目只是提到知识点名称但没有方法使用"
+      ]
+    },
+    {
+      "predicate_id": "precipitates_with",
+      "label_zh": "生成沉淀",
+      "source_label": "ChemicalSubstance",
+      "target_label": "ChemicalSubstance",
+      "definition": "两种物质混合后产生不溶性固体沉淀的反应关系。",
+      "properties": [
+        {
+          "name": "product_formula",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "relation_label",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "rationale",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "figures",
+          "value_type": "list[FigureRef]",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "AgNO3与NaCl生成AgCl沉淀",
+        "BaCl2与Na2SO4生成BaSO4沉淀"
+      ],
+      "negative_examples": [
+        "两种物质可共存于溶液"
+      ]
+    },
+    {
+      "predicate_id": "composed_of",
+      "label_zh": "由...组成",
+      "source_label": "ChemicalSubstance",
+      "target_label": "Ion",
+      "definition": "化合物由特定的阳离子和阴离子构成。",
+      "properties": [
+        {
+          "name": "ratio",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "relation_label",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "rationale",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "NaCl由Na⁺和Cl⁻组成",
+        "BaSO4由Ba²+和SO₄²-组成"
+      ],
+      "negative_examples": [
+        "混合物"
+      ]
+    },
+    {
+      "predicate_id": "classified_as",
+      "label_zh": "属于类别",
+      "source_label": "ChemicalSubstance",
+      "target_label": "ChemicalCategory",
+      "definition": "具体的化学物质归属于某个化学类别（如酸、碱、盐、族）。",
+      "properties": [
+        {
+          "name": "relation_label",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "rationale",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "氯气 classified_as 卤素",
+        "硫酸 classified_as 酸"
+      ],
+      "negative_examples": [
+        "两个知识点只是相邻出现"
+      ]
+    },
+    {
+      "predicate_id": "belongs_to_group",
+      "label_zh": "属于族",
+      "source_label": "Element",
+      "target_label": "ChemicalCategory",
+      "definition": "元素在元素周期表中所属的族（主族、副族等）。",
+      "properties": [
+        {
+          "name": "relation_label",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "rationale",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "evidence",
+          "value_type": "list[EvidenceRef]",
+          "required": true
+        },
+        {
+          "name": "confidence",
+          "value_type": "float",
+          "required": true
+        }
+      ],
+      "positive_examples": [
+        "钠 belongs_to_group IA",
+        "氯 belongs_to_group VIIA"
+      ],
+      "negative_examples": [
+        "元素与周期无关"
+      ]
+    }
+  ],
+  "shared_property_types": [
+    {
+      "type_id": "EvidenceRef",
+      "description": "指向教材正文片段的文字证据引用。只用于文字上下文溯源，不再区分来源类型，也不承载任何图像信息；图像走 FigureRef。",
+      "fields": [
+        {
+          "name": "source_path",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "section",
+          "value_type": "object",
+          "required": true
+        },
+        {
+          "name": "quote_or_summary",
+          "value_type": "string",
+          "required": true
+        }
+      ]
+    },
+    {
+      "type_id": "FigureRef",
+      "description": "教材图像作为 node/edge 内在组成的引用。核心是可溯源定位图片(figure_id+image_path)；图挂在哪个 node/edge 上即表达其作用，无需文字说明。description 为图片文字快照，便于无图场景的下游消费。",
+      "fields": [
+        {
+          "name": "figure_id",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "image_path",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "name",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "description",
+          "value_type": "string",
+          "required": false
+        }
+      ]
+    },
+    {
+      "type_id": "RuleStatement",
+      "description": "知识点内部的规则或性质描述，不默认独立成 node label。",
+      "fields": [
+        {
+          "name": "statement",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "conditions",
+          "value_type": "string",
+          "required": false
+        }
+      ]
+    },
+    {
+      "type_id": "MethodStep",
+      "description": "知识点或题目内部的方法步骤，不默认独立成 node label。",
+      "fields": [
+        {
+          "name": "step_text",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "order",
+          "value_type": "integer",
+          "required": false
+        }
+      ]
+    },
+    {
+      "type_id": "FormulaStatement",
+      "description": "知识点内部的公式、方程式、定律表达或符号化表述；除非需要独立关系能力，否则不默认独立成 node label。",
+      "fields": [
+        {
+          "name": "statement",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "notation",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "conditions",
+          "value_type": "string",
+          "required": false
+        }
+      ]
+    },
+    {
+      "type_id": "QuantityRelationship",
+      "description": "知识点内部的数量关系、变量关系、比例关系或因果量化关系；除非需要跨节点复用和独立边，否则不默认独立成 node label。",
+      "fields": [
+        {
+          "name": "statement",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "variable_definitions",
+          "value_type": "object",
+          "required": false
+        },
+        {
+          "name": "conditions",
+          "value_type": "string",
+          "required": false
+        }
+      ]
+    },
+    {
+      "type_id": "ToolRef",
+      "description": "学科工具、仪器、方法工具或表示工具的轻量引用；当工具本身需要独立关系时，SA 可提出更具体的 node label。",
+      "fields": [
+        {
+          "name": "name",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "tool_type",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "description",
+          "value_type": "string",
+          "required": false
+        }
+      ]
+    },
+    {
+      "type_id": "ExampleRef",
+      "description": "知识点内部的例子或应用场景引用；普通例子默认保持为属性，不提升为 node label。",
+      "fields": [
+        {
+          "name": "name",
+          "value_type": "string",
+          "required": false
+        },
+        {
+          "name": "description",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "source",
+          "value_type": "string",
+          "required": false
+        }
+      ]
+    },
+    {
+      "type_id": "ChemicalFormula",
+      "description": "化学物质的分子式或实验式，用于精确标识物质。",
+      "fields": [
+        {
+          "name": "formula_string",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "notation_type",
+          "value_type": "string",
+          "required": false
+        }
+      ]
+    },
+    {
+      "type_id": "BilingualTerm",
+      "description": "学科术语的中英文对照引用，支持多语言检索。",
+      "fields": [
+        {
+          "name": "chinese_term",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "english_term",
+          "value_type": "string",
+          "required": true
+        },
+        {
+          "name": "page_reference",
+          "value_type": "integer",
+          "required": false
+        }
+      ]
+    }
+  ],
+  "evidence_policy": {
+    "default_role": "evidence_property",
+    "default_shape": "EvidenceRef",
+    "figure_shape": "FigureRef",
+    "promotion_rule": "Evidence can become an independent node label only when it must be independently audited, manually annotated, or reused across many nodes/edges.",
+    "image_rule": "图像一律通过 FigureRef 进入 KG，挂在对应 node/edge 的 figures 属性下，永不进入 EvidenceRef。"
+  },
+  "confidence_policy": {
+    "range": "0-1",
+    "precision": 2
+  },
+  "extraction_boundaries": [
+    "IPA note 是图片经视觉模型文本化的结果，不是教材正文本体；其作用是判断该图属于哪个 node/edge 后作为 FigureRef 挂入其 figures，与 EvidenceRef 无关。",
+    "图像一律通过 FigureRef 进入 KG，永不进入 EvidenceRef；EvidenceRef 只承载文字上下文证据。",
+    "Do not extract KG facts from low/uncertain or failed IPA notes.",
+    "Property-like candidates are node/edge properties unless a strong promotion_reason is provided.",
+    "The human base schema is an educational prior, not a closed label set; SA may add evidence-grounded subject-level labels and predicates while avoiding textbook-local label explosion."
+  ]
+}

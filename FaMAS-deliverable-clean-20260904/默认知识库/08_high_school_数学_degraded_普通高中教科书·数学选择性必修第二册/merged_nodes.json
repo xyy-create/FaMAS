@@ -1,0 +1,2472 @@
+{
+  "schema_version": "kg.merged_nodes.v1",
+  "run_id": "kg_普通高中教科书·数学选择性必修第二册_20260702",
+  "nodes": [
+    {
+      "node_id": "canon_chaptersection_ef9a3f38490d",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "6.1 空间向量及其运算",
+        "chapter_num": "6",
+        "section_num": "6.1",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.1.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.1.md",
+            "section": {
+              "id": "s001",
+              "title": "第六章 空间向量与立体几何"
+            },
+            "quote_or_summary": "第6章 空间向量与立体几何，6.1 空间向量及其运算"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page010_img001.jpg",
+            "name": "吊车与空间向量示意图",
+            "description": "左侧为吊车实物图；右侧为三维直角坐标系及空间向量a。",
+            "figure_id": "ipa_evidence_ab070efb0edc"
+          }
+        ],
+        "aliases": [
+          "6.1空间向量及其运算"
+        ]
+      },
+      "source_context_id": "s001_ch6_s6.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "section_ch6_s6.1"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_bac0e45168ad",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "空间向量",
+        "definition": "在空间，我们把像位移、力、速度、加速度这样既有大小又有方向的量，叫作空间向量。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.1.md",
+            "section": {
+              "id": "s001",
+              "title": "第六章 空间向量与立体几何"
+            },
+            "quote_or_summary": "在空间，我们把像位移、力、速度、加速度这样既有大小又有方向的量，叫作空间向量"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "空间向量"
+        ]
+      },
+      "source_context_id": "s001_ch6_s6.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_space_vector"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_4f210d61b09b",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "空间向量的线性运算",
+        "definition": "空间向量也有加法、减法和数乘运算。凡是方向相同且长度相等的有向线段都表示相同的向量。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.1.md",
+            "section": {
+              "id": "s001",
+              "title": "第六章 空间向量与立体几何"
+            },
+            "quote_or_summary": "与平面向量一样，空间向量也用有向线段表示．类比平面向量的运算，空间向量也有加法、减法和数乘运算"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page011_img001.jpg",
+            "name": "空间向量线性运算示意图",
+            "description": "平面α内点O,A,B形成三角形OAB，向量OA=a, AB=b, OB=a+b。",
+            "figure_id": "ipa_evidence_dd5a98ee8382"
+          }
+        ],
+        "aliases": [
+          "空间向量的线性运算"
+        ]
+      },
+      "source_context_id": "s001_ch6_s6.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_linear_ops"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_7dd99ccf3bd4",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "共线向量定理",
+        "definition": "对空间任意两个向量a,b(a≠0)，b与a共线的充要条件是存在实数λ，使b=λa。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.1.md",
+            "section": {
+              "id": "s001",
+              "title": "第六章 空间向量与立体几何"
+            },
+            "quote_or_summary": "共线向量定理 对空间任意两个向量a,b(a≠0)，b与a共线的充要条件是存在实数λ，使b=λa"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "共线向量定理"
+        ]
+      },
+      "source_context_id": "s001_ch6_s6.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_collinear_theorem"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_1b3780a2ed71",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "空间向量的数量积",
+        "definition": "设a,b是空间两个非零向量，我们把数量|a||b|cos<a,b>叫作向量a,b的数量积，记作a·b。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.1.md",
+            "section": {
+              "id": "s001",
+              "title": "第六章 空间向量与立体几何"
+            },
+            "quote_or_summary": "设a,b是空间两个非零向量，我们把数量|a||b|cos<a,b>叫作向量a,b的数量积，记作a·b"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page014_img005.jpg",
+            "name": "空间向量夹角定义图",
+            "description": "向量OA=a, OB=b, ∠AOB=θ。",
+            "figure_id": "ipa_evidence_298783b698d1"
+          }
+        ],
+        "aliases": [
+          "空间向量的数量积"
+        ]
+      },
+      "source_context_id": "s001_ch6_s6.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_dot_product"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_3ee7650d2400",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "投影向量",
+        "definition": "过点A作AA₁⊥OB，垂足为A₁，上述由向量a得到向量OA₁的变换称为向量a向向量b投影，向量OA₁称为向量a在向量b上的投影向量。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.1.md",
+            "section": {
+              "id": "s001",
+              "title": "第六章 空间向量与立体几何"
+            },
+            "quote_or_summary": "上述由向量a得到向量OA₁的变换称为向量a向向量b投影，向量OA₁称为向量a在向量b上的投影向量"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page015_img004.jpg",
+            "name": "向量投影示意图",
+            "description": "OA=a, OB=b, AA₁⊥OB, OA₁为a在b上的投影向量。",
+            "figure_id": "ipa_evidence_8a50cf86c56b"
+          }
+        ],
+        "aliases": [
+          "投影向量"
+        ]
+      },
+      "source_context_id": "s001_ch6_s6.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_projection_vector"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_c26576d505bb",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "共面向量定理",
+        "definition": "如果两个向量a,b不共线，那么向量p与向量a,b共面的充要条件是存在有序实数组(x,y)，使得p=xa+yb。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.1.md",
+            "section": {
+              "id": "s001",
+              "title": "第六章 空间向量与立体几何"
+            },
+            "quote_or_summary": "共面向量定理 如果两个向量a,b不共线，那么向量p与向量a,b共面的充要条件是存在有序实数组(x,y)，使得p=xa+yb"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page018_img001.jpg",
+            "name": "共面向量长方体示意图",
+            "description": "长方体ABCD-A1B1C1D1中，向量AB, AD, AC在同一平面内。",
+            "figure_id": "ipa_evidence_03e5e527429f"
+          }
+        ],
+        "aliases": [
+          "共面向量定理"
+        ]
+      },
+      "source_context_id": "s001_ch6_s6.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_coplanar_theorem"
+      ]
+    },
+    {
+      "node_id": "canon_problem_6d20ae489255",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "如图6.1.4，在三棱柱ABC-A₁B₁C₁中，M是BB₁的中点，化简下列各式，并在图中标出化简得到的向量：(1) CB+BA₁; (2) AC+CB+1/2AA₁; (3) AA₁-AC-CB.",
+        "problem_type": "例题",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.1.md",
+            "section": {
+              "id": "s001",
+              "title": "第六章 空间向量与立体几何"
+            },
+            "quote_or_summary": "例1 如图6.1.4，在三棱柱ABC-A₁B₁C₁中，M是BB₁的中点，化简下列各式"
+          }
+        ],
+        "confidence": 0.9,
+        "figures": [
+          {
+            "image_path": "images/page013_img001.jpg",
+            "name": "三棱柱向量化简图",
+            "description": "正方体ABCD-A₁B₁C₁D₁的立体示意图，标出向量AC、CB、AA₁、AM、BA₁。",
+            "figure_id": "ipa_evidence_3447227e631f"
+          }
+        ],
+        "aliases": [
+          "如图6.1.4，在三棱柱ABC-A₁B₁C₁中，M是BB₁的中点，化简下列各式，并在图中标出化简得到的向量：(1)CB+BA₁;(2)AC+CB+1/2AA₁;(3)AA₁-AC-CB."
+        ]
+      },
+      "source_context_id": "s001_ch6_s6.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_example1"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_b4dbfb1b175b",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "空间向量的应用",
+        "chapter_num": "6",
+        "section_num": "6.3",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.3.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.3.md",
+            "section": {
+              "id": "s003",
+              "title": "第六章 空间向量与立体几何"
+            },
+            "quote_or_summary": "## 空间向量的应用\n\n在平面向量中，我们借助向量研究了平面内两条直线平行、垂直等位置关系"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "空间向量的应用"
+        ]
+      },
+      "source_context_id": "s003_ch6_s6.3",
+      "revision_round": "0",
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "cp_section_6.3"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_ae93f07b5f66",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "直线的方向向量",
+        "definition": "把直线 l 上的向量 e(e≠0) 以及与 e 共线的非零向量叫作直线 l 的方向向量",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.3.md",
+            "section": {
+              "id": "s003",
+              "title": "第六章 空间向量与立体几何"
+            },
+            "quote_or_summary": "我们把直线 l 上的向量 e(e≠0) 以及与 e 共线的非零向量叫作直线 l 的方向向量"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "直线的方向向量"
+        ]
+      },
+      "source_context_id": "s003_ch6_s6.3",
+      "revision_round": "0",
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_dir_vec_line"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_a7c76b411fd4",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "平面的法向量",
+        "definition": "如果表示非零向量 n 的有向线段所在直线垂直于平面α，那么称向量 n 垂直于平面α，记作 n⊥α．此时，我们把向量 n 叫作平面α 的法向量",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.3.md",
+            "section": {
+              "id": "s003",
+              "title": "第六章 空间向量与立体几何"
+            },
+            "quote_or_summary": "如果表示非零向量 n 的有向线段所在直线垂直于平面α，那么称向量 n 垂直于平面α，记作 n⊥α．此时，我们把向量 n 叫作平面α 的法向量"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "平面的法向量"
+        ]
+      },
+      "source_context_id": "s003_ch6_s6.3",
+      "revision_round": "0",
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_normal_vec_plane"
+      ]
+    },
+    {
+      "node_id": "canon_problem_7b25537fa180",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "在正方体 ABCD-A₁B₁C₁D₁ 中，求证：DB₁ 是平面 ACD₁ 的法向量.",
+        "problem_type": "proof",
+        "figures": [
+          {
+            "image_path": "images/page032_img001.jpg",
+            "name": "图 6 3 1",
+            "description": "正方体空间直角坐标系示意图：一个正方体ABCD-A₁B₁C₁D₁，其顶点D位于空间直角坐标系原点，DA沿x轴正方向，DC沿y轴正方向，DD₁沿z轴正方向",
+            "figure_id": "ipa_evidence_5d7a0110a0e5"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.3.md",
+            "section": {
+              "id": "s003",
+              "title": "第六章 空间向量与立体几何"
+            },
+            "quote_or_summary": "例 1 在正方体 ABCD-A₁B₁C₁D₁ 中，求证：DB₁ 是平面 ACD₁ 的法向量."
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "在正方体ABCD-A₁B₁C₁D₁中，求证：DB₁是平面ACD₁的法向量."
+        ]
+      },
+      "source_context_id": "s003_ch6_s6.3",
+      "revision_round": "0",
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_ex1_cube_normal"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_40489c7ac3b9",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "三垂线定理",
+        "definition": "在平面内的一条直线，如果它和这个平面的一条斜线在这个平面内的射影垂直，那么它也和这条斜线垂直",
+        "figures": [
+          {
+            "image_path": "images/page035_img001.jpg",
+            "name": "图 6 3 2",
+            "description": "立体几何示意图：平面α上有点 O、A、C、D，直线 OB 为平面α的斜线，BA 垂直于平面α于点 A；CD 在平面α内，且 CD⊥OA",
+            "figure_id": "ipa_evidence_1b53ddc1ce61"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.3.md",
+            "section": {
+              "id": "s003",
+              "title": "第六章 空间向量与立体几何"
+            },
+            "quote_or_summary": "例 3 证明：在平面内的一条直线，如果它和这个平面的一条斜线在这个平面内的射影垂直，那么它也和这条斜线垂直．（三垂线定理）"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "三垂线定理"
+        ]
+      },
+      "source_context_id": "s003_ch6_s6.3",
+      "revision_round": "0",
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_three_perp_theorem"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_06c032b24f96",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "直线与平面垂直的判定定理",
+        "definition": "如果一条直线和平面内的两条相交直线垂直，那么这条直线垂直于这个平面",
+        "figures": [
+          {
+            "image_path": "images/page035_img007.jpg",
+            "name": "图 6 3 3",
+            "description": "平面α内有两条相交直线 m 和 n，交点为 B；直线 l 垂直于平面α，且 l 与 m、n 均相交",
+            "figure_id": "ipa_evidence_12d219034399"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.3.md",
+            "section": {
+              "id": "s003",
+              "title": "第六章 空间向量与立体几何"
+            },
+            "quote_or_summary": "例 4 证明：如果一条直线和平面内的两条相交直线垂直，那么这条直线垂直于这个平面．（直线与平面垂直的判定定理）"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "直线与平面垂直的判定定理"
+        ]
+      },
+      "source_context_id": "s003_ch6_s6.3",
+      "revision_round": "0",
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_line_plane_perp_thm"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_d2e3bd728a6a",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "空间角的计算",
+        "description": "用直线的方向向量和平面的法向量分别刻画空间直线和平面的“方向”，用向量的方法来求空间直线与直线、直线与平面、平面与平面所成的角",
+        "figures": [
+          {
+            "image_path": "images/page038_img003.jpg",
+            "name": "图 6 3 6",
+            "description": "正方体中异面直线示意图：一个正方体 ABCD-A₁B₁C₁D₁ 的立体图，标注了顶点，在上底面边和下底面边上分别有点，用于表示例 7 中求异面直线所成角的几何构造",
+            "figure_id": "ipa_evidence_88bfc1ee0cbd"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.3.md",
+            "section": {
+              "id": "s003",
+              "title": "第六章 空间向量与立体几何"
+            },
+            "quote_or_summary": "下面我们用向量的方法来求空间直线与直线、直线与平面、平面与平面所成的角"
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "空间角的计算"
+        ]
+      },
+      "source_context_id": "s003_ch6_s6.3",
+      "revision_round": "0",
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_spatial_angle_calc"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_c53c763cbf86",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "空间距离的计算",
+        "description": "用向量的方法分别研究点到直线的距离及点到平面的距离，转化为投影向量的模",
+        "figures": [
+          {
+            "image_path": "images/page042_img005.jpg",
+            "name": "图 6-3-11",
+            "description": "一个正方体 ABCD-A₁B₁C₁D₁，在空间直角坐标系 Dxyz 中绘制。可见顶点标注为 A,B,C,D（底面）和 A₁,B₁,C₁,D₁（顶面）。图中用实线画出线段 B₁C，用虚线画出线段 D₁B₁ 和 D₁C",
+            "figure_id": "ipa_evidence_0ef5225d4e87"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch6_s6.3.md",
+            "section": {
+              "id": "s003",
+              "title": "第六章 空间向量与立体几何"
+            },
+            "quote_or_summary": "下面我们用向量的方法分别研究点到直线的距离及点到平面的距离"
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "空间距离的计算"
+        ]
+      },
+      "source_context_id": "s003_ch6_s6.3",
+      "revision_round": "0",
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_spatial_dist_calc"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_977feb2d57ed",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "分类计数原理",
+        "definition": "如果完成一件事，有 n 类方式，在第 1 类方式中有 m1 种不同的方法……在第 n 类方式中有 mn 种不同的方法，那么完成这件事共有 N = m1 + m2 + ... + mn 种不同的方法",
+        "aliases": [
+          "分类计数原理",
+          "加法原理"
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+            "section": {
+              "id": "s004",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "分类计数原理又称为加法原理... N = m1 + m2 + ... + mn"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_ch7_s7.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_ch7_s7.1_knowledge_point_addition"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_f7f5ccc36467",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "分步计数原理",
+        "definition": "如果完成一件事，需要分成 n 个步骤，做第 1 步有 m1 种不同的方法，做第 2 步有 m2 种不同的方法……做第 n 步有 mn 种不同的方法，那么完成这件事共有 N = m1 × m2 × ... × mn 种不同的方法",
+        "aliases": [
+          "乘法原理",
+          "分步计数原理"
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+            "section": {
+              "id": "s004",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "分步计数原理又称为乘法原理... N = m1 × m2 × ... × mn"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_ch7_s7.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_ch7_s7.1_knowledge_point_multiplication"
+      ]
+    },
+    {
+      "node_id": "canon_problem_f6c43ce06187",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "例1 某班共有男生28名、女生20名，从该班选出学生代表参加校学生代表大会（1）若学校分配给该班1名代表，则有多少种不同的选法？",
+        "answer": "48种",
+        "solution_steps": [
+          {
+            "step_text": "第一类 从男生中选出1名代表，有28种不同的选法",
+            "order": 1
+          },
+          {
+            "step_text": "第二类 从女生中选出1名代表，有20种不同的选法",
+            "order": 2
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+            "section": {
+              "id": "s004",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "例1 某班共有男生28名、女生20名，从该班选出学生代表参加校学生代表大会"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "例1某班共有男生28名、女生20名，从该班选出学生代表参加校学生代表大会（1）若学校分配给该班1名代表，则有多少种不同的选法？"
+        ]
+      },
+      "source_context_id": "s004_ch7_s7.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_ch7_s7.1_problem_example1"
+      ]
+    },
+    {
+      "node_id": "canon_problem_217410fa2513",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "例2 （1）在图7 1 3（1）的电路中，仅合上1只开关接通电路，有多少种不同的方法？",
+        "answer": "5种",
+        "solution_steps": [
+          {
+            "step_text": "根据分类计数原理，共有 2 + 3 = 5 种不同的方法",
+            "order": 1
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+            "section": {
+              "id": "s004",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "例2 （1）在图7 1 3（1）的电路中，仅合上1只开关接通电路，有多少种不同的方法？"
+          }
+        ],
+        "confidence": 0.9,
+        "figures": [
+          {
+            "image_path": "images/page061_img001.jpg",
+            "name": "电路图7-13(1)",
+            "description": "电路图7-13(1)：一个串联电路，包含两个并联支路A和B，最终连接到灯泡和电源。支路A内有2个并联开关；支路B内有3个并联开关。图中所有开关均处于断开状态。",
+            "figure_id": "ipa_evidence_3f92818ba506"
+          }
+        ],
+        "aliases": [
+          "例2（1）在图713（1）的电路中，仅合上1只开关接通电路，有多少种不同的方法？"
+        ]
+      },
+      "source_context_id": "s004_ch7_s7.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_ch7_s7.1_problem_example2"
+      ]
+    },
+    {
+      "node_id": "canon_problem_f7c22ba625c8",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "例3 3名同学每人从5本不同的电子书中任选1本，共有多少种不同的选法？",
+        "answer": "125种",
+        "solution_steps": [
+          {
+            "step_text": "第一名同学选1本电子书有5种不同的选法，第二、第三名同学各选1本电子书，仍各有5种不同的选法",
+            "order": 1
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+            "section": {
+              "id": "s004",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "例3 3名同学每人从5本不同的电子书中任选1本，共有多少种不同的选法？"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "例33名同学每人从5本不同的电子书中任选1本，共有多少种不同的选法？"
+        ]
+      },
+      "source_context_id": "s004_ch7_s7.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_ch7_s7.1_problem_example3"
+      ]
+    },
+    {
+      "node_id": "canon_problem_bfac17aa4b4b",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "例4 为了确保电子邮箱的安全，在注册时，通常要设置电子邮箱密码．（1）若密码为4位，每位均为0～9这10个数字中的1个，则这样的密码共有多少个？",
+        "answer": "10000",
+        "solution_steps": [
+          {
+            "step_text": "根据分步计数原理，4位密码的个数是 10 × 10 × 10 × 10 = 10000",
+            "order": 1
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+            "section": {
+              "id": "s004",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "例4 为了确保电子邮箱的安全，在注册时，通常要设置电子邮箱密码"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "例4为了确保电子邮箱的安全，在注册时，通常要设置电子邮箱密码．（1）若密码为4位，每位均为0～9这10个数字中的1个，则这样的密码共有多少个？"
+        ]
+      },
+      "source_context_id": "s004_ch7_s7.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_ch7_s7.1_problem_example4"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_773b4c75d96d",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "两个基本计数原理",
+        "chapter_num": "7",
+        "section_num": "7.1",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+        "line_range": {
+          "start": 2300,
+          "end": 2585
+        },
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+            "section": {
+              "id": "s004",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "第7章 计数原理 7.1 两个基本计数原理"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "两个基本计数原理"
+        ]
+      },
+      "source_context_id": "s004_ch7_s7.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_ch7_s7.1_section"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_4ce90eb8dea4",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "排列",
+        "chapter_num": "7",
+        "section_num": "7.2",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.2.md",
+        "line_range": {
+          "start": 2586,
+          "end": 2914
+        },
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.2.md",
+            "section": {
+              "id": "s005",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "## 排  列\n考察下面两个问题：（1）高二（1）班准备从甲、乙、丙这3名学生中选出2人分别担任班长和副班长..."
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "排列"
+        ]
+      },
+      "source_context_id": "s005_ch7_s7.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s005_node_section_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_aa0b0b54e127",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "排列",
+        "definition": "从n个不同元素中取出m(m≤n)个元素，按照一定的顺序排成一列，叫作从n个不同元素中取出m个元素的一个排列。",
+        "figures": [
+          {
+            "image_path": "images/page065_img001.jpg",
+            "name": "树形图表示选法",
+            "description": "从3名学生中选出2人担任班长和副长长的所有可能情况用树形图表示",
+            "figure_id": "ipa_evidence_fcad97630df1"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.2.md",
+            "section": {
+              "id": "s005",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "一般地，从n个不同的元素中取出m(m≤n)个元素，按照一定的顺序排成一列，叫作从n个不同元素中取出m个元素的一个排列"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "排列"
+        ]
+      },
+      "source_context_id": "s005_ch7_s7.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s005_node_kp_permutation_def"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_77470283a33f",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "排列数",
+        "definition": "从n个不同元素中取出m(m≤n)个元素的所有排列的个数，叫作从n个不同元素中取出m个元素的排列数，用符号A_n^m表示。",
+        "figures": [
+          {
+            "image_path": "images/page067_img001.jpg",
+            "name": "分步填位示意图",
+            "description": "处理排列问题可分步进行，从第1位到第3位依次选填",
+            "figure_id": "ipa_evidence_b6b66e92ae7e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.2.md",
+            "section": {
+              "id": "s005",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "一般地，从n个不同元素中取出m(m≤n)个元素的所有排列的个数，叫作从n个不同元素中取出m个元素的排列数，用符号A_n^m示"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "排列数"
+        ]
+      },
+      "source_context_id": "s005_ch7_s7.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s005_node_kp_permutation_count"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_64e76d0cf789",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "排列数公式",
+        "formulas": [
+          {
+            "statement": "\\mathrm { A } _ { n } ^ { m } = n ( n - 1 ) ( n - 2 ) \\cdots ( n - m + 1 )"
+          },
+          {
+            "statement": "\\mathrm { A } _ { n } ^ { m } = \\frac { n ! } { ( n - m ) ! }"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page067_img002.jpg",
+            "name": "位置划分示意图",
+            "description": "把m个元素所排列的位置划分为第1位、第2位……第m位",
+            "figure_id": "ipa_evidence_b3471213f609"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.2.md",
+            "section": {
+              "id": "s005",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "根据分步计数原理，我们得到排列数公式：A_n^m = n(n-1)(n-2)...(n-m+1)"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "排列数公式"
+        ]
+      },
+      "source_context_id": "s005_ch7_s7.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s005_node_kp_formula"
+      ]
+    },
+    {
+      "node_id": "canon_problem_a6e8c07ca2c4",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "例1 （1）写出从a，b，c，d这4个字母中，取出2个字母的所有排列；（2）写出从a，b，c，d这4个字母中，取出3个字母的所有排列",
+        "solution_steps": [
+          {
+            "step_text": "第1个位置有4种排法，第2个位置有3种排法，共计12个排列"
+          },
+          {
+            "step_text": "在每一种这样的排列后面排上其余2个字母中的任何一个，就得到取出3个字母的所有排列"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page066_img001.jpg",
+            "name": "取2个字母排列树形图",
+            "description": "从4个字母中取出2个字母的排列树形图",
+            "figure_id": "ipa_evidence_35e5b3775b88"
+          },
+          {
+            "image_path": "images/page066_img003.jpg",
+            "name": "取3个字母排列树形图",
+            "description": "从4个字母中取出3个字母的排列树形图",
+            "figure_id": "ipa_evidence_cd1a90a7d8ec"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.2.md",
+            "section": {
+              "id": "s005",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "例1 （1）写出从a，b，c，d这4个字母中，取出2个字母的所有排列；（2）写出从a，b，c，d这4个字母中，取出3个字母的所有排列"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "例1（1）写出从a，b，c，d这4个字母中，取出2个字母的所有排列；（2）写出从a，b，c，d这4个字母中，取出3个字母的所有排列"
+        ]
+      },
+      "source_context_id": "s005_ch7_s7.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s005_node_prob_ex1"
+      ]
+    },
+    {
+      "node_id": "canon_problem_1c1eb942fe92",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "例5 从5名同学中选3名排成一列，共有多少种不同的排法？",
+        "answer": "共有60种不同的排法",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.2.md",
+            "section": {
+              "id": "s005",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "例5 从5名同学中选3名排成一列，共有多少种不同的排法？解 从5名同学中选3名排成一列，对应于从5个不同元素中取出3个元素的一个排列"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "例5从5名同学中选3名排成一列，共有多少种不同的排法？"
+        ]
+      },
+      "source_context_id": "s005_ch7_s7.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s005_node_prob_ex5"
+      ]
+    },
+    {
+      "node_id": "canon_problem_107d91196b5d",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "例7 用0～9这10个数字能组成多少个没有重复数字的三位数？",
+        "solution_steps": [
+          {
+            "step_text": "解法1：百位不能是0，分两步完成，A_9^1 * A_9^2 = 648"
+          },
+          {
+            "step_text": "解法2：分类讨论，每一位都不是0，个位是0，十位是0，共648个"
+          },
+          {
+            "step_text": "解法3：总排列减去0在首位的排列，A_10^3 - A_9^2 = 648"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page070_img002.jpg",
+            "name": "百位选择树形图",
+            "description": "排百位上的数字，可从1～9这9个数字中任选1个",
+            "figure_id": "ipa_evidence_62ff639441a4"
+          },
+          {
+            "image_path": "images/page070_img004.jpg",
+            "name": "分类讨论表",
+            "description": "符合条件的三位数分成3类：每一位都不是0，个位是0，十位是0",
+            "figure_id": "ipa_evidence_4211b3065efb"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.2.md",
+            "section": {
+              "id": "s005",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "例7 用0～9这10个数字能组成多少个没有重复数字的三位数？解法1 由于百位上的数字不能是0，因此，为了得到这个三位数，可以分两步完成"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "例7用0～9这10个数字能组成多少个没有重复数字的三位数？"
+        ]
+      },
+      "source_context_id": "s005_ch7_s7.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s005_node_prob_ex7"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_310fdc090c54",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "组合",
+        "chapter_num": "7",
+        "section_num": "7.3",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.3.md",
+        "line_range": {
+          "start": 2915,
+          "end": 3304
+        },
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.3.md",
+            "section": {
+              "id": "s006",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "## 组 合\n\n考察下面两个问题：\n\n（1）高二（1）班准备从甲、乙、丙这3名学生中选2名学生代表，有多少种不同的选法？"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "组合"
+        ]
+      },
+      "source_context_id": "s006_ch7_s7.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "cs_ch7_s7.3"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_a833f27fb847",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "组合",
+        "definition": "一般地，从 n 个不同元素中取出 m(m≤n) 个元素并成一组，叫作从 n 个不同元素中取出 m 个元素的一个组合",
+        "figures": [
+          {
+            "image_path": "images/page073_img001.jpg",
+            "name": "图 7 3 1",
+            "description": "组合树状图：a→b→c, b→c",
+            "figure_id": "ipa_evidence_a3c606b2adfb"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.3.md",
+            "section": {
+              "id": "s006",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "一般地，从 n 个不同元素中取出 m(m≤n) 个元素并成一组，叫作从 n 个不同元素中取出 m 个元素的一个组合"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "组合"
+        ]
+      },
+      "source_context_id": "s006_ch7_s7.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_combination_def"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_0b63de5f8bca",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "组合数",
+        "definition": "从 n 个不同元素中取出 m(m≤n) 个元素的所有组合的个数，叫作从 n 个不同元素中取出 m 个元素的组合数，用符号 C_n^m",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.3.md",
+            "section": {
+              "id": "s006",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "从 n 个不同元素中取出 m(m≤n) 个元素的所有组合的个数，叫作从 n 个不同元素中取出 m 个元素的组合数，用符号 C_n^m"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "组合数"
+        ]
+      },
+      "source_context_id": "s006_ch7_s7.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_combination_number"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_bfbd7be7c491",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "组合数公式",
+        "definition": "C_n^m = A_n^m / A_m^m = n(n-1)...(n-m+1)/m! = n!/(m!(n-m)!)。这里 n∈N*, 并且 m≤n.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.3.md",
+            "section": {
+              "id": "s006",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "C_n^m = A_n^m / A_m^m = n(n-1)...(n-m+1)/m! = n!/(m!(n-m)!)。这里 n∈N*, 并且 m≤n."
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "组合数公式"
+        ]
+      },
+      "source_context_id": "s006_ch7_s7.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_combination_formula"
+      ]
+    },
+    {
+      "node_id": "canon_problem_e0c5dcd6f817",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "例 1 写出从 a，b，c 这 3 个元素中，每次取出 2 个元素的所有组合",
+        "solution_steps": [
+          {
+            "step_text": "先画一个示意图（图 7 3 1）",
+            "order": 1
+          },
+          {
+            "step_text": "由此即可写出所有的组合：ab, ac, bc",
+            "order": 2
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page073_img001.jpg",
+            "name": "图 7 3 1",
+            "description": "组合树状图：a→b→c, b→c",
+            "figure_id": "ipa_evidence_a3c606b2adfb"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.3.md",
+            "section": {
+              "id": "s006",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "例 1 写出从 a，b，c 这 3 个元素中，每次取出 2 个元素的所有组合"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "例1写出从a，b，c这3个元素中，每次取出2个元素的所有组合"
+        ]
+      },
+      "source_context_id": "s006_ch7_s7.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_example1"
+      ]
+    },
+    {
+      "node_id": "canon_problem_82e6f6f1e6e1",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "如图，湖面上有 4 个相邻的小岛 A，B，C，D，现要建 3 座桥梁，将这 4 个小岛连接起来，共有多少种不同的方案？",
+        "figures": [
+          {
+            "image_path": "images/page080_img001.jpg",
+            "name": "第 12 题",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_731e021579fd"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.3.md",
+            "section": {
+              "id": "s006",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "如图，湖面上有 4 个相邻的小岛 A，B，C，D，现要建 3 座桥梁，将这 4 个小岛连接起来，共有多少种不同的方案？"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "如图，湖面上有4个相邻的小岛A，B，C，D，现要建3座桥梁，将这4个小岛连接起来，共有多少种不同的方案？"
+        ]
+      },
+      "source_context_id": "s006_ch7_s7.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_exercise12"
+      ]
+    },
+    {
+      "node_id": "canon_problem_61027e8d4b7b",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "如图，某地有南北街道 5 条、东西街道 6 条．一邮递员从该地东北角的邮局 A 出发，送信到西南角的 B 地，且途经 C 地，要求所走路程最短，共有多少种不同的走法？",
+        "figures": [
+          {
+            "image_path": "images/page080_img002.jpg",
+            "name": "第 13 题",
+            "description": "网格图：一个由蓝色线条构成的 5×5 方格网，左下角顶点标记为 B，右上角顶点标记为 A。在从左往右第 3 列、从下往上第 3 行的小方格内有一个黑点，标记为 C。",
+            "figure_id": "ipa_evidence_ddf85fea0173"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch7_s7.3.md",
+            "section": {
+              "id": "s006",
+              "title": "第七章 计数原理"
+            },
+            "quote_or_summary": "如图，某地有南北街道 5 条、东西街道 6 条．一邮递员从该地东北角的邮局 A 出发，送信到西南角的 B 地，且途经 C 地，要求所走路程最短，共有多少种不同的走法？"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "如图，某地有南北街道5条、东西街道6条．一邮递员从该地东北角的邮局A出发，送信到西南角的B地，且途经C地，要求所走路程最短，共有多少种不同的走法？"
+        ]
+      },
+      "source_context_id": "s006_ch7_s7.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_investigation13"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_55e7f95c0a43",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "条件概率",
+        "chapter_num": "8",
+        "section_num": "8.1",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.1.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.1.md",
+            "section": {
+              "id": "s008",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "第八章 概率 8.1 条件概率"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "条件概率"
+        ]
+      },
+      "source_context_id": "s008_ch8_s8.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_ch8_s8.1"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_3778740e08e1",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "条件概率",
+        "definition": "事件 A 发生的条件下事件 B 发生的概率，记为 P(B|A)",
+        "formulas": [
+          {
+            "statement": "P(B|A) = P(AB)/P(A) (P(A)>0)"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page100_img001.jpg",
+            "description": "树形图展示条件概率样本空间",
+            "figure_id": "ipa_evidence_33f81e90ab45"
+          },
+          {
+            "image_path": "images/page100_img002.jpg",
+            "description": "韦恩图展示条件概率集合关系",
+            "figure_id": "ipa_evidence_a667e240a683"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.1.md",
+            "section": {
+              "id": "s008",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "一般地，设 A,B 为两个事件，P(A)>0，我们称 P(AB)/P(A) 为事件 A 发生的条件下事件 B 发生的条件概率"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "条件概率"
+        ]
+      },
+      "source_context_id": "s008_ch8_s8.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_kp_conditional_prob"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_a25cda4c5a42",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "全概率公式",
+        "formulas": [
+          {
+            "statement": "P(B) = sum_{i=1}^n P(A_i)P(B|A_i)"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page102_img001.jpg",
+            "description": "树形图展示全概率公式路径",
+            "figure_id": "ipa_evidence_4f200f63544a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.1.md",
+            "section": {
+              "id": "s008",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "这个公式称为全概率公式（totalprobabilityformula）"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "全概率公式"
+        ]
+      },
+      "source_context_id": "s008_ch8_s8.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_kp_total_prob"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_d9105f392f7c",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "贝叶斯公式",
+        "formulas": [
+          {
+            "statement": "P(A_i|B) = P(A_i)P(B|A_i) / sum_{j=1}^n P(A_j)P(B|A_j)"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.1.md",
+            "section": {
+              "id": "s008",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "这个公式称为贝叶斯公式"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "贝叶斯公式"
+        ]
+      },
+      "source_context_id": "s008_ch8_s8.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_kp_bayes"
+      ]
+    },
+    {
+      "node_id": "canon_problem_451324fb973f",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "例 1 抛掷一颗质地均匀的骰子，样本空间 Ω={1,2,3,4,5,6}，事件 A＝{2,3,5}，B＝{1,2,4,5,6}，求 P(A), P(B), P(AB), P(A|B)",
+        "answer": "P(A)=1/2, P(B)=5/6, P(AB)=1/3, P(A|B)=2/5",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.1.md",
+            "section": {
+              "id": "s008",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "例 1 抛掷一颗质地均匀的骰子...求 P(A), P(B), P(AB), P(A|B)"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "例1抛掷一颗质地均匀的骰子，样本空间Ω={1,2,3,4,5,6}，事件A＝{2,3,5}，B＝{1,2,4,5,6}，求P(A),P(B),P(AB),P(A|B)"
+        ]
+      },
+      "source_context_id": "s008_ch8_s8.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_prob_ex1"
+      ]
+    },
+    {
+      "node_id": "canon_problem_cd3ecfa96a9a",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "例 2 在一个盒子中有大小一样的 20 个球，其中有 10 个红球和 10 个白球．现无放回地依次从中摸出 1 个球，求第一次摸出红球且第二次摸出白球的概率",
+        "answer": "约 0.2632",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.1.md",
+            "section": {
+              "id": "s008",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "例 2 在一个盒子中有大小一样的 20 个球...求第一次摸出红球且第二次摸出白球的概率"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "例2在一个盒子中有大小一样的20个球，其中有10个红球和10个白球．现无放回地依次从中摸出1个球，求第一次摸出红球且第二次摸出白球的概率"
+        ]
+      },
+      "source_context_id": "s008_ch8_s8.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_prob_ex2"
+      ]
+    },
+    {
+      "node_id": "canon_problem_53e3ee5b9175",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "例 3 某批麦种中，一等麦种占 98％，二等麦种占 2％，一、二等麦种种植后所结的穗含有 50 粒以上麦粒的概率分别为 0．5，0．15．求用这批种子种植后所结的穗含有 50 粒以上麦粒的概率",
+        "answer": "0.493",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.1.md",
+            "section": {
+              "id": "s008",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "例 3 某批麦种中，一等麦种占 98％...求用这批种子种植后所结的穗含有 50 粒以上麦粒的概率"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "例3某批麦种中，一等麦种占98％，二等麦种占2％，一、二等麦种种植后所结的穗含有50粒以上麦粒的概率分别为0．5，0．15．求用这批种子种植后所结的穗含有50粒以上麦粒的概率"
+        ]
+      },
+      "source_context_id": "s008_ch8_s8.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_prob_ex3"
+      ]
+    },
+    {
+      "node_id": "canon_problem_912f63df975b",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "例 4 设甲袋中有 3 个白球和 4 个红球，乙袋中有 1 个白球和 2 个红球．现从甲袋中任取 2 个球放入乙袋，再从乙袋中任取 2 个球．求从乙袋中取出的是 2 个红球的概率",
+        "answer": "5/14",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.1.md",
+            "section": {
+              "id": "s008",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "例 4 设甲袋中有 3 个白球和 4 个红球...求从乙袋中取出的是 2 个红球的概率"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "例4设甲袋中有3个白球和4个红球，乙袋中有1个白球和2个红球．现从甲袋中任取2个球放入乙袋，再从乙袋中任取2个球．求从乙袋中取出的是2个红球的概率"
+        ]
+      },
+      "source_context_id": "s008_ch8_s8.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_prob_ex4"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_ef9e4d706928",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "离散型随机变量及其分布列",
+        "chapter_num": "8",
+        "section_num": "8.2",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.2.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s009",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "# 离散型随机变量及其分布列"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "离散型随机变量及其分布列"
+        ]
+      },
+      "source_context_id": "s009_ch8_s8.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_ch8_s8.2_section"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_a67b4532e1dd",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "随机变量",
+        "definition": "对于随机试验样本空间Ω中的每个样本点ω，都有唯一的实数 X（ω）与之对应，则称 X 为随机变量",
+        "figures": [
+          {
+            "image_path": "images/page108_img003.jpg",
+            "name": "函数映射示意图",
+            "description": "A 到 P 再到 P 的映射关系图示",
+            "figure_id": "ipa_evidence_ed9adc1b786b"
+          },
+          {
+            "image_path": "images/page108_img002.jpg",
+            "name": "组合路径与树形图",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容",
+            "figure_id": "ipa_evidence_879b6ceaaf8d"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s009",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "一般地，对于随机试验样本空间Ω中的每个样本点ω，都有唯一的实数 X（ω）与之对应，则称 X 为随机变量"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "随机变量"
+        ]
+      },
+      "source_context_id": "s009_ch8_s8.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_kp_random_variable"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_ad1ab9687b3b",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "离散型随机变量",
+        "definition": "植树成活的树苗数、抛掷骰子向上的点数……像这种取值为离散的数值的随机变量称为离散型随机变量",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s009",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "取值为离散的数值的随机变量称为离散型随机变量"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "离散型随机变量"
+        ]
+      },
+      "source_context_id": "s009_ch8_s8.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_kp_discrete_rv"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_80a48f650805",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "概率分布列",
+        "definition": "P(X=xi)=pi, i=1,2,...,n，称①为随机变量 X 的概率分布列",
+        "figures": [
+          {
+            "image_path": "images/page111_img001.jpg",
+            "name": "样本空间与概率表",
+            "description": "| 样本空间 | X的值 | 概率 |",
+            "figure_id": "ipa_evidence_ed1fd991159d"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s009",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "P(X=xi)=pi, i=1,2,...,n，称①为随机变量 X 的概率分布列"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "概率分布列"
+        ]
+      },
+      "source_context_id": "s009_ch8_s8.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_kp_distribution_list"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_c6906b9be37a",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "均值",
+        "definition": "p1x1+p2x2+...+pnxn 称为随机变量 X 的均值或数学期望，记为 E(X) 或 μ",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s009",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "p1x1+p2x2+...+pnxn 称为随机变量 X 的均值或数学期望，记为 E(X) 或 μ"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "均值"
+        ]
+      },
+      "source_context_id": "s009_ch8_s8.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_kp_mean"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_28552ec0fb74",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "方差",
+        "definition": "D(X)=σ^2=(x1-μ)^2p1+...+(xn-μ)^2pn，称为离散型随机变量 X 的方差",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s009",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "D(X)=σ^2=(x1-μ)^2p1+...+(xn-μ)^2pn，称为离散型随机变量 X 的方差"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "方差"
+        ]
+      },
+      "source_context_id": "s009_ch8_s8.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_kp_variance"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_75130ddb40ee",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "二项分布",
+        "definition": "若随机变量 X 的分布列为 P(X=k)=C_n^k p^k q^(n-k)，则称 X 服从参数为 n,p 的二项分布，记作 X~B(n,p)",
+        "figures": [
+          {
+            "image_path": "images/page120_img002.jpg",
+            "name": "射击试验树形图",
+            "description": "| 第1次射击 | ... | 结果 | X 的值 | 概率 |",
+            "figure_id": "ipa_evidence_8e62316108dd"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s009",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "若随机变量 X 的分布列为 P(X=k)=C_n^k p^k q^(n-k)，则称 X 服从参数为 n,p 的二项分布"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "二项分布"
+        ]
+      },
+      "source_context_id": "s009_ch8_s8.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_kp_binomial"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_75494f74c5ae",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "超几何分布",
+        "definition": "若一个随机变量 X 的分布列为 P(X=r)=C_M^r C_(N-M)^(n-r)/C_N^n，则称 X 服从超几何分布，记为 X~H(n,M,N)",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s009",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "若一个随机变量 X 的分布列为 P(X=r)=C_M^r C_(N-M)^(n-r)/C_N^n，则称 X 服从超几何分布"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "超几何分布"
+        ]
+      },
+      "source_context_id": "s009_ch8_s8.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_kp_hypergeometric"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_3b796201bfc0",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "8.3 正态分布",
+        "chapter_num": "8",
+        "section_num": "8.3",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.3.md",
+        "line_range": {
+          "start": 5128,
+          "end": 5517
+        },
+        "figures": [
+          {
+            "image_path": "images/page137_img001.jpg",
+            "name": "本章概览",
+            "description": "随机事件到正态分布的知识结构图",
+            "figure_id": "ipa_evidence_371c62992688"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.3.md",
+            "section": {
+              "id": "s010",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "## 正态分布"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "8.3正态分布"
+        ]
+      },
+      "source_context_id": "s010_ch8_s8.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_ch8_s8.3_section"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_f468000be393",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "正态分布",
+        "definition": "随机变量X服从参数为μ和σ²的正态分布，记为X~N(μ,σ²)",
+        "figures": [
+          {
+            "image_path": "images/page129_img002.jpg",
+            "name": "频率直方图",
+            "description": "长度数据的频率直方图",
+            "figure_id": "ipa_evidence_6721e1818327"
+          },
+          {
+            "image_path": "images/page129_img003.jpg",
+            "name": "概率密度曲线",
+            "description": "趋于光滑的概率密度曲线",
+            "figure_id": "ipa_evidence_46b2c50c9535"
+          },
+          {
+            "image_path": "images/page129_img004.jpg",
+            "name": "正态密度曲线",
+            "description": "函数图象与上述曲线吻合",
+            "figure_id": "ipa_evidence_41a02704f194"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.3.md",
+            "section": {
+              "id": "s010",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "设X是一个随机变量，若对任给区间(a,b]，P(a<X≤b)是正态密度曲线下方和x轴上(a,b]上方所围成的图形的面积，则称随机变量X服从参数为μ和σ²的正态分布"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "正态分布"
+        ]
+      },
+      "source_context_id": "s010_ch8_s8.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_normal_distribution_def"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_1ae3d14403d4",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "标准正态分布",
+        "definition": "将正态分布N(0,1)称为标准正态分布",
+        "formulas": [
+          {
+            "statement": "p(x) = \\frac{1}{\\sqrt{2\\pi}} e^{-\\frac{x^2}{2}}"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page131_img002.jpg",
+            "name": "标准正态分布表",
+            "description": "标准正态分布表及公式",
+            "figure_id": "ipa_evidence_a4e8de33ebf2"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.3.md",
+            "section": {
+              "id": "s010",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "我们将正态分布N(0,1)称为标准正态分布"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "标准正态分布"
+        ]
+      },
+      "source_context_id": "s010_ch8_s8.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_standard_normal_dist"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_67b4a86c20eb",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "正态分布的性质",
+        "rules": [
+          {
+            "statement": "正态密度曲线关于直线x=μ对称，σ越大曲线越扁平，σ越小越尖陡"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page130_img001.jpg",
+            "name": "不同μ和σ的曲线",
+            "description": "不同的μ和σ对应着不同的正态密度曲线",
+            "figure_id": "ipa_evidence_98e1f8cf0d23"
+          },
+          {
+            "image_path": "images/page130_img002.jpg",
+            "name": "不同μ和σ的曲线",
+            "description": "不同的μ和σ对应着不同的正态密度曲线",
+            "figure_id": "ipa_evidence_d8ed43cc2e27"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.3.md",
+            "section": {
+              "id": "s010",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "正态密度曲线具有如下特征：（1）当x<μ时，曲线上升；当x>μ时，曲线下降；（2）曲线关于直线x=μ对称"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "正态分布的性质"
+        ]
+      },
+      "source_context_id": "s010_ch8_s8.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_normal_dist_properties"
+      ]
+    },
+    {
+      "node_id": "canon_problem_776464f71faf",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "例1 已知随机变量 Z~N(0,1)，查标准正态分布表，求：（1）P(Z≤1.52)；（2）P(Z>1.52)",
+        "solution_steps": [
+          {
+            "step_text": "P(Z≤1.52)=0.9357"
+          },
+          {
+            "step_text": "P(Z>1.52)=1-P(Z≤1.52)=0.0643"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page132_img002.jpg",
+            "name": "例1计算步骤",
+            "description": "例1中第(3)问的计算过程",
+            "figure_id": "ipa_evidence_9fc5f6bc5fd5"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.3.md",
+            "section": {
+              "id": "s010",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "例1 已知随机变量 Z~N(0,1)，查标准正态分布表，求："
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "例1已知随机变量Z~N(0,1)，查标准正态分布表，求：（1）P(Z≤1.52)；（2）P(Z>1.52)"
+        ]
+      },
+      "source_context_id": "s010_ch8_s8.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_example_1"
+      ]
+    },
+    {
+      "node_id": "canon_problem_ca4babec1633",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "例2 某批待出口的水果罐头，每罐净重X（单位：g）服从正态分布N(184,2.5²)，求：（1）随机抽取1罐，其净重超过184.5g的概率",
+        "solution_steps": [
+          {
+            "step_text": "P(X>184.5)=P(Z>0.2)=1-P(Z≤0.2)=0.4207"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.3.md",
+            "section": {
+              "id": "s010",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "例2 某批待出口的水果罐头，每罐净重X（单位：g）服从正态分布N(184,2.5²)，求："
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "例2某批待出口的水果罐头，每罐净重X（单位：g）服从正态分布N(184,2.5²)，求：（1）随机抽取1罐，其净重超过184.5g的概率"
+        ]
+      },
+      "source_context_id": "s010_ch8_s8.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_example_2"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_1aea2f8e43c7",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "二项分布与正态分布的关系",
+        "description": "试验次数较大时，可利用正态分布近似处理二项分布的相关概率计算问题",
+        "figures": [
+          {
+            "image_path": "images/page134_img001.jpg",
+            "name": "二项分布折线图",
+            "description": "抛掷20枚硬币的二项分布折线图",
+            "figure_id": "ipa_evidence_6e499e4b1ea6"
+          },
+          {
+            "image_path": "images/page134_img002.jpg",
+            "name": "正态分布曲线",
+            "description": "均值方差相同的正态分布曲线",
+            "figure_id": "ipa_evidence_1dcf8201d705"
+          },
+          {
+            "image_path": "images/page134_img003.jpg",
+            "name": "二项分布折线图",
+            "description": "抛掷100次时的二项分布折线图",
+            "figure_id": "ipa_evidence_4a8a1f8d0f28"
+          },
+          {
+            "image_path": "images/page134_img004.jpg",
+            "name": "正态分布曲线",
+            "description": "抛掷100次时的正态分布曲线",
+            "figure_id": "ipa_evidence_09b7bc86324b"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.3.md",
+            "section": {
+              "id": "s010",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "因为二项分布的概率计算公式较为繁琐，所以在试验次数较大时，可以利用正态分布处理二项分布的相关概率计算问题"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "二项分布与正态分布的关系"
+        ]
+      },
+      "source_context_id": "s010_ch8_s8.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_binomial_normal_relation"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_2ae41da1df16",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "正态分布的统计应用",
+        "description": "现实世界中许多随机变量遵循正态分布，如测量误差、身高体重等",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch8_s8.3.md",
+            "section": {
+              "id": "s010",
+              "title": "第八章 概率"
+            },
+            "quote_or_summary": "现实世界中的很多随机变量遵循正态分布．例如，反复测量某一个物理量，其测量误差X通常服从正态分布"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "正态分布的统计应用"
+        ]
+      },
+      "source_context_id": "s010_ch8_s8.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_normal_dist_applications"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_609632a3279c",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "线性回归分析",
+        "chapter_num": "9",
+        "section_num": "9.1",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch9_s9.1.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch9_s9.1.md",
+            "section": {
+              "id": "s011",
+              "title": "第九章 统计"
+            },
+            "quote_or_summary": "## 9．1．1 变量的相关性\n## 9．1．2 线性回归方程"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "线性回归分析"
+        ]
+      },
+      "source_context_id": "s011_ch9_s9.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s011_ch9_s9.1_section"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_dd0960c41aec",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "相关关系",
+        "definition": "两个变量之间具有一定的联系，但又没有确定性函数关系，这种关系称为相关关系。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch9_s9.1.md",
+            "section": {
+              "id": "s011",
+              "title": "第九章 统计"
+            },
+            "quote_or_summary": "通常把上述问题中的脚长、施肥量、家庭收入等称为自变量，与之对应的身高、农作物的产量、家庭支出等称为相应的因变量"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "相关关系"
+        ]
+      },
+      "source_context_id": "s011_ch9_s9.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_correlativity"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_dff7edb714cb",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "线性回归模型",
+        "definition": "y = a + bx + ε，其中a + bx是确定性函数，ε称为随机误差。",
+        "formulas": [
+          {
+            "statement": "y = a + bx + \\varepsilon"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch9_s9.1.md",
+            "section": {
+              "id": "s011",
+              "title": "第九章 统计"
+            },
+            "quote_or_summary": "我们将 y = a + bx + ε 称为线性回归模型（linearregressionmodel）"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "线性回归模型"
+        ]
+      },
+      "source_context_id": "s011_ch9_s9.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_linear_regression_model"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_aa158c434863",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "最小二乘法",
+        "definition": "通过使残差平方和最小来确定回归直线方程系数的方法。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch9_s9.1.md",
+            "section": {
+              "id": "s011",
+              "title": "第九章 统计"
+            },
+            "quote_or_summary": "我们把上述方法称为“最小二乘法”，推导过程见“链接”"
+          }
+        ],
+        "confidence": 0.85,
+        "aliases": [
+          "最小二乘法"
+        ]
+      },
+      "source_context_id": "s011_ch9_s9.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_least_squares"
+      ]
+    },
+    {
+      "node_id": "canon_problem_1a1a10ea73f7",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "试判断下列各个问题中两个变量之间是否具有相关关系：（1）商品的销售价格与其供应量...",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch9_s9.1.md",
+            "section": {
+              "id": "s011",
+              "title": "第九章 统计"
+            },
+            "quote_or_summary": "例1 试判断下列各个问题中两个变量之间是否具有相关关系："
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "试判断下列各个问题中两个变量之间是否具有相关关系：（1）商品的销售价格与其供应量..."
+        ]
+      },
+      "source_context_id": "s011_ch9_s9.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_example1"
+      ]
+    },
+    {
+      "node_id": "canon_problem_8f4f0c16bc84",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "20个工业企业某年的平均固定资产价值与总产值（单位：百万元）如表9 1 2所示... 试画出散点图，计算相关系数",
+        "figures": [
+          {
+            "image_path": "images/page151_img001.jpg",
+            "name": "图9 1 6",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_c6d6a77b15b3"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch9_s9.1.md",
+            "section": {
+              "id": "s011",
+              "title": "第九章 统计"
+            },
+            "quote_or_summary": "例2 20个工业企业某年的平均固定资产价值与总产值（单位：百万元）如表9 1 2所示"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "20个工业企业某年的平均固定资产价值与总产值（单位：百万元）如表912所示...试画出散点图，计算相关系数"
+        ]
+      },
+      "source_context_id": "s011_ch9_s9.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "prob_example2"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_8614c8cbff9e",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "线性相关关系",
+        "definition": "散点图散布在一条直线附近，说明具有相关关系。我们将具有这种特性的相关关系称为线性相关关系。",
+        "figures": [
+          {
+            "image_path": "images/page146_img002.jpg",
+            "name": "图9 1 1",
+            "description": "横坐标人均年可支配收入，纵坐标人均年支出。8个点散布在一条直线附近，呈上升趋势。",
+            "figure_id": "ipa_evidence_0bcf380ad9bf"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch9_s9.1.md",
+            "section": {
+              "id": "s011",
+              "title": "第九章 统计"
+            },
+            "quote_or_summary": "散点图散布在一条直线附近，说明具有相关关系。我们将具有这种特性的相关关系称为线性相关关系。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "线性相关关系"
+        ]
+      },
+      "source_context_id": "s011_ch9_s9.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_linear_correlation"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_d7336efc3fe7",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "相关系数",
+        "definition": "衡量两个变量线性相关程度的指标，记为r。|r|越接近1，相关性越强。",
+        "formulas": [
+          {
+            "statement": "r = \\frac { n \\displaystyle \\sum _ { i = 1 } ^ { n } x _ { i } y _ { i } - \\big ( \\sum _ { i = 1 } ^ { n } x _ { i } \\big ) \\big ( \\sum _ { i = 1 } ^ { n } y _ { i } \\big ) } { \\sqrt { \\Big [ n \\displaystyle \\sum _ { i = 1 } ^ { n } x _ { i } ^ { 2 } - \\big ( \\sum _ { i = 1 } ^ { n } x _ { i } \\big ) ^ { 2 } \\Big ] \\Big [ n \\displaystyle \\sum _ { i = 1 } ^ { n } y _ { i } ^ { 2 } - \\big ( \\sum _ { i = 1 } ^ { n } y _ { i } \\big ) ^ { 2 } \\Big ] } }"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_222505_普通高中教科书·数学选择性必修第二册_20260702\\enhanced_markdown\\sections\\ch9_s9.1.md",
+            "section": {
+              "id": "s011",
+              "title": "第九章 统计"
+            },
+            "quote_or_summary": "我们将（＊)式称为n对数据 (x1,y1),(x2,y2),...,(xn,yn) 的相关系数（correlationcoefficient），记为r"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "相关系数"
+        ]
+      },
+      "source_context_id": "s011_ch9_s9.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_correlation_coefficient"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,708 @@
+{
+  "schema_version": "kg.triples.v1",
+  "run_id": "kg_普通高中教科书·化学选择性必修2物质结构与性质_20260630",
+  "triples": [
+    {
+      "triple_id": "triple_contains_9e2b4ed1b3c0",
+      "subject_node_id": "canon_chaptersection_03514e2b6954",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_30c6a607f35f",
+      "edge_id": "canon_edge_contains_2c30092675a5",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\001_第三单元物质结构研究的意义.md",
+          "section": {
+            "id": "s001",
+            "title": "第三单元 物质结构研究的意义"
+          },
+          "quote_or_summary": "人们对物质结构永无止境的探索，有三重意义。一是哲学上的意义... 二是科学理论和方法上的意义... 三是实践上的意义"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_3135285e2de7",
+      "subject_node_id": "canon_chaptersection_03514e2b6954",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_857bae532798",
+      "edge_id": "canon_edge_contains_9a269223b980",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\001_第三单元物质结构研究的意义.md",
+          "section": {
+            "id": "s001",
+            "title": "第三单元 物质结构研究的意义"
+          },
+          "quote_or_summary": "1860年，国际化学界接受了50年前阿伏加德罗提出的分子假说，确立了“原子—分子论”"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_5e20165c7f22",
+      "subject_node_id": "canon_chaptersection_03514e2b6954",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_dfac553c4101",
+      "edge_id": "canon_edge_contains_9e4f7ac13994",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\001_第三单元物质结构研究的意义.md",
+          "section": {
+            "id": "s001",
+            "title": "第三单元 物质结构研究的意义"
+          },
+          "quote_or_summary": "俄国化学家门捷列夫...发现了自然界的重要规律——元素周期律，从而把化学元素及其相关知识纳入一个自然序列变化的规律之中"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_93357686d7a0",
+      "subject_node_id": "canon_chaptersection_03514e2b6954",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_46bb4910d8e0",
+      "edge_id": "canon_edge_contains_b386e59592bc",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\001_第三单元物质结构研究的意义.md",
+          "section": {
+            "id": "s001",
+            "title": "第三单元 物质结构研究的意义"
+          },
+          "quote_or_summary": "人们迫切希望找到新物质的绿色合成方法，期望可以用简单、安全、对环境友好的操作，快速、定量地把价廉、易得的起始原料转化为人类所需求的物质"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_350570d8ba98",
+      "subject_node_id": "canon_chaptersection_03514e2b6954",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_630128d1bcbb",
+      "edge_id": "canon_edge_contains_9b2886dd53f4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\001_第三单元物质结构研究的意义.md",
+          "section": {
+            "id": "s001",
+            "title": "第三单元 物质结构研究的意义"
+          },
+          "quote_or_summary": "正是由于诺尔斯、野依良治和夏普莱斯三位有机化学家开创了不对称催化合成，我们现在能够很方便地合成许多手性化合物的单个异构体"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_a87333c354f0",
+      "subject_node_id": "canon_problem_15e3ae14dae7",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_dfac553c4101",
+      "edge_id": "canon_edge_tests_a0104843df92",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\001_第三单元物质结构研究的意义.md",
+          "section": {
+            "id": "s001",
+            "title": "第三单元 物质结构研究的意义"
+          },
+          "quote_or_summary": "B. 门捷列夫在前人工作的基础上发现了元素周期律，表明科学研究既要继承又要创新"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_f56a0ae5393e",
+      "subject_node_id": "canon_problem_15e3ae14dae7",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_30c6a607f35f",
+      "edge_id": "canon_edge_tests_2a66523fa4ae",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\001_第三单元物质结构研究的意义.md",
+          "section": {
+            "id": "s001",
+            "title": "第三单元 物质结构研究的意义"
+          },
+          "quote_or_summary": "A. 维勒利用无机物合成了尿素，突破了无机物与有机物的界限"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_8fde40c013ce",
+      "subject_node_id": "canon_problem_9bc9842d6f67",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_857bae532798",
+      "edge_id": "canon_edge_tests_753405d78b01",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\001_第三单元物质结构研究的意义.md",
+          "section": {
+            "id": "s001",
+            "title": "第三单元 物质结构研究的意义"
+          },
+          "quote_or_summary": "自1803年道尔顿提出原子假说以来，人类对原子结构的研究不断深入... 下列关于原子结构的说法中，正确的是"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_323d8cb263c4",
+      "subject_node_id": "canon_knowledgepoint_dfac553c4101",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_857bae532798",
+      "edge_id": "canon_edge_requires_ef4052692d22",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\001_第三单元物质结构研究的意义.md",
+          "section": {
+            "id": "s001",
+            "title": "第三单元 物质结构研究的意义"
+          },
+          "quote_or_summary": "在此基础上，俄国化学家门捷列夫...发现了自然界的重要规律——元素周期律"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_26a356802be9",
+      "subject_node_id": "canon_chaptersection_580816380213",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_6f3f510b6708",
+      "edge_id": "canon_edge_contains_0399fe8b1ce8",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\002_第一单元原子核外电子的运动.md",
+          "section": {
+            "id": "s002",
+            "title": "第一单元 原子核外电子的运动"
+          },
+          "quote_or_summary": "卢瑟福认为原子的质量主要集中于原子核上，电子在原子核外空间做高速运动。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a9646aca0655",
+      "subject_node_id": "canon_chaptersection_580816380213",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5b17362cc15c",
+      "edge_id": "canon_edge_contains_7673e260e90d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\002_第一单元原子核外电子的运动.md",
+          "section": {
+            "id": "s002",
+            "title": "第一单元 原子核外电子的运动"
+          },
+          "quote_or_summary": "用小点的疏密来描述电子在原子核外空间出现的机会大小所得到的图形叫做电子云。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_751cbdb49682",
+      "subject_node_id": "canon_chaptersection_580816380213",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5412f71a318a",
+      "edge_id": "canon_edge_contains_1f4351eaa744",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\002_第一单元原子核外电子的运动.md",
+          "section": {
+            "id": "s002",
+            "title": "第一单元 原子核外电子的运动"
+          },
+          "quote_or_summary": "s 轨道呈球形，p 轨道呈纺锤形，d 轨道和f轨道的形状更为复杂。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_c271386224a4",
+      "subject_node_id": "canon_chaptersection_580816380213",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_4faa1264e216",
+      "edge_id": "canon_edge_contains_180a0dd3c50f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\002_第一单元原子核外电子的运动.md",
+          "section": {
+            "id": "s002",
+            "title": "第一单元 原子核外电子的运动"
+          },
+          "quote_or_summary": "原子核外电子先占据能量低的轨道，然后依次进入能量较高的轨道。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_906c7775a242",
+      "subject_node_id": "canon_chaptersection_580816380213",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_194a3833400b",
+      "edge_id": "canon_edge_contains_b7744ed34756",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\002_第一单元原子核外电子的运动.md",
+          "section": {
+            "id": "s002",
+            "title": "第一单元 原子核外电子的运动"
+          },
+          "quote_or_summary": "某元素的气态原子失去一个电子形成+1价气态阳离子所需要的最低能量，叫做该元素的第一电离能。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8b4b4b377764",
+      "subject_node_id": "canon_chaptersection_580816380213",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_48a34ca33e4e",
+      "edge_id": "canon_edge_contains_e80fc43a1683",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\002_第一单元原子核外电子的运动.md",
+          "section": {
+            "id": "s002",
+            "title": "第一单元 原子核外电子的运动"
+          },
+          "quote_or_summary": "美国化学家鲍林于1932年首先提出了用电负性来衡量元素在化合物中吸引电子的能力。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_56fdcd295d5e",
+      "subject_node_id": "canon_problem_1d77b173126c",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_4faa1264e216",
+      "edge_id": "canon_edge_tests_a2cfad931bb9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\002_第一单元原子核外电子的运动.md",
+          "section": {
+            "id": "s002",
+            "title": "第一单元 原子核外电子的运动"
+          },
+          "quote_or_summary": "1. 比较下列多电子原子的原子轨道的能量高低。（1）1s、3d"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_309268ea911f",
+      "subject_node_id": "canon_knowledgepoint_4faa1264e216",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_5412f71a318a",
+      "edge_id": "canon_edge_requires_51150cb37ec4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\002_第一单元原子核外电子的运动.md",
+          "section": {
+            "id": "s002",
+            "title": "第一单元 原子核外电子的运动"
+          },
+          "quote_or_summary": "处于同一电子层的原子核外电子，可以在不同类型的原子轨道上运动，其能量也不相同，故可将同一电子层进一步划分为不同的能级。"
+        }
+      ],
+      "confidence": 0.8
+    },
+    {
+      "triple_id": "triple_contains_dc52297633e4",
+      "subject_node_id": "canon_chaptersection_6331b07ae3c9",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_63afd604f6e7",
+      "edge_id": "canon_edge_contains_c0280db89ce9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\003_专题.md",
+          "section": {
+            "id": "s003",
+            "title": "专题"
+          },
+          "quote_or_summary": "化学上把这种金属离子与自由电子之间强烈的相互作用称为金属键（metallic bond）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_1a1fac86d163",
+      "subject_node_id": "canon_chaptersection_6331b07ae3c9",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_053adba94ece",
+      "edge_id": "canon_edge_contains_c6f824e2d87a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\003_专题.md",
+          "section": {
+            "id": "s003",
+            "title": "专题"
+          },
+          "quote_or_summary": "在金属晶体（metallic crystal）中，金属原子如同半径相等的小球一样，彼此相切、紧密堆积成晶体。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_75a3bad37677",
+      "subject_node_id": "canon_chaptersection_6331b07ae3c9",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b9996b3f2ada",
+      "edge_id": "canon_edge_contains_d5627eec9af3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\003_专题.md",
+          "section": {
+            "id": "s003",
+            "title": "专题"
+          },
+          "quote_or_summary": "和其他类型的晶体一样，金属晶体也是由能够反映晶体结构特征的基本重复单位— 晶胞（unit cell）在空间连续重复延伸而形成的。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0e046b8663cc",
+      "subject_node_id": "canon_chaptersection_6331b07ae3c9",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8e03c7fbb6de",
+      "edge_id": "canon_edge_contains_affa5cb87b79",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\003_专题.md",
+          "section": {
+            "id": "s003",
+            "title": "专题"
+          },
+          "quote_or_summary": "将图3-8中的密置层和非密置层按一定的方式在三维空间中堆积，就得到了金属晶体的4种基本堆积方式：简单立方、体心立方、面心立方和六方。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_56b40fb0998d",
+      "subject_node_id": "canon_chaptersection_6331b07ae3c9",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ecdc42715f05",
+      "edge_id": "canon_edge_contains_e5ebef89527d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\003_专题.md",
+          "section": {
+            "id": "s003",
+            "title": "专题"
+          },
+          "quote_or_summary": "人们使用更多的是一种金属与另一种或几种金属（或非金属）的融合体——合金（alloy），而不是纯金属。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_c6c1b77634e3",
+      "subject_node_id": "canon_problem_689017c267d9",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_63afd604f6e7",
+      "edge_id": "canon_edge_tests_afaee9e43b54",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\003_专题.md",
+          "section": {
+            "id": "s003",
+            "title": "专题"
+          },
+          "quote_or_summary": "1. 下列叙述中正确的是（ ）A. 金属键有饱和性和方向性 B. 金属键强度大，所以金属的熔点都很高 C. 金属内部的自由电子为许多金属原子所“共有” D. 金属中的金属离子相互碰撞能传递能量，因此金属具有导热性"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_3798697afaa2",
+      "subject_node_id": "canon_chaptersection_5b96f4332d44",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_62d5f9159655",
+      "edge_id": "canon_edge_contains_a382a5b99691",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\004_第二单元离子键离子晶体.md",
+          "section": {
+            "id": "s004",
+            "title": "第二单元 离子键 离子晶体"
+          },
+          "quote_or_summary": "当阴、阳离子之间的静电引力和静电斥力达到平衡时，阴、阳离子保持一定的平衡核间距，形成稳定的离子键（ionic bond）"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0270255b5537",
+      "subject_node_id": "canon_chaptersection_5b96f4332d44",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d0149fde9377",
+      "edge_id": "canon_edge_contains_2afbc5edd433",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\004_第二单元离子键离子晶体.md",
+          "section": {
+            "id": "s004",
+            "title": "第二单元 离子键 离子晶体"
+          },
+          "quote_or_summary": "由阴、阳离子按一定方式有规则地排列形成的晶体称为离子晶体（ionic crystal）"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_ef848ebb3671",
+      "subject_node_id": "canon_chaptersection_5b96f4332d44",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_1e3cb4cc7a14",
+      "edge_id": "canon_edge_contains_216cde827b01",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\004_第二单元离子键离子晶体.md",
+          "section": {
+            "id": "s004",
+            "title": "第二单元 离子键 离子晶体"
+          },
+          "quote_or_summary": "通常情况下，吸引电子能力相近的原子之间通过共用电子对形成共价键"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_0b12a40ed6ff",
+      "subject_node_id": "canon_chaptersection_5b96f4332d44",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_3093805ba989",
+      "edge_id": "canon_edge_contains_068c173006c1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\004_第二单元离子键离子晶体.md",
+          "section": {
+            "id": "s004",
+            "title": "第二单元 离子键 离子晶体"
+          },
+          "quote_or_summary": "原子轨道沿核间连线方向以“头碰头”的方式重叠形成的共价键叫做σ键；原子轨道在核间连线两侧以“肩并肩”的方式重叠形成的共价键叫做π键"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_3320a77a9d86",
+      "subject_node_id": "canon_chaptersection_5b96f4332d44",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_0b313f068530",
+      "edge_id": "canon_edge_contains_378208c7bf44",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\004_第二单元离子键离子晶体.md",
+          "section": {
+            "id": "s004",
+            "title": "第二单元 离子键 离子晶体"
+          },
+          "quote_or_summary": "由一个原子提供孤电子对与另一个有空轨道可接受电子的原子形成共价键，这类共价键称为配位键（coordination bond）"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_e79c84665fa0",
+      "subject_node_id": "canon_chaptersection_5b96f4332d44",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c0316e821efc",
+      "edge_id": "canon_edge_contains_cac85cce9262",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\004_第二单元离子键离子晶体.md",
+          "section": {
+            "id": "s004",
+            "title": "第二单元 离子键 离子晶体"
+          },
+          "quote_or_summary": "晶体中所有原子通过共价键结合，形成空间网状结构，像这样的晶体叫做共价晶体（covalent crystal）"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_79c247a8dbe8",
+      "subject_node_id": "canon_problem_b9308d706bd2",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_3093805ba989",
+      "edge_id": "canon_edge_tests_34ccb72cbb82",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\004_第二单元离子键离子晶体.md",
+          "section": {
+            "id": "s004",
+            "title": "第二单元 离子键 离子晶体"
+          },
+          "quote_or_summary": "1. 下列分子中，只含有σ键而不含有π键的是（ ）A. CH3CH3 B. N2 C. C2H2 D. CO2"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_27060d87a5a4",
+      "subject_node_id": "canon_chaptersection_d59b7fcedd7e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7de473b503cf",
+      "edge_id": "canon_edge_contains_a7d7a067e0bd",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\005_第四单元分子间作用力分子晶体.md",
+          "section": {
+            "id": "s005",
+            "title": "第四单元 分子间作用力 分子晶体"
+          },
+          "quote_or_summary": "气体分子能够凝聚成相应的固体或液体，表明分子之间存在着分子间作用力（intermolecular force）"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_c8e1c34dfba1",
+      "subject_node_id": "canon_chaptersection_d59b7fcedd7e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_e027c0323633",
+      "edge_id": "canon_edge_contains_f3e33cff6165",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\005_第四单元分子间作用力分子晶体.md",
+          "section": {
+            "id": "s005",
+            "title": "第四单元 分子间作用力 分子晶体"
+          },
+          "quote_or_summary": "范德华力是一种普遍存在于固体、液体和气体中分子之间的作用力。与共价键不同，范德华力比较小，且一般没有饱和性和方向性"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_e8b3a9118847",
+      "subject_node_id": "canon_chaptersection_d59b7fcedd7e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_aacd293297ea",
+      "edge_id": "canon_edge_contains_e0bc05e09253",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\005_第四单元分子间作用力分子晶体.md",
+          "section": {
+            "id": "s005",
+            "title": "第四单元 分子间作用力 分子晶体"
+          },
+          "quote_or_summary": "这种相互作用叫做氢键（hydrogen bond）"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_4a7a72964c40",
+      "subject_node_id": "canon_chaptersection_d59b7fcedd7e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_e1200857c9dc",
+      "edge_id": "canon_edge_contains_899b63e9edec",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\005_第四单元分子间作用力分子晶体.md",
+          "section": {
+            "id": "s005",
+            "title": "第四单元 分子间作用力 分子晶体"
+          },
+          "quote_or_summary": "分子晶体（molecular crystal）是分子通过分子间作用力构成的固态物质。固态干冰是典型的分子晶体"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_181ae847d6a5",
+      "subject_node_id": "canon_chaptersection_d59b7fcedd7e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c36831442306",
+      "edge_id": "canon_edge_contains_2921ea6590aa",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\005_第四单元分子间作用力分子晶体.md",
+          "section": {
+            "id": "s005",
+            "title": "第四单元 分子间作用力 分子晶体"
+          },
+          "quote_or_summary": "美国化学家鲍林于1931年提出了杂化轨道理论。运用该理论，可以较好地解释 CH₄ 分子的空间结构"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_20dbaa31e323",
+      "subject_node_id": "canon_chaptersection_d59b7fcedd7e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_fbbc3076b03f",
+      "edge_id": "canon_edge_contains_8f4d06dfdce2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\005_第四单元分子间作用力分子晶体.md",
+          "section": {
+            "id": "s005",
+            "title": "第四单元 分子间作用力 分子晶体"
+          },
+          "quote_or_summary": "由提供孤电子对的分子或离子（称为配位体）与接受孤电子对的原子或离子（称为中心原子）以配位键结合形成的化合物称为配位化合物（coordination compound），简称配合物"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_c6bf04a3f41f",
+      "subject_node_id": "canon_chaptersection_d59b7fcedd7e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_84234de4b032",
+      "edge_id": "canon_edge_contains_97ed0ec11f8c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\005_第四单元分子间作用力分子晶体.md",
+          "section": {
+            "id": "s005",
+            "title": "第四单元 分子间作用力 分子晶体"
+          },
+          "quote_or_summary": "含有手性异构体的分子称为手性分子（chiral molecule）。如果一对分子，它们的组成和原子的排列方式完全相同，但如同左手和右手一样互为镜像（对映异构），在三维空间里不能重叠"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_bb2e4861e0ba",
+      "subject_node_id": "canon_knowledgepoint_e1200857c9dc",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_7de473b503cf",
+      "edge_id": "canon_edge_requires_9ab897bc2a1e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\005_第四单元分子间作用力分子晶体.md",
+          "section": {
+            "id": "s005",
+            "title": "第四单元 分子间作用力 分子晶体"
+          },
+          "quote_or_summary": "分子晶体（molecular crystal）是分子通过分子间作用力构成的固态物质"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_611135b951e4",
+      "subject_node_id": "canon_knowledgepoint_aacd293297ea",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_7de473b503cf",
+      "edge_id": "canon_edge_requires_3d7d65dd0c5d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_092436_普通高中教科书·化学选择性必修2物质结构与性质_20260630\\enhanced_markdown\\sections\\005_第四单元分子间作用力分子晶体.md",
+          "section": {
+            "id": "s005",
+            "title": "第四单元 分子间作用力 分子晶体"
+          },
+          "quote_or_summary": "范德华力和氢键是两种最常见的分子间作用力"
+        }
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+Classify each image using only the fixed fine-grained taxonomy below. 根据你在图片中实际看到的内容，选择最贴切的类型，并独立判断其 KG 价值。
+
+Core visual-grounding rules:
+- LOOK_AT_IMAGE_FIRST: 先看图片本身，再看上下文。
+- CONTEXT_IS_ONLY_FOR_PURPOSE: 上下文只能辅助判断图片用途、教材位置和题目功能。
+- DO_NOT_COPY_CONTEXT_AS_IMAGE_CONTENT: 不能把上下文正文、题目文字或相邻图片内容当作当前图片内容。
+- SINGLE_IMAGE_ONLY: this request contains exactly one target image. The metadata JSON below contains only that image. Return exactly one item for that image_id.
+- The text block immediately before the image pixels names the target image_id. Treat that anchor as the binding between metadata and pixels.
+- can_textualize 由你根据图片本身判断：If the image itself contains discipline-specific structures, formulas, tables, coordinates, spatial relations, or other visual content that can be faithfully transcribed into text/Markdown, set can_textualize to true. 纯装饰、纯照片、无法转写的设 false。不要因为类型名而机械设值，以你实际看到的内容为准。
+- kg_value 也由你独立判断该图对知识图谱的价值高低，不要因为类型默认值而套用。
+- For kg_value=low or kg_value=uncertain, set can_textualize=false but needs_round2=true when a short conservative visual description can be produced for downstream KG review; set needs_round2=false only when the image is truly unreadable or has no usable visible content.
+- For kg_value=high or medium, set needs_round2=true only when the image itself needs textualization or a short visual description for downstream KG use.
+- taxonomy 已是细粒度分类，选择最贴切的一个；仍不要发明 taxonomy 之外的新类。
+- 如果图片同时具备多个类的特征，选择最主要、最贴切的那个细类。
+- Use unknown_or_unreadable or the closest low-value taxonomy category only when no precise match exists.
+- 不能输出解释文字替代 JSON。
+- reason 不超过 40 个中文字符。
+
+Taxonomy version: {taxonomy_version}
+{taxonomy}
+
+Request id: {batch_id}
+Single image metadata and context:
+{images_json}
+
+Return strict JSON only, with no markdown fences and no surrounding text:
+{{
+  "schema_version": "ipa.round1.v1",
+  "images": [
+    {{
+      "image_id": "...",
+      "image_type_id": "one taxonomy id",
+      "kg_value": "high|medium|low|uncertain",
+      "can_textualize": true,
+      "confidence": 0.0,
+      "reason": "40字以内短原因",
+      "needs_round2": true
+    }}
+  ]
+}}

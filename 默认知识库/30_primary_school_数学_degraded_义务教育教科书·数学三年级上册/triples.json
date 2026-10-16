@@ -1,0 +1,2652 @@
+{
+  "schema_version": "kg.triples.v1",
+  "run_id": "kg_义务教育教科书·数学三年级上册_20260630",
+  "triples": [
+    {
+      "triple_id": "triple_contains_3f60c51db383",
+      "subject_node_id": "canon_chaptersection_51b90b25d3e3",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_df72d7b37c80",
+      "edge_id": "canon_edge_contains_2106845ca78b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\001_王阿姨在购物网站订购了3箱黑玉米,每箱20根。.md",
+          "section": {
+            "id": "s001",
+            "title": "王阿姨在购物网站订购了 3 箱黑玉米, 每箱 20 根。"
+          },
+          "quote_or_summary": "2 个十乘 3 得 6 个十，6 个十是 60。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_2dbc6a4f95ab",
+      "subject_node_id": "canon_problem_8092fe3c595c",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_df72d7b37c80",
+      "edge_id": "canon_edge_tests_5572d4b3e03f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\001_王阿姨在购物网站订购了3箱黑玉米,每箱20根。.md",
+          "section": {
+            "id": "s001",
+            "title": "王阿姨在购物网站订购了 3 箱黑玉米, 每箱 20 根。"
+          },
+          "quote_or_summary": "王阿姨在购物网站订购了 3 箱黑玉米，每箱 20 根。一共有多少根？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_1cf2d2814787",
+      "subject_node_id": "canon_chaptersection_740217d832f0",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5d02e7bd5d7e",
+      "edge_id": "canon_edge_contains_509215a012a2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\002_想想做做.md",
+          "section": {
+            "id": "s002",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "黄花的朵数是蓝花的 3 倍。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_bd5169b9effd",
+      "subject_node_id": "canon_problem_e9903eff7c58",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_5d02e7bd5d7e",
+      "edge_id": "canon_edge_tests_8d67562748f5",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\002_想想做做.md",
+          "section": {
+            "id": "s002",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "红花的朵数是蓝花的几倍？先圈一圈，再填一填。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_04ee0fdc591c",
+      "subject_node_id": "canon_chaptersection_c5a6f8f04e72",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_912b1004bca5",
+      "edge_id": "canon_edge_contains_8d0e83aaaad4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\003_想想做做.md",
+          "section": {
+            "id": "s003",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "## 想想做做"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_a398bab0561e",
+      "subject_node_id": "canon_problem_0200f2581b58",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_912b1004bca5",
+      "edge_id": "canon_edge_tests_b1a8b267c4b8",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\003_想想做做.md",
+          "section": {
+            "id": "s003",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "12 里面有（ ）个 3， 的个数是 的（ ）倍。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_a52635f11868",
+      "subject_node_id": "canon_problem_55e647b2d4aa",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_912b1004bca5",
+      "edge_id": "canon_edge_tests_3b13ebb9bd01",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\003_想想做做.md",
+          "section": {
+            "id": "s003",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "10 里面有（ ）个 2， 的个数是 的（ ）倍。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_051849ff0e22",
+      "subject_node_id": "canon_problem_b9b63e0a9491",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_912b1004bca5",
+      "edge_id": "canon_edge_tests_d4719b642173",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\003_想想做做.md",
+          "section": {
+            "id": "s003",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "菊花的盆数是月季花的几倍？"
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "triple_id": "triple_tests_5594b0bba002",
+      "subject_node_id": "canon_problem_e1ec03914e86",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_912b1004bca5",
+      "edge_id": "canon_edge_tests_efbba3122f4c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\003_想想做做.md",
+          "section": {
+            "id": "s003",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "成人票价是儿童票价的几倍？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_495ee27722ff",
+      "subject_node_id": "canon_problem_8fef8ad6ae43",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_912b1004bca5",
+      "edge_id": "canon_edge_tests_deba78b27dc4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\003_想想做做.md",
+          "section": {
+            "id": "s003",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "小芳跳的下数是小刚的多少倍？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_ab8ed630e496",
+      "subject_node_id": "canon_problem_3198455db8be",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_912b1004bca5",
+      "edge_id": "canon_edge_tests_3abb7ae21903",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\003_想想做做.md",
+          "section": {
+            "id": "s003",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "柳树的棵数是杨树的 3 倍。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0b5de30c6fff",
+      "subject_node_id": "canon_chaptersection_b116090fabb2",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7955f9dc57d5",
+      "edge_id": "canon_edge_contains_6ee94534821d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\005_想想做做.md",
+          "section": {
+            "id": "s005",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "哪一位上乘得的数满几十，就向前一位进几。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d8e1d36c4299",
+      "subject_node_id": "canon_chaptersection_b116090fabb2",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_1b1c8b0fa639",
+      "edge_id": "canon_edge_contains_c143d49138e2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\005_想想做做.md",
+          "section": {
+            "id": "s005",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "白天鹅有多少只？48 × 2 ="
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_c9ccb1faa8d8",
+      "subject_node_id": "canon_problem_e75f7dae955c",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_1b1c8b0fa639",
+      "edge_id": "canon_edge_tests_3e6c7486eb07",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\005_想想做做.md",
+          "section": {
+            "id": "s005",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "湖里有 48 只灰天鹅。白天鹅有多少只？48 × 2 ="
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_f4ab4fbd7fa6",
+      "subject_node_id": "canon_problem_476f889fc5da",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_7955f9dc57d5",
+      "edge_id": "canon_edge_tests_c5c797afe6f6",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\005_想想做做.md",
+          "section": {
+            "id": "s005",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "3 \\times 9 + 5 = 5 \\times 7 + 6 ="
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_ce4024600f86",
+      "subject_node_id": "canon_problem_12b744971983",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_7955f9dc57d5",
+      "edge_id": "canon_edge_tests_589c2d341373",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\005_想想做做.md",
+          "section": {
+            "id": "s005",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "4 \\times 152 ="
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_ee22530b9696",
+      "subject_node_id": "canon_problem_34d624761000",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_1b1c8b0fa639",
+      "edge_id": "canon_edge_tests_32fb5261ad2a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\005_想想做做.md",
+          "section": {
+            "id": "s005",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "去年放养鱼苗 342 尾，今年放养了多少尾？"
+        }
+      ],
+      "confidence": 0.75
+    },
+    {
+      "triple_id": "triple_tests_66e0b5d8456a",
+      "subject_node_id": "canon_problem_8ad710a46060",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_7955f9dc57d5",
+      "edge_id": "canon_edge_tests_2604edb8122f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\005_想想做做.md",
+          "section": {
+            "id": "s005",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "一共有多少瓶？"
+        }
+      ],
+      "confidence": 0.75
+    },
+    {
+      "triple_id": "triple_contains_0acce67d4490",
+      "subject_node_id": "canon_chaptersection_46fc71da4150",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_98c870f90d29",
+      "edge_id": "canon_edge_contains_e0c821b2383f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\006_想想做做.md",
+          "section": {
+            "id": "s006",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "Section 想想做做 contains multiple vertical multiplication exercises."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_8deeacd3809c",
+      "subject_node_id": "canon_problem_3f1baf92ba29",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_98c870f90d29",
+      "edge_id": "canon_edge_tests_f0904a1c3559",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\006_想想做做.md",
+          "section": {
+            "id": "s006",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "1 . 38 × 2"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_a00628d5f636",
+      "subject_node_id": "canon_problem_9df9dac1c274",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_98c870f90d29",
+      "edge_id": "canon_edge_tests_bf7d6a3e5c5a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\006_想想做做.md",
+          "section": {
+            "id": "s006",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "31 排座位，每排有 6 个。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_68fda2b72d5c",
+      "subject_node_id": "canon_problem_4bc5afb4c268",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_98c870f90d29",
+      "edge_id": "canon_edge_tests_0cdc9fb4d166",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\006_想想做做.md",
+          "section": {
+            "id": "s006",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "绕地球一周要 114 分钟，绕地球 5 周要多少分钟？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_aa140452d73f",
+      "subject_node_id": "canon_problem_d9719470a3af",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_98c870f90d29",
+      "edge_id": "canon_edge_tests_df8b18b7be4b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\006_想想做做.md",
+          "section": {
+            "id": "s006",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "黄瓜有 5 行，每行 12 棵。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_dc0fa0d88f62",
+      "subject_node_id": "canon_problem_24216d9ff22c",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_98c870f90d29",
+      "edge_id": "canon_edge_tests_1ec0405aa25b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\006_想想做做.md",
+          "section": {
+            "id": "s006",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "红金鱼有 26 条，黑金鱼有 9 条。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_6663e8634a09",
+      "subject_node_id": "canon_chaptersection_3fb7029af844",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_94791318fe0e",
+      "edge_id": "canon_edge_contains_af2d3eb78cb9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\008_想想做做.md",
+          "section": {
+            "id": "s008",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "0 和任何数相乘都等于 0。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_4d14ab0c54ea",
+      "subject_node_id": "canon_chaptersection_3fb7029af844",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_6e9740d3c4f4",
+      "edge_id": "canon_edge_contains_bd7e52939c83",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\008_想想做做.md",
+          "section": {
+            "id": "s008",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "102 接近 100，4 个这样的看台大约一共有 400 个座位。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_5c530a2262d9",
+      "subject_node_id": "canon_problem_70671d84d6a0",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_6e9740d3c4f4",
+      "edge_id": "canon_edge_tests_be02cf008225",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\008_想想做做.md",
+          "section": {
+            "id": "s008",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "上午参观的学生多，还是下午参观的学生多？你是怎样比的？"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_8e471b3362d3",
+      "subject_node_id": "canon_chaptersection_9ae4408359ad",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_fc90ebbabf10",
+      "edge_id": "canon_edge_contains_8609b4738f2d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\011_想想做做.md",
+          "section": {
+            "id": "s011",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "## 想想做做 Exercises involve 260×2, 180×3, 350×4, 820×5."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_15eb397c17d8",
+      "subject_node_id": "canon_chaptersection_9ae4408359ad",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_52e5d5f0578c",
+      "edge_id": "canon_edge_contains_fc7f27b3b06c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\011_想想做做.md",
+          "section": {
+            "id": "s011",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "Problem 6 states willow trees are 3 times pine trees."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_e7d6997c366e",
+      "subject_node_id": "canon_problem_062362c0db8c",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_fc90ebbabf10",
+      "edge_id": "canon_edge_tests_c24eab36e170",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\011_想想做做.md",
+          "section": {
+            "id": "s011",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "Exercise 2: Find errors in vertical multiplication."
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "triple_id": "triple_tests_20a70f39f399",
+      "subject_node_id": "canon_problem_2e396260e442",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_fc90ebbabf10",
+      "edge_id": "canon_edge_tests_447f0c079abb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\011_想想做做.md",
+          "section": {
+            "id": "s011",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "Exercise 5: Fill table for silkworm cocoon counts."
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "triple_id": "triple_tests_353a91dd9768",
+      "subject_node_id": "canon_problem_34900014985b",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_52e5d5f0578c",
+      "edge_id": "canon_edge_tests_fefe08151b2e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\011_想想做做.md",
+          "section": {
+            "id": "s011",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "Exercise 6: Calculate tree counts using multiples."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_e273a7dc1a87",
+      "subject_node_id": "canon_problem_34900014985b",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_fc90ebbabf10",
+      "edge_id": "canon_edge_tests_75ca3db9d0b4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\011_想想做做.md",
+          "section": {
+            "id": "s011",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "Exercise 6: Calculate tree counts using multiples."
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_846f06091217",
+      "subject_node_id": "canon_problem_b59e47db187b",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_fc90ebbabf10",
+      "edge_id": "canon_edge_tests_31d5723507ec",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\011_想想做做.md",
+          "section": {
+            "id": "s011",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "Exercise 5: Cement truck word problem."
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "triple_id": "triple_tests_23b92303d1ac",
+      "subject_node_id": "canon_problem_6910f6f3be3b",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_fc90ebbabf10",
+      "edge_id": "canon_edge_tests_0171c771c3a6",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\011_想想做做.md",
+          "section": {
+            "id": "s011",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "Exercise 1: Basic multiplication practice."
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_46c3d1a14f1b",
+      "subject_node_id": "canon_chaptersection_24abdd43c846",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_28383561d020",
+      "edge_id": "canon_edge_contains_a9345089d0c2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\013_千克和克.md",
+          "section": {
+            "id": "s013",
+            "title": "千 克 和 克"
+          },
+          "quote_or_summary": "称一般物品有多重，常用千克作单位。千克可以用字母“kg”表示。千克又叫作公斤。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_de3b604a054e",
+      "subject_node_id": "canon_problem_852604233470",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_28383561d020",
+      "edge_id": "canon_edge_tests_450e3465d765",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\013_千克和克.md",
+          "section": {
+            "id": "s013",
+            "title": "千 克 和 克"
+          },
+          "quote_or_summary": "称一称你的书包，看看大约重多少千克。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_f63f94349f5f",
+      "subject_node_id": "canon_chaptersection_bd56879c6270",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_eebc1768af2a",
+      "edge_id": "canon_edge_contains_47ab59774e13",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\015_你知道吗.md",
+          "section": {
+            "id": "s015",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "下面是生活中常见的几种秤。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_e35a356deced",
+      "subject_node_id": "canon_chaptersection_bd56879c6270",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c1cbc900a18d",
+      "edge_id": "canon_edge_contains_d6ef22d58994",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\015_你知道吗.md",
+          "section": {
+            "id": "s015",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "称比较轻的物品，常用克作单位。克可以用字母“g”表示。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_fdf24e7e94d1",
+      "subject_node_id": "canon_problem_be6655e32902",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_c1cbc900a18d",
+      "edge_id": "canon_edge_tests_ef6eae086fbb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\015_你知道吗.md",
+          "section": {
+            "id": "s015",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "称一称数学书大约有多少克，再称一称你的文具盒大约有多少克，分别用手掂一掂。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_fff43d8f6111",
+      "subject_node_id": "canon_chaptersection_b37bb921884e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_601af49c6c9d",
+      "edge_id": "canon_edge_contains_8edc10e0856a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\017_你知道吗.md",
+          "section": {
+            "id": "s017",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "不同的食物含有不同的营养，合理的饮食搭配有利于身体健康。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8d728a167004",
+      "subject_node_id": "canon_chaptersection_b37bb921884e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_09bd6ea04881",
+      "edge_id": "canon_edge_contains_1f21f337e379",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\017_你知道吗.md",
+          "section": {
+            "id": "s017",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "练习五题目涉及篮球、乒乓球、童车、手机等物体的重量单位填空及比较。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_04c8345af00a",
+      "subject_node_id": "canon_problem_a8a87bc27bb8",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_09bd6ea04881",
+      "edge_id": "canon_edge_tests_ee52d096dbb2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\017_你知道吗.md",
+          "section": {
+            "id": "s017",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "在（ ）里填合适的单位。\n\n篮球重 640（ ）\n\n乒乓球重 3（ ）\n\n童车重 3（ ）\n\n手机重 85（ ）"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_be6e960c3b9f",
+      "subject_node_id": "canon_problem_1746bb9c644f",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_09bd6ea04881",
+      "edge_id": "canon_edge_tests_469d75eff392",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\017_你知道吗.md",
+          "section": {
+            "id": "s017",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "（1）多少袋这样的奶糖重 1 千克？（口答）（2）每袋售价 3 元，买 1 千克这样的奶糖应付多少元？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_85e7b5f8b8d3",
+      "subject_node_id": "canon_problem_d358209eb5ac",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_09bd6ea04881",
+      "edge_id": "canon_edge_tests_fe2a53f5fb9e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\017_你知道吗.md",
+          "section": {
+            "id": "s017",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "（1）4 个杯子同样大，1 号是空杯，重 240 克。2 号杯里的橙汁重多少克？（2）估计 3、4 号杯里的橙汁各重多少克。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_3452a0131feb",
+      "subject_node_id": "canon_problem_371acdecc65b",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_09bd6ea04881",
+      "edge_id": "canon_edge_tests_8e966a04d512",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\017_你知道吗.md",
+          "section": {
+            "id": "s017",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "每个菠萝同样重，每个苹果也同样重。1 个菠萝的质量是 1 个苹果的几倍？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_3ac91651b375",
+      "subject_node_id": "canon_chaptersection_4ea60d5fdebc",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_4d4baaa83906",
+      "edge_id": "canon_edge_contains_730f4de92a21",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\018_你知道吗.md",
+          "section": {
+            "id": "s018",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "“千克”和“克”是我国法定的质量单位。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_843c112e4f2b",
+      "subject_node_id": "canon_chaptersection_4ea60d5fdebc",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_38f5522013d6",
+      "edge_id": "canon_edge_contains_9dd3d730cee0",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\018_你知道吗.md",
+          "section": {
+            "id": "s018",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "日常生活中，有些地区还习惯用市制单位“斤”和“两”表示物品的轻重，1 斤=500 克，1 两=50 克。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_246334e864c2",
+      "subject_node_id": "canon_chaptersection_4ea60d5fdebc",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c6266fb9b1c9",
+      "edge_id": "canon_edge_contains_8ca86774c8dd",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\018_你知道吗.md",
+          "section": {
+            "id": "s018",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "以前，我国还曾长期使用 1 斤=1 6 两的计量方法。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_046301bd0fca",
+      "subject_node_id": "canon_chaptersection_402d75b0892c",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_9c39db88487b",
+      "edge_id": "canon_edge_contains_6425977d2c72",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\019_长方形和正方形.md",
+          "section": {
+            "id": "s019",
+            "title": "长方形和正方形"
+          },
+          "quote_or_summary": "长方形有四条边，对边相等；有四个角，都是直角。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_daf82ac3e665",
+      "subject_node_id": "canon_chaptersection_402d75b0892c",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_e217af59d30e",
+      "edge_id": "canon_edge_contains_7383389f4747",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\019_长方形和正方形.md",
+          "section": {
+            "id": "s019",
+            "title": "长方形和正方形"
+          },
+          "quote_or_summary": "正方形的四条边都相等，四个角都是直角。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_e94a6fb84a52",
+      "subject_node_id": "canon_chaptersection_402d75b0892c",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_3e3e37c89d4b",
+      "edge_id": "canon_edge_contains_216af4332d0c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\019_长方形和正方形.md",
+          "section": {
+            "id": "s019",
+            "title": "长方形和正方形"
+          },
+          "quote_or_summary": "正方形和长方形有什么相同的地方？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_9c1ef12e296f",
+      "subject_node_id": "canon_chaptersection_b85955e929f6",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_372337100705",
+      "edge_id": "canon_edge_contains_ffadf65ac127",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\020_想想做做.md",
+          "section": {
+            "id": "s020",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "书签一周边线的长就是它的周长。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_90f322714b6f",
+      "subject_node_id": "canon_chaptersection_b85955e929f6",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c2e6e94a4960",
+      "edge_id": "canon_edge_contains_e0af318c2e95",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\020_想想做做.md",
+          "section": {
+            "id": "s020",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "2． 你能用两副同样的三角尺，拼成一个长方形和一个正方形吗？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_537d0e83cae2",
+      "subject_node_id": "canon_chaptersection_b85955e929f6",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_128cce8537b0",
+      "edge_id": "canon_edge_contains_12e6106a253e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\020_想想做做.md",
+          "section": {
+            "id": "s020",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "6． 在下面的方格纸上画一个长方形和一个正方形。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_7c0cda5242ce",
+      "subject_node_id": "canon_problem_6c95d845398f",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_372337100705",
+      "edge_id": "canon_edge_tests_4b7a2e4624ff",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\020_想想做做.md",
+          "section": {
+            "id": "s020",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "4． 先量一量，再填一填。长方形长（ ）厘米，宽（ ）厘米。正方形边长）厘米。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_e4afe31bd954",
+      "subject_node_id": "canon_problem_e95372594f51",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_372337100705",
+      "edge_id": "canon_edge_tests_2978760d6744",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\020_想想做做.md",
+          "section": {
+            "id": "s020",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "小组合作，想办法测量一片树叶的周长。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_05f82bf0838c",
+      "subject_node_id": "canon_problem_3e497e5331a9",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_c2e6e94a4960",
+      "edge_id": "canon_edge_tests_622ae7ddca62",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\020_想想做做.md",
+          "section": {
+            "id": "s020",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "2． 你能用两副同样的三角尺，拼成一个长方形和一个正方形吗？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_6ba12107b89c",
+      "subject_node_id": "canon_chaptersection_252f4d9e1bf7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_412723d4e73f",
+      "edge_id": "canon_edge_contains_1f909358ab87",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\021_3篮球场长28米,宽15米。篮球场的周长是多少米.md",
+          "section": {
+            "id": "s021",
+            "title": "3 篮球场长 28 米, 宽 1 5 米。 篮球场的周长是多少米?"
+          },
+          "quote_or_summary": "长＋宽＋长＋宽= 长方形的周长"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_064bc567b2d9",
+      "subject_node_id": "canon_chaptersection_252f4d9e1bf7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_869d6cbcfb76",
+      "edge_id": "canon_edge_contains_ed758900abbf",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\021_3篮球场长28米,宽15米。篮球场的周长是多少米.md",
+          "section": {
+            "id": "s021",
+            "title": "3 篮球场长 28 米, 宽 1 5 米。 篮球场的周长是多少米?"
+          },
+          "quote_or_summary": "边长 × 4 = 正方形的周长"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_c9a91599e5cf",
+      "subject_node_id": "canon_problem_b7410b4c42b5",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_412723d4e73f",
+      "edge_id": "canon_edge_tests_1d4f34c7b197",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\021_3篮球场长28米,宽15米。篮球场的周长是多少米.md",
+          "section": {
+            "id": "s021",
+            "title": "3 篮球场长 28 米, 宽 1 5 米。 篮球场的周长是多少米?"
+          },
+          "quote_or_summary": "篮球场长 28 米，宽 15 米。篮球场的周长是多少米？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_2595085d88a6",
+      "subject_node_id": "canon_problem_3feaf8bc7399",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_869d6cbcfb76",
+      "edge_id": "canon_edge_tests_70778e0a7bd2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\021_3篮球场长28米,宽15米。篮球场的周长是多少米.md",
+          "section": {
+            "id": "s021",
+            "title": "3 篮球场长 28 米, 宽 1 5 米。 篮球场的周长是多少米?"
+          },
+          "quote_or_summary": "一块正方形手帕的边长是 25 厘米，它的周长是多少厘米？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a1ca7e805350",
+      "subject_node_id": "canon_chaptersection_95c50226dad5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_79f320752d91",
+      "edge_id": "canon_edge_contains_245d43889522",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\024_你知道吗.md",
+          "section": {
+            "id": "s024",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "我们的祖先对简单几何形状与图案早就有了认识。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0ad4fd2dfd98",
+      "subject_node_id": "canon_chaptersection_552e6cc90ab1",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_875caf244bb0",
+      "edge_id": "canon_edge_contains_7328e0f4c194",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\026_拼一拼.md",
+          "section": {
+            "id": "s026",
+            "title": "拼 一 拼"
+          },
+          "quote_or_summary": "用 6 个边长 1 厘米的正方形可以拼成不同的图形。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_e9b513480d8a",
+      "subject_node_id": "canon_problem_4bcc657541bb",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_875caf244bb0",
+      "edge_id": "canon_edge_tests_0f1aa187298e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\026_拼一拼.md",
+          "section": {
+            "id": "s026",
+            "title": "拼 一 拼"
+          },
+          "quote_or_summary": "你还能拼出怎样的图形？拼成的图形周长各是多少厘米？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_91f8fe560d2a",
+      "subject_node_id": "canon_chaptersection_ea8948d57407",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_372337100705",
+      "edge_id": "canon_edge_contains_0b64625add88",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\029_量量.md",
+          "section": {
+            "id": "s029",
+            "title": "量 量"
+          },
+          "quote_or_summary": "由几个相同正方形拼成的图形，周长可能不相等。不同形状的图形，周长可能相等。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_f72ffb77b896",
+      "subject_node_id": "canon_problem_5af97f9e3abf",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_372337100705",
+      "edge_id": "canon_edge_tests_710ccab0ef83",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\029_量量.md",
+          "section": {
+            "id": "s029",
+            "title": "量 量"
+          },
+          "quote_or_summary": "下面两个图案的周长大约各是多少厘米？先估一估，再量一量。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_1bba7447b17c",
+      "subject_node_id": "canon_chaptersection_572f29d8ca96",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_f003c0217f85",
+      "edge_id": "canon_edge_contains_165908007e45",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\031_两、三位数除以一位数.md",
+          "section": {
+            "id": "s031",
+            "title": "两、 三位数除以一位数"
+          },
+          "quote_or_summary": "## 两、 三位数除以一位数"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_1933914a6a61",
+      "subject_node_id": "canon_problem_2d03313e5292",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_f003c0217f85",
+      "edge_id": "canon_edge_tests_f09ab18dae42",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\031_两、三位数除以一位数.md",
+          "section": {
+            "id": "s031",
+            "title": "两、 三位数除以一位数"
+          },
+          "quote_or_summary": "把 60 支铅笔平均分给 3 个班。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_ff2c4f6dce5d",
+      "subject_node_id": "canon_problem_9e334480b885",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_f003c0217f85",
+      "edge_id": "canon_edge_tests_71702b048aee",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\031_两、三位数除以一位数.md",
+          "section": {
+            "id": "s031",
+            "title": "两、 三位数除以一位数"
+          },
+          "quote_or_summary": "把 1 20 支铅笔平均分给 3 个班，每班分得多少支？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_09d40067795e",
+      "subject_node_id": "canon_chaptersection_91594b131869",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8192fae58f1a",
+      "edge_id": "canon_edge_contains_a96ac3d70082",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\032_想想做做.md",
+          "section": {
+            "id": "s032",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "可以用竖式计算。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_68aceaad1ce0",
+      "subject_node_id": "canon_problem_944047c54947",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_8192fae58f1a",
+      "edge_id": "canon_edge_tests_f21e935ddda2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\032_想想做做.md",
+          "section": {
+            "id": "s032",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "试一试。246 ÷ 2 = 。1 为什么写在商的百位上？接下去该怎样算？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_4099e08cfa37",
+      "subject_node_id": "canon_problem_18b0c696a99a",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_8192fae58f1a",
+      "edge_id": "canon_edge_tests_b19ab2926c9f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\032_想想做做.md",
+          "section": {
+            "id": "s032",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "46 ÷ 2 = 你想怎样算？... 可以用竖式计算。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_85249f61cfce",
+      "subject_node_id": "canon_chaptersection_3c7e20bc47ed",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_63baf31385b0",
+      "edge_id": "canon_edge_contains_e06e9670f819",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\033_想想做做.md",
+          "section": {
+            "id": "s033",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "除法可以怎样验算？每根跳绳的价钱乘根数，应该等于总价钱。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_65a15a1c2338",
+      "subject_node_id": "canon_problem_31dbed806ebf",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_63baf31385b0",
+      "edge_id": "canon_edge_tests_184a98ac6c23",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\033_想想做做.md",
+          "section": {
+            "id": "s033",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "除法可以怎样验算？每根跳绳的价钱乘根数，应该等于总价钱。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_659dcb42d148",
+      "subject_node_id": "canon_chaptersection_5135a12cc97f",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8192fae58f1a",
+      "edge_id": "canon_edge_contains_f1e17d6838d9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\035_12.一共做了48个。.md",
+          "section": {
+            "id": "s035",
+            "title": "1 2 . 一共做了 48 个。"
+          },
+          "quote_or_summary": "可以用竖式计算。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_059807ee58a7",
+      "subject_node_id": "canon_problem_3fe9d6df81f3",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_8192fae58f1a",
+      "edge_id": "canon_edge_tests_3b2ce2420f17",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\035_12.一共做了48个。.md",
+          "section": {
+            "id": "s035",
+            "title": "1 2 . 一共做了 48 个。"
+          },
+          "quote_or_summary": "52 ÷ 2 = 先摆小棒分一分，再和同学交流。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_14c8f51e0a38",
+      "subject_node_id": "canon_problem_1158194f38a7",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_8192fae58f1a",
+      "edge_id": "canon_edge_tests_41f2a342dbd3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\035_12.一共做了48个。.md",
+          "section": {
+            "id": "s035",
+            "title": "1 2 . 一共做了 48 个。"
+          },
+          "quote_or_summary": "送给幼儿园 15 个。剩下的平均分给一年级 3 个班，每班分得多少个？"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_aa6fdadb535a",
+      "subject_node_id": "canon_problem_7f7f4ab12116",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_8192fae58f1a",
+      "edge_id": "canon_edge_tests_727e02c55193",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\035_12.一共做了48个。.md",
+          "section": {
+            "id": "s035",
+            "title": "1 2 . 一共做了 48 个。"
+          },
+          "quote_or_summary": "小宇的火车票票价是妈妈的一半，小宇的火车票票价是多少元？"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_abbc449a3598",
+      "subject_node_id": "canon_chaptersection_4c5053e2c4c6",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b581a29ffd11",
+      "edge_id": "canon_edge_contains_081f2b4ea093",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\037_想想做做.md",
+          "section": {
+            "id": "s037",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "从被除数的高位除起，一位不够看两位。除到哪一位，商就写在那一位的上面。每次余下的数要比除数小。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_438805b3c5b4",
+      "subject_node_id": "canon_chaptersection_4c5053e2c4c6",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_493b006b3f20",
+      "edge_id": "canon_edge_contains_fccd9bd23006",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\037_想想做做.md",
+          "section": {
+            "id": "s037",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "先估计商比 100 大还是比 100 小，再用竖式计算。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_ae513325ae37",
+      "subject_node_id": "canon_problem_0bf91c9b5e52",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b581a29ffd11",
+      "edge_id": "canon_edge_tests_754d900b5208",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\037_想想做做.md",
+          "section": {
+            "id": "s037",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "1 . Complete vertical division calculations."
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_e93bfd06ef23",
+      "subject_node_id": "canon_problem_7fc3d6e2e1cb",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_493b006b3f20",
+      "edge_id": "canon_edge_tests_ca7d03f4fd02",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\037_想想做做.md",
+          "section": {
+            "id": "s037",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "2. 先估计得数是几百多，再用竖式计算。605 ÷ 5 986 ÷ 2 7 1 6 ÷ 3 965 ÷ 4"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_ee20a101625b",
+      "subject_node_id": "canon_problem_944b12c2f454",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b581a29ffd11",
+      "edge_id": "canon_edge_tests_bf49e7345425",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\037_想想做做.md",
+          "section": {
+            "id": "s037",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "3. 张大叔家种了 5 棵荔枝树，去年一共收获荔枝 875 千克。平均每棵树收获多少千克荔枝？"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_22d7fb0ac34c",
+      "subject_node_id": "canon_problem_23d2d9ada1e1",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b581a29ffd11",
+      "edge_id": "canon_edge_tests_3bf843b8aee2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\037_想想做做.md",
+          "section": {
+            "id": "s037",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "4. 王老师用 72 元买笔记本。如果买每本 2 元的，能买多少本？"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_a228f633c4ae",
+      "subject_node_id": "canon_problem_2d421e4ceb7b",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b581a29ffd11",
+      "edge_id": "canon_edge_tests_cc29ab51a825",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\037_想想做做.md",
+          "section": {
+            "id": "s037",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "5 . 1 30 个盒子够装吗？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_edd54d734693",
+      "subject_node_id": "canon_chaptersection_38a363aeb3eb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "edge_id": "canon_edge_contains_2d04914a56bb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\040_想想做做.md",
+          "section": {
+            "id": "s040",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "想想做做"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_f8cf633374c4",
+      "subject_node_id": "canon_problem_627b61713812",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "edge_id": "canon_edge_tests_5ec0b32085c1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\040_想想做做.md",
+          "section": {
+            "id": "s040",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "用竖式计算，并验算。820 ÷ 4 636 ÷ 9"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_efb9b28d139e",
+      "subject_node_id": "canon_problem_743a89c89ac0",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "edge_id": "canon_edge_tests_87ad3d7df9c9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\040_想想做做.md",
+          "section": {
+            "id": "s040",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "李大爷收获了 648 个柚子。每 6 个装一盒，可以装多少盒？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_f31ae7d4f013",
+      "subject_node_id": "canon_problem_537779f2c90a",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "edge_id": "canon_edge_tests_688ef4b8a1df",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\040_想想做做.md",
+          "section": {
+            "id": "s040",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "3 只蜻蜓 3 小时一共捕捉了 3 1 8 只蚊子。这些蜻蜓平均每小时捕捉多少只蚊子？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_d70b34679e16",
+      "subject_node_id": "canon_problem_18b0c696a99a",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "edge_id": "canon_edge_tests_828b70883c9f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\040_想想做做.md",
+          "section": {
+            "id": "s040",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "光明灯泡厂试验生产一种新型节能灯。第一批生产了 640 个，经检验，其中有 1 0 个不合格。将合格的节能灯每 6 个装一盒，需要多少个包装盒？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_6922e14fcf44",
+      "subject_node_id": "canon_problem_0d338afdf5b1",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "edge_id": "canon_edge_tests_3f5ab153fa4f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\040_想想做做.md",
+          "section": {
+            "id": "s040",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "要使商的中间一位是 0，里可以填几？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_3c5a2806e334",
+      "subject_node_id": "canon_problem_944047c54947",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "edge_id": "canon_edge_tests_769dc0fc3ba9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\040_想想做做.md",
+          "section": {
+            "id": "s040",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "要使商的末尾是 0，两个 里分别可以填几？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_66bdc1182643",
+      "subject_node_id": "canon_chaptersection_5fb3f6e469e8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "edge_id": "canon_edge_contains_c8ec88a2f58b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\041_复习.md",
+          "section": {
+            "id": "s041",
+            "title": "复 习"
+          },
+          "quote_or_summary": "369 ÷ 3, 423 ÷ 3, 672 ÷ 6 等计算题"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_ae64af6ed78a",
+      "subject_node_id": "canon_chaptersection_5fb3f6e469e8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_748feb3144d9",
+      "edge_id": "canon_edge_contains_edb71bf287f8",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\041_复习.md",
+          "section": {
+            "id": "s041",
+            "title": "复 习"
+          },
+          "quote_or_summary": "计算上面各题，看看得到的结果有没有余数"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_4bc113dbf72b",
+      "subject_node_id": "canon_chaptersection_5fb3f6e469e8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_3c0b93d989b0",
+      "edge_id": "canon_edge_contains_738b0afe2535",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\041_复习.md",
+          "section": {
+            "id": "s041",
+            "title": "复 习"
+          },
+          "quote_or_summary": "用 50 元买一副乒乓球拍，剩下的钱还能买多少个乒乓球？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_9bf1d510819e",
+      "subject_node_id": "canon_problem_6afab318f27b",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_3c0b93d989b0",
+      "edge_id": "canon_edge_tests_a5d86f70e168",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\041_复习.md",
+          "section": {
+            "id": "s041",
+            "title": "复 习"
+          },
+          "quote_or_summary": "用 50 元买一副乒乓球拍，剩下的钱还能买多少个乒乓球？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_82f1e58c7f25",
+      "subject_node_id": "canon_problem_4a2df7695c66",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_3c0b93d989b0",
+      "edge_id": "canon_edge_tests_bb0e74da0f83",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\041_复习.md",
+          "section": {
+            "id": "s041",
+            "title": "复 习"
+          },
+          "quote_or_summary": "王老师买一种笔用去 108 元，买一种球用去 60 元。他买的是哪一种笔和哪一种球？各买了多少？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_c3eb58da8dad",
+      "subject_node_id": "canon_problem_f9793cb335c2",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_3c0b93d989b0",
+      "edge_id": "canon_edge_tests_a6e6c8aab9b3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\041_复习.md",
+          "section": {
+            "id": "s041",
+            "title": "复 习"
+          },
+          "quote_or_summary": "一共有 5 名老师和 65 名同学，至少要搭多少顶帐篷？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_15cb74e1a337",
+      "subject_node_id": "canon_problem_c8bcf33ac597",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "edge_id": "canon_edge_tests_2459b0606a4c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\041_复习.md",
+          "section": {
+            "id": "s041",
+            "title": "复 习"
+          },
+          "quote_or_summary": "在□里填合适的数字。竖式计算填空"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_7a17a55ab302",
+      "subject_node_id": "canon_problem_c8bcf33ac597",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_748feb3144d9",
+      "edge_id": "canon_edge_tests_9519ec018801",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\041_复习.md",
+          "section": {
+            "id": "s041",
+            "title": "复 习"
+          },
+          "quote_or_summary": "计算上面各题，看看得到的结果有没有余数"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_f966a4ef0ad2",
+      "subject_node_id": "canon_chaptersection_9a4cdf9770ec",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_e7a587bcf16f",
+      "edge_id": "canon_edge_contains_133c05242e93",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\046_间隔排列.md",
+          "section": {
+            "id": "s046",
+            "title": "间 隔 排 列"
+          },
+          "quote_or_summary": "每组的两种物体都是一一间隔排列。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_b19e81919000",
+      "subject_node_id": "canon_chaptersection_979000aa9a61",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ef41a425778a",
+      "edge_id": "canon_edge_contains_59dcc97a3575",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\047_你能回答下面的问题吗.md",
+          "section": {
+            "id": "s047",
+            "title": "你能回答下面的问题吗?"
+          },
+          "quote_or_summary": "两种物体一个隔个地排成一行，它们的数量可能相等，也可能相差 1。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_17d957a44093",
+      "subject_node_id": "canon_problem_f2b2f3e5ab35",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ef41a425778a",
+      "edge_id": "canon_edge_tests_40ed388cc5bb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\047_你能回答下面的问题吗.md",
+          "section": {
+            "id": "s047",
+            "title": "你能回答下面的问题吗?"
+          },
+          "quote_or_summary": "20 只小兔站成一排，每相邻两只小兔中间有一个蘑菇，一共有多少个蘑菇？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_007b27524955",
+      "subject_node_id": "canon_problem_fe139a661c34",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ef41a425778a",
+      "edge_id": "canon_edge_tests_8e6f1bffe156",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\047_你能回答下面的问题吗.md",
+          "section": {
+            "id": "s047",
+            "title": "你能回答下面的问题吗?"
+          },
+          "quote_or_summary": "把 20 块手帕像上面那样夹在绳子上，一共需要多少个夹子？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_6e6c86082769",
+      "subject_node_id": "canon_problem_c717d5a43980",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ef41a425778a",
+      "edge_id": "canon_edge_tests_f07480471992",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\047_你能回答下面的问题吗.md",
+          "section": {
+            "id": "s047",
+            "title": "你能回答下面的问题吗?"
+          },
+          "quote_or_summary": "如果把 与 一个隔一个地排成一行，有 1 0 个，最少有几个？最多呢？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_f1653606a0c2",
+      "subject_node_id": "canon_chaptersection_fe7482ea19d3",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_abef9545be19",
+      "edge_id": "canon_edge_contains_778a42fc7921",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\048_平移、旋转和轴对称.md",
+          "section": {
+            "id": "s048",
+            "title": "平移、 旋转和轴对称"
+          },
+          "quote_or_summary": "这些物体的运动都可以看成是平移。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_ef57a96020e5",
+      "subject_node_id": "canon_chaptersection_fe7482ea19d3",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d3834a86b836",
+      "edge_id": "canon_edge_contains_70828f380f8a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\048_平移、旋转和轴对称.md",
+          "section": {
+            "id": "s048",
+            "title": "平移、 旋转和轴对称"
+          },
+          "quote_or_summary": "这些物体的运动都可以看成是旋转。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_1e8383bc022b",
+      "subject_node_id": "canon_problem_b7255c8b07e8",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_abef9545be19",
+      "edge_id": "canon_edge_tests_0d4e2ecd2da1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\048_平移、旋转和轴对称.md",
+          "section": {
+            "id": "s048",
+            "title": "平移、 旋转和轴对称"
+          },
+          "quote_or_summary": "把数学书放在课桌面的左上角，接着把它平移到课桌面的右上角，再依次平移到右下角和左下角。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_fb3fd28c63b6",
+      "subject_node_id": "canon_problem_2dc000b69bd9",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_d3834a86b836",
+      "edge_id": "canon_edge_tests_0f7385c2e642",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\048_平移、旋转和轴对称.md",
+          "section": {
+            "id": "s048",
+            "title": "平移、 旋转和轴对称"
+          },
+          "quote_or_summary": "做一个转盘，把指针从指向 A 旋转到指向 B。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_b700cca2bdf9",
+      "subject_node_id": "canon_chaptersection_ae0bc018a725",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c787c6ed61e2",
+      "edge_id": "canon_edge_contains_f6f1501588ea",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\050_动手做.md",
+          "section": {
+            "id": "s050",
+            "title": "动 手 做"
+          },
+          "quote_or_summary": "对折后能完全重合的图形是轴对称图形。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_e971952dd833",
+      "subject_node_id": "canon_chaptersection_ae0bc018a725",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d3834a86b836",
+      "edge_id": "canon_edge_contains_d480a576a11f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\050_动手做.md",
+          "section": {
+            "id": "s050",
+            "title": "动 手 做"
+          },
+          "quote_or_summary": "将风车迎着风，观察它是怎样旋转的。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_2dbba1f0ebce",
+      "subject_node_id": "canon_problem_604e05d6f7cd",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_d3834a86b836",
+      "edge_id": "canon_edge_tests_6e25207defbd",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\050_动手做.md",
+          "section": {
+            "id": "s050",
+            "title": "动 手 做"
+          },
+          "quote_or_summary": "观察它是怎样旋转的。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_5785dcb7bba4",
+      "subject_node_id": "canon_problem_38f7eed2b655",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_c787c6ed61e2",
+      "edge_id": "canon_edge_tests_b085e28ce402",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\050_动手做.md",
+          "section": {
+            "id": "s050",
+            "title": "动 手 做"
+          },
+          "quote_or_summary": "看看哪些是轴对称图形。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_65170565ff88",
+      "subject_node_id": "canon_chaptersection_9fdda79009dc",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_a21d318d1ec8",
+      "edge_id": "canon_edge_contains_63d4485fc586",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\053_你知道吗.md",
+          "section": {
+            "id": "s053",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "蝴蝶、蜻蜓等昆虫能在空中自由地飞行，是因为它们都有一对或几对对称的翅膀。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_17484a595fd9",
+      "subject_node_id": "canon_chaptersection_acdc676a7321",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_adf069ecaa52",
+      "edge_id": "canon_edge_contains_6a092b5b2c14",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\054_分数的初步认识(一).md",
+          "section": {
+            "id": "s054",
+            "title": "分数的初步认识(一)"
+          },
+          "quote_or_summary": "## 分数的初步认识（一）"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_9dce11f9b86e",
+      "subject_node_id": "canon_problem_2fa82ae3b369",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_adf069ecaa52",
+      "edge_id": "canon_edge_tests_c7e5be5b8a22",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\054_分数的初步认识(一).md",
+          "section": {
+            "id": "s054",
+            "title": "分数的初步认识(一)"
+          },
+          "quote_or_summary": "把每种食品平均分给两人，每人分得多少？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_2e1d14695621",
+      "subject_node_id": "canon_chaptersection_8cc1c9b870e4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_46bef4a865a8",
+      "edge_id": "canon_edge_contains_1b1dfe489df9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\055_半个也就是二分之一个。.md",
+          "section": {
+            "id": "s055",
+            "title": "半个也就是二分之一个。"
+          },
+          "quote_or_summary": "把一个蛋糕平均分成 2 份，每份是它的二分之一，写作 $\\frac 1 2$"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_3cb9a119a098",
+      "subject_node_id": "canon_chaptersection_8cc1c9b870e4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d96058469f3f",
+      "edge_id": "canon_edge_contains_b442b1b252bb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\055_半个也就是二分之一个。.md",
+          "section": {
+            "id": "s055",
+            "title": "半个也就是二分之一个。"
+          },
+          "quote_or_summary": "$\\frac 1 2$ ……分子……分数线……分母"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_7510b76c0111",
+      "subject_node_id": "canon_chaptersection_8cc1c9b870e4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_57457e85f0fd",
+      "edge_id": "canon_edge_contains_363204c91775",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\055_半个也就是二分之一个。.md",
+          "section": {
+            "id": "s055",
+            "title": "半个也就是二分之一个。"
+          },
+          "quote_or_summary": "用同样大的纸片平均分，分的份数越多，每份就越小。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_d0694ce31899",
+      "subject_node_id": "canon_problem_3e428b299cfd",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_46bef4a865a8",
+      "edge_id": "canon_edge_tests_585498fedd76",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\055_半个也就是二分之一个。.md",
+          "section": {
+            "id": "s055",
+            "title": "半个也就是二分之一个。"
+          },
+          "quote_or_summary": "分别表示出 $\\frac { 1 } { 2 }$ 和 $\\frac { 1 } { 4 }$"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_1e943cff67de",
+      "subject_node_id": "canon_problem_3e428b299cfd",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_57457e85f0fd",
+      "edge_id": "canon_edge_tests_f62f7dcc0c02",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\055_半个也就是二分之一个。.md",
+          "section": {
+            "id": "s055",
+            "title": "半个也就是二分之一个。"
+          },
+          "quote_or_summary": "再比较这两个分数的大小"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_2b9a0a87dfdd",
+      "subject_node_id": "canon_chaptersection_5028942e6d8f",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b6b61be1347b",
+      "edge_id": "canon_edge_contains_82949d6caf4c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\056_想想做做.md",
+          "section": {
+            "id": "s056",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "用分数表示涂色部分。3 个 1/4 是 3/4，3/4 也是分数。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_b43633e9a2a8",
+      "subject_node_id": "canon_chaptersection_5028942e6d8f",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_89a955db0296",
+      "edge_id": "canon_edge_contains_052f0bf175ea",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\056_想想做做.md",
+          "section": {
+            "id": "s056",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "都平均分成 8 份，3 份比 5 份小。3 个 1/8 比 5 个 1/8 小。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_b4d44c0cbcd1",
+      "subject_node_id": "canon_problem_c546560ea241",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b6b61be1347b",
+      "edge_id": "canon_edge_tests_6df118da4481",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\056_想想做做.md",
+          "section": {
+            "id": "s056",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "1．用分数表示涂色部分。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_2f5619ce1afd",
+      "subject_node_id": "canon_problem_1c35cfbae07c",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b6b61be1347b",
+      "edge_id": "canon_edge_tests_467fe4b71e1b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\056_想想做做.md",
+          "section": {
+            "id": "s056",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "2 哪个图形里的涂色部分是 $\\frac { 1 } { 4 } ?$ 在（ ）里画“O"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_2b2c301f9f7f",
+      "subject_node_id": "canon_problem_ad7e0b59edc9",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_89a955db0296",
+      "edge_id": "canon_edge_tests_0324449c48fc",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\056_想想做做.md",
+          "section": {
+            "id": "s056",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "4．先涂色，再比较大小。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_71e0968e9e9b",
+      "subject_node_id": "canon_problem_ae1defcb6a0b",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b6b61be1347b",
+      "edge_id": "canon_edge_tests_86ab1257080e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\056_想想做做.md",
+          "section": {
+            "id": "s056",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "6．张大伯用一块地的 $\\frac { 1 } { 3 }$ 种番茄，剩下的一半种黄瓜，其余的种辣椒。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_095ee297767c",
+      "subject_node_id": "canon_problem_3edeec807ef8",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b6b61be1347b",
+      "edge_id": "canon_edge_tests_dd15c4e599be",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\056_想想做做.md",
+          "section": {
+            "id": "s056",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "试一试：先说说涂色部分各表示多少个几分之一，再在（ ）里写出分数。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_1487e740ea38",
+      "subject_node_id": "canon_chaptersection_08f8ee10f8b9",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_528c70c62574",
+      "edge_id": "canon_edge_contains_f556ce63474c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\058_你知道吗.md",
+          "section": {
+            "id": "s058",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "在古代，人们分东西（果实、猎物等）时经常出现结果不是整数的情况。于是，渐渐产生了分数。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_abd55a97a2a9",
+      "subject_node_id": "canon_chaptersection_08f8ee10f8b9",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d0943a71a7ce",
+      "edge_id": "canon_edge_contains_8a23ef69c119",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\058_你知道吗.md",
+          "section": {
+            "id": "s058",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "我国很早就有了分数，最初用算筹表示...后来，印度人发明了数字...阿拉伯人发明了分数线"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_efa663f01a74",
+      "subject_node_id": "canon_chaptersection_08f8ee10f8b9",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_780b38d40031",
+      "edge_id": "canon_edge_contains_ec6e59b62c62",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\058_你知道吗.md",
+          "section": {
+            "id": "s058",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "5 个 1/8 加 2 个 1/8 是 7 个 1/8，就是 7/8。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_5815c7d18158",
+      "subject_node_id": "canon_chaptersection_08f8ee10f8b9",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_4fc3e085f2c1",
+      "edge_id": "canon_edge_contains_a82632b8babc",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\058_你知道吗.md",
+          "section": {
+            "id": "s058",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "3/5 - 2/5 = 1/5"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_37213593e6cc",
+      "subject_node_id": "canon_problem_d06bd6337154",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_780b38d40031",
+      "edge_id": "canon_edge_tests_3e69b0c541cd",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\058_你知道吗.md",
+          "section": {
+            "id": "s058",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "两人一共吃这块巧克力的几分之几？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_cd3af79d6fe7",
+      "subject_node_id": "canon_problem_f8709592771d",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_4fc3e085f2c1",
+      "edge_id": "canon_edge_tests_3d0587681ea8",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\058_你知道吗.md",
+          "section": {
+            "id": "s058",
+            "title": "你知道吗"
+          },
+          "quote_or_summary": "3/5 - 2/5 = ?"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_7cbe986084be",
+      "subject_node_id": "canon_problem_f8c57159f539",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_8b3689b1948e",
+      "edge_id": "canon_edge_tests_907b2207965d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\059_想想做做.md",
+          "section": {
+            "id": "s059",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "（ ） + （ ） ="
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_b1c251a713e8",
+      "subject_node_id": "canon_problem_048d93cbbe20",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_8b3689b1948e",
+      "edge_id": "canon_edge_tests_5d80b2bcd4ab",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\059_想想做做.md",
+          "section": {
+            "id": "s059",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "$$\\frac { 1 } { 5 } + \\frac { 3 } { 5 }$$"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_0be9c929cd06",
+      "subject_node_id": "canon_problem_a8bb57fa8e28",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_8b3689b1948e",
+      "edge_id": "canon_edge_tests_b32ae5775581",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\059_想想做做.md",
+          "section": {
+            "id": "s059",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "第一次大约喝了这杯水的 $\\frac { 1 } { 4 }$，第二次大约喝了这杯水的 $\\frac { 2 } { 4 }$。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_7008301a2062",
+      "subject_node_id": "canon_problem_cf17e30ba829",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_8b3689b1948e",
+      "edge_id": "canon_edge_tests_148c33641738",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\059_想想做做.md",
+          "section": {
+            "id": "s059",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "一块月饼平均切成 5 份，冬冬吃了其中的 3 份，丽丽吃了其中的 1 份。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_83a2843bbcec",
+      "subject_node_id": "canon_problem_3740479ad481",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_8b3689b1948e",
+      "edge_id": "canon_edge_tests_b4cf77568cff",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\059_想想做做.md",
+          "section": {
+            "id": "s059",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "她第一天看了这本书的 $\\frac { 2 } { 7 }$，第二天看的与第一天同样多。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_a0f6a48c6729",
+      "subject_node_id": "canon_problem_aadf612af6ff",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_8b3689b1948e",
+      "edge_id": "canon_edge_tests_1870a9e0b277",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\059_想想做做.md",
+          "section": {
+            "id": "s059",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "我用这张纸的 $\\frac { 3 } { 8 }$ 做红花。我用这张纸的 $\\frac { 2 } { 8 }$ 做小旗。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_4400bb3b44af",
+      "subject_node_id": "canon_chaptersection_784aa14c620b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8b3689b1948e",
+      "edge_id": "canon_edge_contains_c6e6d2676bc7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\059_想想做做.md",
+          "section": {
+            "id": "s059",
+            "title": "想想做做"
+          },
+          "quote_or_summary": "第一次大约喝了这杯水的 $\\frac { 1 } { 4 }$ ，第二次大约喝了这杯水的 $\\frac { 2 } { 4 }$ 。两次一共大约喝了这杯水的几分之几？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_c2d27151d4ad",
+      "subject_node_id": "canon_chaptersection_e778501e5985",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_9c048fc65998",
+      "edge_id": "canon_edge_contains_818b7dd0f0a8",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\061_活动准备.md",
+          "section": {
+            "id": "s061",
+            "title": "活 动 准 备"
+          },
+          "quote_or_summary": "下面的每个直条都表示“1”。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_f17bbfbfff2d",
+      "subject_node_id": "canon_problem_0679d430b3fa",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_9c048fc65998",
+      "edge_id": "canon_edge_tests_5d9a84aa4335",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\061_活动准备.md",
+          "section": {
+            "id": "s061",
+            "title": "活 动 准 备"
+          },
+          "quote_or_summary": "想一想， “1 ” 里面有几个 $\\frac { 1 } { 2 } ?$"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_34e5599b1bce",
+      "subject_node_id": "canon_chaptersection_0557a95e1e7e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_613ce7a17968",
+      "edge_id": "canon_edge_contains_1e70f1348453",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\064_期末复习.md",
+          "section": {
+            "id": "s064",
+            "title": "期 末 复 习"
+          },
+          "quote_or_summary": "图形的周长。再计算每个方形菜地，"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_f0d070478595",
+      "subject_node_id": "canon_problem_0088e827a0c7",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_613ce7a17968",
+      "edge_id": "canon_edge_tests_0ce0405754c9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\064_期末复习.md",
+          "section": {
+            "id": "s064",
+            "title": "期 末 复 习"
+          },
+          "quote_or_summary": "1 6 . 2 0 8围上篱笆，篱笆的长是多少米？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_93a7ec2738e6",
+      "subject_node_id": "canon_problem_1b2e5787cc61",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_613ce7a17968",
+      "edge_id": "canon_edge_tests_03fa090797bb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\064_期末复习.md",
+          "section": {
+            "id": "s064",
+            "title": "期 末 复 习"
+          },
+          "quote_or_summary": "27 校园里有两个花圃（如下图），正方形花圃的周长是 56 米，三角形花圃的周长比正方形花圃少 8 米。"
+        }
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

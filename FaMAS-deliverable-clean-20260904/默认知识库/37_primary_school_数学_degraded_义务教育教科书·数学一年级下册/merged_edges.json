@@ -1,0 +1,841 @@
+{
+  "schema_version": "kg.merged_edges.v1",
+  "run_id": "kg_义务教育教科书·数学一年级下册_20260630",
+  "edges": [
+    {
+      "edge_id": "canon_edge_contains_09b212633f26",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a4524fbaf545",
+      "target_node_id": "canon_knowledgepoint_f87260abcb57",
+      "properties": {
+        "rationale": "Section title and content explicitly define the scope of the knowledge point regarding numbers under 100.",
+        "figures": [
+          {
+            "image_path": "images/page042_img002.jpg",
+            "name": "",
+            "description": "> 我们班有 45 名同学。",
+            "figure_id": "ipa_evidence_d79271cf67b2"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\002_我们认识的数.md",
+            "section": {
+              "id": "s002",
+              "title": "我们认识的数"
+            },
+            "quote_or_summary": "你会用 1 00 以内的数说一句话吗？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_002_我们认识的数",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_sec001_kp001_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_72852e3616e8",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_d7ece61d89ab",
+      "target_node_id": "canon_knowledgepoint_f87260abcb57",
+      "properties": {
+        "rationale": "Problem asks about age 64, directly applying the concept of numbers under 100 in a life context.",
+        "figures": [
+          {
+            "image_path": "images/page042_img004.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_de0398ce2dba"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\002_我们认识的数.md",
+            "section": {
+              "id": "s002",
+              "title": "我们认识的数"
+            },
+            "quote_or_summary": "小明家有一个人，今年是64岁。这个人可能是谁？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s002_002_我们认识的数",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob001_kp001_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_bdf26afbedd0",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_618fb239d2ed",
+      "target_node_id": "canon_knowledgepoint_f87260abcb57",
+      "properties": {
+        "rationale": "Activity requires estimating and counting quantities, testing understanding of number magnitude and estimation.",
+        "figures": [
+          {
+            "image_path": "images/page043_img001.jpg",
+            "name": "",
+            "description": "猜一猜：蚕豆与花生米：插画中，一名男孩和一名女孩站在桌子旁；桌上放着三份豆类：一碗绿色蚕豆、一盘红色花生米、一盘浅黄色豆子；女孩手中捧着一把红色花生米，男孩手中拿着几颗绿色蚕豆，两人面带微笑，呈现比较数量的场景。",
+            "figure_id": "ipa_evidence_3efaa1b3d568"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\002_我们认识的数.md",
+            "section": {
+              "id": "s002",
+              "title": "我们认识的数"
+            },
+            "quote_or_summary": "先抓一把蚕豆，数数有几粒；再抓一把花生米，猜猜大约有多少粒。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s002_002_我们认识的数",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob002_kp001_tests_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_34dfab2b8e89",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d7228f837450",
+      "target_node_id": "canon_knowledgepoint_37fd31a17cfa",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "ChapterSection s003 contains KnowledgePoint 整十数加减整十数 based on section context and node evidence.",
+        "figures": [
+          {
+            "image_path": "images/page044_img002.jpg",
+            "name": "橙粉色卡通校车插图",
+            "description": "一辆橙粉色卡通校车侧面图，车顶有黄色长条形区域，车身有三扇侧窗。",
+            "figure_id": "ipa_evidence_6bfed3ce76f5"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\003_100以内的加法和减法(一).md",
+            "section": {
+              "id": "s003",
+              "title": "1 00 以 内 的加法和减法( 一 )"
+            },
+            "quote_or_summary": "4 个 十 加 3 个 十 得 7 个十，是 7 0。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_100以内的加法和减法(一)",
+      "revision_round": 0,
+      "status": "draft",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_chapter_001_s003_kp_add_tens_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_59e14c148014",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d7228f837450",
+      "target_node_id": "canon_knowledgepoint_6a57a90dc3db",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "ChapterSection s003 contains KnowledgePoint 两位数加整十数 based on section context and node evidence.",
+        "figures": [
+          {
+            "image_path": "images/page046_img001.jpg",
+            "name": "小汽车座位场景",
+            "description": "一幅儿童插画风格的黄色小汽车，车身有橙色斑块装饰，可见车头、车窗、车门和两个车轮。",
+            "figure_id": "ipa_evidence_ce24809cf62d"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\003_100以内的加法和减法(一).md",
+            "section": {
+              "id": "s003",
+              "title": "1 00 以 内 的加法和减法( 一 )"
+            },
+            "quote_or_summary": "45 + 30 = 7 5\n先算 40 + 30 = 70"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_100以内的加法和减法(一)",
+      "revision_round": 0,
+      "status": "draft",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_chapter_001_s003_kp_add_two_digit_ten_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_22ced394c1fc",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d7228f837450",
+      "target_node_id": "canon_knowledgepoint_73ce3d6f98a3",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "ChapterSection s003 contains KnowledgePoint 两位数加一位数（不进位）based on section context and node evidence.",
+        "figures": [
+          {
+            "image_path": "images/page047_img001.jpg",
+            "name": "计数棒示意图",
+            "description": "4捆绿色计数棒（每捆10根），右侧有9根散装绿色计数棒。",
+            "figure_id": "ipa_evidence_608fa06f1753"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\003_100以内的加法和减法(一).md",
+            "section": {
+              "id": "s003",
+              "title": "1 00 以 内 的加法和减法( 一 )"
+            },
+            "quote_or_summary": "45 + 3 = 4 8"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_100以内的加法和减法(一)",
+      "revision_round": 0,
+      "status": "draft",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_chapter_001_s003_kp_add_two_digit_one_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_6f1692568de8",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d7228f837450",
+      "target_node_id": "canon_knowledgepoint_87f1e9ea024f",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "ChapterSection s003 contains KnowledgePoint 竖式计算 based on section context and node evidence.",
+        "figures": [
+          {
+            "image_path": "images/page059_img005.jpg",
+            "name": "计数棒与算盘示意图",
+            "description": "左侧为绿色计数棒：5捆（每捆10根）和6根单棒；中间为4根竖直单棒加1根单独单棒；右侧为算盘。",
+            "figure_id": "ipa_evidence_d46bbbc8a381"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\003_100以内的加法和减法(一).md",
+            "section": {
+              "id": "s003",
+              "title": "1 00 以 内 的加法和减法( 一 )"
+            },
+            "quote_or_summary": "可以用竖式计算。\n十 个 4 5 3 1 + 7 6"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_100以内的加法和减法(一)",
+      "revision_round": 0,
+      "status": "draft",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_chapter_001_s003_kp_vertical_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_5bd43e22374c",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_6b319ba2c76c",
+      "target_node_id": "canon_knowledgepoint_37fd31a17cfa",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem 校车座位问题 (40+30) directly tests KnowledgePoint 整十数加减整十数.",
+        "figures": [
+          {
+            "image_path": "images/page044_img002.jpg",
+            "name": "橙粉色卡通校车插图",
+            "description": "一辆橙粉色卡通校车侧面图，车顶有黄色长条形区域，车身有三扇侧窗。",
+            "figure_id": "ipa_evidence_6bfed3ce76f5"
+          },
+          {
+            "image_path": "images/page044_img003.jpg",
+            "name": "30 座标识",
+            "description": "> 30 座",
+            "figure_id": "ipa_evidence_147800c22e32"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\003_100以内的加法和减法(一).md",
+            "section": {
+              "id": "s003",
+              "title": "1 00 以 内 的加法和减法( 一 )"
+            },
+            "quote_or_summary": "40 座\n30 座\n和 一共有多 少个座位？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s003_003_100以内的加法和减法(一)",
+      "revision_round": 0,
+      "status": "draft",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_prob_bus_s003_kp_add_tens_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_fd6a8093e02f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_b4982e9b1ef2",
+      "target_node_id": "canon_knowledgepoint_73ce3d6f98a3",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem 摘桃子问题 (23+5) directly tests KnowledgePoint 两位数加一位数（不进位）.",
+        "figures": [
+          {
+            "image_path": "images/page049_img001.jpg",
+            "name": "摘桃子的猴子",
+            "description": "一棵结有5个桃子的绿树，树下有一个装着23个桃子的篮子；左侧猴子说‘已经摘了23个桃，树上还剩5个’。",
+            "figure_id": "ipa_evidence_ffa81c368027"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\003_100以内的加法和减法(一).md",
+            "section": {
+              "id": "s003",
+              "title": "1 00 以 内 的加法和减法( 一 )"
+            },
+            "quote_or_summary": "已经摘了 23 个桃，树上还剩 5 个。\n树上原来有多少个桃？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s003_003_100以内的加法和减法(一)",
+      "revision_round": 0,
+      "status": "draft",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_prob_peach_s003_kp_add_two_digit_one_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_916ed909cc8c",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_647bac5a16ac",
+      "target_node_id": "canon_knowledgepoint_87f1e9ea024f",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem 兔子买卖问题 (35-14) requires subtraction calculation, tested via KnowledgePoint 竖式计算.",
+        "figures": [
+          {
+            "image_path": "images/page066_img002.jpg",
+            "name": "兔子笼场景图",
+            "description": "左侧男孩指向一个装有兔子的笼子，气泡文字为‘原来有35只兔’；中间女孩面对笼子，气泡文字为‘卖出一些后还剩14只’。",
+            "figure_id": "ipa_evidence_a076a8bcfec9"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\003_100以内的加法和减法(一).md",
+            "section": {
+              "id": "s003",
+              "title": "1 00 以 内 的加法和减法( 一 )"
+            },
+            "quote_or_summary": "原来有 35 只兔\n卖出一些后还剩 14 只\n卖出多少只兔？"
+          }
+        ],
+        "confidence": 0.8
+      },
+      "source_context_id": "s003_003_100以内的加法和减法(一)",
+      "revision_round": 0,
+      "status": "draft",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_prob_rabbit_s003_kp_vertical_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_9417b91429ea",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_e598e88f65ae",
+      "target_node_id": "canon_knowledgepoint_5c873ab38dc8",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section header and text define RMB units.",
+        "figures": [
+          {
+            "image_path": "images/page068_img007.jpg",
+            "name": "人民币单位徽章",
+            "description": "圆形徽章，中心有壹分字样，上方为数字 1，下方为 1953 年份，外围环绕麦穗图案。",
+            "figure_id": "ipa_evidence_7695e90656f4"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\004_元、角、分.md",
+            "section": {
+              "id": "s004",
+              "title": "元 、 角 、 分"
+            },
+            "quote_or_summary": "元、角、分是人民币的单位。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_元、角、分",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_4045d472b09d",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_e598e88f65ae",
+      "target_node_id": "canon_knowledgepoint_ffe190cb3d02",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section text states conversion rules between units.",
+        "figures": [
+          {
+            "image_path": "images/page068_img008.jpg",
+            "name": "人民币单位情景图",
+            "description": "女店员站在柜台后，左侧女孩手持纸币指向店员，对话框显示 10 角就是 1 元。",
+            "figure_id": "ipa_evidence_b294000faf8e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\004_元、角、分.md",
+            "section": {
+              "id": "s004",
+              "title": "元 、 角 、 分"
+            },
+            "quote_or_summary": "1 元 = （ ）角 1 角 = （ ）分"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_元、角、分",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_407bd9e508b6",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_e598e88f65ae",
+      "target_node_id": "canon_knowledgepoint_47f5fa8f756d",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section introduces recognizing RMB notes and coins.",
+        "figures": [
+          {
+            "image_path": "images/page068_img003.jpg",
+            "name": "人民币纸币",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_bfd86707d300"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\004_元、角、分.md",
+            "section": {
+              "id": "s004",
+              "title": "元 、 角 、 分"
+            },
+            "quote_or_summary": "买商品要用人民币。你认识下面的人民币吗？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s004_004_元、角、分",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_contains_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_09348bdd9a06",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_e598e88f65ae",
+      "target_node_id": "canon_knowledgepoint_34baefe123d0",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section example demonstrates calculating change.",
+        "figures": [
+          {
+            "image_path": "images/page071_img005.jpg",
+            "name": "购物找零场景图",
+            "description": "男孩手持足球向女士付款，对话框显示付了 55 元；女士回复找你 2 元。",
+            "figure_id": "ipa_evidence_3c1d512f72b1"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\004_元、角、分.md",
+            "section": {
+              "id": "s004",
+              "title": "元 、 角 、 分"
+            },
+            "quote_or_summary": "一个足球多少元？付了 55 元，找你 2 元。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s004_004_元、角、分",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_contains_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_59d839bff4f5",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_58e87c07a365",
+      "target_node_id": "canon_knowledgepoint_ffe190cb3d02",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem asks about 1 yuan vs 10 jiao conversion.",
+        "figures": [
+          {
+            "image_path": "images/page068_img008.jpg",
+            "name": "人民币单位情景图",
+            "description": "女店员站在柜台后，左侧女孩手持纸币指向店员，对话框显示 10 角就是 1 元。",
+            "figure_id": "ipa_evidence_b294000faf8e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\004_元、角、分.md",
+            "section": {
+              "id": "s004",
+              "title": "元 、 角 、 分"
+            },
+            "quote_or_summary": "练 习 本 1 元钱，我付 10 角可以吗？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_元、角、分",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_cb949e883652",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_20c0e00a0997",
+      "target_node_id": "canon_knowledgepoint_34baefe123d0",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem requires budgeting and change calculation.",
+        "figures": [
+          {
+            "image_path": "images/page074_img001.jpg",
+            "name": "小小商店",
+            "description": "货架商品价格展示，包含地球仪、铅笔、书包等，标价清晰可见。",
+            "figure_id": "ipa_evidence_54b36327d9fc"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\004_元、角、分.md",
+            "section": {
+              "id": "s004",
+              "title": "元 、 角 、 分"
+            },
+            "quote_or_summary": "用 50 元买货架上的商品，可以买些什么？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s004_004_元、角、分",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_tests_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_81e169d19e07",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_ffe190cb3d02",
+      "target_node_id": "canon_knowledgepoint_5c873ab38dc8",
+      "properties": {
+        "relation_label": "前置依赖",
+        "rationale": "Repaired evidence quote to match original fill-in-the-blank text '1 元 = （ ）角' instead of derived answer.",
+        "figures": [
+          {
+            "image_path": "images/page068_img008.jpg",
+            "name": "人民币单位情景图",
+            "description": "女店员站在柜台后，左侧女孩手持纸币指向店员，对话框显示 10 角就是 1 元。",
+            "figure_id": "ipa_evidence_b294000faf8e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\004_元、角、分.md",
+            "section": {
+              "id": "s004",
+              "title": "元 、 角 、 分"
+            },
+            "quote_or_summary": "1 元 = （ ）角"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s004_004_元、角、分",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [
+        "feedback_edge_s004_requires_001"
+      ],
+      "original_edge_ids": [
+        "edge_s004_requires_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_82fb7d4e61f9",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_34baefe123d0",
+      "target_node_id": "canon_knowledgepoint_ffe190cb3d02",
+      "properties": {
+        "relation_label": "前置依赖",
+        "rationale": "Repaired evidence quote to match original problem text '一个足球多少元？付了 55 元，找你 2 元。' instead of abstract formula.",
+        "figures": [
+          {
+            "image_path": "images/page071_img005.jpg",
+            "name": "购物找零场景图",
+            "description": "男孩手持足球向女士付款，对话框显示付了 55 元；女士回复找你 2 元。",
+            "figure_id": "ipa_evidence_3c1d512f72b1"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\004_元、角、分.md",
+            "section": {
+              "id": "s004",
+              "title": "元 、 角 、 分"
+            },
+            "quote_or_summary": "一个足球多少元？付了 55 元，找你 2 元。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s004_004_元、角、分",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [
+        "feedback_edge_s004_requires_002"
+      ],
+      "original_edge_ids": [
+        "edge_s004_requires_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_19fb51c2eed0",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_8c695e8b893c",
+      "target_node_id": "canon_knowledgepoint_7074688b3345",
+      "properties": {
+        "rationale": "Section 期末复习 includes exercises on counting by 5s and 10s and place value models.",
+        "figures": [
+          {
+            "image_path": "images/page097_img002.jpg",
+            "name": "书架插图",
+            "description": "书架插图：一个两层书架，上层摆放多排彩色书籍（含粉、绿、黄、橙、紫、红等色），下层也摆满彩色书籍（含蓝、灰、橙、紫等色），右下角下层书架有空位，未放书。",
+            "figure_id": "ipa_evidence_5d78cf3a9f74"
+          },
+          {
+            "image_path": "images/page097_img003.jpg",
+            "name": "数位模型图",
+            "description": "5个十和3个一合起来是53。",
+            "figure_id": "ipa_evidence_f81410663501"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\005_期末复习.md",
+            "section": {
+              "id": "s005",
+              "title": "期 末 复 习"
+            },
+            "quote_or_summary": "1 . （1 ） 5 本 5 本地数， 一共有）个 5 本。\n\n（2） 1 0 本 1 0 本地数， 一共有（ ）个 1 0 本。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_期末复习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_chap_place"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_904c7ebb111b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_8c695e8b893c",
+      "target_node_id": "canon_knowledgepoint_1f3d1fe393e5",
+      "properties": {
+        "rationale": "Section 期末复习 includes shape recognition exercise connecting shapes to names.",
+        "figures": [
+          {
+            "image_path": "images/page098_img003.jpg",
+            "name": "三角形识别图",
+            "description": "Two triangles",
+            "figure_id": "ipa_evidence_2ef9fad2e71a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\005_期末复习.md",
+            "section": {
+              "id": "s005",
+              "title": "期 末 复 习"
+            },
+            "quote_or_summary": "5 . （ ） 里是什么图形？连一连。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_期末复习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_chap_shapes"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_df402259a702",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_8c695e8b893c",
+      "target_node_id": "canon_knowledgepoint_87f1e9ea024f",
+      "properties": {
+        "rationale": "Section 期末复习 includes explicit vertical calculation exercises.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\005_期末复习.md",
+            "section": {
+              "id": "s005",
+              "title": "期 末 复 习"
+            },
+            "quote_or_summary": "1 1 . 用 竖式计算 。\n\n$$\n1 6 + 5 3\n$$"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_期末复习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_chap_vertical"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_a63271889cd6",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_6a615da760fe",
+      "target_node_id": "canon_knowledgepoint_7074688b3345",
+      "properties": {
+        "rationale": "Problem 16 involves monetary calculations requiring place value understanding (40, 10, 4).",
+        "figures": [
+          {
+            "image_path": "images/page100_img009.jpg",
+            "name": "彩色火车插图",
+            "description": "一幅手绘风格的彩色火车插图，车头为红色与浅蓝色，车身主体为浅蓝色，底部为深蓝色。",
+            "figure_id": "ipa_evidence_510e83a2a9c7"
+          },
+          {
+            "image_path": "images/page100_img014.jpg",
+            "name": "绿色玩具坦克",
+            "description": "一个绿色的玩具坦克，车体上有黄色条纹装饰，炮塔顶部插有一面红色小旗。",
+            "figure_id": "ipa_evidence_abdc703d14d8"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\005_期末复习.md",
+            "section": {
+              "id": "s005",
+              "title": "期 末 复 习"
+            },
+            "quote_or_summary": "1 6 . 小林买一辆玩具火车，找回 4 元。他付了多少元？\n\n大生付了 40 元，找回 1 0 元。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s005_005_期末复习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_q16_place"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_c5110be8e6af",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_a948fa664972",
+      "target_node_id": "canon_knowledgepoint_87f1e9ea024f",
+      "properties": {
+        "relation_label": "考察",
+        "rationale": "Problem 15 requires calculating scores using addition and subtraction, testing vertical calculation skills.",
+        "figures": [
+          {
+            "image_path": "images/page100_img005.jpg",
+            "name": "动物得分场景图",
+            "description": "动物得分场景图：画面中有三只卡通动物：左侧棕熊说‘我得了一个第二名和一个第三名’；中间白山羊；右侧蓝狗说‘我得了一个第一名和一个第三名’。右侧木牌显示：第一名15分，第二名10分，第三名7分。",
+            "figure_id": "ipa_evidence_5bdaff6e31d5"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_201319_义务教育教科书·数学一年级下册_20260630\\enhanced_markdown\\sections\\005_期末复习.md",
+            "section": {
+              "id": "s005",
+              "title": "期 末 复 习"
+            },
+            "quote_or_summary": "15 .\n\n（1） 它们各得了多少分？\n\n（2） 得分相差多少？"
+          }
+        ],
+        "confidence": 0.8
+      },
+      "source_context_id": "s005_005_期末复习",
+      "revision_round": 2,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_q15_place"
+      ]
+    }
+  ]
+}

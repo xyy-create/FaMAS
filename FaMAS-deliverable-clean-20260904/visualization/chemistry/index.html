@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chemistry Knowledge Graph Triple Visualization</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="triples-panel">
+        <header class="panel-head">
+          <div>
+            <p class="eyebrow" data-i18n="kgTriples">KG Triples</p>
+            <h1 data-i18n="appTitle">Chemistry Knowledge Graph</h1>
+          </div>
+          <div class="stats" id="stats"></div>
+          <button class="icon-button" id="leftPanelToggle" type="button" title="Collapse left panel" data-i18n-title="collapseLeft">-</button>
+        </header>
+
+        <section class="subject-info" aria-label="Subject basic information" data-i18n-aria-label="subjectInfo">
+          <div class="subject-info-card">
+            <div class="subject-info-row"><span data-i18n="grade">Grade</span><strong data-i18n="gradeValue">Senior Grade 1</strong></div>
+            <div class="subject-info-row"><span data-i18n="subject">Subject</span><strong data-i18n="subjectValue">Chemistry</strong></div>
+            <div class="subject-info-row"><span data-i18n="textbook">Textbook</span><strong data-i18n="textbookValue">Senior High School Chemistry Compulsory Volume 1</strong></div>
+            <div class="subject-info-row"><span data-i18n="textbookVersion">Textbook Version</span><strong data-i18n="textbookVersionValue">Not specified in current data</strong></div>
+          </div>
+        </section>
+
+        <section class="filters">
+          <label class="search-box" for="searchInput">
+            <span>⌕</span>
+            <input id="searchInput" type="search" placeholder="Search chapters, knowledge points, evidence" data-i18n-placeholder="searchPlaceholder" />
+          </label>
+          <div class="filter-row">
+            <select id="predicateFilter" aria-label="Relation filter" data-i18n-aria-label="relationFilter">
+              <option value="all">All relations</option>
+            </select>
+            <button id="clearFocusButton" class="icon-button" type="button" title="Clear focus" data-i18n-title="clearFocus">x</button>
+          </div>
+          <div class="focus-chip" id="focusChip" hidden></div>
+        </section>
+
+        <section class="triple-list" id="tripleList" aria-label="Triple list" data-i18n-aria-label="tripleList"></section>
+      </aside>
+
+      <main class="graph-panel">
+        <div class="graph-stage">
+          <div class="graph-topbar">
+            <div class="legend" id="legend"></div>
+            <div class="toolbar" aria-label="Graph controls" data-i18n-aria-label="graphControls">
+              <button class="icon-button" id="languageButton" type="button" title="Switch to Chinese" data-i18n-title="languageButtonTitle">ZH</button>
+              <button class="icon-button" id="zoomOutButton" type="button" title="Zoom out" data-i18n-title="zoomOut">-</button>
+              <button class="icon-button" id="zoomInButton" type="button" title="Zoom in" data-i18n-title="zoomIn">+</button>
+              <button class="icon-button" id="rotateLeftButton" type="button" title="Rotate counterclockwise" data-i18n-title="rotateLeft">↶</button>
+              <button class="icon-button" id="rotateRightButton" type="button" title="Rotate clockwise" data-i18n-title="rotateRight">↷</button>
+              <button class="text-button" id="resetButton" type="button" data-i18n="reset">Reset</button>
+              <button class="icon-button" id="detailToggle" type="button" title="Collapse detail panel" data-i18n-title="collapseDetail">⌄</button>
+            </div>
+          </div>
+
+          <section class="canvas-wrap">
+            <canvas id="graphCanvas"></canvas>
+            <div class="hover-card" id="hoverCard" hidden></div>
+          </section>
+
+          <div class="detail-resizer" id="detailResizer" role="separator" aria-label="Resize detail panel height" data-i18n-aria-label="resizeDetail" aria-orientation="horizontal"></div>
+          <section class="detail-panel" id="detailPanel"></section>
+        </div>
+
+        <div id="minimapOverlayBackdrop" aria-hidden="true" hidden></div>
+        <aside class="explorer-panel" id="explorerPanel" aria-label="Global graph minimap navigator" data-i18n-aria-label="minimapPanel">
+          <header class="explorer-head">
+            <div class="explorer-title">
+              <p class="eyebrow">Navigator</p>
+              <h2 data-i18n="minimapTitle">Global Minimap Navigator</h2>
+            </div>
+            <div class="explorer-actions">
+              <button class="icon-button" id="minimapExpandButton" type="button" aria-expanded="false" title="Expand minimap" data-i18n-title="expandMinimap">⛶</button>
+              <button class="icon-button" id="explorerToggle" type="button" title="Collapse panel" data-i18n-title="collapsePanel">-</button>
+            </div>
+          </header>
+          <div class="explorer-body">
+            <label class="search-box" for="minimapSearchInput">
+              <span>⌕</span>
+              <input id="minimapSearchInput" type="search" placeholder="Search and highlight nodes" data-i18n-placeholder="minimapSearchPlaceholder" />
+            </label>
+            <div class="minimap-legend" id="minimapLegend"></div>
+            <div class="minimap-view" id="explorerMapView">
+              <div class="minimap-canvas-wrap" id="minimapCanvasWrap">
+                <canvas id="minimapCanvas"></canvas>
+              </div>
+              <p data-i18n="minimapHint">Drag the minimap background to pan the main graph; hover a node to see its direct neighbors; click to center and select it.</p>
+            </div>
+          </div>
+          <div data-minimap-resize="n" aria-hidden="true"></div>
+          <div data-minimap-resize="ne" aria-hidden="true"></div>
+          <div data-minimap-resize="e" aria-hidden="true"></div>
+          <div data-minimap-resize="se" aria-hidden="true"></div>
+          <div data-minimap-resize="s" aria-hidden="true"></div>
+          <div data-minimap-resize="sw" aria-hidden="true"></div>
+          <div data-minimap-resize="w" aria-hidden="true"></div>
+          <div data-minimap-resize="nw" aria-hidden="true"></div>
+        </aside>
+      </main>
+    </div>
+
+    <div class="image-modal" id="imageModal" hidden>
+      <div class="image-modal-backdrop" data-modal-close></div>
+      <section class="image-modal-dialog" role="dialog" aria-modal="true" aria-label="Image detail" data-i18n-aria-label="imageDetail">
+        <button class="icon-button image-modal-close" id="imageModalClose" type="button" title="Close" data-i18n-title="close">x</button>
+        <div class="image-modal-media">
+          <img id="imageModalImg" alt="" />
+        </div>
+        <aside class="image-modal-info">
+          <p class="eyebrow" data-i18n="figurePreview">Figure Preview</p>
+          <h2 id="imageModalTitle"></h2>
+          <p id="imageModalDescription"></p>
+          <div class="kv" id="imageModalMeta"></div>
+        </aside>
+      </section>
+    </div>
+
+    <script src="./minimap-helpers.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,78 @@
+{
+  "schema_version": "kg.triples.v1",
+  "run_id": "kg_义务教育教科书·数学一年级上册_20260630",
+  "triples": [
+    {
+      "triple_id": "triple_contains_a6f5d372b1cb",
+      "subject_node_id": "canon_chaptersection_5fc138dcd5ec",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_907129118785",
+      "edge_id": "canon_edge_contains_22af7d1d9ab8",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_195544_义务教育教科书·数学一年级上册_20260630\\enhanced_markdown\\sections\\001_期末复习.md",
+          "section": {
+            "id": "s001",
+            "title": "期 末 复 习"
+          },
+          "quote_or_summary": "1 个十和 6 个一合起来是（ ）"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_15bc72e39ebb",
+      "subject_node_id": "canon_chaptersection_5fc138dcd5ec",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_670cf6036832",
+      "edge_id": "canon_edge_contains_23b6415fafb0",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_195544_义务教育教科书·数学一年级上册_20260630\\enhanced_markdown\\sections\\001_期末复习.md",
+          "section": {
+            "id": "s001",
+            "title": "期 末 复 习"
+          },
+          "quote_or_summary": "10 + 3 = \\square, 19 - 9 = \\sqsubset"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_b28ca45856ff",
+      "subject_node_id": "canon_problem_032fdee41d68",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_907129118785",
+      "edge_id": "canon_edge_tests_606c905baa05",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_195544_义务教育教科书·数学一年级上册_20260630\\enhanced_markdown\\sections\\001_期末复习.md",
+          "section": {
+            "id": "s001",
+            "title": "期 末 复 习"
+          },
+          "quote_or_summary": "1 . 看图写数。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_da00ea1739ff",
+      "subject_node_id": "canon_problem_250f81a39de8",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_670cf6036832",
+      "edge_id": "canon_edge_tests_6556e5073bd1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_195544_义务教育教科书·数学一年级上册_20260630\\enhanced_markdown\\sections\\001_期末复习.md",
+          "section": {
+            "id": "s001",
+            "title": "期 末 复 习"
+          },
+          "quote_or_summary": "2 . 在数线上填空。"
+        }
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

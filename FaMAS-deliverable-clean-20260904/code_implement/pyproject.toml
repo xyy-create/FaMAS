@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mas"
+version = "0.1.0"
+description = "FaMAS: a figure-aware multi-agent pipeline for textbook knowledge graph construction"
+requires-python = ">=3.11"
+dependencies = [
+  "PyYAML==6.0.3",
+  "mineru[pipeline]==3.4.2",
+  "pypdf==6.12.2",
+  "pdfplumber==0.11.9",
+  "PyMuPDF==1.27.2.2",
+  "six==1.17.0",
+  "tqdm==4.67.3",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"mas.pipelines.image_processing" = ["prompts/*"]
+"mas.pipelines.image_taxonomy" = ["prompts/*"]
+"mas.pipelines.schema_agent" = ["prompts/*"]
+"mas.pipelines.kg_extraction" = ["prompts/*"]

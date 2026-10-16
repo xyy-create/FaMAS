@@ -1,0 +1,34 @@
+# Observation Round
+
+round_id: {round_id}
+
+## Human Rules
+
+{human_rules}
+
+## Human Base Schema
+
+Treat this schema as an educational prior and interoperability scaffold. It is not a
+closed list of all labels or predicates for this textbook.
+
+```json
+{base_schema_json}
+```
+
+## Shared Standards
+
+Shared standards describe format, evidence, image, and downstream contract conventions.
+If they include artifacts from a previous Schema Agent run, use them as non-binding
+references only; do not copy their labels simply because they appear there.
+
+{standards_block}
+
+## Sample Units
+
+Each sample unit contains a SectionContext. Treat markdown text and section metadata as one bound object.
+
+```json
+{sample_units_json}
+```
+
+Return strict JSON only.

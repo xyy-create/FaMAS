@@ -1,0 +1,217 @@
+{
+  "schema_version": "kg.merged_edges.v1",
+  "run_id": "kg_义务教育教科书·数学二年级下册_20260630",
+  "edges": [
+    {
+      "edge_id": "canon_edge_contains_a8e899143ace",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a5e56b2e3215",
+      "target_node_id": "canon_knowledgepoint_1435b9d67566",
+      "properties": {
+        "rationale": "Section contains exercises defining length unit usage.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_231508_义务教育教科书·数学二年级下册_20260630\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 0 \\div 4 = \\cdots ( \\lambda ) \\cdots ( \\lambda )"
+            },
+            "quote_or_summary": "量一量课桌和板凳的高分别是多少厘米，各接近几分米。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_ch1_s1_kp_length_units",
+        "edge_contains_ch1_s1_kp_length_units"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_5f430851c960",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a5e56b2e3215",
+      "target_node_id": "canon_knowledgepoint_b789e00e03b3",
+      "properties": {
+        "rationale": "Section contains tasks requiring data collection and organization.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_231508_义务教育教科书·数学二年级下册_20260630\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 0 \\div 4 = \\cdots ( \\lambda ) \\cdots ( \\lambda )"
+            },
+            "quote_or_summary": "把记录的结果分类整理，并用自己的方法表示出来。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_ch1_s1_kp_data_org",
+        "edge_contains_ch1_s1_kp_data_org"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_c46c528d1b89",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_37a2bea450f9",
+      "target_node_id": "canon_knowledgepoint_1435b9d67566",
+      "properties": {
+        "rationale": "Problem directly applies length unit measurement skills.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_231508_义务教育教科书·数学二年级下册_20260630\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 0 \\div 4 = \\cdots ( \\lambda ) \\cdots ( \\lambda )"
+            },
+            "quote_or_summary": "量一量课桌和板凳的高分别是多少厘米，各接近几分米。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_desk_measure_kp_length_units",
+        "edge_tests_desk_measure_kp_length_units"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_329843b9c66c",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_104adb157c67",
+      "target_node_id": "canon_knowledgepoint_b789e00e03b3",
+      "properties": {
+        "rationale": "Problem requires collecting and organizing family size data.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_231508_义务教育教科书·数学二年级下册_20260630\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 0 \\div 4 = \\cdots ( \\lambda ) \\cdots ( \\lambda )"
+            },
+            "quote_or_summary": "在小组里了解每个同学家有几口人，把记录的结果分类整理。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_q19_family_kp_data_org",
+        "edge_tests_q19_family_kp_data_org"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_2af303547af4",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_c71b2ab12fc0",
+      "target_node_id": "canon_knowledgepoint_1435b9d67566",
+      "properties": {
+        "rationale": "Problem requires estimating and measuring item heights.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_231508_义务教育教科书·数学二年级下册_20260630\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 0 \\div 4 = \\cdots ( \\lambda ) \\cdots ( \\lambda )"
+            },
+            "quote_or_summary": "选择几件物品，先估计它们的高度，再和同学合作量一量。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_q16_height_kp_length_units",
+        "edge_tests_q16_height_kp_length_units"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_4acf37d562d4",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_ca25bafb21a1",
+      "target_node_id": "canon_knowledgepoint_205f7b0f5afe",
+      "properties": {
+        "rationale": "Problem requires summing three-digit numbers using vertical calculation.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_231508_义务教育教科书·数学二年级下册_20260630\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 0 \\div 4 = \\cdots ( \\lambda ) \\cdots ( \\lambda )"
+            },
+            "quote_or_summary": "（1）一、二、三年级一共去了多少人？"
+          }
+        ],
+        "confidence": 0.85,
+        "figures": [
+          {
+            "image_path": "images/page106_img001.jpg",
+            "name": "",
+            "description": "学生参观剧院人数示意图：图中一群小学生正走向剧院门口，其中几名学生举着标牌：一年级198人、二年级205人、三年级250人；右侧剧院入口上方标有'剧院1380座'。",
+            "figure_id": "ipa_evidence_d356931d2578"
+          }
+        ]
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_q18_theater_kp_add_sub_vertical",
+        "edge_tests_q18_theater_kp_add_sub_vertical"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_aea227b0b3d2",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a5e56b2e3215",
+      "target_node_id": "canon_knowledgepoint_d6d117846ca9",
+      "properties": {
+        "rationale": "Section contains directional questions supported by indicator diagram.",
+        "figures": [
+          {
+            "image_path": "images/page109_img001.jpg",
+            "name": "",
+            "description": "方向指示图：一张竖向布局的空白示意图，中央有一条垂直虚线；上方矩形框内有汉字'北'，下方为一个空矩形框，未填写内容。",
+            "figure_id": "ipa_evidence_022479da60d9"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_231508_义务教育教科书·数学二年级下册_20260630\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 0 \\div 4 = \\cdots ( \\lambda ) \\cdots ( \\lambda )"
+            },
+            "quote_or_summary": "学校在体育场的哪个方向？在汽车站的哪个方向？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_ch1_s1_kp_direction"
+      ]
+    }
+  ]
+}

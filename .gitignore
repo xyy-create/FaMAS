@@ -1,0 +1,56 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+api key.txt
+FaMAS-3176/
+.claude/
+local-archive/
+
+# Python environments and caches
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build products
+build/
+dist/
+*.egg-info/
+
+# Local MinerU state and model caches
+code_implement/config/mineru.json
+/.cache/
+/.models/
+/.tmp/
+/workspace/
+code_implement/.cache/
+code_implement/.models/
+code_implement/.tmp/
+code_implement/workspace/
+code_implement/src/code_implement/
+
+# Runtime-generated pipeline artifacts
+code_implement/data/intermediate/
+code_implement/data/output/
+code_implement/data/**/*report*.md
+web/storage/
+*.log
+*.zip
+*.bak
+.pytest_cache/
+.pytest_tmp/
+.test_runtime/
+web/backend/.test_runtime/
+
+# Local-only operation notes
+LOCAL_STARTUP_PUBLIC_ACCESS.md
+LOCAL_PUBLIC_REVIEW_SECRET.md
+
+# Local project notes, startup records, secrets, and progress docs
+docs/

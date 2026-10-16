@@ -1,0 +1,2162 @@
+{
+  "schema_version": "kg.merged_edges.v1",
+  "run_id": "kg_普通高中教科书·化学必修第二册_20260630",
+  "edges": [
+    {
+      "edge_id": "canon_edge_contains_fe25b4652f28",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_399132d252fc",
+      "target_node_id": "canon_knowledgepoint_f93b4987170e",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\001_第一单元化学反应速率与反应限度.md",
+            "section": {
+              "id": "s001",
+              "title": "第一单元 化学反应速率与反应限度"
+            },
+            "quote_or_summary": "不同化学反应进行的快慢程度不同。化学反应的快慢通常用化学反应速率（chemical reaction rate）来定量表示。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s001_001_第一单元化学反应速率与反应限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_contains_rate"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_aedf5493fd0a",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_399132d252fc",
+      "target_node_id": "canon_knowledgepoint_cff589af3a73",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\001_第一单元化学反应速率与反应限度.md",
+            "section": {
+              "id": "s001",
+              "title": "第一单元 化学反应速率与反应限度"
+            },
+            "quote_or_summary": "在同一条件下，既能向正反应方向进行，又能向逆反应方向进行的化学反应叫作可逆反应。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s001_001_第一单元化学反应速率与反应限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_contains_reversible"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_3c96bf880180",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_399132d252fc",
+      "target_node_id": "canon_knowledgepoint_827ccd32c860",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\001_第一单元化学反应速率与反应限度.md",
+            "section": {
+              "id": "s001",
+              "title": "第一单元 化学反应速率与反应限度"
+            },
+            "quote_or_summary": "当正、逆反应的速率相等时，反应物和生成物的浓度不再发生变化，反应达到化学平衡状态。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s001_001_第一单元化学反应速率与反应限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_contains_equilibrium"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_e3755b2b7219",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_399132d252fc",
+      "target_node_id": "canon_knowledgepoint_cafe37be6cd9",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\001_第一单元化学反应速率与反应限度.md",
+            "section": {
+              "id": "s001",
+              "title": "第一单元 化学反应速率与反应限度"
+            },
+            "quote_or_summary": "化学上，我们把放出热的反应称为放热反应，把吸收热的反应称为吸热反应。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s001_001_第一单元化学反应速率与反应限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_contains_exo_endo"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_39c5cbcce666",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_399132d252fc",
+      "target_node_id": "canon_knowledgepoint_465dc4c49faf",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\001_第一单元化学反应速率与反应限度.md",
+            "section": {
+              "id": "s001",
+              "title": "第一单元 化学反应速率与反应限度"
+            },
+            "quote_or_summary": "断开气态物质中1 mol某种共价键生成气态原子需要吸收的能量，就是该共价键的键能。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s001_001_第一单元化学反应速率与反应限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_contains_bond_energy"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_0ff4236ba527",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_38102cc7ad48",
+      "target_node_id": "canon_knowledgepoint_f93b4987170e",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\001_第一单元化学反应速率与反应限度.md",
+            "section": {
+              "id": "s001",
+              "title": "第一单元 化学反应速率与反应限度"
+            },
+            "quote_or_summary": "在体积为100 mL的溶液中，发生反应：16H+ + 2MnO4- + 10Br- = 2Mn2+ + 5Br2 + 8H2O。计算Br-消耗的平均速率。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s001_001_第一单元化学反应速率与反应限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_tests_rate_br"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_d4d749db971e",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_9b001387daf1",
+      "target_node_id": "canon_knowledgepoint_f93b4987170e",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\001_第一单元化学反应速率与反应限度.md",
+            "section": {
+              "id": "s001",
+              "title": "第一单元 化学反应速率与反应限度"
+            },
+            "quote_or_summary": "下列关于化学反应速率的说法中，错误的是（ ）A. 化学反应速率用于表示化学反应进行的快慢"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s001_001_第一单元化学反应速率与反应限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_tests_rate_mc"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_526576a25606",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_9b001387daf1",
+      "target_node_id": "canon_knowledgepoint_827ccd32c860",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\001_第一单元化学反应速率与反应限度.md",
+            "section": {
+              "id": "s001",
+              "title": "第一单元 化学反应速率与反应限度"
+            },
+            "quote_or_summary": "C. 可逆反应达到化学平衡状态时，正、逆反应的速率都变为0"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s001_001_第一单元化学反应速率与反应限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_tests_equilibrium_mc"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_9cb2e8545324",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_827ccd32c860",
+      "target_node_id": "canon_knowledgepoint_cff589af3a73",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\001_第一单元化学反应速率与反应限度.md",
+            "section": {
+              "id": "s001",
+              "title": "第一单元 化学反应速率与反应限度"
+            },
+            "quote_or_summary": "可逆反应达到化学平衡后，反应混合物的组成保持不变，但是正、逆反应仍在进行..."
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s001_001_第一单元化学反应速率与反应限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_requires_eq_rev"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_f06a0e2b2ef4",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_cafe37be6cd9",
+      "target_node_id": "canon_knowledgepoint_465dc4c49faf",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\001_第一单元化学反应速率与反应限度.md",
+            "section": {
+              "id": "s001",
+              "title": "第一单元 化学反应速率与反应限度"
+            },
+            "quote_or_summary": "化学反应中的能量变化是宏观上的变化...还可以用微观上化学键的断裂与形成来解释。"
+          }
+        ],
+        "confidence": 0.8
+      },
+      "source_context_id": "s001_001_第一单元化学反应速率与反应限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_requires_exo_bond"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_2f58d6e21297",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_df0c2a06af61",
+      "target_node_id": "canon_knowledgepoint_34920898588c",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\002_第三单元化学能与电能的转化.md",
+            "section": {
+              "id": "s002",
+              "title": "第三单元 化学能与电能的转化"
+            },
+            "quote_or_summary": "我们把将化学能转变为电能的装置称为原电池（primarybattery）。在原电池中，两个电极上分别发生氧化反应和还原反应。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section explicitly defines the KnowledgePoint '原电池'."
+      },
+      "source_context_id": "s002_002_第三单元化学能与电能的转化",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_node_s002_section_001_node_s002_kp_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_fb843014fed9",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_df0c2a06af61",
+      "target_node_id": "canon_knowledgepoint_2d2bb9bd2ab1",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\002_第三单元化学能与电能的转化.md",
+            "section": {
+              "id": "s002",
+              "title": "第三单元 化学能与电能的转化"
+            },
+            "quote_or_summary": "依据原电池反应的原理，我们可以设计一个装置，通过氧化还原反应即可实现化学能向电能的转化。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section explicitly defines the KnowledgePoint '化学电源'."
+      },
+      "source_context_id": "s002_002_第三单元化学能与电能的转化",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_node_s002_section_001_node_s002_kp_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_9e5eb4b83959",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_df0c2a06af61",
+      "target_node_id": "canon_knowledgepoint_3626707efa76",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\002_第三单元化学能与电能的转化.md",
+            "section": {
+              "id": "s002",
+              "title": "第三单元 化学能与电能的转化"
+            },
+            "quote_or_summary": "不纯的金属与电解质溶液接触，发生原电池反应，比较活泼的金属失去电子被氧化，这种腐蚀（corrosion）叫作电化学腐蚀。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section explicitly defines the KnowledgePoint '电化学腐蚀'."
+      },
+      "source_context_id": "s002_002_第三单元化学能与电能的转化",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_node_s002_section_001_node_s002_kp_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_63b483943b81",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_01135b143bf1",
+      "target_node_id": "canon_knowledgepoint_34920898588c",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\002_第三单元化学能与电能的转化.md",
+            "section": {
+              "id": "s002",
+              "title": "第三单元 化学能与电能的转化"
+            },
+            "quote_or_summary": "1. 在盛有稀硫酸的烧杯中放入用导线连接的铁片和铜片，下列叙述中正确的是（ ）A. 铜片上有 H₂逸出 B. 电子通过导线由铜片流向铁片 C. 溶液中的H+ 向铁片附近定向迁移 D. 铁片发生的反应是 Fe - 3e⁻ = Fe³⁺"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem describes a galvanic cell setup testing understanding of electrode reactions."
+      },
+      "source_context_id": "s002_002_第三单元化学能与电能的转化",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_node_s002_prob_001_node_s002_kp_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_9638bf109d18",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_b1323c8a6dc4",
+      "target_node_id": "canon_knowledgepoint_34920898588c",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\002_第三单元化学能与电能的转化.md",
+            "section": {
+              "id": "s002",
+              "title": "第三单元 化学能与电能的转化"
+            },
+            "quote_or_summary": "2. 将锌片和铜片按图示方式插入柠檬中，电流计指针发生偏转。下列关于该装置的说法中，正确的是（ ）A. 将电能转换为化学能 B. 电子由铜片流出 C. 锌片是负极 D. 铜片逐渐被腐蚀"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem explicitly references a diagram ('图示方式') to test galvanic cell concepts.",
+        "figures": [
+          {
+            "image_path": "images/page031_img001.jpg",
+            "name": "柠檬原电池装置示意图",
+            "description": "一个柠檬作为电解质介质，插入锌片（Zn）和铜片（Cu）电极，两电极通过导线连接至上方标有'电流计 G'的圆形仪表，构成简易原电池装置。",
+            "figure_id": "ipa_evidence_34eda3231b74"
+          }
+        ]
+      },
+      "source_context_id": "s002_002_第三单元化学能与电能的转化",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_node_s002_prob_002_node_s002_kp_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_b71960aacb1b",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_2d9b05facf29",
+      "target_node_id": "canon_knowledgepoint_2d2bb9bd2ab1",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\002_第三单元化学能与电能的转化.md",
+            "section": {
+              "id": "s002",
+              "title": "第三单元 化学能与电能的转化"
+            },
+            "quote_or_summary": "3. 银锌纽扣电池放电时的反应为 Zn + Ag₂O + H₂O = Zn(OH)₂ + 2Ag，下列有关说法中错误的是（ ）"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem tests understanding of chemical power source reaction principles."
+      },
+      "source_context_id": "s002_002_第三单元化学能与电能的转化",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_node_s002_prob_003_node_s002_kp_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_cce61bd10d1d",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_34920898588c",
+      "target_node_id": "canon_knowledgepoint_3626707efa76",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\002_第三单元化学能与电能的转化.md",
+            "section": {
+              "id": "s002",
+              "title": "第三单元 化学能与电能的转化"
+            },
+            "quote_or_summary": "不纯的金属与电解质溶液接触，发生原电池反应，比较活泼的金属失去电子被氧化，这种腐蚀（corrosion）叫作电化学腐蚀。"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Definition of electrochemical corrosion explicitly depends on galvanic cell reaction principles."
+      },
+      "source_context_id": "s002_002_第三单元化学能与电能的转化",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_requires_node_s002_kp_001_node_s002_kp_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_80463da7adb3",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_2d2bb9bd2ab1",
+      "target_node_id": "canon_knowledgepoint_34920898588c",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\002_第三单元化学能与电能的转化.md",
+            "section": {
+              "id": "s002",
+              "title": "第三单元 化学能与电能的转化"
+            },
+            "quote_or_summary": "依据原电池反应的原理，我们可以设计一个装置，通过氧化还原反应即可实现化学能向电能的转化。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Chemical power sources are designed based on galvanic cell reaction principles."
+      },
+      "source_context_id": "s002_002_第三单元化学能与电能的转化",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_requires_node_s002_kp_002_node_s002_kp_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_9e854544adea",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_f6c3f5b4aed9",
+      "target_node_id": "canon_knowledgepoint_13506af1957a",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\003_第二单元重要的含氮化工原料.md",
+            "section": {
+              "id": "s003",
+              "title": "第二单元 重要的含氮化工原料"
+            },
+            "quote_or_summary": "# 第二单元 重要的含氮化工原料"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header defines the unit containing the ammonia knowledge point."
+      },
+      "source_context_id": "s003_003_第二单元重要的含氮化工原料",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_db011a419efd",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_f6c3f5b4aed9",
+      "target_node_id": "canon_knowledgepoint_f59b44bd3478",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\003_第二单元重要的含氮化工原料.md",
+            "section": {
+              "id": "s003",
+              "title": "第二单元 重要的含氮化工原料"
+            },
+            "quote_or_summary": "# 第二单元 重要的含氮化工原料"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header defines the unit containing the nitric acid knowledge point."
+      },
+      "source_context_id": "s003_003_第二单元重要的含氮化工原料",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_a2f0ac273ac9",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_f6c3f5b4aed9",
+      "target_node_id": "canon_knowledgepoint_f75829247766",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\003_第二单元重要的含氮化工原料.md",
+            "section": {
+              "id": "s003",
+              "title": "第二单元 重要的含氮化工原料"
+            },
+            "quote_or_summary": "# 第二单元 重要的含氮化工原料"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header defines the unit containing the ammonium salt knowledge point."
+      },
+      "source_context_id": "s003_003_第二单元重要的含氮化工原料",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_8b67ba90c501",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_f6c3f5b4aed9",
+      "target_node_id": "canon_knowledgepoint_c1ee2511a1bc",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\003_第二单元重要的含氮化工原料.md",
+            "section": {
+              "id": "s003",
+              "title": "第二单元 重要的含氮化工原料"
+            },
+            "quote_or_summary": "# 第二单元 重要的含氮化工原料"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header defines the unit containing the catalytic oxidation knowledge point."
+      },
+      "source_context_id": "s003_003_第二单元重要的含氮化工原料",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_00c4776fbd22",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_f6c3f5b4aed9",
+      "target_node_id": "canon_knowledgepoint_8078315f624e",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\003_第二单元重要的含氮化工原料.md",
+            "section": {
+              "id": "s003",
+              "title": "第二单元 重要的含氮化工原料"
+            },
+            "quote_or_summary": "# 第二单元 重要的含氮化工原料"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header defines the unit containing the nitrogen compound conversion knowledge point."
+      },
+      "source_context_id": "s003_003_第二单元重要的含氮化工原料",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_068c0ec33fe5",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_65d1a0d30896",
+      "target_node_id": "canon_knowledgepoint_f59b44bd3478",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\003_第二单元重要的含氮化工原料.md",
+            "section": {
+              "id": "s003",
+              "title": "第二单元 重要的含氮化工原料"
+            },
+            "quote_or_summary": "1. 在实验室里，应当储存在棕色试剂瓶中的试剂是（ ）A. 浓硝酸 B. 浓盐酸 C. 浓硫酸 D. 氯化钠"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Question asks about brown bottle storage, directly testing nitric acid instability."
+      },
+      "source_context_id": "s003_003_第二单元重要的含氮化工原料",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_17de16f70a09",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_a25a9e94a6d3",
+      "target_node_id": "canon_knowledgepoint_13506af1957a",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\003_第二单元重要的含氮化工原料.md",
+            "section": {
+              "id": "s003",
+              "title": "第二单元 重要的含氮化工原料"
+            },
+            "quote_or_summary": "8. 已知氨可以与灼热的氧化铜反应生成氮气和金属铜，用下面示意图中的装置可以实现该反应。"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem describes ammonia reduction reaction, testing ammonia properties.",
+        "figures": [
+          {
+            "image_path": "images/page050_img002.jpg",
+            "name": "",
+            "description": "氨与氧化铜反应实验装置示意图：该装置由左至右依次为：A（倾斜试管，内含固体，标注‘加热’），连接 U 形管 B（内装颗粒状固体，置于木块上），连接水平硬质玻璃管 C（内含黑色固体，标注‘加热’），连接 D（直形试管，浸在盛有冰水的烧杯中），最后通过导管伸入倒置在水槽中的 E（试管，用于排水集气）。各部分用导管串联，整体用于制备氨气并使其与氧化铜反应。",
+            "figure_id": "ipa_evidence_2a8074bb8c4d"
+          }
+        ]
+      },
+      "source_context_id": "s003_003_第二单元重要的含氮化工原料",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_tests_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_cb6a1825b213",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_60602355ae23",
+      "target_node_id": "canon_knowledgepoint_ce53d6833e45",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section header explicitly introduces the knowledge point.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\004_第三单元含氮化合物的合理使用.md",
+            "section": {
+              "id": "s004",
+              "title": "第三单元 含氮化合物的合理使用"
+            },
+            "quote_or_summary": "## 铵盐的性质\n\n通常把由铵根离子与酸根离子形成的离子化合物称为铵盐。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_第三单元含氮化合物的合理使用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "e_s004_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_a0c06bc67c69",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_60602355ae23",
+      "target_node_id": "canon_knowledgepoint_4ba591e798d2",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section header explicitly introduces the knowledge point.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\004_第三单元含氮化合物的合理使用.md",
+            "section": {
+              "id": "s004",
+              "title": "第三单元 含氮化合物的合理使用"
+            },
+            "quote_or_summary": "## 常见氮肥及其使用\n\n氮肥主要有铵态氮肥、硝态氮肥和尿素。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_第三单元含氮化合物的合理使用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "e_s004_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_231ae17d40c6",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_60602355ae23",
+      "target_node_id": "canon_knowledgepoint_01aaa41c3c19",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section header explicitly introduces the knowledge point.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\004_第三单元含氮化合物的合理使用.md",
+            "section": {
+              "id": "s004",
+              "title": "第三单元 含氮化合物的合理使用"
+            },
+            "quote_or_summary": "## 氮氧化物的无害化处理\n\n化石燃料的燃烧、硝酸生产等产生的工业废气处理不当..."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_第三单元含氮化合物的合理使用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "e_s004_contains_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_aa9537414014",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_60602355ae23",
+      "target_node_id": "canon_knowledgepoint_862d1bf926a8",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section header explicitly introduces the knowledge point.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\004_第三单元含氮化合物的合理使用.md",
+            "section": {
+              "id": "s004",
+              "title": "第三单元 含氮化合物的合理使用"
+            },
+            "quote_or_summary": "## 拓展视野\n\n## 光化学烟雾事件... 人们称它为光化学烟雾。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_第三单元含氮化合物的合理使用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "e_s004_contains_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_525ef6d5cdde",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_60602355ae23",
+      "target_node_id": "canon_knowledgepoint_6e0457f38fd9",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section review header explicitly introduces the knowledge point.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\004_第三单元含氮化合物的合理使用.md",
+            "section": {
+              "id": "s004",
+              "title": "第三单元 含氮化合物的合理使用"
+            },
+            "quote_or_summary": "## 回顾与总结\n\n从氮气分子的结构特征能预测其具有什么性质？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_第三单元含氮化合物的合理使用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "e_s004_contains_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_9145241993a7",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_ccbf5bf72282",
+      "target_node_id": "canon_knowledgepoint_ce53d6833e45",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem explicitly asks about ammonium salt preparation and properties.",
+        "figures": [
+          {
+            "image_path": "images/page052_img005.jpg",
+            "name": "实验室制备NH₃的反应装置",
+            "description": "图中展示的是实验室制备氨气（NH₃）的实验装置：一支倾斜固定的试管内盛有固体混合物，标注为“NH₄Cl和Ca(OH)₂”，试管口略向下倾斜，用酒精灯加热；试管口塞有一团“棉花”，导管连接至倒置的试管用于收集气体。",
+            "figure_id": "ipa_evidence_c652203daa3e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\004_第三单元含氮化合物的合理使用.md",
+            "section": {
+              "id": "s004",
+              "title": "第三单元 含氮化合物的合理使用"
+            },
+            "quote_or_summary": "1. 铵盐可以用于实验室制取氨气，实验装置如图7-11所示。（1）写出实验室制取氨气的化学方程式："
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s004_004_第三单元含氮化合物的合理使用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "e_s004_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_2463128d7261",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_4ba591e798d2",
+      "target_node_id": "canon_knowledgepoint_ce53d6833e45",
+      "properties": {
+        "relation_label": "前置依赖关系",
+        "rationale": "Text states research on ammonium salt properties is the foundation for using nitrogen fertilizers.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\004_第三单元含氮化合物的合理使用.md",
+            "section": {
+              "id": "s004",
+              "title": "第三单元 含氮化合物的合理使用"
+            },
+            "quote_or_summary": "对铵盐性质的研究，是科学、高效使用氮肥的前提和基础。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s004_004_第三单元含氮化合物的合理使用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "e_s004_requires_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_1de4fe0476ee",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_6438856facc1",
+      "target_node_id": "canon_knowledgepoint_12247d4d0ca2",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\005_有机化合物的获得与应用.md",
+            "section": {
+              "id": "s005",
+              "title": "有机化合物的获得与应用"
+            },
+            "quote_or_summary": "有机化合物是生命活动的物质基础，也是能源开发和新型合成材料研制的基础物质。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section title and introductory text explicitly define organic compounds as the core topic of the chapter."
+      },
+      "source_context_id": "s005_005_有机化合物的获得与应用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cp_kp_organic_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_12747339124a",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_6438856facc1",
+      "target_node_id": "canon_knowledgepoint_2ef2ffd3020a",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\005_有机化合物的获得与应用.md",
+            "section": {
+              "id": "s005",
+              "title": "有机化合物的获得与应用"
+            },
+            "quote_or_summary": "从最简单的有机化合物— 甲烷起步，开启有机化学的探究之旅。"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Section text introduces methane as the starting point of organic chemistry study within this chapter."
+      },
+      "source_context_id": "s005_005_有机化合物的获得与应用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cp_kp_methane_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_249621b8ec7b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_613f319ffe41",
+      "target_node_id": "canon_knowledgepoint_2ef2ffd3020a",
+      "properties": {
+        "rationale": "Section title and content define methane as core content of Unit 1.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\006_第一单元化石燃料与有机化合物.md",
+            "section": {
+              "id": "s006",
+              "title": "第一单元 化石燃料与有机化合物"
+            },
+            "quote_or_summary": "天然气往往在地层与煤、石油伴生，其主要成分是甲烷（methane），它是最简单的有机化合物。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_第一单元化石燃料与有机化合物",
+      "revision_round": "v1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_7b82bcf97d4b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_613f319ffe41",
+      "target_node_id": "canon_knowledgepoint_54d54e187040",
+      "properties": {
+        "rationale": "Section defines alkanes as a series including methane, ethane, propane.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\006_第一单元化石燃料与有机化合物.md",
+            "section": {
+              "id": "s006",
+              "title": "第一单元 化石燃料与有机化合物"
+            },
+            "quote_or_summary": "在甲烷、乙烷、丙烷等分子中，碳原子都以碳碳单键相连，这一系列化合物被称为烷烃。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_第一单元化石燃料与有机化合物",
+      "revision_round": "v1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_74c07803e89b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_613f319ffe41",
+      "target_node_id": "canon_knowledgepoint_4a5765618eee",
+      "properties": {
+        "rationale": "Section defines substitution reaction explicitly.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\006_第一单元化石燃料与有机化合物.md",
+            "section": {
+              "id": "s006",
+              "title": "第一单元 化石燃料与有机化合物"
+            },
+            "quote_or_summary": "像这样，有机化合物分子中的某种原子（或原子团）被另一种原子（或原子团）所取代的反应，叫作取代反应。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_第一单元化石燃料与有机化合物",
+      "revision_round": "v1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_03c653c0a3f5",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_613f319ffe41",
+      "target_node_id": "canon_knowledgepoint_7c5d8452d39e",
+      "properties": {
+        "rationale": "Section defines addition reaction explicitly.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\006_第一单元化石燃料与有机化合物.md",
+            "section": {
+              "id": "s006",
+              "title": "第一单元 化石燃料与有机化合物"
+            },
+            "quote_or_summary": "我们把有机物分子中双键（或三键）连接的碳原子与其他原子或原子团直接结合生成新的化合物的反应，叫作加成反应。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_第一单元化石燃料与有机化合物",
+      "revision_round": "v1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_7b889be1ca3d",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_613f319ffe41",
+      "target_node_id": "canon_knowledgepoint_bf852fcb0f02",
+      "properties": {
+        "rationale": "Section introduces benzene as important raw material from coal tar.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\006_第一单元化石燃料与有机化合物.md",
+            "section": {
+              "id": "s006",
+              "title": "第一单元 化石燃料与有机化合物"
+            },
+            "quote_or_summary": "从煤焦油中分离得到的苯（benzene）是一种重要的化工原料。苯的分子式是 C₆H₆。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_第一单元化石燃料与有机化合物",
+      "revision_round": "v1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_38c14f99aab9",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_b6171486c894",
+      "target_node_id": "canon_knowledgepoint_2ef2ffd3020a",
+      "properties": {
+        "rationale": "Problem asks to determine methane formula and composition ratio.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\006_第一单元化石燃料与有机化合物.md",
+            "section": {
+              "id": "s006",
+              "title": "第一单元 化石燃料与有机化合物"
+            },
+            "quote_or_summary": "已知在标准状况下甲烷的密度是 0.717 g/L，含碳 75%，含氢 25%。利用这些数据怎样确定甲烷中碳、氢原子个数比和分子式？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_第一单元化石燃料与有机化合物",
+      "revision_round": "v1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_aa45362de60a",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_75a369f6c083",
+      "target_node_id": "canon_knowledgepoint_4a5765618eee",
+      "properties": {
+        "rationale": "Problem tests product distribution of methane chlorination (substitution).",
+        "figures": [
+          {
+            "image_path": "images/page064_img004.jpg",
+            "name": "甲烷与氯气反应装置",
+            "description": "集气瓶收集甲烷、氯气混合气体，灯光照射的实验装置示意图",
+            "figure_id": "ipa_evidence_7ef7da2998bc"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\006_第一单元化石燃料与有机化合物.md",
+            "section": {
+              "id": "s006",
+              "title": "第一单元 化石燃料与有机化合物"
+            },
+            "quote_or_summary": "在光照条件下，甲烷与 Cl₂充分反应，得到的生成物中物质的量最多的物质是（ ）A. CH₃Cl B. CH₂Cl₂ C. CCl₄ D. HCl"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s006_006_第一单元化石燃料与有机化合物",
+      "revision_round": "v1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_3cc283caa831",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_75a369f6c083",
+      "target_node_id": "canon_knowledgepoint_2ef2ffd3020a",
+      "properties": {
+        "rationale": "Problem involves methane reacting under light conditions.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\006_第一单元化石燃料与有机化合物.md",
+            "section": {
+              "id": "s006",
+              "title": "第一单元 化石燃料与有机化合物"
+            },
+            "quote_or_summary": "在光照条件下，甲烷与 Cl₂充分反应，得到的生成物中物质的量最多的物质是（ ）A. CH₃Cl B. CH₂Cl₂ C. CCl₄ D. HCl"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s006_006_第一单元化石燃料与有机化合物",
+      "revision_round": "v1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_008"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_df6f9593a80d",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_54d54e187040",
+      "target_node_id": "canon_knowledgepoint_2ef2ffd3020a",
+      "properties": {
+        "rationale": "Alkanes definition uses methane as the primary example and structural basis.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\006_第一单元化石燃料与有机化合物.md",
+            "section": {
+              "id": "s006",
+              "title": "第一单元 化石燃料与有机化合物"
+            },
+            "quote_or_summary": "在甲烷、乙烷、丙烷等分子中，碳原子都以碳碳单键相连，这一系列化合物被称为烷烃。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s006_006_第一单元化石燃料与有机化合物",
+      "revision_round": "v1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_009"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_0f3a97b1fcd1",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4cb3df7d6498",
+      "target_node_id": "canon_knowledgepoint_aa655ca75f3a",
+      "properties": {
+        "rationale": "Section covers Ethanol topic explicitly.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\007_第二单元食品中的有机化合物.md",
+            "section": {
+              "id": "s007",
+              "title": "第二单元 食品中的有机化合物"
+            },
+            "quote_or_summary": "乙醇（ethanol）是由碳、氢、氧三种元素组成的有机化合物，分子式是 C2H6O。乙醇分子中含有羟基（—OH）"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_007_第二单元食品中的有机化合物",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s007_contains_ethanol"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_2441cf2a269c",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4cb3df7d6498",
+      "target_node_id": "canon_knowledgepoint_e06584f220ff",
+      "properties": {
+        "rationale": "Section covers Acetic Acid topic explicitly.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\007_第二单元食品中的有机化合物.md",
+            "section": {
+              "id": "s007",
+              "title": "第二单元 食品中的有机化合物"
+            },
+            "quote_or_summary": "食醋中含有3%～5%的乙酸（acetic acid）。乙酸又称醋酸，纯净的乙酸在16.6 ℃以下呈冰状固体"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_007_第二单元食品中的有机化合物",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s007_contains_acetic"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_a085e3cc6d6b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4cb3df7d6498",
+      "target_node_id": "canon_knowledgepoint_b5d8ebf33ace",
+      "properties": {
+        "rationale": "Section covers Functional Group concept explicitly.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\007_第二单元食品中的有机化合物.md",
+            "section": {
+              "id": "s007",
+              "title": "第二单元 食品中的有机化合物"
+            },
+            "quote_or_summary": "这些基团对乙醇、乙醛的性质起着决定性作用，这样的基团叫作官能团（functional group）"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_007_第二单元食品中的有机化合物",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s007_contains_functional_group"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_711790d19678",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4cb3df7d6498",
+      "target_node_id": "canon_knowledgepoint_570fa8234a11",
+      "properties": {
+        "rationale": "Section covers Esterification reaction explicitly.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\007_第二单元食品中的有机化合物.md",
+            "section": {
+              "id": "s007",
+              "title": "第二单元 食品中的有机化合物"
+            },
+            "quote_or_summary": "我们把这种醇和某些酸作用生成酯和水的反应叫作酯化反应（esterification reaction）"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_007_第二单元食品中的有机化合物",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s007_contains_esterification"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_45c22bc226b5",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4cb3df7d6498",
+      "target_node_id": "canon_knowledgepoint_6b3f86236fb1",
+      "properties": {
+        "rationale": "Section covers Carbohydrates topic explicitly.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\007_第二单元食品中的有机化合物.md",
+            "section": {
+              "id": "s007",
+              "title": "第二单元 食品中的有机化合物"
+            },
+            "quote_or_summary": "在有机化学中，葡萄糖、蔗糖、淀粉和纤维素都属于糖类（carbohydrate）"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_007_第二单元食品中的有机化合物",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s007_contains_carbohydrates"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_613a551d4b14",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4cb3df7d6498",
+      "target_node_id": "canon_knowledgepoint_71382c7578a7",
+      "properties": {
+        "rationale": "Section covers Proteins topic explicitly.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\007_第二单元食品中的有机化合物.md",
+            "section": {
+              "id": "s007",
+              "title": "第二单元 食品中的有机化合物"
+            },
+            "quote_or_summary": "蛋白质（protein）是组成细胞的基础物质。动物的肌肉、毛皮以及在人体新陈代谢中起催化作用的酶等都含有蛋白质"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_007_第二单元食品中的有机化合物",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s007_contains_proteins"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_811f4466558a",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4cb3df7d6498",
+      "target_node_id": "canon_knowledgepoint_cda11678290e",
+      "properties": {
+        "rationale": "Section covers Amino Acids topic explicitly.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\007_第二单元食品中的有机化合物.md",
+            "section": {
+              "id": "s007",
+              "title": "第二单元 食品中的有机化合物"
+            },
+            "quote_or_summary": "蛋白质是一种很大的分子，它们在一定条件下能发生水解反应，最终转化为各种小分子的氨基酸（amino acid）"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_007_第二单元食品中的有机化合物",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s007_contains_amino_acids"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_0e0ed6c06906",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_570fa8234a11",
+      "target_node_id": "canon_knowledgepoint_aa655ca75f3a",
+      "properties": {
+        "rationale": "Esterification definition involves alcohols like ethanol.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\007_第二单元食品中的有机化合物.md",
+            "section": {
+              "id": "s007",
+              "title": "第二单元 食品中的有机化合物"
+            },
+            "quote_or_summary": "醇和某些酸作用生成酯和水的反应叫作酯化反应；乙醇是醇类代表物"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s007_007_第二单元食品中的有机化合物",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s007_requires_esterification_ethanol"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_07d0dc215ca1",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_570fa8234a11",
+      "target_node_id": "canon_knowledgepoint_e06584f220ff",
+      "properties": {
+        "rationale": "Esterification definition involves acids like acetic acid.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\007_第二单元食品中的有机化合物.md",
+            "section": {
+              "id": "s007",
+              "title": "第二单元 食品中的有机化合物"
+            },
+            "quote_or_summary": "醇和某些酸作用生成酯和水的反应叫作酯化反应；乙酸是酸类代表物"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s007_007_第二单元食品中的有机化合物",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s007_requires_esterification_acetic"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_dc6f24f4310b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a0174e43db9f",
+      "target_node_id": "canon_knowledgepoint_47dda01c108b",
+      "properties": {
+        "rationale": "Chapter section explicitly introduces the concept of organic synthesis.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\008_第三单元人工合成有机化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "第三单元 人工合成有机化合物"
+            },
+            "quote_or_summary": "人们需要通过化学方法来合成新的有机化合物。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_008_第三单元人工合成有机化合物",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_a8b1a73aa87e",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a0174e43db9f",
+      "target_node_id": "canon_knowledgepoint_0d5b3beff582",
+      "properties": {
+        "rationale": "Section header and text define green chemistry thought in organic synthesis.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\008_第三单元人工合成有机化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "第三单元 人工合成有机化合物"
+            },
+            "quote_or_summary": "在有机合成中，我们要秉持绿色化学的理念，注意避免环境污染物的产生。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_008_第三单元人工合成有机化合物",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_4d7be995c1a7",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a0174e43db9f",
+      "target_node_id": "canon_knowledgepoint_0cedbec6749a",
+      "properties": {
+        "rationale": "Section defines organic high molecular compounds.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\008_第三单元人工合成有机化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "第三单元 人工合成有机化合物"
+            },
+            "quote_or_summary": "有机高分子材料是利用化学方法合成的，相对分子质量高达几万乃至几百万的有机化合物。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_008_第三单元人工合成有机化合物",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_contains_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_a451ee9a694c",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a0174e43db9f",
+      "target_node_id": "canon_knowledgepoint_fd8edca01454",
+      "properties": {
+        "rationale": "Section defines addition polymerization reaction.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\008_第三单元人工合成有机化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "第三单元 人工合成有机化合物"
+            },
+            "quote_or_summary": "含有碳碳双键的相对分子质量小的有机物分子，在一定条件下，通过加成反应，互相结合成相对分子质量大的高分子。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_008_第三单元人工合成有机化合物",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_contains_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_2e369a058732",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a0174e43db9f",
+      "target_node_id": "canon_knowledgepoint_65a2653c347b",
+      "properties": {
+        "rationale": "Section defines metal smelting process.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\008_第三单元人工合成有机化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "第三单元 人工合成有机化合物"
+            },
+            "quote_or_summary": "利用化学反应使金属元素从化合态变为游离态的过程称为金属冶炼。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_008_第三单元人工合成有机化合物",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_contains_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_29873db7ccb6",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_f0d112fd30be",
+      "target_node_id": "canon_knowledgepoint_47dda01c108b",
+      "properties": {
+        "rationale": "Problem asks for synthesis route, testing organic synthesis knowledge.",
+        "figures": [
+          {
+            "image_path": "images/page089_img002.jpg",
+            "name": "制备乙酸乙酯可能的合成路线",
+            "description": "图 8-26 制备乙酸乙酯可能的合成路线",
+            "figure_id": "ipa_evidence_84fde98384d0"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\008_第三单元人工合成有机化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "第三单元 人工合成有机化合物"
+            },
+            "quote_or_summary": "根据已学的知识，你能找到以乙烯为原料合成乙酸乙酯的方法吗？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s008_008_第三单元人工合成有机化合物",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_31cc20d3fe5b",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_6775188df707",
+      "target_node_id": "canon_knowledgepoint_0cedbec6749a",
+      "properties": {
+        "rationale": "Problem asks to distinguish plastics by burning, testing polymer properties.",
+        "figures": [
+          {
+            "image_path": "images/page091_img006.jpg",
+            "name": "医用输液装置示意图",
+            "description": "医用输液装置示意图：蓝色背景下，白色透明管路盘绕成团，包含多个连接接头、一个白色带刻度的药液容器（或注射器）、数个阀门/三通接头及末端针头；部分接头处有橙色或蓝色小部件。图中无文字标注。",
+            "figure_id": "ipa_evidence_471cd968fb65"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\008_第三单元人工合成有机化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "第三单元 人工合成有机化合物"
+            },
+            "quote_or_summary": "取两小片聚乙烯、聚氯乙烯塑料薄膜，分别在酒精灯上点燃后，移开酒精灯，观察它们的燃烧现象有什么不同。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s008_008_第三单元人工合成有机化合物",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_tests_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_8dd3d5d57599",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_fd8edca01454",
+      "target_node_id": "canon_knowledgepoint_47dda01c108b",
+      "properties": {
+        "rationale": "Addition polymerization is a type of organic synthesis reaction.",
+        "figures": [
+          {
+            "image_path": "images/page090_img006.jpg",
+            "name": "乙烯发生反应的过程",
+            "description": "> H   H   H   H |   |   |   | C=C + C=C + C=C + ⋯ → ⋯C−C−C−C−C−⋯",
+            "figure_id": "ipa_evidence_0b1a506a7fa1"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\008_第三单元人工合成有机化合物.md",
+            "section": {
+              "id": "s008",
+              "title": "第三单元 人工合成有机化合物"
+            },
+            "quote_or_summary": "加聚反应是合成有机高分子化合物的一种重要的反应类型。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s008_008_第三单元人工合成有机化合物",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_requires_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_cbed9214d82b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a75c43566efe",
+      "target_node_id": "canon_knowledgepoint_4589997bccd4",
+      "properties": {
+        "rationale": "Section title and content define the scope of iron compounds transformation.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\009_第二单元探究铁及其化合物的转化.md",
+            "section": {
+              "id": "s009",
+              "title": "第二单元 探究铁及其化合物的转化"
+            },
+            "quote_or_summary": "铁元素有多种不同价态的存在形式和不同的物质类型，如单质、氧化物、氢氧化物和硫酸盐等。这些物质具有不同的性质，在一定条件下能相互转化。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s009_009_第二单元探究铁及其化合物的转化",
+      "revision_round": 1,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s009_contains_kp_iron_transformation"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_4a69e096d28b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a75c43566efe",
+      "target_node_id": "canon_knowledgepoint_d6173ea25ed5",
+      "properties": {
+        "rationale": "Section includes specific method for Fe3+ detection using KSCN.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\009_第二单元探究铁及其化合物的转化.md",
+            "section": {
+              "id": "s009",
+              "title": "第二单元 探究铁及其化合物的转化"
+            },
+            "quote_or_summary": "在含有Fe3+的溶液中滴加KSCN溶液，反应混合液立刻变成了血红色，而Fe2+遇KSCN溶液不显色。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s009_009_第二单元探究铁及其化合物的转化",
+      "revision_round": 1,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s009_contains_kp_fe3_test"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_415852743506",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a75c43566efe",
+      "target_node_id": "canon_knowledgepoint_4be631592cab",
+      "properties": {
+        "rationale": "Section details Fe2+/Fe3+ interconversion via oxidants/reductants.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\009_第二单元探究铁及其化合物的转化.md",
+            "section": {
+              "id": "s009",
+              "title": "第二单元 探究铁及其化合物的转化"
+            },
+            "quote_or_summary": "Fe2+在溶液中容易被一些氧化剂（如氯水中的Cl2、空气中的O2）氧化为Fe3+而Fe粉可以将Fe3+还原为Fe2+。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s009_009_第二单元探究铁及其化合物的转化",
+      "revision_round": 1,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s009_contains_kp_fe_redox"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_a9b79846afc6",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a75c43566efe",
+      "target_node_id": "canon_knowledgepoint_9ad597dd5bf2",
+      "properties": {
+        "rationale": "Section discusses controlling conditions to prevent Fe2+ oxidation.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\009_第二单元探究铁及其化合物的转化.md",
+            "section": {
+              "id": "s009",
+              "title": "第二单元 探究铁及其化合物的转化"
+            },
+            "quote_or_summary": "亚铁盐非常容易被氧气或其他氧化剂氧化，生成的氢氧化亚铁也很不稳定，容易被空气中的氧气氧化。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s009_009_第二单元探究铁及其化合物的转化",
+      "revision_round": 1,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s009_contains_kp_condition_control"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_692661e3a54b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a75c43566efe",
+      "target_node_id": "canon_knowledgepoint_546518102205",
+      "properties": {
+        "rationale": "Section covers iron types in diet and absorption factors.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\009_第二单元探究铁及其化合物的转化.md",
+            "section": {
+              "id": "s009",
+              "title": "第二单元 探究铁及其化合物的转化"
+            },
+            "quote_or_summary": "血红素铁是与血红蛋白、肌红蛋白中的卟啉结合的二价铁，而非血红素铁则主要以三价铁形式存在于植物中。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s009_009_第二单元探究铁及其化合物的转化",
+      "revision_round": 1,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s009_contains_kp_iron_health"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c975db3375d6",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a75c43566efe",
+      "target_node_id": "canon_knowledgepoint_95c0ac81cc73",
+      "properties": {
+        "rationale": "Section describes Fe3+ oxidizing Cu in PCB manufacturing context.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\009_第二单元探究铁及其化合物的转化.md",
+            "section": {
+              "id": "s009",
+              "title": "第二单元 探究铁及其化合物的转化"
+            },
+            "quote_or_summary": "FeCl3溶液中的Fe3+具有较强的氧化性，能将Cu氧化成Cu2+。在制作印刷电路板时常用到这一反应。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s009_009_第二单元探究铁及其化合物的转化",
+      "revision_round": 1,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s009_contains_kp_fe_cu_reaction"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_6e4612c49c7b",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_d783140e3d69",
+      "target_node_id": "canon_knowledgepoint_4589997bccd4",
+      "properties": {
+        "rationale": "Exercise questions ask about changing iron valence states.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\009_第二单元探究铁及其化合物的转化.md",
+            "section": {
+              "id": "s009",
+              "title": "第二单元 探究铁及其化合物的转化"
+            },
+            "quote_or_summary": "下列物质中，在一定条件下能将铁元素从0价转变为+3价的是"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s009_009_第二单元探究铁及其化合物的转化",
+      "revision_round": 1,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_tests_kp_iron_transformation"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_9b6ab337486d",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_d783140e3d69",
+      "target_node_id": "canon_knowledgepoint_4be631592cab",
+      "properties": {
+        "rationale": "Exercise questions involve generating Fe3+ from Fe2+ or vice versa.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\009_第二单元探究铁及其化合物的转化.md",
+            "section": {
+              "id": "s009",
+              "title": "第二单元 探究铁及其化合物的转化"
+            },
+            "quote_or_summary": "将铁屑溶于过量的稀盐酸后再加入下列物质，会有Fe3+生成的是"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s009_009_第二单元探究铁及其化合物的转化",
+      "revision_round": 1,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_tests_kp_fe_redox"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_e9be2de6b9f0",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_d783140e3d69",
+      "target_node_id": "canon_knowledgepoint_d6173ea25ed5",
+      "properties": {
+        "rationale": "Exercise question asks about KSCN color reaction with Fe3+.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\009_第二单元探究铁及其化合物的转化.md",
+            "section": {
+              "id": "s009",
+              "title": "第二单元 探究铁及其化合物的转化"
+            },
+            "quote_or_summary": "下列溶液中，滴加KSCN溶液不变红色的是"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s009_009_第二单元探究铁及其化合物的转化",
+      "revision_round": 1,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_tests_kp_fe3_test"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_d98ce34d91c9",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_d783140e3d69",
+      "target_node_id": "canon_knowledgepoint_95c0ac81cc73",
+      "properties": {
+        "rationale": "Exercise question asks for equation of FeCl3 reacting with Cu.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\009_第二单元探究铁及其化合物的转化.md",
+            "section": {
+              "id": "s009",
+              "title": "第二单元 探究铁及其化合物的转化"
+            },
+            "quote_or_summary": "氯化铁溶液与铜反应"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s009_009_第二单元探究铁及其化合物的转化",
+      "revision_round": 1,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_tests_kp_fe_cu_reaction"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_f793ab256dac",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4a846ddf121e",
+      "target_node_id": "canon_knowledgepoint_ecdc42715f05",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\010_第三单元金属材料的性能及应用.md",
+            "section": {
+              "id": "s010",
+              "title": "第三单元 金属材料的性能及应用"
+            },
+            "quote_or_summary": "科学家在长期的研究和实践中发现，将两种或两种以上的金属（或金属与非金属）共熔，可制备出特殊的金属材料，这种材料叫作合金"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Chapter section explicitly defines and discusses alloys.",
+        "figures": [
+          {
+            "image_path": "images/page113_img003.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_0a7254150259"
+          }
+        ]
+      },
+      "source_context_id": "s010_010_第三单元金属材料的性能及应用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs_unit_010_kp_alloy_def_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_061a1f7bf413",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4a846ddf121e",
+      "target_node_id": "canon_knowledgepoint_eb07b49e844b",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\010_第三单元金属材料的性能及应用.md",
+            "section": {
+              "id": "s010",
+              "title": "第三单元 金属材料的性能及应用"
+            },
+            "quote_or_summary": "合金的硬度一般都比组成它的纯金属大。多数合金的熔点低于组成它的任何一种组分金属"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section text describes physical properties of alloys.",
+        "figures": [
+          {
+            "image_path": "images/page114_img003.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_99720a8a0360"
+          }
+        ]
+      },
+      "source_context_id": "s010_010_第三单元金属材料的性能及应用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs_unit_010_kp_alloy_prop_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_be394228b1d4",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4a846ddf121e",
+      "target_node_id": "canon_knowledgepoint_f03002a2eb8f",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\010_第三单元金属材料的性能及应用.md",
+            "section": {
+              "id": "s010",
+              "title": "第三单元 金属材料的性能及应用"
+            },
+            "quote_or_summary": "非金属元素及其化合物是无机非金属材料的主要成分。硅的导电性介于导体和绝缘体之间，是一种重要的半导体材料"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section text defines and describes non-metallic materials.",
+        "figures": [
+          {
+            "image_path": "images/page116_img002.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_fa621b65feff"
+          }
+        ]
+      },
+      "source_context_id": "s010_010_第三单元金属材料的性能及应用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs_unit_010_kp_nonmetal_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c28502a72722",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4a846ddf121e",
+      "target_node_id": "canon_knowledgepoint_6b0f9c0e0779",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\010_第三单元金属材料的性能及应用.md",
+            "section": {
+              "id": "s010",
+              "title": "第三单元 金属材料的性能及应用"
+            },
+            "quote_or_summary": "光导纤维的主要成分是二氧化硅，可用来制造通讯光缆，用于光纤通信或传送高强度的激光等"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section text defines optical fiber composition and usage."
+      },
+      "source_context_id": "s010_010_第三单元金属材料的性能及应用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs_unit_010_kp_optical_fiber_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_47d079a1d6b8",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4a846ddf121e",
+      "target_node_id": "canon_knowledgepoint_9732061ee854",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\010_第三单元金属材料的性能及应用.md",
+            "section": {
+              "id": "s010",
+              "title": "第三单元 金属材料的性能及应用"
+            },
+            "quote_or_summary": "钛合金是一种新型的金属材料，其强度高，密度小，耐热性好，易于加工，抗腐蚀性强，远优于不锈钢"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section text describes titanium alloy properties."
+      },
+      "source_context_id": "s010_010_第三单元金属材料的性能及应用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs_unit_010_kp_titanium_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_3c853b64d430",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_2bc321c87413",
+      "target_node_id": "canon_knowledgepoint_ecdc42715f05",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\010_第三单元金属材料的性能及应用.md",
+            "section": {
+              "id": "s010",
+              "title": "第三单元 金属材料的性能及应用"
+            },
+            "quote_or_summary": "1. 下列物质中，不属于合金的是（ ）A. 硬铝 B. 黄铜 C. 钢铁 D. 铁锈"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Question directly tests identification of alloys."
+      },
+      "source_context_id": "s010_010_第三单元金属材料的性能及应用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_q1_kp_alloy_def_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_63d4ee7b2c50",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_ceb2b8771241",
+      "target_node_id": "canon_knowledgepoint_ecdc42715f05",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_070024_普通高中教科书·化学必修第二册_20260630\\enhanced_markdown\\sections\\010_第三单元金属材料的性能及应用.md",
+            "section": {
+              "id": "s010",
+              "title": "第三单元 金属材料的性能及应用"
+            },
+            "quote_or_summary": "6. 考古出土的吴王夫差剑为春秋末期制造的青铜剑...（1）青铜是一种金属材料，该合金的主要成分是 （填元素符号）。"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Question uses bronze (an alloy) to test alloy knowledge."
+      },
+      "source_context_id": "s010_010_第三单元金属材料的性能及应用",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_q6_kp_alloy_def_tests"
+      ]
+    }
+  ]
+}

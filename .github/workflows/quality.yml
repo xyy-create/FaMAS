@@ -1,0 +1,58 @@
+name: Quality
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  web-quality:
+    name: Web tests and build
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: web/backend/requirements-dev.txt
+
+      - name: Install backend dependencies
+        working-directory: web/backend
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements-dev.txt
+
+      - name: Run backend tests
+        working-directory: web/backend
+        env:
+          FAMAS_SECRET_KEY: ci-secret-key
+        run: python -m pytest -q
+
+      - name: Check database migrations
+        working-directory: web/backend
+        env:
+          FAMAS_SECRET_KEY: ci-secret-key
+        run: |
+          $dbPath = Join-Path $env:RUNNER_TEMP "famas_ci_migration.db"
+          $env:FAMAS_DATABASE_URL = "sqlite:///$($dbPath.Replace('\', '/'))"
+          python -m alembic upgrade head
+          python -m alembic check
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+          cache-dependency-path: web/frontend/package-lock.json
+
+      - name: Install frontend dependencies
+        working-directory: web/frontend
+        run: npm ci
+
+      - name: Build frontend
+        working-directory: web/frontend
+        run: npm run build

@@ -1,0 +1,1 @@
+"""MAS project package."""

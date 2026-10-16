@@ -1,0 +1,1316 @@
+{
+  "schema_version": "kg.merged_edges.v1",
+  "run_id": "kg_义务教育教科书·数学二年级上册_20260630",
+  "edges": [
+    {
+      "edge_id": "canon_edge_contains_ca1e060fd6d3",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b4c76b336d60",
+      "target_node_id": "canon_knowledgepoint_2b671fbc17bb",
+      "properties": {
+        "rationale": "Section title and content define the knowledge point of consecutive addition and subtraction.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\001_100以内的加法和减法(三).md",
+            "section": {
+              "id": "s001",
+              "title": "1 00 以 内 的加法和减法(三)"
+            },
+            "quote_or_summary": "19 + 27 + 26 = 想一想先算什么，再接着往下算。"
+          }
+        ]
+      },
+      "source_context_id": "s001_001_100以内的加法和减法(三)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_0c5b4b252476",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b4c76b336d60",
+      "target_node_id": "canon_knowledgepoint_7a6c264d826f",
+      "properties": {
+        "rationale": "Section text explicitly defines quadrilaterals with four sides.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\001_100以内的加法和减法(三).md",
+            "section": {
+              "id": "s001",
+              "title": "1 00 以 内 的加法和减法(三)"
+            },
+            "quote_or_summary": "像这样有 4 条边的图形是四边形。"
+          }
+        ]
+      },
+      "source_context_id": "s001_001_100以内的加法和减法(三)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_01b1680d0856",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b4c76b336d60",
+      "target_node_id": "canon_knowledgepoint_655d1c43ea30",
+      "properties": {
+        "rationale": "Section text defines parallelograms as a specific type of quadrilateral.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\001_100以内的加法和减法(三).md",
+            "section": {
+              "id": "s001",
+              "title": "1 00 以 内 的加法和减法(三)"
+            },
+            "quote_or_summary": "像这样的四边形是平行四边形。"
+          }
+        ]
+      },
+      "source_context_id": "s001_001_100以内的加法和减法(三)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_d765ff7911eb",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_655d1c43ea30",
+      "target_node_id": "canon_knowledgepoint_7a6c264d826f",
+      "properties": {
+        "rationale": "Definition states parallelogram is a type of quadrilateral, implying prerequisite knowledge.",
+        "confidence": 0.85,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\001_100以内的加法和减法(三).md",
+            "section": {
+              "id": "s001",
+              "title": "1 00 以 内 的加法和减法(三)"
+            },
+            "quote_or_summary": "像这样的四边形是平行四边形。"
+          }
+        ]
+      },
+      "source_context_id": "s001_001_100以内的加法和减法(三)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_requires_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_e959ea2bd660",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_6acd5f7bfda8",
+      "target_node_id": "canon_knowledgepoint_2b671fbc17bb",
+      "properties": {
+        "rationale": "Problem requires calculating total items using consecutive addition.",
+        "confidence": 0.9,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\001_100以内的加法和减法(三).md",
+            "section": {
+              "id": "s001",
+              "title": "1 00 以 内 的加法和减法(三)"
+            },
+            "quote_or_summary": "三人一共折了多少只？1 9 + 2 7 + 26 = 想一想先算什么，再接着往下算。"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page003_img002.jpg",
+            "name": "",
+            "description": "三个女孩折纸飞机：画面中有三个女孩围坐在一张桌子旁，桌上堆满白色纸飞机。从左至右：第一个女孩（粉衣）头顶对话框写着‘我折了19只’；第二个女孩（紫衣）头顶对话框写着‘我折了27只’；第三个女孩（蓝衣）手指着左边，头顶对话框写着‘我折了26只’。右侧有一张小圆桌，上面放着一个黄色杯子和绿植。",
+            "figure_id": "ipa_evidence_0886e76f3c4b"
+          }
+        ]
+      },
+      "source_context_id": "s001_001_100以内的加法和减法(三)",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_2de5959ad347",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_590adca713d2",
+      "target_node_id": "canon_knowledgepoint_2b671fbc17bb",
+      "properties": {
+        "rationale": "Problem requires two-step calculation involving addition and subtraction.",
+        "confidence": 0.9,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\001_100以内的加法和减法(三).md",
+            "section": {
+              "id": "s001",
+              "title": "1 00 以 内 的加法和减法(三)"
+            },
+            "quote_or_summary": "（1）一共摘了多少个？运走 60 个，还剩多少个？"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page004_img012.jpg",
+            "name": "",
+            "description": "摘西瓜场景图：一幅卡通插图：一名戴草帽、穿粉色上衣的女子站在田间，左手抱一个西瓜，右手举着电话；她身后是一片西瓜地，地上堆放着大量西瓜；左上角对话框内文字为“上午摘了38个，下午摘了46个。”",
+            "figure_id": "ipa_evidence_4e16e7668355"
+          }
+        ]
+      },
+      "source_context_id": "s001_001_100以内的加法和减法(三)",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_9ea51b9ddf70",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3d74ac31a52b",
+      "target_node_id": "canon_knowledgepoint_2b671fbc17bb",
+      "properties": {
+        "rationale": "Problem requires multi-step calculation based on given quantities.",
+        "confidence": 0.9,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\001_100以内的加法和减法(三).md",
+            "section": {
+              "id": "s001",
+              "title": "1 00 以 内 的加法和减法(三)"
+            },
+            "quote_or_summary": "（1）全班一共栽树多少棵？（2）女生栽树多少棵？"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page006_img006.jpg",
+            "name": "",
+            "description": "栽树场景图：画面为户外植树场景，背景是成排的杨树和松树。左侧女孩说话气泡文字为“我们班栽杨树 36 棵，松树 28 棵。”；右侧男孩说话气泡文字为“其中的 31 棵是男生栽的。”图中可见两名儿童及多棵树苗。",
+            "figure_id": "ipa_evidence_07e954579c6e"
+          }
+        ]
+      },
+      "source_context_id": "s001_001_100以内的加法和减法(三)",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_d4d0a83da3a6",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_05ca0c611f94",
+      "target_node_id": "canon_knowledgepoint_e9829285174c",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section header and definition text establish containment.",
+        "figures": [
+          {
+            "image_path": "images/page022_img002.jpg",
+            "name": "生活情境应用图",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_7f79ef1c8074"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\002_表内乘法(一).md",
+            "section": {
+              "id": "s002",
+              "title": "表 内乘法( 一 )"
+            },
+            "quote_or_summary": "求几个相同加数的和，用乘法计算比较简便。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_002_表内乘法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001_contains_meaning"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_7e2fd5cd0d7a",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_05ca0c611f94",
+      "target_node_id": "canon_knowledgepoint_df9d0c1610bf",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section text defines multiplication term names directly.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\002_表内乘法(一).md",
+            "section": {
+              "id": "s002",
+              "title": "表 内乘法( 一 )"
+            },
+            "quote_or_summary": "乘数 乘数 积"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_002_表内乘法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002_contains_terms"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_108399695207",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_05ca0c611f94",
+      "target_node_id": "canon_knowledgepoint_a4b9da59df29",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section includes 2's multiplication table content.",
+        "figures": [
+          {
+            "image_path": "images/page027_img004.jpg",
+            "name": "测量与单位认知图",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_9ef51e5d05d9"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\002_表内乘法(一).md",
+            "section": {
+              "id": "s002",
+              "title": "表 内乘法( 一 )"
+            },
+            "quote_or_summary": "1 × 2 = 2 一二得二；2 × 2 = 4 二二得四"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_002_表内乘法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003_contains_table2"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_0f2dc1ab0799",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_05ca0c611f94",
+      "target_node_id": "canon_knowledgepoint_08582120db20",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section includes 5's multiplication table content.",
+        "figures": [
+          {
+            "image_path": "images/page031_img002.jpg",
+            "name": "船只载人图",
+            "description": "五艘船上的儿童：一幅插图，显示五艘木船在河面上，每艘船上载有不同数量的儿童",
+            "figure_id": "ipa_evidence_7b5f8817f098"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\002_表内乘法(一).md",
+            "section": {
+              "id": "s002",
+              "title": "表 内乘法( 一 )"
+            },
+            "quote_or_summary": "1 × 5 = 5 一五得五；2 × 5 = 10 二五一十"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_002_表内乘法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004_contains_table5"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_4977dc1f6d7e",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_05ca0c611f94",
+      "target_node_id": "canon_knowledgepoint_30548a34cf14",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section includes 6's multiplication table content.",
+        "figures": [
+          {
+            "image_path": "images/page037_img002.jpg",
+            "name": "旋转木马场景",
+            "description": "旋转木马游乐场景：一幅儿童游乐场插画：左侧是一个彩色伞状顶棚的旋转木马",
+            "figure_id": "ipa_evidence_da585d3de3d7"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\002_表内乘法(一).md",
+            "section": {
+              "id": "s002",
+              "title": "表 内乘法( 一 )"
+            },
+            "quote_or_summary": "1 × 6 = 6 一六得六；2 × 6 = 12 二六十二"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_002_表内乘法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005_contains_table6"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_cc8c1d54340f",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_a4b9da59df29",
+      "target_node_id": "canon_knowledgepoint_e9829285174c",
+      "properties": {
+        "relation_label": "前置依赖",
+        "rationale": "Learning multiplication tables requires understanding multiplication meaning.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\002_表内乘法(一).md",
+            "section": {
+              "id": "s002",
+              "title": "表 内乘法( 一 )"
+            },
+            "quote_or_summary": "求几个相同加数的和，用乘法计算比较简便。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s002_002_表内乘法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006_requires_meaning"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_267758af2d2d",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_08582120db20",
+      "target_node_id": "canon_knowledgepoint_e9829285174c",
+      "properties": {
+        "relation_label": "前置依赖",
+        "rationale": "Learning 5's table requires understanding multiplication meaning.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\002_表内乘法(一).md",
+            "section": {
+              "id": "s002",
+              "title": "表 内乘法( 一 )"
+            },
+            "quote_or_summary": "求几个相同加数的和，用乘法计算比较简便。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s002_002_表内乘法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007_requires_meaning_5"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_85d01865fc16",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_30548a34cf14",
+      "target_node_id": "canon_knowledgepoint_e9829285174c",
+      "properties": {
+        "relation_label": "前置依赖",
+        "rationale": "Learning 6's table requires understanding multiplication meaning.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\002_表内乘法(一).md",
+            "section": {
+              "id": "s002",
+              "title": "表 内乘法( 一 )"
+            },
+            "quote_or_summary": "求几个相同加数的和，用乘法计算比较简便。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s002_002_表内乘法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_008_requires_meaning_6"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_2166ad77f535",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_781746db59c1",
+      "target_node_id": "canon_knowledgepoint_a4b9da59df29",
+      "properties": {
+        "relation_label": "题目考察",
+        "rationale": "Problem explicitly asks about groups of 2.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\002_表内乘法(一).md",
+            "section": {
+              "id": "s002",
+              "title": "表 内乘法( 一 )"
+            },
+            "quote_or_summary": "兔有几个 2 只？鸡有几个 3 只？"
+          }
+        ],
+        "confidence": 0.8
+      },
+      "source_context_id": "s002_002_表内乘法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_009_tests_table2"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_3a1a7de065a6",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_f22cb8e32faf",
+      "target_node_id": "canon_knowledgepoint_e9829285174c",
+      "properties": {
+        "relation_label": "题目考察",
+        "rationale": "Problem applies multiplication meaning to calculate total passengers.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\002_表内乘法(一).md",
+            "section": {
+              "id": "s002",
+              "title": "表 内乘法( 一 )"
+            },
+            "quote_or_summary": "每节车厢坐 4 人，2 节车厢坐多少人？"
+          }
+        ],
+        "confidence": 0.75
+      },
+      "source_context_id": "s002_002_表内乘法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_010_tests_meaning"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_a713ee33b3d3",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_eba2f6527aa7",
+      "target_node_id": "canon_knowledgepoint_a59552607c5d",
+      "properties": {
+        "rationale": "Chapter explicitly defines equal sharing as the core concept of division.",
+        "figures": [
+          {
+            "image_path": "images/page044_img007.jpg",
+            "name": "桃子分组示意图",
+            "description": "6 个粉色圆形，分为两组，每组 3 个",
+            "figure_id": "ipa_evidence_b65f2d94d598"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\003_表内除法(一).md",
+            "section": {
+              "id": "s003",
+              "title": "表内 除法(一)"
+            },
+            "quote_or_summary": "每份分得同样多，叫作平均分。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_表内除法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_5c25c34997e5",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_eba2f6527aa7",
+      "target_node_id": "canon_knowledgepoint_86f7ca07c139",
+      "properties": {
+        "rationale": "Chapter illustrates both grouping and equal sharing as division meanings.",
+        "figures": [
+          {
+            "image_path": "images/page044_img016.jpg",
+            "name": "桃子圈选图",
+            "description": "8 个桃子，每 2 个圈一份，共圈出 4 份。",
+            "figure_id": "ipa_evidence_afd2aeb4f888"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\003_表内除法(一).md",
+            "section": {
+              "id": "s003",
+              "title": "表内 除法(一)"
+            },
+            "quote_or_summary": "12 个苹果，每只小熊分 3 个，可以分给（ ）只小熊。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_表内除法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_fd29d6597eba",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_eba2f6527aa7",
+      "target_node_id": "canon_knowledgepoint_f045220b1ded",
+      "properties": {
+        "rationale": "Chapter defines dividend, divisor, and quotient components.",
+        "figures": [
+          {
+            "image_path": "images/page051_img005.jpg",
+            "name": "除法算式结构图",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_ff2947bf12ed"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\003_表内除法(一).md",
+            "section": {
+              "id": "s003",
+              "title": "表内 除法(一)"
+            },
+            "quote_or_summary": "被除数 除数 商"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_表内除法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_5cf6e985c069",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_eba2f6527aa7",
+      "target_node_id": "canon_knowledgepoint_e54eb463909d",
+      "properties": {
+        "rationale": "Chapter teaches using multiplication tables to find quotients.",
+        "figures": [
+          {
+            "image_path": "images/page055_img005.jpg",
+            "name": "乘法口诀图示",
+            "description": "\\begin{array}{cccc}\\text{●} & \\text{●} & \\text{●} & \\text{●} \\\\\\text{●} & \\text{●} & \\text{●} & \\text{●} \\\\\\end{array}",
+            "figure_id": "ipa_evidence_0fde228c02e4"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\003_表内除法(一).md",
+            "section": {
+              "id": "s003",
+              "title": "表内 除法(一)"
+            },
+            "quote_or_summary": "可以用乘法口诀算。想：二（四）得八，商是 4。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_表内除法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_530365038fa7",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_e3e6c856e6b8",
+      "target_node_id": "canon_knowledgepoint_a59552607c5d",
+      "properties": {
+        "rationale": "Problem applies equal sharing concept to divide peaches.",
+        "figures": [
+          {
+            "image_path": "images/page044_img016.jpg",
+            "name": "圈一圈图",
+            "description": "8 个桃子，每 2 个圈一份，共圈出 4 份。",
+            "figure_id": "ipa_evidence_afd2aeb4f888"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\003_表内除法(一).md",
+            "section": {
+              "id": "s003",
+              "title": "表内 除法(一)"
+            },
+            "quote_or_summary": "有 8 个桃，每个小朋友分 2 个，可以分给几个小朋友？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_表内除法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_15731dd6e35f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_16348e4ea09c",
+      "target_node_id": "canon_knowledgepoint_86f7ca07c139",
+      "properties": {
+        "rationale": "Problem demonstrates grouping division meaning.",
+        "figures": [
+          {
+            "image_path": "images/page050_img008.jpg",
+            "name": "分苹果插图",
+            "description": "一只戴粉色围裙的熊站在桌旁，端着一盘红苹果；长桌旁坐着四只小熊，桌上放着四盘苹果，每盘 3 个。",
+            "figure_id": "ipa_evidence_5c17ef674512"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\003_表内除法(一).md",
+            "section": {
+              "id": "s003",
+              "title": "表内 除法(一)"
+            },
+            "quote_or_summary": "12 个苹果，每只小熊分 3 个，可以分给（ ）只小熊。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_表内除法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_dec9d60fdd87",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_29c3a0735197",
+      "target_node_id": "canon_knowledgepoint_86f7ca07c139",
+      "properties": {
+        "rationale": "Problem applies division to calculate number of cars needed.",
+        "figures": [
+          {
+            "image_path": "images/page050_img004.jpg",
+            "name": "圆圈排列图",
+            "description": "\\begin{array}{cccccc}\\bigcirc & \\bigcirc & \\bigcirc & \\bigcirc & \\bigcirc & \\bigcirc \\\\\\\\ \\end{array}",
+            "figure_id": "ipa_evidence_5c676bb672f1"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\003_表内除法(一).md",
+            "section": {
+              "id": "s003",
+              "title": "表内 除法(一)"
+            },
+            "quote_or_summary": "6 个小朋友坐，每车坐 2 人，要坐（ ）车。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_表内除法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_8d4fef41bca6",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_f045220b1ded",
+      "target_node_id": "canon_knowledgepoint_a59552607c5d",
+      "properties": {
+        "rationale": "Understanding parts requires understanding division as equal sharing.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\003_表内除法(一).md",
+            "section": {
+              "id": "s003",
+              "title": "表内 除法(一)"
+            },
+            "quote_or_summary": "除法算式中，被除数、除数、商分别表示总数、每份数和份数。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s003_003_表内除法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_008"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_5625a17deeb8",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_e54eb463909d",
+      "target_node_id": "canon_knowledgepoint_a59552607c5d",
+      "properties": {
+        "rationale": "Using multiplication tables for division relies on division concept.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\003_表内除法(一).md",
+            "section": {
+              "id": "s003",
+              "title": "表内 除法(一)"
+            },
+            "quote_or_summary": "可以用乘法口诀算。想：二（四）得八，商是 4。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s003_003_表内除法(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_009"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_5aaa213ccac7",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9a78c9ea05eb",
+      "target_node_id": "canon_knowledgepoint_66af076594b6",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\004_我们身体上的“尺”.md",
+            "section": {
+              "id": "s004",
+              "title": "我们身体上的“尺”"
+            },
+            "quote_or_summary": "一拃、一步、一庹、一脚，都是我们身体上的“尺”。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section defines body ruler concepts directly.",
+        "figures": [
+          {
+            "image_path": "images/page070_img002.jpg",
+            "name": "一步长示意图",
+            "description": "一步长 50 厘米。",
+            "figure_id": "ipa_evidence_550307efdf8b"
+          },
+          {
+            "image_path": "images/page070_img005.jpg",
+            "name": "1 米约几抟",
+            "description": "1 米大约有 7 抟。",
+            "figure_id": "ipa_evidence_54dfe0df274a"
+          },
+          {
+            "image_path": "images/page070_img006.jpg",
+            "name": "1 米约几步",
+            "description": "1 米大约有 2 步。",
+            "figure_id": "ipa_evidence_f501428892a4"
+          }
+        ]
+      },
+      "source_context_id": "s004_004_我们身体上的“尺”",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs004_kp_body_ruler_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_68291d7c3409",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9a78c9ea05eb",
+      "target_node_id": "canon_knowledgepoint_1a106e2a006e",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\004_我们身体上的“尺”.md",
+            "section": {
+              "id": "s004",
+              "title": "我们身体上的“尺”"
+            },
+            "quote_or_summary": "按每次算的结果，可以得出 7 的乘法口诀。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section introduces 7 multiplication table derivation.",
+        "figures": [
+          {
+            "image_path": "images/page073_img010.jpg",
+            "name": "7 的乘法口诀表",
+            "description": "二七十四，一七得七，三七二十一等口诀及算式。",
+            "figure_id": "ipa_evidence_8f0b0ef28f8f"
+          }
+        ]
+      },
+      "source_context_id": "s004_004_我们身体上的“尺”",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs004_kp_mult_7_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_52ff20c4eb54",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9a78c9ea05eb",
+      "target_node_id": "canon_knowledgepoint_95fabd24e3e8",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\004_我们身体上的“尺”.md",
+            "section": {
+              "id": "s004",
+              "title": "我们身体上的“尺”"
+            },
+            "quote_or_summary": "怎样编出 8 的乘法口诀？从“一八得八”开始编。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section introduces 8 multiplication table derivation.",
+        "figures": [
+          {
+            "image_path": "images/page079_img001.jpg",
+            "name": "8 的乘法口诀表",
+            "description": "三八二十四，六八四十八等口诀及算式。",
+            "figure_id": "ipa_evidence_5070db472736"
+          }
+        ]
+      },
+      "source_context_id": "s004_004_我们身体上的“尺”",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs004_kp_mult_8_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_5964f0d371e8",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9a78c9ea05eb",
+      "target_node_id": "canon_knowledgepoint_d7aff93a4298",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\004_我们身体上的“尺”.md",
+            "section": {
+              "id": "s004",
+              "title": "我们身体上的“尺”"
+            },
+            "quote_or_summary": "用手指可以帮助记住 9 的乘法口诀。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section introduces 9 multiplication table memory aid.",
+        "figures": [
+          {
+            "image_path": "images/page083_img024.jpg",
+            "name": "9 的乘法口诀手势图",
+            "description": "双手张开示意图，用于展示用手指记忆 9 的乘法口诀时的手势动作。",
+            "figure_id": "ipa_evidence_4060cc3c7dac"
+          }
+        ]
+      },
+      "source_context_id": "s004_004_我们身体上的“尺”",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs004_kp_mult_9_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_1cd47282d234",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_d35419241f12",
+      "target_node_id": "canon_knowledgepoint_66af076594b6",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\004_我们身体上的“尺”.md",
+            "section": {
+              "id": "s004",
+              "title": "我们身体上的“尺”"
+            },
+            "quote_or_summary": "篮球场的长有 56 步，宽有 30 步。"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem applies body ruler units (steps) to measure distance."
+      },
+      "source_context_id": "s004_004_我们身体上的“尺”",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_basketball_kp_body_ruler_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_d8b1a82d7197",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_11daa805b698",
+      "target_node_id": "canon_knowledgepoint_1a106e2a006e",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\004_我们身体上的“尺”.md",
+            "section": {
+              "id": "s004",
+              "title": "我们身体上的“尺”"
+            },
+            "quote_or_summary": "每 7 朵花扎成一个花环，可以扎几个花环？"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem requires division/multiplication by 7.",
+        "figures": [
+          {
+            "image_path": "images/page074_img002.jpg",
+            "name": "花环制作场景",
+            "description": "孩子们制作花环：四名儿童围坐在铺有绿色桌布的桌子旁，桌上摆放着 28 朵粉色小花。",
+            "figure_id": "ipa_evidence_1ba879abc19d"
+          }
+        ]
+      },
+      "source_context_id": "s004_004_我们身体上的“尺”",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_flower_ring_kp_mult_7_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_7028e333fb91",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_0254d24873b9",
+      "target_node_id": "canon_knowledgepoint_1a106e2a006e",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\004_我们身体上的“尺”.md",
+            "section": {
+              "id": "s004",
+              "title": "我们身体上的“尺”"
+            },
+            "quote_or_summary": "平均穿成 7 串，每串穿多少颗？"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem requires division by 7.",
+        "figures": [
+          {
+            "image_path": "images/page075_img001.jpg",
+            "name": "樱桃穿串场景",
+            "description": "42 颗樱桃，盘子中装满红色樱桃，旁边有 6 根细长木棍。",
+            "figure_id": "ipa_evidence_baca8ebdfcca"
+          }
+        ]
+      },
+      "source_context_id": "s004_004_我们身体上的“尺”",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_cherry_string_kp_mult_7_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c5759ebc9623",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a464e912adb2",
+      "target_node_id": "canon_knowledgepoint_5e32bd381742",
+      "properties": {
+        "rationale": "Section title '观 察 物 体' directly matches the KnowledgePoint name '观察物体', establishing structural containment.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\005_观察物体.md",
+            "section": {
+              "id": "s005",
+              "title": "观 察 物 体"
+            },
+            "quote_or_summary": "# 观 察 物 体"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_观察物体",
+      "revision_round": "1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_s005_section_observation_objects_kp_observation_viewpoints"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_11c27b59e26b",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_2d0f94a57702",
+      "target_node_id": "canon_knowledgepoint_5e32bd381742",
+      "properties": {
+        "rationale": "Problem asks to identify photo perspectives (front vs. other sides), directly testing the concept of viewing objects from different positions.",
+        "figures": [
+          {
+            "image_path": "images/page092_img003.jpg",
+            "name": "教室内部场景照片",
+            "description": "教室内部场景照片：一张从教室后方拍摄的室内照片，画面前方是多排课桌椅，正中为一块黑板，黑板左侧墙上有‘动物角’布告栏，右侧有标着‘图书角’的柜子，墙上还贴有橙色装饰图案。",
+            "figure_id": "ipa_evidence_aa58cea1d084"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\005_观察物体.md",
+            "section": {
+              "id": "s005",
+              "title": "观 察 物 体"
+            },
+            "quote_or_summary": "哪一张照片是在教室前面拍的？另一张是在教室的哪一面拍的？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_观察物体",
+      "revision_round": "1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_classroom_photos_kp_observation_viewpoints"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_682829400722",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_da00bc75e068",
+      "target_node_id": "canon_knowledgepoint_5e32bd381742",
+      "properties": {
+        "rationale": "Problem requires matching observers to car views (front/side/rear), testing understanding of viewpoint-dependent shapes.",
+        "figures": [
+          {
+            "image_path": "images/page093_img004.jpg",
+            "name": "汽车与观察者",
+            "description": "> 汽车与观察者\n\n左侧为三张不同视角的黄色汽车图：顶部：汽车正面图，可见车头、挡风玻璃、方向盘；中部：汽车侧面图，可见车身、车门、车轮；底部：汽车背面图，可见车尾、后窗（有裂纹）、车牌框。\n\n右侧为三个儿童头像（从上到下）：顶部：黑发扎马尾的女孩侧脸（朝左）；中部：黑发男孩侧脸（朝左）；底部：黑发女孩侧脸（朝右）。",
+            "figure_id": "ipa_evidence_824e444954d2"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\005_观察物体.md",
+            "section": {
+              "id": "s005",
+              "title": "观 察 物 体"
+            },
+            "quote_or_summary": "右边的汽车图分别是谁看到的？连一连。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_观察物体",
+      "revision_round": "1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_car_views_kp_observation_viewpoints"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_8d2bd9d2ce37",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_e7d001e9e129",
+      "target_node_id": "canon_knowledgepoint_5e32bd381742",
+      "properties": {
+        "rationale": "Activity involves four children observing a plane model from different positions, illustrating viewpoint differences.",
+        "figures": [
+          {
+            "image_path": "images/page093_img005.jpg",
+            "name": "观察飞机模型的四个孩子",
+            "description": "观察飞机模型的四个孩子：四名儿童围坐在一张桌子旁，桌上放着一个蓝色飞机模型；从左到右、从前到后，一名穿蓝上衣男孩面向飞机张嘴伸手，一名扎黄发女孩侧身微笑，一名穿绿上衣男孩举手指向上方，一名穿黄上衣男孩背对镜头坐着；画面展示的是从不同位置观察同一物体的场景。",
+            "figure_id": "ipa_evidence_d171b31f5205"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\005_观察物体.md",
+            "section": {
+              "id": "s005",
+              "title": "观 察 物 体"
+            },
+            "quote_or_summary": "四人一组，照下面的样子看飞机模型，说说你看到的是右边的哪一幅图。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_观察物体",
+      "revision_round": "1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_airplane_model_kp_observation_viewpoints"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_9a07cb3e6bcc",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_89e2735490b3",
+      "target_node_id": "canon_knowledgepoint_5e32bd381742",
+      "properties": {
+        "rationale": "Problem asks to order boat images by time/distance, testing perspective changes as object moves relative to observer.",
+        "figures": [
+          {
+            "image_path": "images/page094_img005.jpg",
+            "name": "小船过河场景",
+            "description": "> Three panels showing a boat with children on a river, from different distances and angles.",
+            "figure_id": "ipa_evidence_9909296ab10b"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\005_观察物体.md",
+            "section": {
+              "id": "s005",
+              "title": "观 察 物 体"
+            },
+            "quote_or_summary": "小华站在桥上，看见一只小船从远处划来。按时间顺序给下面的 3 幅图编号。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_观察物体",
+      "revision_round": "1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_boat_sequence_kp_observation_viewpoints"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_62922a19e6ba",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_1b60ff1c97c1",
+      "target_node_id": "canon_knowledgepoint_5e32bd381742",
+      "properties": {
+        "rationale": "Problem requires matching child views to book shapes (cover/spine/pages), testing 3D-to-2D projection understanding.",
+        "figures": [
+          {
+            "image_path": "images/page095_img001.jpg",
+            "name": "观察书本的四个视角",
+            "description": "观察书本的四个视角：左侧为四名儿童围坐在桌旁，桌上放着一本打开的书；右侧为四幅小图：上方是书的正面（封面写有‘海豚外婆’），下方是四种不同角度看到的书脊/书页截面形状，再下方是四个儿童的头像（从左到右：扎马尾女孩、黑发男孩、扎马尾女孩、黑发男孩）。题目要求将右侧头像与对应视角的书本形状连线。",
+            "figure_id": "ipa_evidence_32cbdc749066"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\005_观察物体.md",
+            "section": {
+              "id": "s005",
+              "title": "观 察 物 体"
+            },
+            "quote_or_summary": "右边的图分别是谁看到的？连一连。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_观察物体",
+      "revision_round": "1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_book_views_kp_observation_viewpoints"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_ce50a3267846",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_17390df1de21",
+      "target_node_id": "canon_knowledgepoint_5e32bd381742",
+      "properties": {
+        "rationale": "Activity asks to observe a schoolbag from four directions and compare shapes, directly testing viewpoint dependency.",
+        "figures": [
+          {
+            "image_path": "images/page095_img002.jpg",
+            "name": "书包观察场景",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_e5a42bc364ca"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_214626_义务教育教科书·数学二年级上册_20260630\\enhanced_markdown\\sections\\005_观察物体.md",
+            "section": {
+              "id": "s005",
+              "title": "观 察 物 体"
+            },
+            "quote_or_summary": "在桌上放一个书包，再分别从四个方向看一看，每次看到的形状相同吗？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_观察物体",
+      "revision_round": "1",
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_schoolbag_views_kp_observation_viewpoints"
+      ]
+    }
+  ]
+}

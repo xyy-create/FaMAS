@@ -1,0 +1,24 @@
+paths:
+  books_yaml: ../books.yaml
+  input_dir: .
+  workspace_dir: ../data/intermediate/markdown_segments/full_pipeline
+  output_dir: ../data
+
+mineru:
+  command: mineru
+
+llm:
+  provider: openai
+  model: gpt-4.1-mini
+  base_url: ${OPENAI_BASE_URL}
+  api_key: ${OPENAI_API_KEY}
+  max_concurrency: 8
+  temperature: 0.0
+
+merge:
+  normalize: nfkc_lower
+  dedup_labels:
+    - Concept
+    - Skill
+    - Experiment
+    - Exercise

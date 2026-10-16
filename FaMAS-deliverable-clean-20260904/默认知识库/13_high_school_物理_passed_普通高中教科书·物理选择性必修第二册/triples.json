@@ -1,0 +1,2364 @@
+{
+  "schema_version": "kg.triples.v1",
+  "run_id": "kg_普通高中教科书·物理选择性必修第二册_20260703",
+  "triples": [
+    {
+      "triple_id": "triple_contains_99628f898afb",
+      "subject_node_id": "canon_chaptersection_bf237b3e6c6a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_380c11cf19f4",
+      "edge_id": "canon_edge_contains_da553a327c0f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "人们把通电导线在磁场中受的力称为安培力（Ampére's force）"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_ee73681dabfe",
+      "subject_node_id": "canon_chaptersection_bf237b3e6c6a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_4961bbaa87fc",
+      "edge_id": "canon_edge_contains_67dee02b9406",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "这就是判定通电导线在磁场中受力方向的左手定则（left-hand rule）"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_059439f0c358",
+      "subject_node_id": "canon_chaptersection_bf237b3e6c6a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8129a519206a",
+      "edge_id": "canon_edge_contains_0b63da368b3e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "垂直于磁场B的方向放置的长为l的一段导线，当通过的电流为I时，它所受的安培力 F = I l B"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_74a4a8df73d1",
+      "subject_node_id": "canon_chaptersection_bf237b3e6c6a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5703e6fb88d9",
+      "edge_id": "canon_edge_contains_fc0944bbb9fb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "磁电式电流表最基本的组成部分是磁体和放在磁体两极之间的线圈"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_c4a1f9119f87",
+      "subject_node_id": "canon_problem_27744be91a2e",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_4961bbaa87fc",
+      "edge_id": "canon_edge_tests_3942ba38af92",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "图1.1-9的磁场中有一条通电导线，其方向与磁场方向垂直。试画出第三个量的方向"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_4aa1f2235cc0",
+      "subject_node_id": "canon_problem_471db8a02266",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_4961bbaa87fc",
+      "edge_id": "canon_edge_tests_87d02e5802a9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "在图1.1-10中画出通电导体棒ab所受的安培力的方向"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_3e1c541ced87",
+      "subject_node_id": "canon_problem_fa16bef76df5",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_8129a519206a",
+      "edge_id": "canon_edge_tests_a766b1b249d0",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "图1.1-11所示为电流天平，可以用来测量匀强磁场的磁感应强度"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_2ad454e3aa3a",
+      "subject_node_id": "canon_knowledgepoint_4961bbaa87fc",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_380c11cf19f4",
+      "edge_id": "canon_edge_requires_4787b4e60ccd",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "安培力的方向可用以下方法判定：伸开左手...拇指所指的方向就是通电导线在磁场中所受安培力的方向"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_requires_bf2a5a1023dd",
+      "subject_node_id": "canon_knowledgepoint_8129a519206a",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_380c11cf19f4",
+      "edge_id": "canon_edge_requires_cf4099ae336c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "垂直于磁场B的方向放置的长为l的一段导线，当通过的电流为I时，它所受的安培力 F = I l B"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_requires_d721e914f150",
+      "subject_node_id": "canon_knowledgepoint_5703e6fb88d9",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_380c11cf19f4",
+      "edge_id": "canon_edge_requires_d8c3a20669b7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "它所依据的物理学原理就是通电线圈因受安培力而转动"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_7fe9ffd25115",
+      "subject_node_id": "canon_problem_b68ba297e9fb",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_15d01459fdd5",
+      "edge_id": "canon_edge_tests_802fef36abe6",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "1.电子的速率 v = 3.0 × 10^6 m/s，沿着与磁场垂直的方向射入 B = 0.10 T的匀强磁场中，它受到的洛伦兹力多大？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_7a45d7222746",
+      "subject_node_id": "canon_chaptersection_e2ac585816e8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_0577e2f45ebd",
+      "edge_id": "canon_edge_contains_e74f962f9d8d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "运动电荷在磁场中受到的力称为洛伦兹力（Lorentzforce）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_13e34fb13ad4",
+      "subject_node_id": "canon_chaptersection_e2ac585816e8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_58e44512974f",
+      "edge_id": "canon_edge_contains_70069d1fd4be",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "洛伦兹力的方向可以依照左手定则判定：伸开左手，使拇指与其余四个手指垂直。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a90bae4f4e6b",
+      "subject_node_id": "canon_chaptersection_e2ac585816e8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_15d01459fdd5",
+      "edge_id": "canon_edge_contains_1a9a7fcdcc19",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "电荷量为q的粒子以速度v运动时，如果速度方向与磁感应强度B的方向垂直，那么粒子受到的洛伦兹力为 F = q v B。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_cd3acec16668",
+      "subject_node_id": "canon_chaptersection_e2ac585816e8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_89193f1e244f",
+      "edge_id": "canon_edge_contains_206844e919a9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "这种装置能把具有某一特定速度的粒子选择出来，所以叫作速度选择器。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_48e95c9ea561",
+      "subject_node_id": "canon_chaptersection_e2ac585816e8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_2b3bbcd510e1",
+      "edge_id": "canon_edge_contains_3e8a05c46db4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "一种用磁流体发电的装置如图1.2-12所示。平行金属板A、B之间有一个很强的磁场。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8ec1cd340e21",
+      "subject_node_id": "canon_chaptersection_e2ac585816e8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8ef4552e8021",
+      "edge_id": "canon_edge_contains_3bbd0d0e6087",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "1932年，美国物理学家安德森在宇宙线实验中发现了正电子。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_f963225a550a",
+      "subject_node_id": "canon_chaptersection_661a8cbadbea",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_0577e2f45ebd",
+      "edge_id": "canon_edge_contains_469f44c761eb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "带电粒子在磁场中运动要受到洛伦兹力的作用。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_b914755f8197",
+      "subject_node_id": "canon_chaptersection_661a8cbadbea",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_00b4f42440cd",
+      "edge_id": "canon_edge_contains_1e78047dad01",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "沿着与磁场垂直的方向射入磁场的带电粒子，在匀强磁场中做匀速圆周运动（图1.3-1）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_04eb9b6f8798",
+      "subject_node_id": "canon_chaptersection_661a8cbadbea",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ec0550b3e8b8",
+      "edge_id": "canon_edge_contains_ac3153c0fb14",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "由此可解得圆周运动的半径 r = \\frac{mv}{qB}"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0f0a52719772",
+      "subject_node_id": "canon_chaptersection_661a8cbadbea",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_48d56d7fb314",
+      "edge_id": "canon_edge_contains_679fb2db48ec",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "可得 T = \\frac{2\\pi m}{qB}"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_1a6ddda953e4",
+      "subject_node_id": "canon_problem_d0ed9a1dacff",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_0577e2f45ebd",
+      "edge_id": "canon_edge_tests_39b9c6ec2bf7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "求重力与洛伦兹力之比"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_bee07b4df2d0",
+      "subject_node_id": "canon_problem_d0ed9a1dacff",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ec0550b3e8b8",
+      "edge_id": "canon_edge_tests_fe90d2d16181",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "求粒子在磁场中运动的轨道半径"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_249c32f0a073",
+      "subject_node_id": "canon_problem_d0ed9a1dacff",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_48d56d7fb314",
+      "edge_id": "canon_edge_tests_2d6483d66760",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "求粒子做匀速圆周运动的周期"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_dc957cd20084",
+      "subject_node_id": "canon_problem_378f490b4e9d",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_00b4f42440cd",
+      "edge_id": "canon_edge_tests_56320e12a9af",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "求电子做匀速圆周运动的轨道半径和周期"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_72f9524841c7",
+      "subject_node_id": "canon_problem_d0831966e6c3",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_00b4f42440cd",
+      "edge_id": "canon_edge_tests_45b7fa7706f9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "如图1.3-5所示，质量为m、电荷量为q的带负电粒子，从x轴P点以速度v射入第一象限匀强磁场，垂直于y轴射出。v与x轴成60°，OP=a。求B及时间。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_4448e8c03931",
+      "subject_node_id": "canon_problem_d0831966e6c3",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ec0550b3e8b8",
+      "edge_id": "canon_edge_tests_e5f5b50f040a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "求B及时间"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_7fc795e0dd9c",
+      "subject_node_id": "canon_chaptersection_471743424ed6",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_de01b20ecd46",
+      "edge_id": "canon_edge_contains_b6a4f2627aa4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "利用电场让带电粒子获得一定的速度，利用磁场让粒子做圆周运动。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_ad7f3b4f8b29",
+      "subject_node_id": "canon_chaptersection_471743424ed6",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_bdf56fbc4b83",
+      "edge_id": "canon_edge_contains_d55ff5b9ec72",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "人们依据这个思路设计出了用磁场控制轨道、用电场进行加速的回旋加速器（cyclotron）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_e71ba0486cfb",
+      "subject_node_id": "canon_problem_1cc2934dc1fc",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_de01b20ecd46",
+      "edge_id": "canon_edge_tests_e6b951a40158",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "A、B是两种同位素的原子核...使它们从质谱仪的同一加速电场由静止开始加速..."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_fd5933913120",
+      "subject_node_id": "canon_problem_b60d4933dbee",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_de01b20ecd46",
+      "edge_id": "canon_edge_tests_bb102fafcedb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "一束电子以垂直于磁感应强度B并垂直于磁场边界的速度v射入宽度为d的匀强磁场中..."
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_a206beef5a81",
+      "subject_node_id": "canon_problem_3073d5ab87cc",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_bdf56fbc4b83",
+      "edge_id": "canon_edge_tests_1ab9dda122f9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch1_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第一章 安培力与洛伦兹力"
+          },
+          "quote_or_summary": "回旋加速器两个D形金属盒分别和一高频交流电源两极相接..."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_9e6b855446ab",
+      "subject_node_id": "canon_chaptersection_a626207524d1",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b2ecd90c7a81",
+      "edge_id": "canon_edge_contains_2703465f96cb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s1.md",
+          "section": {
+            "id": "s005",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "## 楞次定律"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_91e2178ae367",
+      "subject_node_id": "canon_chaptersection_a626207524d1",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_16771d777f70",
+      "edge_id": "canon_edge_contains_823aefdc246d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s1.md",
+          "section": {
+            "id": "s005",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "## 右手定则"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_b697d64f9163",
+      "subject_node_id": "canon_chaptersection_a626207524d1",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_99b10c0451cf",
+      "edge_id": "canon_edge_contains_b7139285e45d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s1.md",
+          "section": {
+            "id": "s005",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "## 归纳推理"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_5fd360cec78f",
+      "subject_node_id": "canon_chaptersection_a626207524d1",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8b8bef5c3bb2",
+      "edge_id": "canon_edge_contains_519c23a2963b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s1.md",
+          "section": {
+            "id": "s005",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "穿过闭合回路的磁通量变化是产生感应电流的条件"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_9fd22d52570d",
+      "subject_node_id": "canon_problem_e3a1a4350e22",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b2ecd90c7a81",
+      "edge_id": "canon_edge_tests_5675ee8b7203",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s1.md",
+          "section": {
+            "id": "s005",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "当线圈M电路中的开关断开的瞬间，线圈N中的感应电流沿什么方向？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_0a842b3b1313",
+      "subject_node_id": "canon_problem_3eb2816a2629",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b2ecd90c7a81",
+      "edge_id": "canon_edge_tests_5b1e1675561d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s1.md",
+          "section": {
+            "id": "s005",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "请判断：线圈在向哪个方向移动？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_dbf6ee5ed3a2",
+      "subject_node_id": "canon_problem_6ca385e6b68e",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b2ecd90c7a81",
+      "edge_id": "canon_edge_tests_348bec39b540",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s1.md",
+          "section": {
+            "id": "s005",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "当闭合开关S的一瞬间，线圈P中感应电流的方向如何?"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_9a15a97a6dbc",
+      "subject_node_id": "canon_knowledgepoint_b2ecd90c7a81",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_8b8bef5c3bb2",
+      "edge_id": "canon_edge_requires_0c9714c2e1de",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s1.md",
+          "section": {
+            "id": "s005",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "穿过闭合回路的磁通量变化是产生感应电流的条件"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_53b31daa2e6c",
+      "subject_node_id": "canon_chaptersection_56b214e304b5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_a95aac52a998",
+      "edge_id": "canon_edge_contains_5b5710df34ae",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "德国物理学家纽曼、韦伯...指出：闭合电路中感应电动势的大小，跟穿过这一电路的磁通量的变化率成正比。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_f6cbac495429",
+      "subject_node_id": "canon_chaptersection_56b214e304b5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_373eb1b3520c",
+      "edge_id": "canon_edge_contains_657e7e4f33a9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "在电磁感应现象中产生的电动势叫作感应电动势（induction electromotive force）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_de87ad06bd2e",
+      "subject_node_id": "canon_chaptersection_56b214e304b5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8a919c5df82b",
+      "edge_id": "canon_edge_contains_74625b47040f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "根据法拉第电磁感应定律...由此求得感应电动势 E = B l v。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8a665820a4f8",
+      "subject_node_id": "canon_chaptersection_56b214e304b5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ed4e227a4cb7",
+      "edge_id": "canon_edge_contains_b4fe9a0179fe",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "图2.2-7是电磁流量计的示意图。圆管由非磁性材料制成，空间有匀强磁场。当管中的导电液体流过磁场区域时..."
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_fb7d5a35f66a",
+      "subject_node_id": "canon_chaptersection_56b214e304b5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b01e81906205",
+      "edge_id": "canon_edge_contains_b275254cabb6",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "这种卫星称为绳系卫星，利用它可以进行多种科学实验。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_dc89ded1584f",
+      "subject_node_id": "canon_problem_a8da4b83839d",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_a95aac52a998",
+      "edge_id": "canon_edge_tests_89055ff82905",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "有一个1000匝的线圈，在0.4s内通过它的磁通量从0.02Wb增加到0.09Wb，求线圈中的感应电动势。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_d64af634c90a",
+      "subject_node_id": "canon_problem_a8da4b83839d",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_373eb1b3520c",
+      "edge_id": "canon_edge_tests_1c32dd3fcfb3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "求线圈中的感应电动势。如果线圈的电阻是10Ω，把一个电阻为990Ω的电热器连接在它的两端..."
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_79c6d3482b26",
+      "subject_node_id": "canon_problem_41c873b8e764",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_8a919c5df82b",
+      "edge_id": "canon_edge_tests_0ce9a16d9db5",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "矩形线圈在匀强磁场中绕O0轴匀速转动时...试证明：在图示位置时，线圈中的感应电动势为E = B S ω。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_47b541ac1eb6",
+      "subject_node_id": "canon_knowledgepoint_8a919c5df82b",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_a95aac52a998",
+      "edge_id": "canon_edge_requires_ac83d6ddf8b1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "根据法拉第电磁感应定律...一种情况是，导线做切割磁感线运动而使磁通量变化..."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_de841b68f5a3",
+      "subject_node_id": "canon_knowledgepoint_ed4e227a4cb7",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_373eb1b3520c",
+      "edge_id": "canon_edge_requires_15e7f1a23fbc",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "当管中的导电液体流过磁场区域时，测出管壁上M、N两点间的电势差U，就可以知道管中液体的流量Q。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_a800563c13e3",
+      "subject_node_id": "canon_chaptersection_6221155a8a45",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_1fff6be1b198",
+      "edge_id": "canon_edge_contains_fafd0d755dde",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s3.md",
+          "section": {
+            "id": "s007",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "麦克斯韦认为，磁场变化时会在空间激发一种电场。这种电场与静电场不同，它不是由电荷产生的，我们把它叫作感生电场。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_7579663de1da",
+      "subject_node_id": "canon_chaptersection_6221155a8a45",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b16f0ca50ec6",
+      "edge_id": "canon_edge_contains_df8f13f5ff0a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s3.md",
+          "section": {
+            "id": "s007",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "如果穿过它的磁通量发生变化，导体内都会产生感应电流，看起来就像水中的漩涡，所以把它叫作涡电流，简称涡流。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8205cb9daea3",
+      "subject_node_id": "canon_chaptersection_6221155a8a45",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_e0cc36141dcd",
+      "edge_id": "canon_edge_contains_c1a9b7978300",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s3.md",
+          "section": {
+            "id": "s007",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "当导体在磁场中运动时，感应电流会使导体受到安培力，安培力的方向总是阻碍导体的运动，这种现象称为电磁阻尼。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_ce3aa04cda66",
+      "subject_node_id": "canon_chaptersection_6221155a8a45",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_64e7f77fb50a",
+      "edge_id": "canon_edge_contains_a1a86680d048",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s3.md",
+          "section": {
+            "id": "s007",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "如果磁场相对于导体转动，在导体中会产生感应电流，感应电流使导体受到安培力的作用，安培力使导体运动起来，这种作用常常称为电磁驱动。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_ef8037ebb4eb",
+      "subject_node_id": "canon_problem_f08648c4091c",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_e0cc36141dcd",
+      "edge_id": "canon_edge_tests_0e5277e63cc0",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s3.md",
+          "section": {
+            "id": "s007",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "如图2.3-7所示，一个单匝线圈落入磁场中，分析它在图示位置时感应电流的方向和所受安培力的方向。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_5ecad1bf1722",
+      "subject_node_id": "canon_chaptersection_780035d25a28",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_abcd6054f198",
+      "edge_id": "canon_edge_contains_9dda17af5ef2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s4.md",
+          "section": {
+            "id": "s008",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "这种现象叫作互感（mutual induction），这种感应电动势叫作互感电动势。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_cafe82a75256",
+      "subject_node_id": "canon_chaptersection_780035d25a28",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ace0bbe3c82f",
+      "edge_id": "canon_edge_contains_954c25b985c4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s4.md",
+          "section": {
+            "id": "s008",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "这种现象称为自感（self-induction），由于自感而产生的感应电动势叫作自感电动势。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_2172c6f85c09",
+      "subject_node_id": "canon_chaptersection_780035d25a28",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_f760b7379e41",
+      "edge_id": "canon_edge_contains_899ec7ce9ed9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s4.md",
+          "section": {
+            "id": "s008",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "能量储存在磁场中。当开关闭合时，线圈中的电流从无到有，其中的磁场也是从无到有。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_478cb43b33a0",
+      "subject_node_id": "canon_problem_8647741ad7a2",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_abcd6054f198",
+      "edge_id": "canon_edge_tests_4ca95ec204dd",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s4.md",
+          "section": {
+            "id": "s008",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "两个线圈A、B之间并没有导线相连，线圈A与手机的音频输出端连接，线圈B与扩音器的输入端连接。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_c03b4fe7c34a",
+      "subject_node_id": "canon_problem_8ad79c14dfc2",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ace0bbe3c82f",
+      "edge_id": "canon_edge_tests_6eff432102c7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s4.md",
+          "section": {
+            "id": "s008",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "按图2.4-3连接电路。先闭合开关使灯泡发光，然后断开开关。注意观察开关断开时灯泡的亮度。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_bb8f8fd098eb",
+      "subject_node_id": "canon_problem_cd455e0e1f3e",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ace0bbe3c82f",
+      "edge_id": "canon_edge_tests_aa82175bca94",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s4.md",
+          "section": {
+            "id": "s008",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "图2.4-7是一种延时继电器的示意图。铁芯上有两个线圈A和B。线圈A跟电源连接，线圈B两端连在一起。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_0afa1d370103",
+      "subject_node_id": "canon_knowledgepoint_ace0bbe3c82f",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_074afbe0f03e",
+      "edge_id": "canon_edge_requires_51ff7fa7fa10",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s4.md",
+          "section": {
+            "id": "s008",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "自感电动势也是感应电动势... 自感电动势正比于电流的变化率... 式中L是比例系数，叫作自感系数。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_9d5915bce626",
+      "subject_node_id": "canon_chaptersection_780035d25a28",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_074afbe0f03e",
+      "edge_id": "canon_edge_contains_2386cdc59fbf",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch2_s4.md",
+          "section": {
+            "id": "s008",
+            "title": "第二章 电磁感应"
+          },
+          "quote_or_summary": "它与线圈的大小、形状、匝数，以及是否有铁芯等因素有关。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_12b9a34bbf79",
+      "subject_node_id": "canon_chaptersection_8c52b2db7e8f",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_375b88569cf6",
+      "edge_id": "canon_edge_contains_02ec4abb33c0",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s1.md",
+          "section": {
+            "id": "s009",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "## 1 交变电流"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_526967af9211",
+      "subject_node_id": "canon_problem_252a5b7489e3",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_375b88569cf6",
+      "edge_id": "canon_edge_tests_4a00ab456123",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s1.md",
+          "section": {
+            "id": "s009",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "用示波器或电压传感器先观察电池供给的电压的波形，再观察学生电源交流挡供给的电压的波形。这两种波形各有什么特点？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_b39ff15e0fd9",
+      "subject_node_id": "canon_chaptersection_1628ca298a31",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_375b88569cf6",
+      "edge_id": "canon_edge_contains_656923d4d46d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s2.md",
+          "section": {
+            "id": "s010",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "发电机产生的电动势是随时间做周期性变化的，因而，很多用电器中的电流、电压也随时间做周期性变化，这样的电流叫作交变电流"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_b41362604207",
+      "subject_node_id": "canon_chaptersection_1628ca298a31",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7d1c6bc49d52",
+      "edge_id": "canon_edge_contains_4970fdced39b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s2.md",
+          "section": {
+            "id": "s010",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "我们把交变电流完成一次周期性变化所需的时间，叫作它的周期，通常用 T 表示。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_abafd999077e",
+      "subject_node_id": "canon_chaptersection_1628ca298a31",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_936004813d84",
+      "edge_id": "canon_edge_contains_2f3d747cfad7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s2.md",
+          "section": {
+            "id": "s010",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "让交变电流与恒定电流分别通过大小相同的电阻，如果在交变电流的一个周期内它们产生的热量相等，而这个恒定电流的电流与电压分别为 I、U，我们就把 I、U 叫作这一交变电流的有效值。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a98ccd4890b7",
+      "subject_node_id": "canon_chaptersection_1628ca298a31",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_dfcd0fba7f00",
+      "edge_id": "canon_edge_contains_2e92cf942cad",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s2.md",
+          "section": {
+            "id": "s010",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "这种按正弦规律变化的交变电流叫作正弦式交变电流，简称正弦式电流。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_c78ed74ac453",
+      "subject_node_id": "canon_chaptersection_1628ca298a31",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b02ec53cad7b",
+      "edge_id": "canon_edge_contains_46d8436cb5c3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s2.md",
+          "section": {
+            "id": "s010",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "除了线圈自身的电阻对交变电流有阻碍作用外，还有由于线圈与交变电流之间的电磁感应作用所引起的阻碍作用，这叫感抗。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_13e61bd79f15",
+      "subject_node_id": "canon_chaptersection_1628ca298a31",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c0ff3401e8ac",
+      "edge_id": "canon_edge_contains_b6c7eb487597",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s2.md",
+          "section": {
+            "id": "s010",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "电容器对交流阻碍作用的大小叫容抗。实验和理论分析都表明，电容器的电容越大，交流的频率越高，电容器对交流的阻碍作用就越小。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_2efa79727b7e",
+      "subject_node_id": "canon_problem_a8da4b83839d",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_7d1c6bc49d52",
+      "edge_id": "canon_edge_tests_623eb274b210",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s2.md",
+          "section": {
+            "id": "s010",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "我国电网中交变电流的周期是 0.02s，1 s 内电流的方向发生多少次变化？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_5cd44e3e7d83",
+      "subject_node_id": "canon_chaptersection_c4613e8a5c93",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_3669d3f5d680",
+      "edge_id": "canon_edge_contains_090f09f84447",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s3.md",
+          "section": {
+            "id": "s011",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "变压器（transformer）是由闭合铁芯和绕在铁芯上的两个线圈组成的。互感现象是变压器工作的基础。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_11429f5ac28d",
+      "subject_node_id": "canon_chaptersection_c4613e8a5c93",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_47e369f0f73d",
+      "edge_id": "canon_edge_contains_cecfd48f0c9a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s3.md",
+          "section": {
+            "id": "s011",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "我们把没有能量损耗的变压器叫作理想变压器。理想变压器也是一个理想化模型。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_bb20a362f4fe",
+      "subject_node_id": "canon_chaptersection_c4613e8a5c93",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_4c544617b501",
+      "edge_id": "canon_edge_contains_681ef4813208",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s3.md",
+          "section": {
+            "id": "s011",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "理想变压器原、副线圈的电压之比，等于原、副线圈的匝数之比，即 U_1/U_2 = n_1/n_2。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d76db019bcd6",
+      "subject_node_id": "canon_chaptersection_c4613e8a5c93",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5468cba5c0d8",
+      "edge_id": "canon_edge_contains_27be37c29e2e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s3.md",
+          "section": {
+            "id": "s011",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "无线充电技术通过分别安装在充电基座和接收能量的装置上的线圈，利用产生的磁场传递能量。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_fe11f426c6ba",
+      "subject_node_id": "canon_problem_93fcfde7d6e9",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_3669d3f5d680",
+      "edge_id": "canon_edge_tests_6cf5ca8abb63",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s3.md",
+          "section": {
+            "id": "s011",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "变压器为什么不能改变恒定电流的电压？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_380afdea507f",
+      "subject_node_id": "canon_problem_8b352b9bc371",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_4c544617b501",
+      "edge_id": "canon_edge_tests_e77c9db7bf8b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s3.md",
+          "section": {
+            "id": "s011",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "如果变压器的原线圈是1440匝，副线圈是多少匝？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_f44da5b627d6",
+      "subject_node_id": "canon_problem_fae8e44690d3",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_4c544617b501",
+      "edge_id": "canon_edge_tests_80f8636e41e9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s3.md",
+          "section": {
+            "id": "s011",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "当用户的用电器增加时，图中各表的读数如何变化?"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_9d658a69107a",
+      "subject_node_id": "canon_knowledgepoint_47e369f0f73d",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_3669d3f5d680",
+      "edge_id": "canon_edge_requires_daf02a4e9fe5",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s3.md",
+          "section": {
+            "id": "s011",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "我们把没有能量损耗的变压器叫作理想变压器。理想变压器也是一个理想化模型。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_f10bfd366266",
+      "subject_node_id": "canon_knowledgepoint_4c544617b501",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_47e369f0f73d",
+      "edge_id": "canon_edge_requires_b8f94178b43f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s3.md",
+          "section": {
+            "id": "s011",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "理想变压器原、副线圈的电压之比，等于原、副线圈的匝数之比"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_dc1fd85f9483",
+      "subject_node_id": "canon_knowledgepoint_5468cba5c0d8",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_3669d3f5d680",
+      "edge_id": "canon_edge_requires_c36253277020",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s3.md",
+          "section": {
+            "id": "s011",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "我们知道，变压器能通过电磁感应输送电能...无线充电技术通过分别安装在充电基座和接收能量的装置上的线圈"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_87b8c7d36591",
+      "subject_node_id": "canon_chaptersection_155bd2756086",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b88fe9f46735",
+      "edge_id": "canon_edge_contains_85476826fab6",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s4.md",
+          "section": {
+            "id": "s012",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "设输电电流为I，输电线的电阻为r，则输电线上的功率损失为 P = I^2 r。由此可知，有两个途径能减少输电损耗。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_925413cbe283",
+      "subject_node_id": "canon_chaptersection_155bd2756086",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_553c87f2dc61",
+      "edge_id": "canon_edge_contains_61685c3f5281",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s4.md",
+          "section": {
+            "id": "s012",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "远距离输电时，为了降低输电线路中的损耗，就要减小输电电流；为了减小输电电流，同时又要保证向用户提供一定的电功率，就要提高输电电压。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0ddcbc0da654",
+      "subject_node_id": "canon_chaptersection_155bd2756086",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_6a7dd6e5d7ba",
+      "edge_id": "canon_edge_contains_ff972e6f5241",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s4.md",
+          "section": {
+            "id": "s012",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "通过网状的输电线、变电站，将许多电厂和广大用户连接起来，形成全国性或地区性的输电网络，这就是电网。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_63e4f27e0fa4",
+      "subject_node_id": "canon_chaptersection_155bd2756086",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_0f20701e0cf6",
+      "edge_id": "canon_edge_contains_d19e2ee0182e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s4.md",
+          "section": {
+            "id": "s012",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "为了减少感抗和容抗，在输电这个环节可以使用直流，但发电机产生的仍是交流，用户使用的也主要是交流。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_748cad284629",
+      "subject_node_id": "canon_problem_ec3e949bbcea",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_553c87f2dc61",
+      "edge_id": "canon_edge_tests_a8f90ec119e6",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s4.md",
+          "section": {
+            "id": "s012",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "采用 110kV 高压输电，输送电功率为 4800kW 的电能，输电导线中的电流是多少？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_0597de7880e7",
+      "subject_node_id": "canon_problem_ec3e949bbcea",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b88fe9f46735",
+      "edge_id": "canon_edge_tests_b8af68ac6157",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch3_s4.md",
+          "section": {
+            "id": "s012",
+            "title": "第三章 交变电流"
+          },
+          "quote_or_summary": "如果用 110V 电压输送同样功率的电能，输电导线中电流是多少？"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_694c829c9384",
+      "subject_node_id": "canon_chaptersection_8f7edf3fbdcd",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_0b06fb3ae66a",
+      "edge_id": "canon_edge_contains_07afbce2d5f2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s2.md",
+          "section": {
+            "id": "s013",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "像这样大小和方向都做周期性迅速变化的电流，叫作振荡电流"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_433e521bebe2",
+      "subject_node_id": "canon_chaptersection_8f7edf3fbdcd",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ccc1aefa968d",
+      "edge_id": "canon_edge_contains_50d9d4152465",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s2.md",
+          "section": {
+            "id": "s013",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "由电感线圈L和电容C组成的电路，就是最简单的振荡电路，称为LC振荡电路"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_c226fc791b5d",
+      "subject_node_id": "canon_chaptersection_8f7edf3fbdcd",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_0104441f84ab",
+      "edge_id": "canon_edge_contains_c3356320c7d5",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s2.md",
+          "section": {
+            "id": "s013",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "变化的电场和磁场总是相互联系的，形成一个不可分割的统一的电磁场"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_41f042c545a5",
+      "subject_node_id": "canon_chaptersection_8f7edf3fbdcd",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_08d5b4800dee",
+      "edge_id": "canon_edge_contains_90d1affefa4f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s2.md",
+          "section": {
+            "id": "s013",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "变化的电场和磁场由近及远地向周围传播，形成了电磁波"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_eec9d8fbf542",
+      "subject_node_id": "canon_chaptersection_8f7edf3fbdcd",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d5812b6e7ba8",
+      "edge_id": "canon_edge_contains_156eb0b0972e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s2.md",
+          "section": {
+            "id": "s013",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "总结出麦克斯韦方程组（图4.2-5），建立了完整的电磁场理论"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_1f3d3d4db721",
+      "subject_node_id": "canon_problem_b60d4933dbee",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ccc1aefa968d",
+      "edge_id": "canon_edge_tests_3a820ff8125f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s2.md",
+          "section": {
+            "id": "s013",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "某收音机中的LC电路，由固定线圈和可调电容器组成，能够产生535kHz到1605kHz的电磁振荡"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_f6221db77530",
+      "subject_node_id": "canon_problem_3073d5ab87cc",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ccc1aefa968d",
+      "edge_id": "canon_edge_tests_aa5e85301e97",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s2.md",
+          "section": {
+            "id": "s013",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "为了测量储罐中不导电液体的高度... 问：当储罐内的液面高度降低时，所测得的LC回路振荡电流的频率如何变化？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_ccd55cfc8b50",
+      "subject_node_id": "canon_knowledgepoint_08d5b4800dee",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_0104441f84ab",
+      "edge_id": "canon_edge_requires_553bb2f6ea6e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s2.md",
+          "section": {
+            "id": "s013",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "变化的电场和磁场总是相互联系的，形成一个不可分割的统一的电磁场... 形成了电磁波"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_8ad7d522a176",
+      "subject_node_id": "canon_chaptersection_d9cb19f20701",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ccc1aefa968d",
+      "edge_id": "canon_edge_contains_7eced55b755e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s014",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "在普通的LC振荡电路中，电场主要集中在电容器的极板之间，磁场主要集中在线圈内部。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8eac2cd6d078",
+      "subject_node_id": "canon_chaptersection_d9cb19f20701",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b5899fdf9da6",
+      "edge_id": "canon_edge_contains_d4141aab8093",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s014",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "将电容器两个极板拉开...这样的振荡电路叫作开放电路。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_53baeaef526f",
+      "subject_node_id": "canon_chaptersection_d9cb19f20701",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_3beb63a7d0ba",
+      "edge_id": "canon_edge_contains_817c3392b881",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s014",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "使载波随各种信号而改变的技术叫作调制（modulation）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_41ef046b8048",
+      "subject_node_id": "canon_chaptersection_d9cb19f20701",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b3eddfa7f2ac",
+      "edge_id": "canon_edge_contains_e5168cdd63a7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s014",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "当接收电路的固有频率跟收到的电磁波的频率相同时...这种现象叫作电谐振。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_1213d017f8c4",
+      "subject_node_id": "canon_chaptersection_d9cb19f20701",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_807192541965",
+      "edge_id": "canon_edge_contains_6492f4210c65",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s014",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "使接收电路产生电谐振的过程叫作调谐（tuning）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_09fd1c154eeb",
+      "subject_node_id": "canon_chaptersection_d9cb19f20701",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ed6c28832032",
+      "edge_id": "canon_edge_contains_bc1af751bd6f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s014",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "这个过程是调制的逆过程，所以叫作解调（demodulation）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_be5eb8eb3090",
+      "subject_node_id": "canon_knowledgepoint_807192541965",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_b3eddfa7f2ac",
+      "edge_id": "canon_edge_requires_8baaedbbfdaf",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s014",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "使接收电路产生电谐振的过程叫作调谐（tuning）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_3b555e31ddb1",
+      "subject_node_id": "canon_knowledgepoint_ed6c28832032",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_3beb63a7d0ba",
+      "edge_id": "canon_edge_requires_0159fffe9bbd",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s014",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "这个过程是调制的逆过程，所以叫作解调（demodulation）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_4caa3507b414",
+      "subject_node_id": "canon_knowledgepoint_b5899fdf9da6",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_ccc1aefa968d",
+      "edge_id": "canon_edge_requires_57e13a61d71f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s014",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "要改造“问题”图中的LC振荡电路...这样的振荡电路叫作开放电路。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_2d7f36ebbf4a",
+      "subject_node_id": "canon_problem_3cd59dfef74c",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_3beb63a7d0ba",
+      "edge_id": "canon_edge_tests_189e890bcbca",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s3.md",
+          "section": {
+            "id": "s014",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "我国第一颗人造卫星用20.009MHz和19.995MHz的电磁波发送信号，求这两种电磁波的波长。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_327de2055f6b",
+      "subject_node_id": "canon_chaptersection_85f5478c841e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_813e2dd0c57f",
+      "edge_id": "canon_edge_contains_1582d02ba711",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s4.md",
+          "section": {
+            "id": "s015",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "电磁波谱就是按电磁波的波长大小或频率高低的顺序把它们排列成的谱。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a1a3b6014b0b",
+      "subject_node_id": "canon_chaptersection_85f5478c841e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_39fb0f2ca9a5",
+      "edge_id": "canon_edge_contains_795abe1d7ee8",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s4.md",
+          "section": {
+            "id": "s015",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "技术上把波长大于1mm（频率低于300GHz）的电磁波称作无线电波。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_42eade0854eb",
+      "subject_node_id": "canon_chaptersection_85f5478c841e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_afb4754d0ae1",
+      "edge_id": "canon_edge_contains_887578acb69b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s4.md",
+          "section": {
+            "id": "s015",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "红外线的波长比无线电波短，比可见光长。所有物体都发射红外线。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_fa628467d968",
+      "subject_node_id": "canon_chaptersection_85f5478c841e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_2b01f9d56f79",
+      "edge_id": "canon_edge_contains_6e0bd2a070ef",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s4.md",
+          "section": {
+            "id": "s015",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "能使人的眼睛产生视觉效应的电磁波，称为可见光。可见光的波长为400～760nm。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_23c40bbe7b44",
+      "subject_node_id": "canon_chaptersection_85f5478c841e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b50c18cad0a6",
+      "edge_id": "canon_edge_contains_cc7566e6993f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s4.md",
+          "section": {
+            "id": "s015",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "在紫光之外，波长范围为5～370nm的电磁波是紫外线。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_cd0e9ca1c2a9",
+      "subject_node_id": "canon_chaptersection_85f5478c841e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_46435e008908",
+      "edge_id": "canon_edge_contains_a5c41d7acefc",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s4.md",
+          "section": {
+            "id": "s015",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "波长比紫外线更短的电磁波就是X射线和γ射线了。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_1b666a8be692",
+      "subject_node_id": "canon_problem_6cb8bbf717c1",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_2b01f9d56f79",
+      "edge_id": "canon_edge_tests_c2f6288921c2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch4_s4.md",
+          "section": {
+            "id": "s015",
+            "title": "第四章 电磁振荡与电磁波"
+          },
+          "quote_or_summary": "波长为0.6μm的红光，从10m外的交通信号灯传到你的眼睛，大约需要多长时间？这个距离是波长的多少倍？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_4012171e1650",
+      "subject_node_id": "canon_chaptersection_ea78d5f186a8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c63bda3faa3e",
+      "edge_id": "canon_edge_contains_53ff9ee967bf",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s1.md",
+          "section": {
+            "id": "s016",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "在现代技术中，传感器（sensor）是指这样一类器件或装置：它能够感受诸如力、温度、光、声、化学成分等被测量"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0fffc0273a7c",
+      "subject_node_id": "canon_chaptersection_ea78d5f186a8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7cad3e5ceeb1",
+      "edge_id": "canon_edge_contains_96b9dccb9eb0",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s1.md",
+          "section": {
+            "id": "s016",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "原来，小盒子中有一种叫作“干簧管”的元件... 干簧管是一种能够感知磁场的传感器"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_a464e3ed6cfd",
+      "subject_node_id": "canon_problem_30368a6c8e9b",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_7cad3e5ceeb1",
+      "edge_id": "canon_edge_tests_7c374bd38754",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s1.md",
+          "section": {
+            "id": "s016",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "如果把磁体B放到盒子上面，灯泡就会发光，把磁体移走，灯泡熄灭"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_89be056ae3e0",
+      "subject_node_id": "canon_chaptersection_ea78d5f186a8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c6418cad1ead",
+      "edge_id": "canon_edge_contains_18c6831ed090",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s1.md",
+          "section": {
+            "id": "s016",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "传感器的基本部分一般由敏感元件、转换元件组成。敏感元件直接感受非电学量；转换元件将信号转换成电信号"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_1535cc16e21c",
+      "subject_node_id": "canon_chaptersection_ea78d5f186a8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_66f8f8e9bff0",
+      "edge_id": "canon_edge_contains_40978f936306",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s1.md",
+          "section": {
+            "id": "s016",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "传感器的种类很多... 有的利用物质的物理特性... 如力传感器、磁传感器等物理传感器"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_f2d2531925c1",
+      "subject_node_id": "canon_chaptersection_ea78d5f186a8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_f02cd7ae6393",
+      "edge_id": "canon_edge_contains_f5aec4d4b200",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s1.md",
+          "section": {
+            "id": "s016",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "根据机器人的结构和功能，可以粗略地把它们分为三代。第一代机器人对外界没有感觉"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_cb272f2530c7",
+      "subject_node_id": "canon_chaptersection_ea78d5f186a8",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_fe779ef910db",
+      "edge_id": "canon_edge_contains_e2972f230a7e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s1.md",
+          "section": {
+            "id": "s016",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "这是因为楼道的灯安装了“声控一光控”开关。这个开关会感知环境的明暗和声音的强弱"
+        }
+      ],
+      "confidence": 0.8
+    },
+    {
+      "triple_id": "triple_contains_e520aa588586",
+      "subject_node_id": "canon_chaptersection_396bb2ccce0b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_628ac536ec1f",
+      "edge_id": "canon_edge_contains_c34ef6d9a25f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s2.md",
+          "section": {
+            "id": "s017",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "把硫化镉涂敷在绝缘板上，在其表面再用银浆涂敷两个互不相连的梳状电极，这样就制成了一个光敏电阻。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_77db110c6fec",
+      "subject_node_id": "canon_chaptersection_396bb2ccce0b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_45fa1522bdd1",
+      "edge_id": "canon_edge_contains_5ff62663aae1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s2.md",
+          "section": {
+            "id": "s017",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "金属的电阻率随温度的升高而增大，有些半导体在温度上升时导电能力增强。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_4ccf0f3476f9",
+      "subject_node_id": "canon_chaptersection_396bb2ccce0b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_977861f0e4c0",
+      "edge_id": "canon_edge_contains_5d34242402b6",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s2.md",
+          "section": {
+            "id": "s017",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "金属导体在外力作用下发生机械形变时，其电阻随着它所受机械形变的变化而变化。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_205fd363e4e0",
+      "subject_node_id": "canon_chaptersection_396bb2ccce0b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_9e3c9bcbdb8e",
+      "edge_id": "canon_edge_contains_e753ca8321b7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s2.md",
+          "section": {
+            "id": "s017",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "载流导体在磁场中产生电势差，霍尔元件把磁感应强度转换为电压。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_544d44d7563c",
+      "subject_node_id": "canon_problem_d7315f22081c",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_628ac536ec1f",
+      "edge_id": "canon_edge_tests_1e4699de6b04",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s2.md",
+          "section": {
+            "id": "s017",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "按照你对以下几种传感器的理解，填写下面的表格。光敏电阻"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_4b2e614b5b87",
+      "subject_node_id": "canon_problem_d7315f22081c",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_45fa1522bdd1",
+      "edge_id": "canon_edge_tests_d4346b60a646",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s2.md",
+          "section": {
+            "id": "s017",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "按照你对以下几种传感器的理解，填写下面的表格。热敏电阻"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_303c43c75cfa",
+      "subject_node_id": "canon_problem_d7315f22081c",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_977861f0e4c0",
+      "edge_id": "canon_edge_tests_e4d691e43ef5",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s2.md",
+          "section": {
+            "id": "s017",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "按照你对以下几种传感器的理解，填写下面的表格。电阻应变片"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_021ba4ccb22c",
+      "subject_node_id": "canon_chaptersection_22d2a3cda0fb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7cad3e5ceeb1",
+      "edge_id": "canon_edge_contains_f97b396e5cd5",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s3.md",
+          "section": {
+            "id": "s018",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "利用干簧管在磁场中的特性是不错的选择。干簧管可将门与门框的相对位置这一非电学量转换为电路的通断。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_97fc9aa2d1c7",
+      "subject_node_id": "canon_chaptersection_22d2a3cda0fb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b9b5d4458a88",
+      "edge_id": "canon_edge_contains_c8991d6c0491",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s3.md",
+          "section": {
+            "id": "s018",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "继电器（虚线方框部分）作为执行装置。干簧管在电路中起传感器和控制开关的作用，继电器则相当于一个自动的双向开关。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a31897b43987",
+      "subject_node_id": "canon_chaptersection_22d2a3cda0fb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_628ac536ec1f",
+      "edge_id": "canon_edge_contains_69753dcf9084",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s3.md",
+          "section": {
+            "id": "s018",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "我们可以利用光敏电阻来完成这一任务。光敏电阻因光照而发生的电阻变化，转换为电压的变化。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_5008e7b5099b",
+      "subject_node_id": "canon_chaptersection_22d2a3cda0fb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_e8ba6922d0e4",
+      "edge_id": "canon_edge_contains_cb50aeb749d9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_202555_普通高中教科书·物理选择性必修第二册_20260703\\enhanced_markdown\\sections\\ch5_s3.md",
+          "section": {
+            "id": "s018",
+            "title": "第五章 传感器"
+          },
+          "quote_or_summary": "晶体三极管是半导体基本元件之一，具有电流放大作用。从基极输入一个较小的电流，就会在集电极获得较大的电流。"
+        }
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "schema_version": "kg.triples.v1",
+  "run_id": "kg_义务教育教科书·物理九年级下册_20260703",
+  "triples": [
+    {
+      "triple_id": "triple_contains_b28a005168bc",
+      "subject_node_id": "canon_chaptersection_6e3e9ab3509a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_a77bc2ec2824",
+      "edge_id": "canon_edge_contains_1b7ae203737d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\003_生活·物理·社会.md",
+          "section": {
+            "id": "s003",
+            "title": "生活·物理·社会"
+          },
+          "quote_or_summary": "家庭电路主要由进入家庭的进户线（电源线）、电能表、总开关、熔断器、开关、插座、用电器等组成."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_51e17dc4cbf3",
+      "subject_node_id": "canon_chaptersection_6e3e9ab3509a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_063876e4d249",
+      "edge_id": "canon_edge_contains_01fbbf73d94b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\003_生活·物理·社会.md",
+          "section": {
+            "id": "s003",
+            "title": "生活·物理·社会"
+          },
+          "quote_or_summary": "它应按'左零右火中接地'的方法接入电路.地线一般与埋在地下的金属板相连."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_6f19d0c2690c",
+      "subject_node_id": "canon_chaptersection_6e3e9ab3509a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d0c122b203e9",
+      "edge_id": "canon_edge_contains_d628c528036b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\003_生活·物理·社会.md",
+          "section": {
+            "id": "s003",
+            "title": "生活·物理·社会"
+          },
+          "quote_or_summary": "测电笔的结构如图15-18所示，它由两个金属电极、氛管、弹簧和一个阻值很大的电阻——高电阻等组成."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_9875fa5e95b7",
+      "subject_node_id": "canon_chaptersection_6e3e9ab3509a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_61e19b8f27f7",
+      "edge_id": "canon_edge_contains_b0bd51215253",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\003_生活·物理·社会.md",
+          "section": {
+            "id": "s003",
+            "title": "生活·物理·社会"
+          },
+          "quote_or_summary": "为了避免这种事故的发生，电路里必须安装保护电路的装置——熔断器...熔丝的温度达到熔点时，它便会熔断，自动切断电路."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_3177e6de2da1",
+      "subject_node_id": "canon_chaptersection_6e3e9ab3509a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_09dea0ce6ea5",
+      "edge_id": "canon_edge_contains_ed54cf9caa2d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\003_生活·物理·社会.md",
+          "section": {
+            "id": "s003",
+            "title": "生活·物理·社会"
+          },
+          "quote_or_summary": "触电一般分为单线触电和双线触电，如图15-22所示.单线触电是人体接触火线或漏电的用电器等."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a14bf9a430ff",
+      "subject_node_id": "canon_chaptersection_6e3e9ab3509a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_6ea5724ee84f",
+      "edge_id": "canon_edge_contains_de19a5e8f1cc",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\003_生活·物理·社会.md",
+          "section": {
+            "id": "s003",
+            "title": "生活·物理·社会"
+          },
+          "quote_or_summary": "为防止触电和其他事故的发生，应该注意：1．安装家庭电路要符合规范.例如，开关必须接在火线上."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_b5052ede3456",
+      "subject_node_id": "canon_chaptersection_6e3e9ab3509a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7e4991ce158f",
+      "edge_id": "canon_edge_contains_85f59a24dd61",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\003_生活·物理·社会.md",
+          "section": {
+            "id": "s003",
+            "title": "生活·物理·社会"
+          },
+          "quote_or_summary": "电流所做的功叫作电功... W = U I t ... 电功率的含义：表示电流做功快慢的物理量... P = U I"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_has_component_46cdbc6668de",
+      "subject_node_id": "canon_knowledgepoint_a77bc2ec2824",
+      "predicate": "has_component",
+      "object_node_id": "canon_knowledgepoint_61e19b8f27f7",
+      "edge_id": "canon_edge_has_component_e8d3a708c577",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\003_生活·物理·社会.md",
+          "section": {
+            "id": "s003",
+            "title": "生活·物理·社会"
+          },
+          "quote_or_summary": "家庭电路主要由进户线、电能表、总开关、熔断器、开关、插座、用电器等组成."
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_b4e8a8c451d1",
+      "subject_node_id": "canon_chaptersection_189aba84931a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_e7f276f6cc10",
+      "edge_id": "canon_edge_contains_14619860dc59",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\006_电磁波与现代通信.md",
+          "section": {
+            "id": "s006",
+            "title": "电磁波与现代通信"
+          },
+          "quote_or_summary": "电磁波的发现使人类进入了无线通信时代，无线电报、传真、广播以及电视等如雨后春笋般地涌现出来"
+        }
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

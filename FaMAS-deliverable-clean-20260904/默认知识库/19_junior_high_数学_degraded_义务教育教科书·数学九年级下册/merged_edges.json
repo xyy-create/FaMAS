@@ -1,0 +1,3730 @@
+{
+  "schema_version": "kg.merged_edges.v1",
+  "run_id": "kg_义务教育教科书·数学九年级下册_20260701",
+  "edges": [
+    {
+      "edge_id": "canon_edge_contains_ef62da771813",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_cbcc1cf98d61",
+      "target_node_id": "canon_knowledgepoint_5a1fa0140545",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.1.md",
+            "section": {
+              "id": "s001",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "5.1 二次函数"
+          },
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.2.md",
+            "section": {
+              "id": "s007",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "## 6.2 黄金分割\n像图6－4那样，点B把线段AC分成两部分，如果 BC/AB = AB/AC，那么称线段AC被点B 黄金分割"
+          },
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.4.md",
+            "section": {
+              "id": "s009",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "实践告诉我们一个基本事实：两条直线被一组平行线所截，所得的对应线段成比例．"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page008_img001.jpg",
+            "name": "",
+            "description": "Coordinate plane with three upward-opening parabolas labeled y=(x+1)^2+2, y=(x+1)^2, y=x^2",
+            "figure_id": "ipa_evidence_bf9e6fe23b2e"
+          },
+          {
+            "image_path": "images/page057_img002.jpg",
+            "name": "图6-10",
+            "description": "三条水平实线 l1、l2、l3 互相平行，由上至下排列。两条斜线 a 和 b 分别与这三条平行线相交",
+            "figure_id": "ipa_evidence_b03123302099"
+          }
+        ]
+      },
+      "source_context_id": "s001_ch5_s5.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001",
+        "edge_contains_section001_kp001",
+        "edge_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_4f5c7444cfe9",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_408ed485170a",
+      "target_node_id": "canon_knowledgepoint_5a1fa0140545",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.1.md",
+            "section": {
+              "id": "s001",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "矩形纸片长为30cm、宽为20cm，剪去一个边长为xcm 的正方形，写出剩余部分的面积 S 与 x 之间的函数表达式"
+          },
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.2.md",
+            "section": {
+              "id": "s007",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "例 如图6-4，点B在线段AC上，且 BC/AB = AB/AC。设AC=1,求AB的长."
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page011_img005.jpg",
+            "name": "",
+            "description": "矩形纸片剪去正方形",
+            "figure_id": "ipa_evidence_da63c633e447"
+          },
+          {
+            "image_path": "images/page049_img003.jpg",
+            "name": "图6-4",
+            "description": "线段AC上有点B，用于求解黄金分割长度",
+            "figure_id": "ipa_evidence_6300212019ea"
+          }
+        ]
+      },
+      "source_context_id": "s001_ch5_s5.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002",
+        "edge_tests_prob001_kp001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_88af6fd0c7f4",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_940968cbf121",
+      "target_node_id": "canon_knowledgepoint_5a1fa0140545",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.1.md",
+            "section": {
+              "id": "s001",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "在长200m、宽140m的矩形绿地内修建等宽的十字形道路，设道路宽为x(m)，绿地面积为 y"
+          }
+        ],
+        "confidence": 0.9,
+        "figures": [
+          {
+            "image_path": "images/page012_img003.jpg",
+            "name": "",
+            "description": "矩形绿地内修建十字形道路",
+            "figure_id": "ipa_evidence_90a4a759fe93"
+          }
+        ]
+      },
+      "source_context_id": "s001_ch5_s5.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_d5ecdf409ee8",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_868f70dc8eb0",
+      "target_node_id": "canon_knowledgepoint_5a1fa0140545",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.1.md",
+            "section": {
+              "id": "s001",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "用长50m的护栏围成一块靠墙的矩形花园，设矩形花园的长为 x(m)，面积为 y"
+          },
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.2.md",
+            "section": {
+              "id": "s007",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "2．如图，C、D是线段AB 的两个黄金分割点，AB＝1.求线段CD的长."
+          }
+        ],
+        "confidence": 0.9,
+        "figures": [
+          {
+            "image_path": "images/page012_img004.jpg",
+            "name": "",
+            "description": "靠墙矩形花园示意图",
+            "figure_id": "ipa_evidence_c7e2cae814c6"
+          },
+          {
+            "image_path": "images/page050_img003.jpg",
+            "name": "第2题",
+            "description": "线段AB上有两个黄金分割点C和D",
+            "figure_id": "ipa_evidence_372f9b5fb1e8"
+          }
+        ]
+      },
+      "source_context_id": "s001_ch5_s5.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004",
+        "edge_tests_prob003_kp001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_86dd98dc7a94",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_21fea017553e",
+      "target_node_id": "canon_knowledgepoint_54fe0205dcc5",
+      "properties": {
+        "rationale": "Section explicitly introduces studying y=x^2 graph and properties.",
+        "figures": [
+          {
+            "image_path": "images/page013_img005.jpg",
+            "name": "图 5-1",
+            "description": "平面直角坐标系中，x 轴标注了 $-2$ 和 $2$，y 轴标注了 $2$ 和 $4$。点 $A$ 位于 $(-2, 4)$，点 $B$ 位于 $(2, 4)$，两点均以黑点标出，并有虚线分别垂直连接至x轴和y轴。原点 $O$ 标注在 $(0, 0)$ 处。",
+            "figure_id": "ipa_evidence_f5436a3594eb"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.2.md",
+            "section": {
+              "id": "s002",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "我们先研究二次函数 $y = x ^ { 2 }$ 的图像和性质。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_ch5_s5.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_2139f58ae3ad",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_21fea017553e",
+      "target_node_id": "canon_knowledgepoint_c2de292313c6",
+      "properties": {
+        "rationale": "Section instructs to draw y=-x^2 graph similarly to y=x^2.",
+        "figures": [
+          {
+            "image_path": "images/page014_img004.jpg",
+            "name": "图 5-2",
+            "description": "在平面直角坐标系中，绘制了二次函数 $y = -x^2$ 的图像：坐标系 x 轴范围从 -4 到 4，y 轴范围从 -10 到 0，网格线为单位长度 1。图像是一条开口向下的抛物线，顶点位于原点 (0, 0)。",
+            "figure_id": "ipa_evidence_04ed51eeb27b"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.2.md",
+            "section": {
+              "id": "s002",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "类似地，在图 5－2 的平面直角坐标系中画出二次函数 $y = - x ^ { 2 }$ 的图像。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_ch5_s5.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_718240966e9b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_21fea017553e",
+      "target_node_id": "canon_knowledgepoint_60e6e6ff7db5",
+      "properties": {
+        "rationale": "Section defines properties of y=ax^2 including opening direction and vertex.",
+        "figures": [
+          {
+            "image_path": "images/page016_img004.jpg",
+            "name": "图 5-4",
+            "description": "$$y = ax^2 \\quad (a > 0)$$",
+            "figure_id": "ipa_evidence_e8c549801783"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.2.md",
+            "section": {
+              "id": "s002",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "二次函数 $y = a x ^ { 2 }$ 的图像是一条抛物线，顶点在原点、对称轴是 y 轴。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_ch5_s5.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_8c6c62ede070",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_21fea017553e",
+      "target_node_id": "canon_knowledgepoint_894920257fcf",
+      "properties": {
+        "rationale": "Section provides vertex coordinates and symmetry axis formula for general quadratic function.",
+        "figures": [
+          {
+            "image_path": "images/page021_img001.jpg",
+            "name": "图 5-8",
+            "description": "二次函数 $y = -x^2 - 4x - 5$ 的图像，开口向下的抛物线，顶点位于 $(-2, -1)$。",
+            "figure_id": "ipa_evidence_0d52d141b983"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.2.md",
+            "section": {
+              "id": "s002",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "二次函数 $y = a x ^ { 2 } + b x + c$ 的图像是一条抛物线，它的顶点坐标是 $(-b/2a, (4ac-b^2)/4a)$。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_ch5_s5.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c124bda97c9d",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_21fea017553e",
+      "target_node_id": "canon_knowledgepoint_21919cf3a813",
+      "properties": {
+        "rationale": "Section explains translation rules using y=x^2+1 as example.",
+        "figures": [
+          {
+            "image_path": "images/page018_img005.jpg",
+            "name": "图 5-5",
+            "description": "在平面直角坐标系中，画出两条开口向上的抛物线：$y = x^2$ 和 $y = x^2 + 1$。横轴为 $x$ 轴，纵轴为 $y$ 轴，网格单位为 1。曲线 $y = x^2$ 经过原点 $(0,0)$，顶点在 $(0,0)$；曲线 $y = x^2 + 1$ 顶点在 $(0,1)$。",
+            "figure_id": "ipa_evidence_f8727537f4da"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.2.md",
+            "section": {
+              "id": "s002",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "函数 $y = x ^ { 2 } + 1$ 的图像可以由函数 $y = x ^ { 2 }$ 的图像向上平移 1 个单位长度得到。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_ch5_s5.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_50c4f21381ee",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_18988ec2fc0d",
+      "target_node_id": "canon_knowledgepoint_894920257fcf",
+      "properties": {
+        "rationale": "Example problem requires applying general form vertex and symmetry axis knowledge.",
+        "figures": [
+          {
+            "image_path": "images/page021_img001.jpg",
+            "name": "图 5-8",
+            "description": "二次函数 $y = -x^2 - 4x - 5$ 的图像，开口向下的抛物线，顶点位于 $(-2, -1)$。",
+            "figure_id": "ipa_evidence_0d52d141b983"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.2.md",
+            "section": {
+              "id": "s002",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "例 画出二次函数 $y = - x ^ { 2 } - 4 x - 5$ 的图像，并指出它的开口方向、顶点坐标、对称轴、最大值或最小值。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_ch5_s5.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_9e0800913d15",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_82dcf1ecec1a",
+      "target_node_id": "canon_knowledgepoint_60e6e6ff7db5",
+      "properties": {
+        "rationale": "Exercise asks to draw y=ax^2 type functions, testing their properties.",
+        "figures": [
+          {
+            "image_path": "images/page015_img003.jpg",
+            "name": "图 5-3",
+            "description": "A Cartesian coordinate system with x-axis ranging from -4 to 4 and y-axis marked at even integers up to 6, overlaid on a light blue dashed grid. The origin O is labeled at (0,0). The x-axis has tick marks at -4, -2, 0, 2, 4; the y-axis has tick marks at 0, 2, 4, 6. No function graph or data points are plotted.",
+            "figure_id": "ipa_evidence_a1c4a87b1355"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.2.md",
+            "section": {
+              "id": "s002",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "1．在平面直角坐标系中，分别画出下列函数的图像：(1) y = 1/2 x^2; (2) y = 2x^2."
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s002_ch5_s5.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_42b5d01be79d",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_23b94e9247f7",
+      "target_node_id": "canon_knowledgepoint_e80e505790cb",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.3.md",
+            "section": {
+              "id": "s003",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "根据已知条件用待定系数法也可以确定二次函数的表达式"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section title and introductory text define the knowledge point."
+      },
+      "source_context_id": "s003_ch5_s5.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_ch5_s5.3_section_kp_undetermined_coefficients_method_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_1c5d749b9248",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_26c514777988",
+      "target_node_id": "canon_knowledgepoint_e80e505790cb",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.3.md",
+            "section": {
+              "id": "s003",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "例1已知二次函数 $y = a x ^ { 2 }$ 的图像经过点（一2，8)，求α的值."
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Example 1 directly applies the undetermined coefficient method."
+      },
+      "source_context_id": "s003_ch5_s5.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_example1_kp_undetermined_coefficients_method_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_801185b6fa9d",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_a054e2e1f290",
+      "target_node_id": "canon_knowledgepoint_e80e505790cb",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.3.md",
+            "section": {
+              "id": "s003",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "例2 已知二次函数 $y = a x ^ { 2 } + c$ 的图像经过点（一2，8）和(-1，5),求a、c的值."
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Example 2 directly applies the undetermined coefficient method."
+      },
+      "source_context_id": "s003_ch5_s5.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_example2_kp_undetermined_coefficients_method_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_49f4c73adcb7",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_926f0bdf610a",
+      "target_node_id": "canon_knowledgepoint_e80e505790cb",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.3.md",
+            "section": {
+              "id": "s003",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "*例3已知二次函数 $y = a x ^ { 2 } + b x + c$ 的图像经过点（一3，6）、（一2，一1)和(0，一3)，求这个二次函数的表达式．"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Example 3 directly applies the undetermined coefficient method."
+      },
+      "source_context_id": "s003_ch5_s5.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_example3_kp_undetermined_coefficients_method_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_2f45b32b672a",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_698c70b20e10",
+      "target_node_id": "canon_knowledgepoint_e80e505790cb",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.3.md",
+            "section": {
+              "id": "s003",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "1．已知二次函数 $y = a x ^ { 2 } + b x$ 的图像经过点（一2，8)和（一1，5)，求这个二次函数的表达式，"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Exercise 1 requires applying the undetermined coefficient method."
+      },
+      "source_context_id": "s003_ch5_s5.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_exercise1_kp_undetermined_coefficients_method_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_9cd738bb0917",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3b2d496428fc",
+      "target_node_id": "canon_knowledgepoint_e80e505790cb",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.3.md",
+            "section": {
+              "id": "s003",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "*2．已知二次函数 $y = a x ^ { 2 } + b x + c$ 的图像经过点(0，3)、（3，0)和(1，4)，求这个二次函数的表达式．"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Exercise 2 requires applying the undetermined coefficient method."
+      },
+      "source_context_id": "s003_ch5_s5.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_exercise2_kp_undetermined_coefficients_method_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_c1771431bba5",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_66d60c95fc65",
+      "target_node_id": "canon_knowledgepoint_e80e505790cb",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.3.md",
+            "section": {
+              "id": "s003",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "3．这是小明在阅读一本关于函数的课外读物时看到的一段文字，你能写出被墨迹污染的二次项系数吗？"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Exercise 3 requires applying the undetermined coefficient method using graph data.",
+        "figures": [
+          {
+            "image_path": "images/page027_img001.jpg",
+            "name": "Quadratic Function Graph",
+            "description": "A parabola opening upward on a Cartesian coordinate system with grid lines. The vertex is at approximately (-1, -8). The parabola intersects the x-axis at approximately x = -3.5 and x = 1.5. The y-axis intercept is at (0, -5).",
+            "figure_id": "ipa_evidence_bd0b8f120e92"
+          }
+        ]
+      },
+      "source_context_id": "s003_ch5_s5.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_exercise3_kp_undetermined_coefficients_method_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_34c27f545343",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_28fec9b0ffb0",
+      "target_node_id": "canon_knowledgepoint_35a1109a8535",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.4.md",
+            "section": {
+              "id": "s004",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "从图像上看，如果二次函数y=ax²+bx+c的图像与x轴有交点那么交点的纵坐标y=0，交点的横坐标就是一元二次方程 ax²+bx+c=0的根."
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page028_img004.jpg",
+            "name": "图5-9",
+            "description": "二次函数 y = x^2 - 2x - 3 的图像与x轴的交点坐标分别是 M(3, 0), N(-1, 0)",
+            "figure_id": "ipa_evidence_41623045e36e"
+          }
+        ]
+      },
+      "source_context_id": "s004_ch5_s5.4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_f0eec6d9485c",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_28fec9b0ffb0",
+      "target_node_id": "canon_knowledgepoint_713197be9c02",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.4.md",
+            "section": {
+              "id": "s004",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "如果二次函数y=ax²+bx+c的图像与x轴有两个公共点，那么一元二次方程ax²+bx+c=0有两个不相等的实数根"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page029_img001.jpg",
+            "name": "图5-10之一",
+            "description": "二次函数 y = -1/2 x^2 - 4x - 6 的图像",
+            "figure_id": "ipa_evidence_c4712f1dcd98"
+          },
+          {
+            "image_path": "images/page029_img002.jpg",
+            "name": "图5-10之二",
+            "description": "二次函数 y = x^2 - 6x + 9 的图像",
+            "figure_id": "ipa_evidence_aa570e23592f"
+          },
+          {
+            "image_path": "images/page029_img003.jpg",
+            "name": "图5-10之三",
+            "description": "二次函数 y = x^2 - 2x + 3 的图像",
+            "figure_id": "ipa_evidence_b90863fb5d83"
+          }
+        ]
+      },
+      "source_context_id": "s004_ch5_s5.4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_8a10e0b1931d",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_28fec9b0ffb0",
+      "target_node_id": "canon_knowledgepoint_40cf590fd989",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.4.md",
+            "section": {
+              "id": "s004",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "因为一元二次方程-x²+5x-8=0的根的判别式b²-4ac=5²-4×(-1)×(-8)<0，所以方程没有实数根."
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s004_ch5_s5.4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_0750653107f3",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_28fec9b0ffb0",
+      "target_node_id": "canon_knowledgepoint_4c520922b5fa",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.4.md",
+            "section": {
+              "id": "s004",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "例如，从二次函数y=x²-4x+3的图像中，可以“读”出如下信息：这个函数的图像开口向上，顶点的坐标是(2，一1)"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page030_img002.jpg",
+            "name": "图5-11前示例",
+            "description": "二次函数 y = x^2 - 4x + 3 的图像，开口向上，顶点(2,-1)，与x轴交于M(1,0)、N(3,0)",
+            "figure_id": "ipa_evidence_5767500b19af"
+          }
+        ]
+      },
+      "source_context_id": "s004_ch5_s5.4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_cc7660cd304e",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_28fec9b0ffb0",
+      "target_node_id": "canon_knowledgepoint_06a03ba1bf5f",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.4.md",
+            "section": {
+              "id": "s004",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "下面，我们借助计算器，探索介于1与2之间的根的近似值．表1显示当x=1.4时y<0，x=1.5时y>0"
+          }
+        ],
+        "confidence": 0.9,
+        "figures": [
+          {
+            "image_path": "images/page030_img004.jpg",
+            "name": "图5-11",
+            "description": "二次函数 y = x^2 + 2x - 5 的图像，与x轴有两个公共点",
+            "figure_id": "ipa_evidence_a5c5512ef25b"
+          }
+        ]
+      },
+      "source_context_id": "s004_ch5_s5.4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_c6d1f56d01e7",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_6b8da0d67d87",
+      "target_node_id": "canon_knowledgepoint_40cf590fd989",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.4.md",
+            "section": {
+              "id": "s004",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "例 不画图像，判断二次函数 y = -x² + 5x - 8 的图像与x轴是否有公共点. 解：因为一元二次方程...判别式...<0"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_ch5_s5.4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_5e5668831f8c",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_6a47295bc33c",
+      "target_node_id": "canon_knowledgepoint_713197be9c02",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.4.md",
+            "section": {
+              "id": "s004",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "5.4习题 1．不画图像，判断下列函数的图像与x轴是否有公共点，如果有，写出公共点的坐标.(1) y = 2x² + x + 1 (2) y = x² + x - 6."
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s004_ch5_s5.4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_959cc88a8538",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_713197be9c02",
+      "target_node_id": "canon_knowledgepoint_35a1109a8535",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.4.md",
+            "section": {
+              "id": "s004",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "根据二次函数与一元二次方程的关系，我们可以由二次函数的图像确定一元二次方程的根的情况."
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s004_ch5_s5.4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_008"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_215271504fa8",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_f9660e48d8f4",
+      "target_node_id": "canon_knowledgepoint_7367663a1c46",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.5.md",
+            "section": {
+              "id": "s005",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "5.5 用二次函数解决问题。运用二次函数的有关知识，常常可以使生产、生活中的实际问题得到解决."
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section title and content define the knowledge point scope."
+      },
+      "source_context_id": "s005_ch5_s5.5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_ch5_s5.5_contains_kp_quadratic_application"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_99575682ec23",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_a9a27e59bc42",
+      "target_node_id": "canon_knowledgepoint_7367663a1c46",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.5.md",
+            "section": {
+              "id": "s005",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "问题1某种粮大户去年种植水稻360亩...该种粮大户今年应多承租多少亩稻田才能使总收益最大？"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem asks to maximize profit using quadratic function.",
+        "figures": [
+          {
+            "image_path": "images/page033_img001.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_5ef82e253cac"
+          }
+        ]
+      },
+      "source_context_id": "s005_ch5_s5.5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_rice_tests_kp_quadratic_application"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_91345ba3965c",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_1372f973916d",
+      "target_node_id": "canon_knowledgepoint_7367663a1c46",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.5.md",
+            "section": {
+              "id": "s005",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "问题3河上有一座抛物线形的拱桥，水面宽6m时，水面离桥拱顶部3m.因降暴雨水位上升1m"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem uses parabolic bridge model to solve width calculation.",
+        "figures": [
+          {
+            "image_path": "images/page034_img003.jpg",
+            "name": "",
+            "description": "平面直角坐标系中，一条开口向下的抛物线顶点在原点 O(0,0)，对称轴为 y 轴。",
+            "figure_id": "ipa_evidence_ac44a61f4a3f"
+          },
+          {
+            "image_path": "images/page035_img007.jpg",
+            "name": "",
+            "description": "小船横断面示意图：船体为带斜线填充的矩形，水平宽度标注为4 m；船底至水面的垂直距离标注为0.5 m。",
+            "figure_id": "ipa_evidence_4c389b95f186"
+          }
+        ]
+      },
+      "source_context_id": "s005_ch5_s5.5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_bridge_width_tests_kp_quadratic_application"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_8c8b7686c5da",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_f15721b6cad4",
+      "target_node_id": "canon_knowledgepoint_7367663a1c46",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.5.md",
+            "section": {
+              "id": "s005",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "我国隋朝建造的赵州石拱桥闻名中外，假设石拱桥的桥拱是抛物线形，已知石拱跨径AB为37.02m"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem models Zhaozhou Bridge as parabola to find function expression.",
+        "figures": [
+          {
+            "image_path": "images/page035_img009.jpg",
+            "name": "",
+            "description": "赵州石拱桥示意图：图中右侧为赵州石拱桥的几何示意图，桥拱为抛物线形。",
+            "figure_id": "ipa_evidence_23879d252cd4"
+          }
+        ]
+      },
+      "source_context_id": "s005_ch5_s5.5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_zhaozhou_tests_kp_quadratic_application"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_99da20ec4075",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_93cfd91bd476",
+      "target_node_id": "canon_knowledgepoint_7367663a1c46",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.5.md",
+            "section": {
+              "id": "s005",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "比萨斜塔是意大利的一座著名斜塔，据说物理学家伽利略曾在塔顶上做过著名的自由落体试验"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem uses free fall formula h=4.9t^2 to calculate time.",
+        "figures": [
+          {
+            "image_path": "images/page036_img002.jpg",
+            "name": "",
+            "description": "比萨斜塔高度示意图：比萨斜塔实景照片背景上叠加示意图：一条竖直虚线从塔顶延伸至地面，标注总高度为h。",
+            "figure_id": "ipa_evidence_f10282a32874"
+          }
+        ]
+      },
+      "source_context_id": "s005_ch5_s5.5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_pisa_tests_kp_quadratic_application"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_ca441bd40d13",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_c0b68f8cbafb",
+      "target_node_id": "canon_knowledgepoint_7367663a1c46",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.5.md",
+            "section": {
+              "id": "s005",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "学校计划在流经校园的小河上建造一座抛物线形的小拱桥，桥拱的跨径为4m、拱高为2.5m"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem models school bridge as parabola to find function expression.",
+        "figures": [
+          {
+            "image_path": "images/page038_img002.jpg",
+            "name": "",
+            "description": "抛物线形桥拱示意图：图中显示一个抛物线形桥拱，其跨径（底部宽度）标注为4，拱高标注为2.5。",
+            "figure_id": "ipa_evidence_1304846d45eb"
+          }
+        ]
+      },
+      "source_context_id": "s005_ch5_s5.5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_school_bridge_tests_kp_quadratic_application"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_6f8a5ca16682",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_7367663a1c46",
+      "target_node_id": "canon_knowledgepoint_a160b9d05ac4",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch5_s5.5.md",
+            "section": {
+              "id": "s005",
+              "title": "第五章 二次函数"
+            },
+            "quote_or_summary": "在本章中，我们把一些实际问题中的数量关系抽象成为二次函数，并应用二次函数的有关知识解决了这些问题"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Application requires ability to abstract real problems into mathematical models."
+      },
+      "source_context_id": "s005_ch5_s5.5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_kp_quadratic_application_requires_kp_mathematical_modeling"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_18bd5e83a9b3",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d822ed53af1b",
+      "target_node_id": "canon_knowledgepoint_cb5b718cde38",
+      "properties": {
+        "rationale": "Section title and content explicitly define and illustrate the concept of scale.",
+        "figures": [
+          {
+            "image_path": "images/page044_img001.jpg",
+            "name": "江苏省地图比例尺对比图",
+            "description": "左右并列两幅江苏省地图，左图比例尺为 1:8,000,000，右图比例尺为 1:16,000,000，比较不同比例尺下相同地理距离的图上长度差异。",
+            "figure_id": "ipa_evidence_32cf3dacf31a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.1.md",
+            "section": {
+              "id": "s006",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "比例尺=图上距离：实际距离=4：8000=1：2000."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_ch6_s6.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_40808d1f4552",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d822ed53af1b",
+      "target_node_id": "canon_knowledgepoint_d8c83ade68ff",
+      "properties": {
+        "rationale": "Section text defines proportional segments and includes a grid figure verifying the ratio relationship.",
+        "figures": [
+          {
+            "image_path": "images/page045_img001.jpg",
+            "name": "网格三角形",
+            "description": "小正方形组成的网格，两个三角形顶点位于网格交点上，用于验证线段比例关系。",
+            "figure_id": "ipa_evidence_34c801983e0a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.1.md",
+            "section": {
+              "id": "s006",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "在四条线段中，如果两条线段的比等于另两条线段的比，那么这四条线段叫做成比例线段."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_ch6_s6.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_e65d6eab0599",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d822ed53af1b",
+      "target_node_id": "canon_knowledgepoint_2383b96d2d66",
+      "properties": {
+        "rationale": "Section text explicitly states the basic properties of proportions.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.1.md",
+            "section": {
+              "id": "s006",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "在小学里，我们学习过比例的基本性质：如果 a : b = c : d，那么 ad = bc；反过来，如果 ad = bc (b ≠ 0, d ≠ 0)，那么 a : b = c : d"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_ch6_s6.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_d5d5d3bbfdff",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d822ed53af1b",
+      "target_node_id": "canon_knowledgepoint_0284c1e03f16",
+      "properties": {
+        "rationale": "Section text defines mean proportional in the context of proportion formulas.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.1.md",
+            "section": {
+              "id": "s006",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "在比例式 a : b = b : c 中，b 叫做 a 和 c 的比例中项."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_ch6_s6.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_5d6e32d68dff",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_da539319c356",
+      "target_node_id": "canon_knowledgepoint_cb5b718cde38",
+      "properties": {
+        "rationale": "Problem solution explicitly calculates actual distance using the scale formula.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.1.md",
+            "section": {
+              "id": "s006",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "例 1 某公园平面图上有一块三角形草地，三边长分别为 4cm、5 cm、6cm．已知这块三角形草地最短边的实际长度为 80 m，求另外两条边的实际长度."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_ch6_s6.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_9d00bb288034",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_726eeb0d30d1",
+      "target_node_id": "canon_knowledgepoint_2383b96d2d66",
+      "properties": {
+        "rationale": "Problem solution uses proportion properties to solve for variables.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.1.md",
+            "section": {
+              "id": "s006",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "例 2 已知 x/3 = y/5，且 x + y = 24.求 x、y 的值."
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s006_ch6_s6.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_8f46e1ce419e",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_1f2a734e81f8",
+      "target_node_id": "canon_knowledgepoint_d8c83ade68ff",
+      "properties": {
+        "rationale": "Problem involves calculating lengths based on proportional segment ratios.",
+        "figures": [
+          {
+            "image_path": "images/page046_img002.jpg",
+            "name": "三角形与平行线",
+            "description": "三角形 ABC，点 D 在边 AB 上，点 E 在边 AC 上，线段 DE 连接两点且平行于底边 BC。",
+            "figure_id": "ipa_evidence_917519b41302"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.1.md",
+            "section": {
+              "id": "s006",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "4.如图，AD/DB = AE/EC，AD = 15, AB = 40，AC = 28.求 AE 的长．"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s006_ch6_s6.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_53b57c611275",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_0284c1e03f16",
+      "target_node_id": "canon_knowledgepoint_2383b96d2d66",
+      "properties": {
+        "rationale": "Definition of mean proportional relies on understanding proportion equality.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.1.md",
+            "section": {
+              "id": "s006",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "在比例式 a : b = b : c 中，b 叫做 a 和 c 的比例中项."
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s006_ch6_s6.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_008"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_098eeca57ce5",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_cbcc1cf98d61",
+      "target_node_id": "canon_knowledgepoint_2cdfb2b0d0fb",
+      "properties": {
+        "rationale": "Section text introduces Golden Rectangle concept in exercise context.",
+        "figures": [
+          {
+            "image_path": "images/page058_img002.jpg",
+            "name": "图6-11",
+            "description": "三角形内平行线与辅助线示意图：一个三角形 ABC，顶点 A 在上，底边 BC 水平。点 D 在 AB 边上，点 E 在 AC 边上，连接 DE 形成一条实线段，DE 平行于 BC。",
+            "figure_id": "ipa_evidence_5efe6080db9a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.2.md",
+            "section": {
+              "id": "s007",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "边BC与AB的 比值也约为0.62...这样的矩形称为黄金矩形"
+          },
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.4.md",
+            "section": {
+              "id": "s009",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "由例 1，我们得到如下结论：平行于三角形一边的直线与其他两边相交，所截得的三角形与原三角形相似."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_ch6_s6.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_section001_kp002",
+        "edge_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_79bd71e5d4a1",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_940968cbf121",
+      "target_node_id": "canon_knowledgepoint_2cdfb2b0d0fb",
+      "properties": {
+        "rationale": "Problem explicitly asks to calculate side length of a Golden Rectangle.",
+        "figures": [
+          {
+            "image_path": "images/page049_img002.jpg",
+            "name": "图6-3",
+            "description": "黄金矩形示意图",
+            "figure_id": "ipa_evidence_ca55c42e5930"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.2.md",
+            "section": {
+              "id": "s007",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "1．在图6-3中，BC与AB的比为黄金比，这样的矩形称为黄金矩形，已知它的一边长为3.24m，求它的邻边的长"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s007_ch6_s6.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob002_kp002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_472ba59f4863",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_252cd8a4a4b5",
+      "target_node_id": "canon_knowledgepoint_5a1fa0140545",
+      "properties": {
+        "rationale": "Real-world application problem modeling tower height as Golden Section.",
+        "figures": [
+          {
+            "image_path": "images/page051_img002.jpg",
+            "name": "第1题",
+            "description": "东方明珠电视塔示意图，标注塔身线段AC和球体点B",
+            "figure_id": "ipa_evidence_39de8269f886"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.2.md",
+            "section": {
+              "id": "s007",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "1．东方明珠电视塔高 468 m，如果把塔身看作一条线段AC，中间的球体看作点B，那么点B是线段AC的黄金分割点"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s007_ch6_s6.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob004_kp001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_5317e06f6c7e",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_634383aefb78",
+      "target_node_id": "canon_knowledgepoint_5a1fa0140545",
+      "properties": {
+        "rationale": "Problem compares areas related to Golden Section point P on segment AB.",
+        "figures": [
+          {
+            "image_path": "images/page051_img003.jpg",
+            "name": "第2题",
+            "description": "线段AB上有点P，上方正方形面积S1，下方矩形面积S2",
+            "figure_id": "ipa_evidence_bcf114df68e9"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.2.md",
+            "section": {
+              "id": "s007",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "2．如图，P是线段AB的黄金分割点，且PA>PB，S表示以PA为一边的正方形的面积，S2表示长为AB、宽为PB 的矩形的面积"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s007_ch6_s6.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob005_kp001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_d2894c270da7",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_f94343790bef",
+      "target_node_id": "canon_knowledgepoint_6bebd4a5eb4f",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section header and text define similar figures directly.",
+        "figures": [
+          {
+            "image_path": "images/page052_img004.jpg",
+            "name": "图6-5",
+            "description": "图像展示三组相似图形：上方从左到右为两个红色五角星、两个蓝色正六边形、两个蓝色三角形；下方从左到右为两个绿色长方体、两个绿色圆柱体。所有图形均按大小成比例排列，体现形状相同、大小不同的特征。",
+            "figure_id": "ipa_evidence_10ae416235cd"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.3.md",
+            "section": {
+              "id": "s008",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "形状相同的图形叫做相似形(similar figures)."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_ch6_s6.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001_contains_similar_figures"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_b63ed4ab67f0",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_f94343790bef",
+      "target_node_id": "canon_knowledgepoint_9ab36fa4e5ea",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section text defines similar polygons with angle and side ratio conditions.",
+        "figures": [
+          {
+            "image_path": "images/page053_img003.jpg",
+            "name": "图6-5(2)",
+            "description": "一个标记为 $\\triangle ABC$ 的三角形，顶点按逆时针顺序标注为 $A$（顶部）、$B$（左下）、$C$（右下），三边为实线段 $AB$、$BC$、$CA$。",
+            "figure_id": "ipa_evidence_39c3d7c8b337"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.3.md",
+            "section": {
+              "id": "s008",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "像这样，各角分别相等、各边成比例的两个多边形，它们的形状相同，称为相似多边形(similar polygons)."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_ch6_s6.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002_contains_similar_polygons"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_01c872ad2336",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_f94343790bef",
+      "target_node_id": "canon_knowledgepoint_10493ea61180",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section text defines similarity ratio as the ratio of corresponding sides.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.3.md",
+            "section": {
+              "id": "s008",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "相似多边形的对应边的比叫做相似比(similarity ratio)."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_ch6_s6.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003_contains_similarity_ratio"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_bff553c280b6",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_f0e1a6daabdc",
+      "target_node_id": "canon_knowledgepoint_9ab36fa4e5ea",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Example 1 requires applying similarity properties to find angles and sides.",
+        "figures": [
+          {
+            "image_path": "images/page054_img008.jpg",
+            "name": "图6-8",
+            "description": "三角形 $\\triangle ABC$，其中 $AB = 8$，$AC = 10$，$\\angle A = 60^\\circ$。",
+            "figure_id": "ipa_evidence_04be0a2ed7d0"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.3.md",
+            "section": {
+              "id": "s008",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "例1如图6-8，已知 $\\triangle ABC \\sim \\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }$ ．求 $\\angle \\alpha$ 的大小和 $A ^ { \\prime } C ^ { \\prime }$ 的长."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_ch6_s6.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004_example1_tests_polygons"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_109ab59fef3e",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_f0e1a6daabdc",
+      "target_node_id": "canon_knowledgepoint_10493ea61180",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Example 1 calculates side length using similarity ratio proportion.",
+        "figures": [
+          {
+            "image_path": "images/page054_img008.jpg",
+            "name": "图6-8",
+            "description": "三角形 $\\triangle ABC$，其中 $AB = 8$，$AC = 10$，$\\angle A = 60^\\circ$。",
+            "figure_id": "ipa_evidence_04be0a2ed7d0"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.3.md",
+            "section": {
+              "id": "s008",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "解：因为 $\\triangle A B C \\sim \\triangle A ^ { \\prime } B ^ { \\prime } C ^ { \\prime }$ 所以它们的对应角相等，对应边成比例."
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s008_ch6_s6.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005_example1_tests_ratio"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_e66b185e0023",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_eba8cf56508e",
+      "target_node_id": "canon_knowledgepoint_9ab36fa4e5ea",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Example 2 asks to determine similarity based on midline properties.",
+        "figures": [
+          {
+            "image_path": "images/page054_img012.jpg",
+            "name": "图6-9",
+            "description": "三角形 $\\triangle ABC$，其中点 $D$、$E$、$F$ 分别位于边 $BC$、$AC$、$AB$ 上，连接 $D$、$E$、$F$ 形成内部三角形 $\\triangle DEF$。",
+            "figure_id": "ipa_evidence_42161b208271"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.3.md",
+            "section": {
+              "id": "s008",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "例2如图6-9,D、E、F分别是 $\\triangle A B C$ 三边的中点. $\\triangle D E F$ 与 $\\triangle A B C$ 相似吗？为什么？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_ch6_s6.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006_example2_tests_polygons"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_520c2b170fe3",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_f1912946d8da",
+      "target_node_id": "canon_knowledgepoint_9ab36fa4e5ea",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Exercise 2 applies quadrilateral similarity properties to find angles and sides.",
+        "figures": [
+          {
+            "image_path": "images/page055_img013.jpg",
+            "name": "第2题",
+            "description": "四边形ABCD，其中AB = 6，AD = 8，∠B = 75°，∠C = 80°，∠D = β。顶点A处的角未标注数值。",
+            "figure_id": "ipa_evidence_94387dc5331e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.3.md",
+            "section": {
+              "id": "s008",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "2．如图，四边形ABCD∽四边形 $A ^ { \\prime } B ^ { \\prime } C ^ { \\prime } D ^ { \\prime }$ .求∠α、∠β的大小和 $A ^ { \\prime } D ^ { \\prime }$ 的长．"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s008_ch6_s6.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007_exercise2_tests_polygons"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_54b88285fcd4",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_10493ea61180",
+      "target_node_id": "canon_knowledgepoint_9ab36fa4e5ea",
+      "properties": {
+        "relation_label": "前置依赖关系",
+        "rationale": "Similarity ratio is defined specifically for similar polygons.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.3.md",
+            "section": {
+              "id": "s008",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "相似多边形的对应边的比叫做相似比(similarity ratio)."
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s008_ch6_s6.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_008_ratio_requires_polygons"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_e2d2e1f222d8",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_cbcc1cf98d61",
+      "target_node_id": "canon_knowledgepoint_6a1c1ec87be2",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section explicitly states this theorem after geometric construction.",
+        "figures": [
+          {
+            "image_path": "images/page059_img005.jpg",
+            "name": "图6-14",
+            "description": "图中展示了两个三角形：一个较大的实线三角形△ABC，以及一个较小的虚线三角形△A'B'C'。小三角形被平移至大三角形内部",
+            "figure_id": "ipa_evidence_322a1754bd8f"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.4.md",
+            "section": {
+              "id": "s009",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "于是，我们得到如下定理：两角分别相等的两个三角形相似."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s009_ch6_s6.4",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_2435425a29cc",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_cbcc1cf98d61",
+      "target_node_id": "canon_knowledgepoint_a35af60ddaf4",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section explicitly states this theorem after proving side proportionality.",
+        "figures": [
+          {
+            "image_path": "images/page061_img007.jpg",
+            "name": "图6-19",
+            "description": "左图：三角形△ABC，其中点 B''在边 AB 上，点 C''在边 AC 上，线段 B''C''为虚线且平行于底边 BC。右图：另一个三角形△A'B'C'",
+            "figure_id": "ipa_evidence_0d586182a5b3"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.4.md",
+            "section": {
+              "id": "s009",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "于是，我们得到如下定理：两边成比例且夹角相等的两个三角形相似."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s009_ch6_s6.4",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_6324ae202e28",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_cbcc1cf98d61",
+      "target_node_id": "canon_knowledgepoint_b850ec2d75b1",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section explicitly states this theorem after proving side ratios.",
+        "figures": [
+          {
+            "image_path": "images/page064_img001.jpg",
+            "name": "图6-23",
+            "description": "图 6-23：一个三角形，顶点按逆时针顺序标记为 A（顶部）、B（左下角）和 C（右下角），边 AB、BC、CA 均以实线绘制",
+            "figure_id": "ipa_evidence_c980007f0609"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.4.md",
+            "section": {
+              "id": "s009",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "于是，我们得到如下定理：三边成比例的两个三角形相似．"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s009_ch6_s6.4",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_81e65e2410ef",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_cbcc1cf98d61",
+      "target_node_id": "canon_knowledgepoint_1c50fb277c9a",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section defines centroid after discussing medians intersection.",
+        "figures": [
+          {
+            "image_path": "images/page067_img001.jpg",
+            "name": "图6-27",
+            "description": "A triangle △ABC with points F on AB and E on AC, connected by a dashed line segment FE. Two full-line segments, BE from vertex B to point E and CF from vertex C to point F, intersect at point G inside the triangle.",
+            "figure_id": "ipa_evidence_570a99230117"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.4.md",
+            "section": {
+              "id": "s009",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "三角形的三条中线相交于一点，这点叫做三角形的重心（barycenterof a triangle)."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s009_ch6_s6.4",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_6dcd6c6f165c",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_408ed485170a",
+      "target_node_id": "canon_knowledgepoint_2cdfb2b0d0fb",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem asks to explain similarity reason using parallel lines, deriving KP2.",
+        "figures": [
+          {
+            "image_path": "images/page058_img002.jpg",
+            "name": "图6-11",
+            "description": "三角形内平行线与辅助线示意图：一个三角形 ABC，顶点 A 在上，底边 BC 水平。点 D 在 AB 边上，点 E 在 AC 边上，连接 DE 形成一条实线段，DE 平行于 BC。",
+            "figure_id": "ipa_evidence_5efe6080db9a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.4.md",
+            "section": {
+              "id": "s009",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "例 1 如图 6-11，在△ABC 中，点 D、E 分别在 AB、AC 上，且 DE // BC．试说明△ADE 与△ABC 相似的理由．"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s009_ch6_s6.4",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_d620739ad019",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_2cdfb2b0d0fb",
+      "target_node_id": "canon_knowledgepoint_5a1fa0140545",
+      "properties": {
+        "relation_label": "前置依赖",
+        "rationale": "Proof of KP2 explicitly uses the parallel line proportionality property (KP1).",
+        "figures": [
+          {
+            "image_path": "images/page058_img002.jpg",
+            "name": "图6-11",
+            "description": "三角形内平行线与辅助线示意图：一个三角形ABC，顶点A在上，底边BC水平。点D在AB边上，点E在AC边上，连接DE形成一条实线段，DE平行于BC。从点D向下引出一条虚线段DF，交BC边于点F。图中所有点均标有字母A、B、C、D、E、F。",
+            "figure_id": "ipa_evidence_5efe6080db9a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.4.md",
+            "section": {
+              "id": "s009",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "两条直线被一组平行线所截，所得的对应线段成比例"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s009_ch6_s6.4",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_requires_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_d4510ec0919e",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_8445acb4a2d2",
+      "target_node_id": "canon_knowledgepoint_66ca4f0d3400",
+      "properties": {
+        "rationale": "Section 6.5 introduces the theorem regarding the ratio of perimeters of similar triangles.",
+        "figures": [
+          {
+            "image_path": "images/page073_img004.jpg",
+            "name": "图6-30",
+            "description": "Two similar triangles side by side with altitudes AD and A'D' drawn.",
+            "figure_id": "ipa_evidence_76ece7f66313"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.5.md",
+            "section": {
+              "id": "s010",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "于是，我们得到如下定理：相似三角形周长的比等于相似比．"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_ch6_s6.5",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_2cf3855d2a25",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_8445acb4a2d2",
+      "target_node_id": "canon_knowledgepoint_0d5fa6c2b755",
+      "properties": {
+        "rationale": "Section 6.5 introduces the theorem regarding the ratio of areas of similar triangles.",
+        "figures": [
+          {
+            "image_path": "images/page073_img004.jpg",
+            "name": "图6-30",
+            "description": "Two similar triangles side by side with altitudes AD and A'D' drawn.",
+            "figure_id": "ipa_evidence_76ece7f66313"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.5.md",
+            "section": {
+              "id": "s010",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "于是，我们得到如下定理：相似三角形面积的比等于相似比的平方．"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_ch6_s6.5",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_e770cecb39c3",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_8445acb4a2d2",
+      "target_node_id": "canon_knowledgepoint_67c302ff5671",
+      "properties": {
+        "rationale": "Section 6.5 introduces the theorem regarding the ratio of corresponding line segments.",
+        "figures": [
+          {
+            "image_path": "images/page075_img004.jpg",
+            "name": "图6-31",
+            "description": "Triangle ABC with median AE connecting vertex A to midpoint E on base BC.",
+            "figure_id": "ipa_evidence_533e016f26f8"
+          },
+          {
+            "image_path": "images/page075_img006.jpg",
+            "name": "图6-32",
+            "description": "Triangle ABC with angle bisector AF drawn from vertex A to side BC.",
+            "figure_id": "ipa_evidence_d7fb8f9942d0"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.5.md",
+            "section": {
+              "id": "s010",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "于是，我们得到如下定理：相似三角形对应线段的比等于相似比．"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_ch6_s6.5",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_bcf3e5e51fb4",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_eb9bf780ae3d",
+      "target_node_id": "canon_knowledgepoint_66ca4f0d3400",
+      "properties": {
+        "rationale": "Example 1 explicitly uses the perimeter ratio theorem to calculate actual dimensions.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.5.md",
+            "section": {
+              "id": "s010",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "利用周长比等于相似比，面积比等于相似比的平方计算实际值。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_ch6_s6.5",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_ad05f6e6c5ad",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_eb9bf780ae3d",
+      "target_node_id": "canon_knowledgepoint_0d5fa6c2b755",
+      "properties": {
+        "rationale": "Example 1 explicitly uses the area ratio theorem to calculate actual dimensions.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.5.md",
+            "section": {
+              "id": "s010",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "利用周长比等于相似比，面积比等于相似比的平方计算实际值。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s010_ch6_s6.5",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_7da8aa30fdd4",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3d78cef89117",
+      "target_node_id": "canon_knowledgepoint_0d5fa6c2b755",
+      "properties": {
+        "rationale": "Problem 3 requires calculating the ratio of areas of two triangles.",
+        "figures": [
+          {
+            "image_path": "images/page075_img002.jpg",
+            "name": "第3题",
+            "description": "In \\triangle ABC, \\angle C = 90^\\circ, rectangle GDEF vertices G,F on AC,BC; D,E on AB.",
+            "figure_id": "ipa_evidence_02f7abad8b75"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.5.md",
+            "section": {
+              "id": "s010",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "求\\triangle A D G 与 \\triangle F E B 的面积的比．"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s010_ch6_s6.5",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_01b9a60699d3",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_2924bb748749",
+      "target_node_id": "canon_knowledgepoint_0d5fa6c2b755",
+      "properties": {
+        "rationale": "Problem 4 requires calculating the ratio of areas of two triangles.",
+        "figures": [
+          {
+            "image_path": "images/page078_img003.jpg",
+            "name": "第4题",
+            "description": "In \\triangle ABC, AD is altitude, EF // BC intersects AD at G.",
+            "figure_id": "ipa_evidence_72641316fe32"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.5.md",
+            "section": {
+              "id": "s010",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "求：(2) $\\triangle A E F$ 与 $\\triangle A B C$ 的面积的比．"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s010_ch6_s6.5",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_c555cf2525d1",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_2924bb748749",
+      "target_node_id": "canon_knowledgepoint_67c302ff5671",
+      "properties": {
+        "rationale": "Problem 4 requires calculating the ratio of heights (corresponding segments).",
+        "figures": [
+          {
+            "image_path": "images/page078_img003.jpg",
+            "name": "第4题",
+            "description": "In \\triangle ABC, AD is altitude, EF // BC intersects AD at G.",
+            "figure_id": "ipa_evidence_72641316fe32"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.5.md",
+            "section": {
+              "id": "s010",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "求：(1) $\\frac { A G } { A D }$ 的值；"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s010_ch6_s6.5",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_008"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_63bcc0902049",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_21aea816061d",
+      "target_node_id": "canon_knowledgepoint_0d5fa6c2b755",
+      "properties": {
+        "rationale": "Problem 5 requires calculating the area of a rectangle inscribed in a triangle.",
+        "figures": [
+          {
+            "image_path": "images/page078_img004.jpg",
+            "name": "第5题",
+            "description": "Rectangle PQMN inscribed in \\triangleABC with AD altitude intersecting PN at E.",
+            "figure_id": "ipa_evidence_e8e3a1c7086a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.5.md",
+            "section": {
+              "id": "s010",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "求矩形PQMN的面积．"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s010_ch6_s6.5",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_009"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_9fc79fbaebd8",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_21aea816061d",
+      "target_node_id": "canon_knowledgepoint_67c302ff5671",
+      "properties": {
+        "rationale": "Problem 5 relies on the ratio of heights (corresponding segments) to solve.",
+        "figures": [
+          {
+            "image_path": "images/page078_img004.jpg",
+            "name": "第5题",
+            "description": "Rectangle PQMN inscribed in \\triangleABC with AD altitude intersecting PN at E.",
+            "figure_id": "ipa_evidence_e8e3a1c7086a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.5.md",
+            "section": {
+              "id": "s010",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "AD交PN于点E．设 $B C = 4 8$ $A D = 1 6 , P Q : P N = 5 : 9$"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s010_ch6_s6.5",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_010"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_e3150126bcf6",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4e099a00fced",
+      "target_node_id": "canon_knowledgepoint_03d91b1476f4",
+      "properties": {
+        "rationale": "Section 6.6 defines homothetic polygons.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.6.md",
+            "section": {
+              "id": "s011",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "两个多边形的顶点所在直线都经过同一点O，并且距离之比相等，叫做位似多边形"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s011_ch6_s6.6",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_contains_homothetic_polygons"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c6f3f179254d",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4e099a00fced",
+      "target_node_id": "canon_knowledgepoint_b38a45595cdb",
+      "properties": {
+        "rationale": "Section 6.6 defines homothetic center.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.6.md",
+            "section": {
+              "id": "s011",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "点O叫做位似中心"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s011_ch6_s6.6",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_contains_homothetic_center"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_d2324efeec1c",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4e099a00fced",
+      "target_node_id": "canon_knowledgepoint_2cb641f17cd4",
+      "properties": {
+        "rationale": "Section 6.6 defines properties of homothetic figures.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.6.md",
+            "section": {
+              "id": "s011",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "两个位似多边形一定相似，并且它们的对应边互相平行(或在同一条直线上)"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s011_ch6_s6.6",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_contains_properties"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_ce4d27f575a1",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4e099a00fced",
+      "target_node_id": "canon_knowledgepoint_b8c7453cb907",
+      "properties": {
+        "rationale": "Section 6.6 defines relationship between congruent, similar, and homothetic figures.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.6.md",
+            "section": {
+              "id": "s011",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "可见，全等形是特殊的相似形。位似形是特殊的相似形"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s011_ch6_s6.6",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_contains_relationship"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_caa28eb0e5c1",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_fc8baf52b9cf",
+      "target_node_id": "canon_knowledgepoint_b38a45595cdb",
+      "properties": {
+        "rationale": "Exercise 1 requires identifying the homothetic center O.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.6.md",
+            "section": {
+              "id": "s011",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "（1）如图①，以AB的中点O为位似中心，把矩形ABCD按相似比1：2缩小"
+          }
+        ],
+        "confidence": 0.9,
+        "figures": [
+          {
+            "image_path": "images/page083_img003.jpg",
+            "name": "图①",
+            "description": "A rectangle ABCD with vertices labeled A, B, C, D in counterclockwise order. Point O is marked on side AB, positioned at the midpoint of AB.",
+            "figure_id": "ipa_evidence_0b73d3e68841"
+          }
+        ]
+      },
+      "source_context_id": "s011_ch6_s6.6",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_tests_prob1_center"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_d2b151e42790",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_fc8baf52b9cf",
+      "target_node_id": "canon_knowledgepoint_03d91b1476f4",
+      "properties": {
+        "rationale": "Exercise 1 applies homothetic polygon transformation.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.6.md",
+            "section": {
+              "id": "s011",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "（1）如图①，以AB的中点O为位似中心，把矩形ABCD按相似比1：2缩小"
+          }
+        ],
+        "confidence": 0.9,
+        "figures": [
+          {
+            "image_path": "images/page083_img003.jpg",
+            "name": "图①",
+            "description": "A rectangle ABCD with vertices labeled A, B, C, D in counterclockwise order. Point O is marked on side AB, positioned at the midpoint of AB.",
+            "figure_id": "ipa_evidence_0b73d3e68841"
+          }
+        ]
+      },
+      "source_context_id": "s011_ch6_s6.6",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_tests_prob1_polygons"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_764d91827382",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_008934712875",
+      "target_node_id": "canon_knowledgepoint_b38a45595cdb",
+      "properties": {
+        "rationale": "Exercise 2 requires using origin as homothetic center.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.6.md",
+            "section": {
+              "id": "s011",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "2．如图，在平面直角坐标系中，△ABC的顶点坐标分别为A(2，2）、B(5，1)、C(4，3)．以坐标原点为位似中心"
+          }
+        ],
+        "confidence": 0.9,
+        "figures": [
+          {
+            "image_path": "images/page084_img001.jpg",
+            "name": "第2题图",
+            "description": "平面直角坐标系中的三角形ABC",
+            "figure_id": "ipa_evidence_882d0e0a2105"
+          }
+        ]
+      },
+      "source_context_id": "s011_ch6_s6.6",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_tests_prob2_center"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_2f6a1493c75f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_008934712875",
+      "target_node_id": "canon_knowledgepoint_03d91b1476f4",
+      "properties": {
+        "rationale": "Exercise 2 constructs homothetic triangles.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.6.md",
+            "section": {
+              "id": "s011",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "2．如图，在平面直角坐标系中，△ABC的顶点坐标分别为A(2，2）、B(5，1)、C(4，3)．以坐标原点为位似中心"
+          }
+        ],
+        "confidence": 0.9,
+        "figures": [
+          {
+            "image_path": "images/page084_img001.jpg",
+            "name": "第2题图",
+            "description": "平面直角坐标系中的三角形ABC",
+            "figure_id": "ipa_evidence_882d0e0a2105"
+          }
+        ]
+      },
+      "source_context_id": "s011_ch6_s6.6",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_tests_prob2_polygons"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_5f0f707a359c",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_501ab32791e0",
+      "target_node_id": "canon_knowledgepoint_7990fe95f8d2",
+      "properties": {
+        "rationale": "Section 6.7 explicitly defines parallel projection.",
+        "figures": [
+          {
+            "image_path": "images/page085_img001.jpg",
+            "name": "图6－41",
+            "description": "太阳光照射下树木、路灯、路标产生的影示意图",
+            "figure_id": "ipa_evidence_374a9d7f60ec"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.7.md",
+            "section": {
+              "id": "s012",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "通常，我们把太阳光看成平行光．在平行光的照射下，物体所产生的影称为平行投影."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s012_ch6_s6.7",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_eddf9433a926",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_501ab32791e0",
+      "target_node_id": "canon_knowledgepoint_c36a82c729cb",
+      "properties": {
+        "rationale": "Section 6.7 explicitly defines central projection.",
+        "figures": [
+          {
+            "image_path": "images/page087_img001.jpg",
+            "name": "图6－44",
+            "description": "人在路灯下行走时影子变化的示意图",
+            "figure_id": "ipa_evidence_f4e0be0f3799"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.7.md",
+            "section": {
+              "id": "s012",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "通常，路灯、台灯、手电筒的光可以看成是从一个点发出的．在点光源的照射下，物体所产生的影称为中心投影."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s012_ch6_s6.7",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_6bc2fcfea4b8",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_6fc355a278b1",
+      "target_node_id": "canon_knowledgepoint_7990fe95f8d2",
+      "properties": {
+        "rationale": "Problem uses parallel projection principles to calculate pyramid height.",
+        "figures": [
+          {
+            "image_path": "images/page086_img003.jpg",
+            "name": "图6-43(2)",
+            "description": "金字塔及其影长的几何示意图",
+            "figure_id": "ipa_evidence_cb672a9867e6"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch6_s6.7.md",
+            "section": {
+              "id": "s012",
+              "title": "第六章 图形的相似"
+            },
+            "quote_or_summary": "当这位学者确认在阳光下他的影长等于他的身高时，要求他的助手同时测出金字塔的影长DB"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s012_ch6_s6.7",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_3974f58c10ba",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_0f3e8e30233c",
+      "target_node_id": "canon_knowledgepoint_0b800b414702",
+      "properties": {
+        "rationale": "Chapter section explicitly defines simple random sampling.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.1.md",
+            "section": {
+              "id": "s013",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "一般地，从个体总数为N的总体中抽取容量为n的样本（𝑛<N），且每次抽取样本时，总体中的每个个体被抽到的可能性相同，这种抽样方法叫做简单随机抽样(simple random sampling)。"
+          }
+        ]
+      },
+      "source_context_id": "s013_ch8_s8.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s013_contains_sampling_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_7ad8f60609db",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_0f3e8e30233c",
+      "target_node_id": "canon_knowledgepoint_225deb654611",
+      "properties": {
+        "rationale": "Chapter section discusses sample representativeness as a key principle.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.1.md",
+            "section": {
+              "id": "s013",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "为了使估计、推断更加准确，抽样时要注意样本的代表性。特殊群体样本缺乏代表性会导致偏差。"
+          }
+        ]
+      },
+      "source_context_id": "s013_ch8_s8.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s013_contains_representativeness_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_36f50aa2c22b",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_ff8260ce0ba0",
+      "target_node_id": "canon_knowledgepoint_0b800b414702",
+      "properties": {
+        "rationale": "Problem asks to judge sampling methods including simple random sampling.",
+        "confidence": 0.9,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.1.md",
+            "section": {
+              "id": "s013",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "判断下列抽样调查选取样本的方法是否合适，并说明理由：（1）医院调查；（2）生产线随机检查；（3）城市空气调查。"
+          }
+        ]
+      },
+      "source_context_id": "s013_ch8_s8.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s013_tests_sampling_health_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_0ae5209118ce",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_a8eaa1e2d628",
+      "target_node_id": "canon_knowledgepoint_0b800b414702",
+      "properties": {
+        "rationale": "Problem explicitly uses simple random sampling method.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.1.md",
+            "section": {
+              "id": "s013",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "（2）用简单随机抽样的方法，抽取样本容量为20的两个样本，并分别计算这两个样本的平均数和方差，所得的结果一致吗？"
+          }
+        ]
+      },
+      "source_context_id": "s013_ch8_s8.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s013_tests_sampling_height_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_6a571c337e9f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_621309cee487",
+      "target_node_id": "canon_knowledgepoint_0b800b414702",
+      "properties": {
+        "rationale": "Problem explicitly uses simple random sampling method.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.1.md",
+            "section": {
+              "id": "s013",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "某市环保部门采用简单随机抽样的方法抽查了该市一年内30天的空气质量，结果如下..."
+          }
+        ]
+      },
+      "source_context_id": "s013_ch8_s8.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s013_tests_sampling_air_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_918c3c7885ed",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_c9f4f354130b",
+      "target_node_id": "canon_knowledgepoint_0b800b414702",
+      "properties": {
+        "rationale": "Problem explicitly uses simple random sampling method and includes histogram figure.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.1.md",
+            "section": {
+              "id": "s013",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "某研究性学习小组采用简单随机抽样的方法，对本校九年级学生一天中做家庭作业所用时间（单位：min）进行了抽样调查..."
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page132_img004.jpg",
+            "name": "第2题",
+            "description": "Histogram of homework time distribution",
+            "figure_id": "ipa_evidence_459feea10ab4"
+          }
+        ]
+      },
+      "source_context_id": "s013_ch8_s8.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s013_tests_sampling_homework_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_c1453a757a8f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_eca0dd69231c",
+      "target_node_id": "canon_knowledgepoint_0b800b414702",
+      "properties": {
+        "rationale": "Problem explicitly uses simple random sampling method.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.1.md",
+            "section": {
+              "id": "s013",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "某校为了解九年级480名学生的数学学习情况，组织了一次检测，并采用简单随机抽样的方法从中抽取了部分学生的检测成绩进行分析..."
+          }
+        ]
+      },
+      "source_context_id": "s013_ch8_s8.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s013_tests_sampling_math_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_cf5d08dd9add",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_e91c29bd4ede",
+      "target_node_id": "canon_knowledgepoint_1066f88f6f0b",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section emphasizes comprehensive data analysis and decision-making principles.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s014",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "媒体提供的数据很多，从中能够获得许多有用的信息，但有些信息不一定客观、全面"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s014_ch8_s8.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s014_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_a5433f7735df",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_4e295d2409f0",
+      "target_node_id": "canon_knowledgepoint_437598286a5c",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem requires interpreting line chart data to evaluate brand sales trends.",
+        "figures": [
+          {
+            "image_path": "images/page134_img002.jpg",
+            "name": "冰箱销量折线图",
+            "description": "销量/万台，2008-2012 年份，A 品牌逐年上升",
+            "figure_id": "ipa_evidence_8bd3f430e543"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s014",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "收集 A、B、C 三种品牌冰箱销售数据及统计图，评价信息并建议选购哪种品牌"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s014_ch8_s8.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s014_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_74eed20b66c1",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_4e295d2409f0",
+      "target_node_id": "canon_knowledgepoint_6d87aabba89c",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem requires interpreting pie chart data regarding market share percentages.",
+        "figures": [
+          {
+            "image_path": "images/page134_img004.jpg",
+            "name": "冰箱市场占有率饼图",
+            "description": "2012 年 C 品牌市场占有率最高，A 品牌 29%，B 品牌 25%",
+            "figure_id": "ipa_evidence_a856f0b3cf15"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s014",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "C 品牌冰箱的月平均销售量比较稳定，且销售总量、市场占有率都高于 A 品牌冰箱"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s014_ch8_s8.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s014_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_50c5d3f7bd00",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_4e295d2409f0",
+      "target_node_id": "canon_knowledgepoint_1066f88f6f0b",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem asks for evaluation and recommendation based on statistical data.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s014",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "你如何评价这些信息？你建议小明家购买哪种品牌的冰箱？说说你的想法"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s014_ch8_s8.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s014_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_95bf381977ea",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_7df9512971e4",
+      "target_node_id": "canon_knowledgepoint_437598286a5c",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem explicitly states data was drawn into a line chart for analysis.",
+        "figures": [
+          {
+            "image_path": "images/page136_img004.jpg",
+            "name": "电视机销量折线图",
+            "description": "折线统计图，月份 4 至 10，纵轴销量/台",
+            "figure_id": "ipa_evidence_1d315836b020"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s014",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "某商场统计了 A、B 两种品牌电视机 7 个月的销售情况，并将获得的数据绘制成折线统计图"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s014_ch8_s8.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s014_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_071d6b8a7f6f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_9d3f5c7ac517",
+      "target_node_id": "canon_knowledgepoint_437598286a5c",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem compares company profits using provided statistical charts.",
+        "figures": [
+          {
+            "image_path": "images/page137_img001.jpg",
+            "name": "甲公司利润图",
+            "description": "年份 2008-2012，利润/万元，约 125 至 200",
+            "figure_id": "ipa_evidence_b4960326690e"
+          },
+          {
+            "image_path": "images/page137_img002.jpg",
+            "name": "乙公司利润图",
+            "description": "年份 2008-2012，利润/万元，120 至 160，线性上升",
+            "figure_id": "ipa_evidence_41fe86fdd2c9"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s014",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "甲、乙两家公司 2008～2012 年的利润统计图如下，判断哪家公司的利润增长较快"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s014_ch8_s8.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s014_008"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_3471c411c742",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_4eec7beffee3",
+      "target_node_id": "canon_knowledgepoint_6d87aabba89c",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem analyzes market share data presented in a pie chart.",
+        "figures": [
+          {
+            "image_path": "images/page137_img004.jpg",
+            "name": "洗衣机市场占有率图",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容",
+            "figure_id": "ipa_evidence_403ee3e50192"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s014",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "某商场对 A、B、C 三种品牌洗衣机的销售情况进行了调查，整理市场占有率和满意情况表"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s014_ch8_s8.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s014_009"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_d2c06812c2d8",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_4eec7beffee3",
+      "target_node_id": "canon_knowledgepoint_1066f88f6f0b",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem asks for analysis of competitive advantages based on survey data.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s014",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "哪种品牌洗衣机的市场占有率最高？它的主要竞争优势是什么？"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s014_ch8_s8.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s014_010"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_4c326a12b02e",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_e91c29bd4ede",
+      "target_node_id": "canon_knowledgepoint_437598286a5c",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section explicitly introduces line chart statistics using refrigerator sales data.",
+        "figures": [
+          {
+            "image_path": "images/page134_img002.jpg",
+            "name": "冰箱销量折线图",
+            "description": "销量/万台，2008-2012 年份，A 品牌逐年上升",
+            "figure_id": "ipa_evidence_8bd3f430e543"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s014",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "小明父母收集厂家提供的A、B、C三种品牌冰箱销售的有关数据及统计图如下："
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s014_ch8_s8.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s014_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_669733adeb6f",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_e91c29bd4ede",
+      "target_node_id": "canon_knowledgepoint_6d87aabba89c",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section explicitly introduces pie chart statistics using refrigerator market share data.",
+        "figures": [
+          {
+            "image_path": "images/page134_img004.jpg",
+            "name": "冰箱市场占有率饼图",
+            "description": "2012 年 C 品牌市场占有率最高，A 品牌 29%，B 品牌 25%",
+            "figure_id": "ipa_evidence_a856f0b3cf15"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.2.md",
+            "section": {
+              "id": "s014",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "2012 年 C 品牌冰箱的市场占有率最高"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s014_ch8_s8.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s014_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_b28e2e6a94e6",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_25980c923c68",
+      "target_node_id": "canon_knowledgepoint_fd1c0fa4350c",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.3.md",
+            "section": {
+              "id": "s015",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "如果在这些点中恰当地选择两个点，过这两点作一条直线，并尽量使其他的点都在这条直线附近，那么我们就可以用这样的直线近似地表示我国1992～2003年GDP不断增长的变化趋势。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section title and content explicitly define the knowledge point about linear approximation of trends.",
+        "figures": [
+          {
+            "image_path": "images/page138_img003.jpg",
+            "name": "图8-5",
+            "description": "平面直角坐标系中，横轴 x 表示年份，纵轴 y 表示 GDP，绘制了 12 个数据点，整体呈上升趋势。",
+            "figure_id": "ipa_evidence_b82586219f22"
+          },
+          {
+            "image_path": "images/page138_img004.jpg",
+            "name": "1992–2003 年中国 GDP 变化趋势图",
+            "description": "图中绘制了 12 个实心黑点，一条直线穿过这些点，左下端点标为 A，右上端点标为 B，表示 GDP 随年份增长的大致线性趋势。",
+            "figure_id": "ipa_evidence_941ecd64af1f"
+          }
+        ]
+      },
+      "source_context_id": "s015_ch8_s8.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_d5b5052b76f1",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_fea57a7f893d",
+      "target_node_id": "canon_knowledgepoint_fd1c0fa4350c",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.3.md",
+            "section": {
+              "id": "s015",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "随机调查了某校 10 名九年级男生的身高和体重，整理如下表。以体重为横坐标，身高为纵坐标画散点图并拟合直线，求关系式并估计身高 180cm 男生的体重."
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem explicitly requires fitting a line to data points to approximate relationship, directly testing the knowledge point."
+      },
+      "source_context_id": "s015_ch8_s8.3",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_0e819f9b187f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_bee4a153ede2",
+      "target_node_id": "canon_knowledgepoint_fd1c0fa4350c",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.3.md",
+            "section": {
+              "id": "s015",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "我国 1949～1999 年间部分年份的人口数据如下表。以年份为横坐标，人口数为纵坐标画散点图并拟合直线，求关系式并估计 2004 年的人口数."
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem explicitly requires fitting a line to data points to approximate relationship, directly testing the knowledge point."
+      },
+      "source_context_id": "s015_ch8_s8.3",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_150126604630",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_f9b72ee8755f",
+      "target_node_id": "canon_knowledgepoint_11b954257f08",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.4.md",
+            "section": {
+              "id": "s016",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "抽签虽然有先有后，但是先抽的人与后抽的人中签的概率是相同的"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page141_img002.jpg",
+            "name": "抽签树状图",
+            "description": "树状图展示甲乙丙依次抽签的6种等可能结果",
+            "figure_id": "ipa_evidence_f2025bae3ebc"
+          }
+        ]
+      },
+      "source_context_id": "s016_ch8_s8.4",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s016_contains_kp"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_b19c08cdc5df",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3eb5c30c4b49",
+      "target_node_id": "canon_knowledgepoint_b8eb6762f64e",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.5.md",
+            "section": {
+              "id": "s017",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "当试验次数很大时，用频率作为概率的估计值，可以估计摸到白球的概率为0.1."
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section explicitly defines frequency estimation principle."
+      },
+      "source_context_id": "s017_ch8_s8.5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s017_ch8_s8.5_section_s017_kp_freq_prob_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_3bf4eb27208a",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3eb5c30c4b49",
+      "target_node_id": "canon_knowledgepoint_2aacf9bcfa60",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.5.md",
+            "section": {
+              "id": "s017",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "往鱼塘内投放若干条白鱼...算得捕到白鱼的频率为 1/24...估算出鱼塘内青鱼的条数."
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section describes population estimation via sampling frequency.",
+        "figures": [
+          {
+            "image_path": "images/page143_img004.jpg",
+            "name": "鱼塘内养了若干条青鱼",
+            "description": "统计图表，展示鱼塘青鱼估计方法的示意图",
+            "figure_id": "ipa_evidence_18c6226a3b42"
+          }
+        ]
+      },
+      "source_context_id": "s017_ch8_s8.5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s017_ch8_s8.5_section_s017_kp_pop_est_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_20d9cea94fe5",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3eb5c30c4b49",
+      "target_node_id": "canon_knowledgepoint_6f71af823c4e",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.5.md",
+            "section": {
+              "id": "s017",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "在桌面上放一张画有30cm×30cm的正方形及其内切圆的白纸...计算落在圆内的米粒数m、落在正方形内的米粒数n"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section details Monte Carlo method for Pi estimation.",
+        "figures": [
+          {
+            "image_path": "images/page145_img002.jpg",
+            "name": "估计圆周率π的值",
+            "description": "几何构造图，展示正方形及其内切圆",
+            "figure_id": "ipa_evidence_aee41707e83d"
+          }
+        ]
+      },
+      "source_context_id": "s017_ch8_s8.5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s017_ch8_s8.5_section_s017_kp_pi_est_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_4368d6b4d57c",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_4021ce344f29",
+      "target_node_id": "canon_knowledgepoint_b8eb6762f64e",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.5.md",
+            "section": {
+              "id": "s017",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "假设全班一共做了400次这样的摸球试验，摸到白球的频数为 40，且已知袋中有白球5个，你能估计袋中红球的个数吗？"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Worked example directly applies frequency to estimate probability."
+      },
+      "source_context_id": "s017_ch8_s8.5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s017_prob_worked_ex_s017_kp_freq_prob_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_00ed3190597b",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_9423a08107c2",
+      "target_node_id": "canon_knowledgepoint_b8eb6762f64e",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.5.md",
+            "section": {
+              "id": "s017",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "一只不透明的袋子中共装有红球、黄球和蓝球360个...算得摸到红球、黄球和蓝球的频率分别是25%、35%和40%．"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Exercise requires using frequencies to estimate counts."
+      },
+      "source_context_id": "s017_ch8_s8.5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s017_prob_ex1_s017_kp_freq_prob_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_e0a378e8e549",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_e5632d40dfd8",
+      "target_node_id": "canon_knowledgepoint_2aacf9bcfa60",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.5.md",
+            "section": {
+              "id": "s017",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "为估计鱼塘中鱼的数量，先从鱼塘中捕捞30条鱼做上标记...平均每200条鱼中带有标记的鱼有5条．"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Exercise applies mark-recapture method for population estimation."
+      },
+      "source_context_id": "s017_ch8_s8.5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s017_prob_ex2_s017_kp_pop_est_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_d2c2bb538758",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_116ec24d9039",
+      "target_node_id": "canon_knowledgepoint_b8eb6762f64e",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.5.md",
+            "section": {
+              "id": "s017",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "一只不透明的袋子中装有若干个白球和红球...某课外学习小组做摸球试验：将球搅匀后从中任意摸出1个球，记下颜色后放回、搅匀，不断重复这个过程，获得数据如下..."
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Exercise uses experimental frequency data to estimate probability."
+      },
+      "source_context_id": "s017_ch8_s8.5",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s017_prob_ex3_s017_kp_freq_prob_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_8b10165704a4",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_1c5e18abecbc",
+      "target_node_id": "canon_knowledgepoint_7eb99b5cc714",
+      "properties": {
+        "rationale": "Section 8.6 defines the concept of average occurrence of random events.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.6.md",
+            "section": {
+              "id": "s018",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "一般地，如果随机事件A发生的概率是 P(A)，那么在相同条件下重复n次试验，事件A发生的次数的平均值为 n × P(A)"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s018_ch8_s8.6",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_00c963e0f558",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_1c5e18abecbc",
+      "target_node_id": "canon_knowledgepoint_afa5c5a3bdf6",
+      "properties": {
+        "rationale": "Section contains subsection explaining probability using experimental data.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.6.md",
+            "section": {
+              "id": "s018",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "## 概率帮你解释实验数据"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s018_ch8_s8.6",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_bf3ab5ed1e9f",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_1c5e18abecbc",
+      "target_node_id": "canon_knowledgepoint_0b800b414702",
+      "properties": {
+        "rationale": "Section explicitly defines and discusses simple random sampling.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.6.md",
+            "section": {
+              "id": "s018",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "“简单随机抽样”是最常用的一种抽样方法，其特点是抽取样本时总体中的每个个体被抽到的可能性相同"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s018_ch8_s8.6",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_566b88f77dcd",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_57718de4ebc5",
+      "target_node_id": "canon_knowledgepoint_7eb99b5cc714",
+      "properties": {
+        "rationale": "Problem requires calculating expected insurance premium based on probability.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.6.md",
+            "section": {
+              "id": "s018",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "飞机失事的概率 p=0.00005，一家保险公司要为乘客保险，承诺飞机一旦失事，将向每名乘客赔偿人民币40万元"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s018_ch8_s8.6",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_48bda90532b5",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_97977b8bfc70",
+      "target_node_id": "canon_knowledgepoint_0b800b414702",
+      "properties": {
+        "rationale": "Problem explicitly uses simple random sampling method for survey.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.6.md",
+            "section": {
+              "id": "s018",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "某校课外活动小组采用简单随机抽样的方法，对本校九年级学生一周内平均每天的睡眠时间t进行了调查"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s018_ch8_s8.6",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_d1b1389e6e20",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_8c45a70e003f",
+      "target_node_id": "canon_knowledgepoint_7eb99b5cc714",
+      "properties": {
+        "rationale": "Problem involves calculating probability of an event occurring.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_223907_义务教育教科书·数学九年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.6.md",
+            "section": {
+              "id": "s018",
+              "title": "第八章 统计和概率的简单应用"
+            },
+            "quote_or_summary": "电路图上有A、B、C、D4个开关和1个小灯泡，闭合开关D或同时闭合开关A、B、C都可以使小灯泡发亮"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s018_ch8_s8.6",
+      "revision_round": 0,
+      "status": "accepted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    }
+  ]
+}

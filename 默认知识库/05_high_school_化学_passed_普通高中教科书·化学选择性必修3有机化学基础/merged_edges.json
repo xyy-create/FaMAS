@@ -1,0 +1,907 @@
+{
+  "schema_version": "kg.merged_edges.v1",
+  "run_id": "kg_普通高中教科书·化学选择性必修3有机化学基础_20260630",
+  "edges": [
+    {
+      "edge_id": "canon_edge_contains_33365f250823",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_278d5b916d2a",
+      "target_node_id": "canon_knowledgepoint_b5d8ebf33ace",
+      "properties": {
+        "rationale": "Section explicitly defines functional group as atoms/groups reflecting common characteristics.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\001_第二单元有机化合物的分类和命名.md",
+            "section": {
+              "id": "s001",
+              "title": "第二单元 有机化合物的分类和命名"
+            },
+            "quote_or_summary": "反映一类有机化合物共同特性的原子或原子团叫做官能团（functional group）"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s001_001_第二单元有机化合物的分类和命名",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_contains_func_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_fa1337eccd3c",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_278d5b916d2a",
+      "target_node_id": "canon_knowledgepoint_f9815a04498c",
+      "properties": {
+        "rationale": "Section explicitly defines homologue as compounds with similar structure differing by CH2 groups.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\001_第二单元有机化合物的分类和命名.md",
+            "section": {
+              "id": "s001",
+              "title": "第二单元 有机化合物的分类和命名"
+            },
+            "quote_or_summary": "结构相似，分子组成相差一个或若干个 CH₂ 原子团的有机化合物互相称为同系物（homologue）"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s001_001_第二单元有机化合物的分类和命名",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_contains_homologue_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_13006031b87e",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_278d5b916d2a",
+      "target_node_id": "canon_knowledgepoint_2639e9c8720c",
+      "properties": {
+        "rationale": "Section details systematic nomenclature rules for alkanes with structural examples.",
+        "figures": [
+          {
+            "image_path": "images/page049_img001.jpg",
+            "name": "烷烃主链选择示例",
+            "description": "CH₃—CH(CH₃)—CH₂—CH(CH₂CH₃)—CH(CH₃)—CH₂—CH₃",
+            "figure_id": "ipa_evidence_5fd2d1304547"
+          },
+          {
+            "image_path": "images/page049_img002.jpg",
+            "name": "碳链编号方向示例",
+            "description": "CH₃—CH—CH₂—CH—CH—CH₂—CH₃ 支链位置对比",
+            "figure_id": "ipa_evidence_3052e867e13d"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\001_第二单元有机化合物的分类和命名.md",
+            "section": {
+              "id": "s001",
+              "title": "第二单元 有机化合物的分类和命名"
+            },
+            "quote_or_summary": "命名的基本方法是以母体名称作为主体名，并按规定的要求注明取代基或官能团的数目和位次"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s001_001_第二单元有机化合物的分类和命名",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_contains_naming_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_df1dcb5e6f68",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_278d5b916d2a",
+      "target_node_id": "canon_knowledgepoint_5a1a60cd8baf",
+      "properties": {
+        "rationale": "Section defines addition polymerization using vinyl chloride example and reaction equation.",
+        "figures": [
+          {
+            "image_path": "images/page061_img002.jpg",
+            "name": "氯乙烯加聚反应方程式",
+            "description": "n CH2=CHCl 单体 链节 聚合度",
+            "figure_id": "ipa_evidence_45d907b661b4"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\001_第二单元有机化合物的分类和命名.md",
+            "section": {
+              "id": "s001",
+              "title": "第二单元 有机化合物的分类和命名"
+            },
+            "quote_or_summary": "像氯乙烯这样具有不饱和键的有机化合物通过加聚反应得到高分子化合物的反应称为加聚反应"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s001_001_第二单元有机化合物的分类和命名",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_contains_polymerization_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_9e7e37631a98",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_278d5b916d2a",
+      "target_node_id": "canon_knowledgepoint_49cc7b9f62ac",
+      "properties": {
+        "rationale": "Section defines aliphatic hydrocarbons as hydrocarbons without benzene rings.",
+        "figures": [
+          {
+            "image_path": "images/page058_img001.jpg",
+            "name": "自然界中的脂肪烃",
+            "description": "图 3-1 自然界中的脂肪烃：冰山可燃冰与固态烃燃烧",
+            "figure_id": "ipa_evidence_aaa7c8ca8ead"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\001_第二单元有机化合物的分类和命名.md",
+            "section": {
+              "id": "s001",
+              "title": "第二单元 有机化合物的分类和命名"
+            },
+            "quote_or_summary": "属于脂肪族化合物的烃为脂肪烃，其分子中一定不含有苯环"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s001_001_第二单元有机化合物的分类和命名",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_contains_aliphatic_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_21441cc71f5a",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_b34a93ca3eb6",
+      "target_node_id": "canon_knowledgepoint_f9815a04498c",
+      "properties": {
+        "rationale": "Problem option B directly tests understanding of homologue definition regarding carbon count.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\001_第二单元有机化合物的分类和命名.md",
+            "section": {
+              "id": "s001",
+              "title": "第二单元 有机化合物的分类和命名"
+            },
+            "quote_or_summary": "含不同碳原子数的烷烃一定互为同系物"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s001_001_第二单元有机化合物的分类和命名",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_tests_prob001_homologue_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_24c28aff7711",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_abc2249bc157",
+      "target_node_id": "canon_knowledgepoint_b5d8ebf33ace",
+      "properties": {
+        "rationale": "Problem explicitly asks to identify functional groups in S-诱抗素 molecular structure.",
+        "figures": [
+          {
+            "image_path": "images/page051_img001.jpg",
+            "name": "S-诱抗素分子结构",
+            "description": "S-诱抗素分子结构 包含羰基、碳碳双键、羟基、羧基",
+            "figure_id": "ipa_evidence_6ad44684ee5f"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\001_第二单元有机化合物的分类和命名.md",
+            "section": {
+              "id": "s001",
+              "title": "第二单元 有机化合物的分类和命名"
+            },
+            "quote_or_summary": "S-诱抗素制剂有助于保持鲜花盛开，其分子结构如下图，该分子含有的官能团有。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s001_001_第二单元有机化合物的分类和命名",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_tests_prob002_func_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_0b79109083a7",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b43718e074be",
+      "target_node_id": "canon_knowledgepoint_994e73a57644",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\003_专题生活中常用的有机物4.md",
+            "section": {
+              "id": "s003",
+              "title": "专题生活中常用的有机物 4"
+            },
+            "quote_or_summary": "烃分子中饱和碳原子上的氢原子被羟基取代所形成的化合物称为醇①（alcohol）。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section explicitly defines alcohol as a key topic.",
+        "figures": [
+          {
+            "image_path": "images/page084_img002.jpg",
+            "name": "乙醇分子球棍模型",
+            "description": "乙醇分子的球棍模型，由红色、黑色和灰色球体组成；红色球体位于中央偏上，连接一个黑色球体，该黑色球体又连接多个灰色球体，整体呈现三维空间结构，未标注原子种类或化学式。",
+            "figure_id": "ipa_evidence_088b54d8a5e0"
+          }
+        ]
+      },
+      "source_context_id": "s003_003_专题生活中常用的有机物4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_alcohol"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_15cb6d11aaff",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b43718e074be",
+      "target_node_id": "canon_knowledgepoint_401f4043d81c",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\003_专题生活中常用的有机物4.md",
+            "section": {
+              "id": "s003",
+              "title": "专题生活中常用的有机物 4"
+            },
+            "quote_or_summary": "分子中羟基与苯环（或其他芳环）碳原子直接相连的有机化合物属于酚（phenol）。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section explicitly defines phenol as a key topic.",
+        "figures": [
+          {
+            "image_path": "images/page091_img003.jpg",
+            "name": "苯酚的空间填充模型",
+            "description": "苯酚的空间填充模型：中心为灰色六边形苯环，顶部连接一个青色球体（氧原子），该氧原子又连接一个黄色球体（氢原子）；苯环的其余五个碳原子上各连接一个黄色球体（氢原子）。背景为淡紫色。",
+            "figure_id": "ipa_evidence_1772a282b906"
+          }
+        ]
+      },
+      "source_context_id": "s003_003_专题生活中常用的有机物4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_phenol"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_9ded8eaa8956",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b43718e074be",
+      "target_node_id": "canon_knowledgepoint_680163a33ae0",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\003_专题生活中常用的有机物4.md",
+            "section": {
+              "id": "s003",
+              "title": "专题生活中常用的有机物 4"
+            },
+            "quote_or_summary": "醛基中包含羰基，羰基中的碳原子与氧原子之间通过双键连接在一起，羰基再与一个氢原子相连则构成醛基。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section explicitly defines aldehyde group structure.",
+        "figures": [
+          {
+            "image_path": "images/page099_img003.jpg",
+            "name": "乙醛分子的球棍模型",
+            "description": "乙醛分子的球棍模型，中心灰色球体代表碳原子，上方红色球体代表氧原子（通过双键连接），下方两个银色小球分别代表两个氢原子，整体呈平面三角形构型。",
+            "figure_id": "ipa_evidence_e2846359e6f9"
+          }
+        ]
+      },
+      "source_context_id": "s003_003_专题生活中常用的有机物4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_aldehyde_group"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_a03db495c005",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b43718e074be",
+      "target_node_id": "canon_knowledgepoint_655c67eae24c",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\003_专题生活中常用的有机物4.md",
+            "section": {
+              "id": "s003",
+              "title": "专题生活中常用的有机物 4"
+            },
+            "quote_or_summary": "在一定条件下，一个有机化合物分子内脱去一个或几个小分子生成不饱和化合物（含双键或三键）的反应，称为消去反应（elimination reaction）。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section explicitly defines elimination reaction.",
+        "figures": [
+          {
+            "image_path": "images/page087_img002.jpg",
+            "name": "乙醇脱水实验装置",
+            "description": "实验装置图：左侧圆底烧瓶固定在铁架台上，下方用酒精灯加热；烧瓶内盛有液体（标注为“乙醇”）和固体（标注为“P₂O₅”），瓶口插有带导管的塞子。中间导管连接至洗气瓶，右侧导管通入试管。",
+            "figure_id": "ipa_evidence_1eec53245d88"
+          }
+        ]
+      },
+      "source_context_id": "s003_003_专题生活中常用的有机物4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_elimination"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_d98a4b08e6f1",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_bca6955e1fd2",
+      "target_node_id": "canon_knowledgepoint_994e73a57644",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\003_专题生活中常用的有机物4.md",
+            "section": {
+              "id": "s003",
+              "title": "专题生活中常用的有机物 4"
+            },
+            "quote_or_summary": "向小烧杯中加入无水乙醇，再放入一小块切去表层的金属钠（绿豆粒般大小），观察实验现象。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem explicitly tests ethanol properties using sodium.",
+        "figures": [
+          {
+            "image_path": "images/page085_img002.jpg",
+            "name": "实验装置示意图",
+            "description": "实验装置示意图：紫色剪影风格的静态实验装置示意图，显示一个倾斜的试管正向下方锥形瓶中倾倒液体，整体被蓝色轮廓包围。",
+            "figure_id": "ipa_evidence_e9d5af1f1d61"
+          }
+        ]
+      },
+      "source_context_id": "s003_003_专题生活中常用的有机物4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_tests_alcohol"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_6fcc962a46a2",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_70d30bfa9af7",
+      "target_node_id": "canon_knowledgepoint_401f4043d81c",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\003_专题生活中常用的有机物4.md",
+            "section": {
+              "id": "s003",
+              "title": "专题生活中常用的有机物 4"
+            },
+            "quote_or_summary": "向稀苯酚溶液中滴加少量浓溴水，观察实验现象。根据实验现象，你能推测出该反应是取代反应还是加成反应吗？"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem explicitly tests phenol properties using bromine water.",
+        "figures": [
+          {
+            "image_path": "images/page093_img004.jpg",
+            "name": "实验装置示意图",
+            "description": "实验装置示意图：蓝色背景上的紫色像素化图标，显示一个滴管正向锥形瓶中滴加液体，整体为实验室化学实验操作的简化图形符号。",
+            "figure_id": "ipa_evidence_9fb244d75f06"
+          }
+        ]
+      },
+      "source_context_id": "s003_003_专题生活中常用的有机物4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_tests_phenol"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_3fab47cee629",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_655c67eae24c",
+      "target_node_id": "canon_knowledgepoint_994e73a57644",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\003_专题生活中常用的有机物4.md",
+            "section": {
+              "id": "s003",
+              "title": "专题生活中常用的有机物 4"
+            },
+            "quote_or_summary": "实验室中经常采用乙醇和浓硫酸共热发生脱水反应来获得乙烯或乙醚。"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Elimination reaction example relies on alcohol dehydration knowledge."
+      },
+      "source_context_id": "s003_003_专题生活中常用的有机物4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_requires_elimination_alcohol"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_0abbf255a0ab",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_680163a33ae0",
+      "target_node_id": "canon_knowledgepoint_994e73a57644",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\003_专题生活中常用的有机物4.md",
+            "section": {
+              "id": "s003",
+              "title": "专题生活中常用的有机物 4"
+            },
+            "quote_or_summary": "乙醇在催化剂的作用下可以被氧气氧化，生成具有特殊气味的乙醛。"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Aldehyde formation described as oxidation of alcohol."
+      },
+      "source_context_id": "s003_003_专题生活中常用的有机物4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_requires_aldehyde_alcohol"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_bba8bd0540b7",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ee705d789109",
+      "target_node_id": "canon_knowledgepoint_e29c7cca89af",
+      "properties": {
+        "rationale": "Section header and content define the knowledge point.",
+        "figures": [
+          {
+            "image_path": "images/page136_img004.jpg",
+            "name": "逆合成分析图示",
+            "description": "目标化合物 \\Rightarrow 前体1 \\Rightarrow 前体2 \\dashrightarrow 起始原料",
+            "figure_id": "ipa_evidence_36b0c3bb0bf6"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\004_第三单元有机合成设计.md",
+            "section": {
+              "id": "s004",
+              "title": "第三单元 有机合成设计"
+            },
+            "quote_or_summary": "逆合成分析法是设计有机合成路线的一种重要方法，它是将目标化合物倒退一步，寻找上一步反应的中间原料"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_第三单元有机合成设计",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_contains_retro"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_3c85022d332d",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ee705d789109",
+      "target_node_id": "canon_knowledgepoint_c6d7bb265519",
+      "properties": {
+        "rationale": "Section content defines atom economy concept.",
+        "figures": [
+          {
+            "image_path": "images/page138_img002.jpg",
+            "name": "原子经济性反应示例",
+            "description": "重排反应等原子经济性很好的反应类型示意图",
+            "figure_id": "ipa_evidence_ec2b967f4fc9"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\004_第三单元有机合成设计.md",
+            "section": {
+              "id": "s004",
+              "title": "第三单元 有机合成设计"
+            },
+            "quote_or_summary": "美国化学家特罗斯特提出以“原子经济性”的标准来评估化学反应的效率，也就是要考察分子中有多少原子最后进入到产物分子"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_第三单元有机合成设计",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_contains_atom"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c42d027aeb19",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ee705d789109",
+      "target_node_id": "canon_knowledgepoint_3ba7ea09179b",
+      "properties": {
+        "rationale": "Section content defines organic synthesis process.",
+        "figures": [
+          {
+            "image_path": "images/page136_img001.jpg",
+            "name": "有机合成过程示意图",
+            "description": "基础原料 \\xrightarrow{辅助原料1} 中间产物1 \\xrightarrow{辅助原料2} 中间产物2 \\xrightarrow{辅助原料n} 目标化合物",
+            "figure_id": "ipa_evidence_0ae4dbb0785e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\004_第三单元有机合成设计.md",
+            "section": {
+              "id": "s004",
+              "title": "第三单元 有机合成设计"
+            },
+            "quote_or_summary": "一般来说，有机合成就是利用简单、易得的原料，通过一系列有机化学反应，生成具有特定结构和功能的有机化合物的过程"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_第三单元有机合成设计",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_contains_process"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c04a1f171f49",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ee705d789109",
+      "target_node_id": "canon_knowledgepoint_3a963953281d",
+      "properties": {
+        "rationale": "Section content defines group interaction concept.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\004_第三单元有机合成设计.md",
+            "section": {
+              "id": "s004",
+              "title": "第三单元 有机合成设计"
+            },
+            "quote_or_summary": "以上事实充分说明有机化合物分子中基团之间是相互影响和相互制约的。基团之间的相互作用会影响物质的性质"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_第三单元有机合成设计",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_contains_group"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_5326c0ab6d89",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ee705d789109",
+      "target_node_id": "canon_knowledgepoint_b5d8ebf33ace",
+      "properties": {
+        "rationale": "Section content defines functional group concept.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\004_第三单元有机合成设计.md",
+            "section": {
+              "id": "s004",
+              "title": "第三单元 有机合成设计"
+            },
+            "quote_or_summary": "我们知道，有机化合物的性质主要取决于它所具有的官能团，有机化合物合成路线的设计往往围绕官能团展开"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_第三单元有机合成设计",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_contains_functional"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_aa2cec2ab61a",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_859505dcf7ec",
+      "target_node_id": "canon_knowledgepoint_3ba7ea09179b",
+      "properties": {
+        "rationale": "Problem requires applying synthesis route knowledge.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\004_第三单元有机合成设计.md",
+            "section": {
+              "id": "s004",
+              "title": "第三单元 有机合成设计"
+            },
+            "quote_or_summary": "用丙醛制取1,2-丙二醇时，按正确的合成路线依次发生的反应所属类型应是"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s004_004_第三单元有机合成设计",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_tests_mcq_process"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_dd25df8859c1",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_62cc21a37629",
+      "target_node_id": "canon_knowledgepoint_e29c7cca89af",
+      "properties": {
+        "rationale": "Problem requires designing synthesis route using retrosynthesis logic.",
+        "figures": [
+          {
+            "image_path": "images/page143_img001.jpg",
+            "name": "化合物I合成路线图",
+            "description": "A (C₄H₉Cl) 至 E + H 的反应路径图",
+            "figure_id": "ipa_evidence_9eb845581bd2"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\004_第三单元有机合成设计.md",
+            "section": {
+              "id": "s004",
+              "title": "第三单元 有机合成设计"
+            },
+            "quote_or_summary": "化合物 I (C₁₁H₁₂O₃) 是制备液晶材料的中间体之一，其分子中含有醛基和酯基。I可以用E和H在一定条件下合成："
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s004_004_第三单元有机合成设计",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_tests_syn_retro"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_b38c9f3df19b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_2fc14a70503e",
+      "target_node_id": "canon_knowledgepoint_6b3f86236fb1",
+      "properties": {
+        "rationale": "Chapter section title and content define carbohydrate knowledge point.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\005_第一单元糖类和油脂.md",
+            "section": {
+              "id": "s005",
+              "title": "第一单元 糖类和油脂"
+            },
+            "quote_or_summary": "糖类一般是指多羟基醛或多羟基酮以及能水解生成它们的物质。"
+          }
+        ]
+      },
+      "source_context_id": "s005_005_第一单元糖类和油脂",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_contains_carbohydrate"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_ed7ad643e1af",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_2fc14a70503e",
+      "target_node_id": "canon_knowledgepoint_b4b5b310e1d5",
+      "properties": {
+        "rationale": "Chapter section title and content define lipid knowledge point.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\005_第一单元糖类和油脂.md",
+            "section": {
+              "id": "s005",
+              "title": "第一单元 糖类和油脂"
+            },
+            "quote_or_summary": "油脂是由高级脂肪酸与甘油形成的酯。形成油脂的脂肪酸可以相同，也可以不同。"
+          }
+        ]
+      },
+      "source_context_id": "s005_005_第一单元糖类和油脂",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_contains_lipid"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_7031de230563",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_2fc14a70503e",
+      "target_node_id": "canon_knowledgepoint_cda11678290e",
+      "properties": {
+        "rationale": "Chapter section content defines amino acid knowledge point.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\005_第一单元糖类和油脂.md",
+            "section": {
+              "id": "s005",
+              "title": "第一单元 糖类和油脂"
+            },
+            "quote_or_summary": "从结构上看，氨基酸就是带有氨基的羧酸。自然界中最常见的为α-氨基酸。"
+          }
+        ]
+      },
+      "source_context_id": "s005_005_第一单元糖类和油脂",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_contains_amino_acid"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_7d3706d73e4e",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_2fc14a70503e",
+      "target_node_id": "canon_knowledgepoint_71382c7578a7",
+      "properties": {
+        "rationale": "Chapter section content defines protein knowledge point.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\005_第一单元糖类和油脂.md",
+            "section": {
+              "id": "s005",
+              "title": "第一单元 糖类和油脂"
+            },
+            "quote_or_summary": "蛋白质是由氨基酸通过肽键等相互连接而形成的一类具有特定结构和一定生物学功能的生物大分子。"
+          }
+        ]
+      },
+      "source_context_id": "s005_005_第一单元糖类和油脂",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_contains_protein"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_240614300706",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_2fc14a70503e",
+      "target_node_id": "canon_knowledgepoint_ae4119a30b3b",
+      "properties": {
+        "rationale": "Chapter section content defines nucleic acid knowledge point.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\005_第一单元糖类和油脂.md",
+            "section": {
+              "id": "s005",
+              "title": "第一单元 糖类和油脂"
+            },
+            "quote_or_summary": "核酸包括核糖核酸（RNA）和脱氧核糖核酸（DNA）两大类。核酸是遗传物质的载体。"
+          }
+        ]
+      },
+      "source_context_id": "s005_005_第一单元糖类和油脂",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_contains_nucleic_acid"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_2b299af9e314",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_2fc14a70503e",
+      "target_node_id": "canon_knowledgepoint_958dffd206a7",
+      "properties": {
+        "rationale": "Chapter section content defines glucose knowledge point.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\005_第一单元糖类和油脂.md",
+            "section": {
+              "id": "s005",
+              "title": "第一单元 糖类和油脂"
+            },
+            "quote_or_summary": "葡萄糖属于己醛糖，其结构简式可表示为HIOCH2(CHOH)4CHO。"
+          }
+        ]
+      },
+      "source_context_id": "s005_005_第一单元糖类和油脂",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_contains_glucose"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_44f040b53e4c",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_651e941c05bb",
+      "target_node_id": "canon_knowledgepoint_71382c7578a7",
+      "properties": {
+        "rationale": "Problem text explicitly asks about protein precipitation and activity.",
+        "confidence": 0.9,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_104422_普通高中教科书·化学选择性必修3有机化学基础_20260630\\enhanced_markdown\\sections\\005_第一单元糖类和油脂.md",
+            "section": {
+              "id": "s005",
+              "title": "第一单元 糖类和油脂"
+            },
+            "quote_or_summary": "使蛋白质从水中析出并保持其生理活性，可以加入下列溶液中的（ ）A. 硫酸铜溶液 B. 浓硫酸 C. 福尔马林 D. 饱和硫酸钠溶液"
+          }
+        ]
+      },
+      "source_context_id": "s005_005_第一单元糖类和油脂",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_tests_problem"
+      ]
+    }
+  ]
+}

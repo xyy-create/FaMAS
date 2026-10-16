@@ -1,0 +1,3581 @@
+{
+  "schema_version": "kg.merged_edges.v1",
+  "run_id": "kg_普通高中教科书·数学必修第二册_20260702",
+  "edges": [
+    {
+      "edge_id": "canon_edge_contains_878b28f9a31e",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_c49845428aa4",
+      "target_node_id": "canon_knowledgepoint_85a10d9803d3",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch10_s10.2.md",
+            "section": {
+              "id": "s002",
+              "title": "第十章 三角恒等变换"
+            },
+            "quote_or_summary": "以上这些公式都叫作倍角公式。倍角公式是和角公式的特例。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header and text explicitly define the double angle formulas as the core knowledge unit of this section."
+      },
+      "source_context_id": "s002_ch10_s10.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_ch10_s10.2_contains_kp_double_angle"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_13344914e249",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_0b5fc9ec30ed",
+      "target_node_id": "canon_knowledgepoint_85a10d9803d3",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch10_s10.2.md",
+            "section": {
+              "id": "s002",
+              "title": "第十章 三角恒等变换"
+            },
+            "quote_or_summary": "例 1 已知 sin α = 12/13, α ∈ (π/2, π), 求 sin 2α, cos 2α tan 2α 的值."
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem explicitly requires calculating double angle trigonometric values using given single angle data."
+      },
+      "source_context_id": "s002_ch10_s10.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_example1_tests_kp_double_angle"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_21ba8c6fb66f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_9bdeb9154603",
+      "target_node_id": "canon_knowledgepoint_85a10d9803d3",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch10_s10.2.md",
+            "section": {
+              "id": "s002",
+              "title": "第十章 三角恒等变换"
+            },
+            "quote_or_summary": "例 2 证明：(1+sin2θ-cos2θ)/(1+sin2θ+cos2θ) = tanθ."
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Proof task necessitates transforming 2θ terms using double angle identities to simplify the expression."
+      },
+      "source_context_id": "s002_ch10_s10.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_example2_tests_kp_double_angle"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_a13522aeb9ae",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_1affbaa78cf0",
+      "target_node_id": "canon_knowledgepoint_85a10d9803d3",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch10_s10.2.md",
+            "section": {
+              "id": "s002",
+              "title": "第十章 三角恒等变换"
+            },
+            "quote_or_summary": "例 5 在半圆形钢板上截取一块矩形材料... 面积 S = R^2 sin 2θ."
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Optimization problem uses double angle formula for area maximization derived from geometric constraints.",
+        "figures": [
+          {
+            "image_path": "images/page071_img001.jpg",
+            "name": "半圆内接矩形示意图",
+            "description": "图中显示一个半圆，圆心为 O，半径为 R。矩形 ABCD 内接于半圆，底边 AD 落在半圆直径上，顶点 B 在半圆弧上，顶点 C 在半圆弧左侧。角 AOB 标记为 θ，矩形阴影区域为灰色，各顶点 A、B、C、D 及圆心 O 均有标注。",
+            "figure_id": "ipa_evidence_447a8ee0b33a"
+          }
+        ]
+      },
+      "source_context_id": "s002_ch10_s10.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_example5_tests_kp_double_angle"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_c2599b87aa92",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_d688cedeb480",
+      "target_node_id": "canon_knowledgepoint_85a10d9803d3",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch10_s10.2.md",
+            "section": {
+              "id": "s002",
+              "title": "第十章 三角恒等变换"
+            },
+            "quote_or_summary": "10．如图，将矩形纸片的右下角折起，使得该角的顶点落在矩形的左边上，那么折痕长度 l 取决于角 θ 的大小。探求 l，θ 之间的关系式，并导出用 θ 表示 l 的函数表达式."
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Geometry problem in the double angle section requiring trigonometric modeling of fold length vs angle.",
+        "figures": [
+          {
+            "image_path": "images/page073_img003.jpg",
+            "name": "矩形纸片折叠示意图",
+            "description": "一个矩形纸片右下角被折起，使顶点落在左边边上，形成一个灰色阴影直角三角形。图中标注了底边水平长度为 6 cm，折痕长度为 l，折起后形成的锐角为 θ，且直角符号标在折痕与原底边的交点处。",
+            "figure_id": "ipa_evidence_48172900de4c"
+          }
+        ]
+      },
+      "source_context_id": "s002_ch10_s10.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_exercise10_tests_kp_double_angle"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_2d1b9de34d57",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_793d3d3442e0",
+      "target_node_id": "canon_knowledgepoint_85a10d9803d3",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch10_s10.2.md",
+            "section": {
+              "id": "s002",
+              "title": "第十章 三角恒等变换"
+            },
+            "quote_or_summary": "12.如图，屋顶的断面图是等腰三角形 ABC，其中 AB = BC，横梁 AC 的长为定值 2l, ∠BAC = α. 试问：当 α 为多大时，雨水从屋顶 (屋顶面为光滑斜面) 上流下所需的时间最短？"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Application problem in the section context, likely utilizing trigonometric functions including double angles for optimization.",
+        "figures": [
+          {
+            "image_path": "images/page073_img004.jpg",
+            "name": "等腰三角形屋顶断面图",
+            "description": "等腰三角形 ABC，其中 AB = BC，D 为 AC 上一点，BD 垂直于 AC，∠BAC = α",
+            "figure_id": "ipa_evidence_a1f4faeef070"
+          }
+        ]
+      },
+      "source_context_id": "s002_ch10_s10.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_exercise12_tests_kp_double_angle"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_f495a11c3c4a",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d9c2d7402953",
+      "target_node_id": "canon_knowledgepoint_27d7b4cda032",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section header explicitly names the knowledge point.",
+        "figures": [
+          {
+            "image_path": "images/page091_img001.jpg",
+            "name": "三角形 ABC 向量图",
+            "description": "蓝色线条绘制的三角形 ABC，顶点按 A、B、C 顺序标注；边 BA 和 AC 带有箭头，分别从 B 指向 A、从 A 指向 C；边 BC 为无箭头的实线，从 B 指向 C。",
+            "figure_id": "ipa_evidence_a7643e10277e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch11_s11.1.md",
+            "section": {
+              "id": "s004",
+              "title": "第11章 解三角形"
+            },
+            "quote_or_summary": "## 11.1\\n\\n## 余弦定理"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_ch11_s11.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_sec_contains_cosine_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_8bfee3be59a5",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d9c2d7402953",
+      "target_node_id": "canon_knowledgepoint_0d2b0597de1c",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Definition of solving triangles appears in the section text.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch11_s11.1.md",
+            "section": {
+              "id": "s004",
+              "title": "第11章 解三角形"
+            },
+            "quote_or_summary": "已知三角形的几个元素求其他元素的过程叫作解三角形."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_ch11_s11.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_sec_contains_solve_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_b2283242c924",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_d9c2d7402953",
+      "target_node_id": "canon_knowledgepoint_0363e4eb26e8",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Median formula is proved in Example 6 within this section.",
+        "figures": [
+          {
+            "image_path": "images/page094_img003.jpg",
+            "name": "三角形中线示意图",
+            "description": "一个三角形 ABC，顶点 A 在上方，底边 BC 水平；点 M 是 BC 边上的一点（标注为中线端点），AM 为从 A 到 M 的黑色线段（表示中线）。",
+            "figure_id": "ipa_evidence_2ce557cd3b65"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch11_s11.1.md",
+            "section": {
+              "id": "s004",
+              "title": "第11章 解三角形"
+            },
+            "quote_or_summary": "例 6 如图 11-1-4, AM 是 △ABC 的边 BC 上的中线，求证：AM = 1/2 \\sqrt{2(AB^2 + AC^2) - BC^2}"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_ch11_s11.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_sec_contains_median_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_bf3a5c364c9f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_d5b76e762eaf",
+      "target_node_id": "canon_knowledgepoint_27d7b4cda032",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Solution explicitly applies cosine theorem to find side a.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch11_s11.1.md",
+            "section": {
+              "id": "s004",
+              "title": "第11章 解三角形"
+            },
+            "quote_or_summary": "由余弦定理，得 a²=b²+c²-2bccosA= 3²+1²-2×3×1×cos 60°= 7"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s004_ch11_s11.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_ex1_tests_cosine_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_b128ea6f7015",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_ce71b2afc6a2",
+      "target_node_id": "canon_knowledgepoint_27d7b4cda032",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Solution uses cosine theorem to calculate distance AB.",
+        "figures": [
+          {
+            "image_path": "images/page092_img002.jpg",
+            "name": "水塘示意图",
+            "description": "图中显示一个不规则形状的蓝色水塘，其上标有两点 A 和 B，由一条虚线连接；水塘外下方有一点 C，用两条蓝色实线分别连接到 A 和 B，构成三角形 ABC。",
+            "figure_id": "ipa_evidence_6b1a22c516ed"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch11_s11.1.md",
+            "section": {
+              "id": "s004",
+              "title": "第11章 解三角形"
+            },
+            "quote_or_summary": "由余弦定理，得 AB² = CA² + CB² - 2 CA·CB cos C"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s004_ch11_s11.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_ex2_tests_cosine_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_dfdc6e21fb07",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_7fb03471f7ce",
+      "target_node_id": "canon_knowledgepoint_27d7b4cda032",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Solution applies cosine theorem in triangle ABC to find side lengths.",
+        "figures": [
+          {
+            "image_path": "images/page093_img001.jpg",
+            "name": "渡口问题示意图",
+            "description": "示意图显示渡口问题：点 A 为南岸码头，点 B 为北岸目标码头，AB 为 1.2km；水平向右箭头 AC 表示水流方向（东），长度 0.5km；AN 为正北方向。",
+            "figure_id": "ipa_evidence_fe92c77e496a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch11_s11.1.md",
+            "section": {
+              "id": "s004",
+              "title": "第11章 解三角形"
+            },
+            "quote_or_summary": "在△ABC 中，由余弦定理，得 BC² = 1.2² + 0.5² - 2×1.2×0.5 cos(90° - 15°)"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s004_ch11_s11.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_ex4_tests_cosine_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_598319e1c129",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_c467996f7836",
+      "target_node_id": "canon_knowledgepoint_0363e4eb26e8",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem asks to prove the median length formula directly.",
+        "figures": [
+          {
+            "image_path": "images/page094_img003.jpg",
+            "name": "三角形中线示意图",
+            "description": "一个三角形 ABC，顶点 A 在上方，底边 BC 水平；点 M 是 BC 边上的一点（标注为中线端点），AM 为从 A 到 M 的黑色线段（表示中线）。",
+            "figure_id": "ipa_evidence_2ce557cd3b65"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch11_s11.1.md",
+            "section": {
+              "id": "s004",
+              "title": "第11章 解三角形"
+            },
+            "quote_or_summary": "AM 是 △ABC 的边 BC 上的中线，求证：AM = 1/2 \\sqrt{2(AB^2 + AC^2) - BC^2}"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s004_ch11_s11.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_ex6_tests_median_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_3a2e212a7de4",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_0363e4eb26e8",
+      "target_node_id": "canon_knowledgepoint_27d7b4cda032",
+      "properties": {
+        "relation_label": "前置/依赖",
+        "rationale": "Proof of median formula relies on applying cosine theorem twice.",
+        "figures": [
+          {
+            "image_path": "images/page094_img003.jpg",
+            "name": "三角形中线示意图",
+            "description": "一个三角形 ABC，顶点 A 在上方，底边 BC 水平；点 M 是 BC 边上的一点（标注为中线端点），AM 为从 A 到 M 的黑色线段（表示中线）。",
+            "figure_id": "ipa_evidence_2ce557cd3b65"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch11_s11.1.md",
+            "section": {
+              "id": "s004",
+              "title": "第11章 解三角形"
+            },
+            "quote_or_summary": "在△ABM 中，由余弦定理，得 AB² = AM² + BM² - 2 AM·BM cos α"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s004_ch11_s11.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_median_requires_cosine_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_b072f11a6456",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9e5a0251ef84",
+      "target_node_id": "canon_knowledgepoint_8fd4bfaf492c",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch11_s11.2.md",
+            "section": {
+              "id": "s005",
+              "title": "第11章 解三角形"
+            },
+            "quote_or_summary": "## 11. 2"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section 11.2 title matches KnowledgePoint name '正弦定理', establishing direct containment.",
+        "figures": [
+          {
+            "image_path": "images/page096_img001.jpg",
+            "name": "",
+            "description": "三角形 ABC，其中 AD 为高，D 在 BC 上，∠ADB = 90°，∠BAD = α，边 BC 标记为 a，AC 标记为 b，AB 标记为 c",
+            "figure_id": "ipa_evidence_a78f20855ca0"
+          }
+        ]
+      },
+      "source_context_id": "s005_ch11_s11.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_section_s005_kp_sinethm_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_6cfd3d6f1062",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a6abdf4c5766",
+      "target_node_id": "canon_knowledgepoint_8fd4bfaf492c",
+      "properties": {
+        "rationale": "Section 11.3 explicitly defines and derives the Sine Theorem.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch11_s11.3.md",
+            "section": {
+              "id": "s006",
+              "title": "第11章 解三角形"
+            },
+            "quote_or_summary": "上述等式表明，三角形的各边与它所对角的正弦的比相等。这样，我们得到正弦定理"
+          }
+        ]
+      },
+      "source_context_id": "s006_ch11_s11.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_207437d7f5ea",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a6abdf4c5766",
+      "target_node_id": "canon_knowledgepoint_ab873789c74e",
+      "properties": {
+        "rationale": "Section 11.3 lists two main application types for the Sine Theorem.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch11_s11.3.md",
+            "section": {
+              "id": "s006",
+              "title": "第11章 解三角形"
+            },
+            "quote_or_summary": "利用正弦定理，可以解决以下两类解三角形的问题：已知两角和任一边；已知两边和其中一边的对角"
+          }
+        ]
+      },
+      "source_context_id": "s006_ch11_s11.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_9904fa5f8e7f",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a6abdf4c5766",
+      "target_node_id": "canon_knowledgepoint_a86b00c6bcac",
+      "properties": {
+        "rationale": "Section 11.3 introduces the Heron-Qin Jiushao formula for triangle area.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch11_s11.3.md",
+            "section": {
+              "id": "s006",
+              "title": "第11章 解三角形"
+            },
+            "quote_or_summary": "海伦公式给出了由三角形的三边长 a,b,c 计算面积的公式：S=√[p(p-a)(p-b)(p-c)]"
+          }
+        ]
+      },
+      "source_context_id": "s006_ch11_s11.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_d219ac07b342",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_eab273fdc011",
+      "target_node_id": "canon_knowledgepoint_8fd4bfaf492c",
+      "properties": {
+        "rationale": "Example 1 directly applies the Sine Theorem to solve for sides given angles.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch11_s11.3.md",
+            "section": {
+              "id": "s006",
+              "title": "第11章 解三角形"
+            },
+            "quote_or_summary": "例 1 如图 11-2-2，在△ABC 中，A=30°, C=100°, a=10，求 b,c(精确到 0.01)"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page097_img001.jpg",
+            "name": "",
+            "description": "> 三角形 ABC",
+            "figure_id": "ipa_evidence_422c3ac35a00"
+          }
+        ]
+      },
+      "source_context_id": "s006_ch11_s11.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_ecf6b17180d4",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_9825291f9e18",
+      "target_node_id": "canon_knowledgepoint_8fd4bfaf492c",
+      "properties": {
+        "rationale": "Example 2 applies the Sine Theorem to find ambiguous case solutions.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch11_s11.3.md",
+            "section": {
+              "id": "s006",
+              "title": "第11章 解三角形"
+            },
+            "quote_or_summary": "例 2 根据下列条件解三角形（边长精确到 0.01，角度精确到 0.1°):(1) a=16, b=26, A=30°"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page097_img005.jpg",
+            "name": "",
+            "description": "> 图 11-2-3",
+            "figure_id": "ipa_evidence_ed7b0aa3bad4"
+          }
+        ]
+      },
+      "source_context_id": "s006_ch11_s11.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_a0b5536fd9b8",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_5394dcc7f1f4",
+      "target_node_id": "canon_knowledgepoint_8fd4bfaf492c",
+      "properties": {
+        "rationale": "Example 3 applies the Sine Theorem to a surveying problem involving elevation.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch11_s11.3.md",
+            "section": {
+              "id": "s006",
+              "title": "第11章 解三角形"
+            },
+            "quote_or_summary": "例 3 如图 11－2－5，某登山队在山脚 A 处测得山顶 B 的仰角为 35°,沿倾斜角为 20°的斜坡前进 1000 m"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page098_img001.jpg",
+            "name": "",
+            "description": "> 图 11-2-5",
+            "figure_id": "ipa_evidence_fc482286cc2b"
+          }
+        ]
+      },
+      "source_context_id": "s006_ch11_s11.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_962b99673548",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_62667186932d",
+      "target_node_id": "canon_knowledgepoint_8fd4bfaf492c",
+      "properties": {
+        "rationale": "Example 5 uses the Sine Theorem to prove the Angle Bisector Theorem.",
+        "confidence": 0.95,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch11_s11.3.md",
+            "section": {
+              "id": "s006",
+              "title": "第11章 解三角形"
+            },
+            "quote_or_summary": "例 5 在△ABC 中，AD 是∠BAC 的平分线 (图 11－2－6),用正弦定理证明：AB/AC = BD/DC"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page099_img003.jpg",
+            "name": "",
+            "description": "> 图 11-2-6",
+            "figure_id": "ipa_evidence_ce511e880474"
+          }
+        ]
+      },
+      "source_context_id": "s006_ch11_s11.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_derived_from_97839f0b8f6b",
+      "predicate": "derived_from",
+      "source_node_id": "canon_knowledgepoint_a86b00c6bcac",
+      "target_node_id": "canon_knowledgepoint_8fd4bfaf492c",
+      "properties": {
+        "rationale": "The text states the Heron formula can be proved using the Sine Theorem.",
+        "confidence": 0.85,
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch11_s11.3.md",
+            "section": {
+              "id": "s006",
+              "title": "第11章 解三角形"
+            },
+            "quote_or_summary": "用余弦定理和正弦定理证明“三斜求积”公式或“海伦公式”"
+          }
+        ]
+      },
+      "source_context_id": "s006_ch11_s11.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_008"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_66f78d296081",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_2fe516d5b1d6",
+      "target_node_id": "canon_knowledgepoint_8b90cbe2c186",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section 12.1 explicitly defines complex numbers.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.1.md",
+            "section": {
+              "id": "s007",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "出现了形如 $a + b \\mathrm { i } ( a , b \\in \\mathbf { R } )$ 的数，我们把它们叫作复数"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_ch12_s12.1",
+      "revision_round": 0,
+      "status": "new",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_4fc5f2213bff",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_2fe516d5b1d6",
+      "target_node_id": "canon_knowledgepoint_f29d5e1850a0",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section introduces imaginary unit i as prerequisite for complex numbers.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.1.md",
+            "section": {
+              "id": "s007",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "引入一个新数 i，叫作虚数单位，并规定：(1）i ^ { 2 } = - 1"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_ch12_s12.1",
+      "revision_round": 0,
+      "status": "new",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_877fa2579ddd",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_2fe516d5b1d6",
+      "target_node_id": "canon_knowledgepoint_240173638736",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section states the necessary and sufficient condition for complex number equality.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.1.md",
+            "section": {
+              "id": "s007",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "如果两个复数的实部与虚部分别相等，那么我们就说这两个复数相等"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_ch12_s12.1",
+      "revision_round": 0,
+      "status": "new",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_03b55641ae2f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_0b5fc9ec30ed",
+      "target_node_id": "canon_knowledgepoint_8b90cbe2c186",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Example 1 requires identifying real/imaginary parts and classifying complex numbers.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.1.md",
+            "section": {
+              "id": "s007",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "例 1 写出复数 4，2—3i，0，一 $\\frac { 1 } { 2 } + \\frac { 4 } { 3 } \\mathrm { i } , \\mathrm { 5 } + \\sqrt { 2 } \\mathrm { i }$ ，6i的实部与虚部"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s007_ch12_s12.1",
+      "revision_round": 0,
+      "status": "new",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_e3f79dd0cd72",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_9bdeb9154603",
+      "target_node_id": "canon_knowledgepoint_8b90cbe2c186",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Example 2 determines conditions for real, imaginary, pure imaginary based on parameter m.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.1.md",
+            "section": {
+              "id": "s007",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "例 2 实数 m 取什么值时，复数 $z = m ( m - 1 ) + ( m - 1 ) \\mathrm { i }$ 是：（1）实数？（2）虚数？（3）纯虚数？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s007_ch12_s12.1",
+      "revision_round": 0,
+      "status": "new",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_5876d74d8f2a",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_b0e9ca6965f4",
+      "target_node_id": "canon_knowledgepoint_240173638736",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Example 3 directly applies the equality condition to solve for x and y.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.1.md",
+            "section": {
+              "id": "s007",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "例 3 已知 $( x + y ) + ( x - 2 y ) \\mathrm { i } = ( 2 x - 5 ) + ( 3 x + y ) \\mathrm { i }$ ，求实 数 x,y 的值."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s007_ch12_s12.1",
+      "revision_round": 0,
+      "status": "new",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_79e05dba693f",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_8b90cbe2c186",
+      "target_node_id": "canon_knowledgepoint_f29d5e1850a0",
+      "properties": {
+        "relation_label": "前置依赖关系",
+        "rationale": "Complex number definition relies on the introduction of imaginary unit i.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.1.md",
+            "section": {
+              "id": "s007",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "为此引入一个新数 i，叫作虚数单位... 这样，数的范围又扩充了，出现了形如 a+bi 的数，我们把它们叫作复数"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s007_ch12_s12.1",
+      "revision_round": 0,
+      "status": "new",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_5eb47b3a280a",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_10d68b8fc8b2",
+      "target_node_id": "canon_knowledgepoint_b76d72102450",
+      "properties": {
+        "rationale": "Section explicitly defines complex number addition rule.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.2.md",
+            "section": {
+              "id": "s008",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "复数的加法按照以下的法则进行运算：(a+b\\mathrm{i})+(c+d\\mathrm{i})=(a+c)+(b+d\\mathrm{i})"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_ch12_s12.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_6fea87309ea1",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_10d68b8fc8b2",
+      "target_node_id": "canon_knowledgepoint_b4d459018239",
+      "properties": {
+        "rationale": "Section explicitly defines complex number subtraction rule.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.2.md",
+            "section": {
+              "id": "s008",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "复数的减法是复数的加法的逆运算。(a+b\\mathrm{i})-(c+d\\mathrm{i})=(a-c)+(b-d\\mathrm{i})"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_ch12_s12.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_4c9b99f5adb4",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_10d68b8fc8b2",
+      "target_node_id": "canon_knowledgepoint_6eb87668839a",
+      "properties": {
+        "rationale": "Section explicitly defines complex number multiplication rule.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.2.md",
+            "section": {
+              "id": "s008",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "复数的乘法法则与多项式的乘法法则是类似的。(a+b\\mathrm{i})(c+d\\mathrm{i})=(ac-bd)+(bc+ad\\mathrm{i})"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_ch12_s12.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_8f005cb04dd4",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_10d68b8fc8b2",
+      "target_node_id": "canon_knowledgepoint_4fee52ab2e7a",
+      "properties": {
+        "rationale": "Section explicitly defines complex number division rule.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.2.md",
+            "section": {
+              "id": "s008",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "两个复数的商仍是一个复数。(a+b\\mathrm{i})/(c+d\\mathrm{i})=((ac+bd)+(bc-ad\\mathrm{i}))/(c^2+d^2)"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_ch12_s12.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_e598c47cc3fb",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_10d68b8fc8b2",
+      "target_node_id": "canon_knowledgepoint_bd9240f55f14",
+      "properties": {
+        "rationale": "Section explicitly defines conjugate complex number concept.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.2.md",
+            "section": {
+              "id": "s008",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "我们把实部相等、虚部互为相反数的两个复数叫作互为共轭复数"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_ch12_s12.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_97f598e9db9b",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_b80a1f997bfc",
+      "target_node_id": "canon_knowledgepoint_b76d72102450",
+      "properties": {
+        "rationale": "Example 1 requires applying addition rule in calculation.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.2.md",
+            "section": {
+              "id": "s008",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "例 1 计算 (1-3\\mathrm{i})-(2+5\\mathrm{i})+(-4+9\\mathrm{i})。解原式=-5+\\mathrm{i}"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_ch12_s12.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_eba7f2d97ad3",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_b80a1f997bfc",
+      "target_node_id": "canon_knowledgepoint_b4d459018239",
+      "properties": {
+        "rationale": "Example 1 requires applying subtraction rule in calculation.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.2.md",
+            "section": {
+              "id": "s008",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "例 1 计算 (1-3\\mathrm{i})-(2+5\\mathrm{i})+(-4+9\\mathrm{i})。解原式=-5+\\mathrm{i}"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_ch12_s12.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_e1206a7ee2e7",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_e6551085dbd3",
+      "target_node_id": "canon_knowledgepoint_6eb87668839a",
+      "properties": {
+        "rationale": "Example 4 requires applying multiplication rule to prove omega properties.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.2.md",
+            "section": {
+              "id": "s008",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "例 4 设\\omega=-\\frac{1}{2}+\\frac{\\sqrt{3}}{2}\\mathrm{i}，求证：1+\\omega+\\omega^2=0, \\omega^3=1"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_ch12_s12.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_008"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_c6fc3d25d673",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_b4d459018239",
+      "target_node_id": "canon_knowledgepoint_b76d72102450",
+      "properties": {
+        "rationale": "Subtraction defined as inverse operation of addition.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.2.md",
+            "section": {
+              "id": "s008",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "复数的减法是复数的加法的逆运算"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s008_ch12_s12.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_009"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_472faaffc249",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_4fee52ab2e7a",
+      "target_node_id": "canon_knowledgepoint_6eb87668839a",
+      "properties": {
+        "rationale": "Division method uses multiplication by conjugate.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.2.md",
+            "section": {
+              "id": "s008",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "解法2... (3-4\\mathrm{i})(3+4\\mathrm{i}) = 25"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s008_ch12_s12.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_010"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_984efba5f081",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_6eb87668839a",
+      "target_node_id": "canon_knowledgepoint_b76d72102450",
+      "properties": {
+        "rationale": "Multiplication satisfies distributive law involving addition.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch12_s12.2.md",
+            "section": {
+              "id": "s008",
+              "title": "第12章 复数"
+            },
+            "quote_or_summary": "复数的乘法满足交换律、结合律以及分配律"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s008_ch12_s12.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_011"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_a46b9d9ad66a",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_42ad6d93fadc",
+      "target_node_id": "canon_knowledgepoint_744183b01779",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section text explicitly defines prism concept with supporting diagrams.",
+        "figures": [
+          {
+            "image_path": "images/page148_img003.jpg",
+            "name": "三棱柱示意图",
+            "description": "图中展示了一个三棱柱 ABC-A'B'C'，上下底面为三角形，侧棱 AA'、BB'、CC' 连接对应顶点。",
+            "figure_id": "ipa_evidence_fa4f6501c83c"
+          },
+          {
+            "image_path": "images/page148_img004.jpg",
+            "name": "六棱柱示意图",
+            "description": "图中展示了一个六棱柱，上下底面分别为六边形 ABCDEF 和 A'B'C'D'E'F'。",
+            "figure_id": "ipa_evidence_ff7595dfbe6e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch13_s13.1.md",
+            "section": {
+              "id": "s011",
+              "title": "第13章 立体几何初步"
+            },
+            "quote_or_summary": "一般地，由一个平面多边形沿某一方向平移形成的空间图形叫作棱柱(prism)"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s011_ch13_s13.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_7a26a90ad020",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_42ad6d93fadc",
+      "target_node_id": "canon_knowledgepoint_fe76b37fe9a8",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section text explicitly defines pyramid concept with supporting diagrams.",
+        "figures": [
+          {
+            "image_path": "images/page148_img005.jpg",
+            "name": "三棱锥示意图",
+            "description": "一个以三角形为底面的三棱锥（四面体）的立体示意图，底面为三角形，三条侧棱从底面三个顶点汇聚于上方一个顶点。",
+            "figure_id": "ipa_evidence_dde7870ff7be"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch13_s13.1.md",
+            "section": {
+              "id": "s011",
+              "title": "第13章 立体几何初步"
+            },
+            "quote_or_summary": "当棱柱的一个底面收缩为一个点时，得到的空间图形叫作棱锥(pyramid)"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s011_ch13_s13.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_5242e588b2c0",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_42ad6d93fadc",
+      "target_node_id": "canon_knowledgepoint_f31c7cbd0bc7",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section text explicitly defines frustum concept with supporting diagrams.",
+        "figures": [
+          {
+            "image_path": "images/page149_img002.jpg",
+            "name": "棱台形成过程",
+            "description": "图13-1-9：展示用平行于底面的平面截四棱锥得到棱台的过程。",
+            "figure_id": "ipa_evidence_709dc1442536"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch13_s13.1.md",
+            "section": {
+              "id": "s011",
+              "title": "第13章 立体几何初步"
+            },
+            "quote_or_summary": "用一个平行于棱锥底面的平面去截棱锥，截面和底面之间的部分称之为棱台(frustum of pyramid)"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s011_ch13_s13.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_946297b372e2",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_42ad6d93fadc",
+      "target_node_id": "canon_knowledgepoint_528c4e7c13d9",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section text explicitly defines polyhedron concept with supporting diagrams.",
+        "figures": [
+          {
+            "image_path": "images/page150_img006.jpg",
+            "name": "石膏晶体",
+            "description": "石膏晶体：蓝色线框绘制的双四面体（正八面体）结构，由两个底面重合的四面体组成。",
+            "figure_id": "ipa_evidence_3a32ad62d629"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch13_s13.1.md",
+            "section": {
+              "id": "s011",
+              "title": "第13章 立体几何初步"
+            },
+            "quote_or_summary": "由若干个平面多边形围成的空间图形叫作多面体(polyhedron)"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s011_ch13_s13.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_6b8562b15d2b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_42ad6d93fadc",
+      "target_node_id": "canon_knowledgepoint_ea0b6f0eb205",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section text explicitly defines revolution solids concept with supporting diagrams.",
+        "figures": [
+          {
+            "image_path": "images/page151_img003.jpg",
+            "name": "圆柱生成",
+            "description": "一个由单色线条绘制的圆柱体，上下底面均为完整圆形，侧面为两条竖直直线。",
+            "figure_id": "ipa_evidence_abf980fffb1b"
+          },
+          {
+            "image_path": "images/page151_img004.jpg",
+            "name": "圆锥生成",
+            "description": "图13-1-13(4)：一个蓝色线条绘制的圆锥体，顶部为水平椭圆，两侧为直线段汇聚于底部顶点。",
+            "figure_id": "ipa_evidence_2415dc2dc222"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch13_s13.1.md",
+            "section": {
+              "id": "s011",
+              "title": "第13章 立体几何初步"
+            },
+            "quote_or_summary": "一条平面曲线绕它所在平面内的一条定直线旋转所形成的曲面叫作旋转面"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s011_ch13_s13.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_263caa90c1d5",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_42ad6d93fadc",
+      "target_node_id": "canon_knowledgepoint_a714ac53beea",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section text explicitly defines oblique measurement method with supporting diagrams.",
+        "figures": [
+          {
+            "image_path": "images/page154_img001.jpg",
+            "name": "正三角形直观图",
+            "description": "图中显示一个正三角形 ABC，其底边 AB 位于 x 轴上，取对称轴 CO 为 y 轴。",
+            "figure_id": "ipa_evidence_450c652840b2"
+          },
+          {
+            "image_path": "images/page154_img004.jpg",
+            "name": "正方体直观图",
+            "description": "斜二测画法绘制正方体直观图，显示了斜二测坐标轴 x'、y'、z'。",
+            "figure_id": "ipa_evidence_564079b0b4a4"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch13_s13.1.md",
+            "section": {
+              "id": "s011",
+              "title": "第13章 立体几何初步"
+            },
+            "quote_or_summary": "上面画直观图的方法叫作斜二测画法，其规则是：使 \\angle x'O'y'=45°，平行于 y 轴的线段长度为原来的一半"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s011_ch13_s13.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_952474e94282",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3adbb1d8b84d",
+      "target_node_id": "canon_knowledgepoint_744183b01779",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Example problem requires drawing a quadrangular prism based on definition.",
+        "figures": [
+          {
+            "image_path": "images/page149_img003.jpg",
+            "name": "三步画四棱柱",
+            "description": "第一步：画一个梯形（四边形）作为上底面。第二步：从该四边形的四个顶点分别向下画四条平行且等长的侧棱。第三步：连接四条侧棱的下端点。",
+            "figure_id": "ipa_evidence_ed67c712cb48"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch13_s13.1.md",
+            "section": {
+              "id": "s011",
+              "title": "第13章 立体几何初步"
+            },
+            "quote_or_summary": "例 1 画一个四棱柱和一个三棱台."
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s011_ch13_s13.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_e1129c60d1a4",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3adbb1d8b84d",
+      "target_node_id": "canon_knowledgepoint_f31c7cbd0bc7",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Example problem requires drawing a triangular frustum based on definition.",
+        "figures": [
+          {
+            "image_path": "images/page150_img001.jpg",
+            "name": "",
+            "description": "> 图13-1-10",
+            "figure_id": "ipa_evidence_48d9820a032a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch13_s13.1.md",
+            "section": {
+              "id": "s011",
+              "title": "第13章 立体几何初步"
+            },
+            "quote_or_summary": "例 1 画一个四棱柱和一个三棱台."
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s011_ch13_s13.1",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_008"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_418048fe992b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4a4c365e9ab2",
+      "target_node_id": "canon_knowledgepoint_8f6606bddc46",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch13_s13.2.md",
+            "section": {
+              "id": "s012",
+              "title": "第13章 立体几何初步"
+            },
+            "quote_or_summary": "基本事实 1 过不在一条直线上的三个点，有且只有一个平面 (图 13-2-3)."
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page159_img001.jpg",
+            "name": "三脚架与平面示意图",
+            "description": "三脚架立于蓝色平面之上，支脚接触平面于三点 A、B、C，用于说明不共线的三点确定一个平面.",
+            "figure_id": "ipa_evidence_3afad47cfc1b"
+          }
+        ]
+      },
+      "source_context_id": "s012_ch13_s13.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [
+        {
+          "standard": "kg_schema_label_property_v2",
+          "version": "v2"
+        }
+      ],
+      "original_edge_ids": [
+        "edge_section_kp_plane_basic_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_4cb3525534d3",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4a4c365e9ab2",
+      "target_node_id": "canon_knowledgepoint_8e619a6c6bde",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch13_s13.2.md",
+            "section": {
+              "id": "s012",
+              "title": "第13章 立体几何初步"
+            },
+            "quote_or_summary": "我们把不同在任何一个平面内的两条直线叫作异面直线 (skew lines)."
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page163_img002.jpg",
+            "name": "蜗杆与蜗轮轴线示意图",
+            "description": "两条虚线分别表示蜗杆轴线 a 和蜗轮轴线 b，两轴线既不平行也不相交，呈空间交错关系.",
+            "figure_id": "ipa_evidence_7b714bc2a769"
+          }
+        ]
+      },
+      "source_context_id": "s012_ch13_s13.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [
+        {
+          "standard": "kg_schema_label_property_v2",
+          "version": "v2"
+        }
+      ],
+      "original_edge_ids": [
+        "edge_section_kp_skew_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_bede8d6546e7",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4a4c365e9ab2",
+      "target_node_id": "canon_knowledgepoint_155b202d11a8",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch13_s13.2.md",
+            "section": {
+              "id": "s012",
+              "title": "第13章 立体几何初步"
+            },
+            "quote_or_summary": "基本事实 4 平行于同一条直线的两条直线平行."
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page164_img001.jpg",
+            "name": "长方体平行棱示意图",
+            "description": "长方体 ABCD-A₁B₁C₁D₁ 中，AA₁ // BB₁，CC₁ // BB₁，通过观察可以看出 AA₁ // CC₁.",
+            "figure_id": "ipa_evidence_223033187b9c"
+          }
+        ]
+      },
+      "source_context_id": "s012_ch13_s13.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [
+        {
+          "standard": "kg_schema_label_property_v2",
+          "version": "v2"
+        }
+      ],
+      "original_edge_ids": [
+        "edge_section_kp_parallel_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_51079714d069",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4a4c365e9ab2",
+      "target_node_id": "canon_knowledgepoint_fc06f90b1b6c",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch13_s13.2.md",
+            "section": {
+              "id": "s012",
+              "title": "第13章 立体几何初步"
+            },
+            "quote_or_summary": "直线与平面平行的判定定理 如果平面外一条直线与此平面内的一条直线平行，那么该直线与此平面平行."
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page172_img001.jpg",
+            "name": "三棱锥线面平行示意图",
+            "description": "三棱锥 A-BCD 的立体示意图，E、F 分别为侧棱 AB、AD 的中点，线段 EF 以虚线表示.",
+            "figure_id": "ipa_evidence_59f4627f56bc"
+          }
+        ]
+      },
+      "source_context_id": "s012_ch13_s13.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [
+        {
+          "standard": "kg_schema_label_property_v2",
+          "version": "v2"
+        }
+      ],
+      "original_edge_ids": [
+        "edge_section_kp_line_plane_par_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_da49db18fe80",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4a4c365e9ab2",
+      "target_node_id": "canon_knowledgepoint_f53201cf1047",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch13_s13.2.md",
+            "section": {
+              "id": "s012",
+              "title": "第13章 立体几何初步"
+            },
+            "quote_or_summary": "如果一条直线与一个平面内的任意一条直线都垂直，那么称直线与平面垂直，记作 a⊥α."
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page174_img001.jpg",
+            "name": "圆锥轴与底面垂直示意图",
+            "description": "圆锥 SO，底面为圆，O 为圆心，SO 为高（虚线），SC 为母线（实线）.",
+            "figure_id": "ipa_evidence_0cf9a7883d49"
+          }
+        ]
+      },
+      "source_context_id": "s012_ch13_s13.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [
+        {
+          "standard": "kg_schema_label_property_v2",
+          "version": "v2"
+        }
+      ],
+      "original_edge_ids": [
+        "edge_section_kp_line_plane_perp_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_aae5d1ce1b6e",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4a4c365e9ab2",
+      "target_node_id": "canon_knowledgepoint_c3f531763d92",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch13_s13.2.md",
+            "section": {
+              "id": "s012",
+              "title": "第13章 立体几何初步"
+            },
+            "quote_or_summary": "两个平面平行的判定定理如果一个平面内的两条相交直线与另一个平面平行，那么这两个平面平行."
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page182_img004.jpg",
+            "name": "面面平行判定定理示意图",
+            "description": "平面 α 内有两条相交直线 a, b，交点为 A；直线 a // 平面 β，直线 b // 平面 β.",
+            "figure_id": "ipa_evidence_8769547f07d6"
+          }
+        ]
+      },
+      "source_context_id": "s012_ch13_s13.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [
+        {
+          "standard": "kg_schema_label_property_v2",
+          "version": "v2"
+        }
+      ],
+      "original_edge_ids": [
+        "edge_section_kp_plane_plane_par_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_7148e00d15ea",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4a4c365e9ab2",
+      "target_node_id": "canon_knowledgepoint_a3be0f8d4e01",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch13_s13.2.md",
+            "section": {
+              "id": "s012",
+              "title": "第13章 立体几何初步"
+            },
+            "quote_or_summary": "平面与平面垂直的判定定理 如果一个平面过另一个平面的垂线，那么这两个平面垂直."
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page186_img001.jpg",
+            "name": "正方体二面角示意图",
+            "description": "正方体 ABCD-A'B'C'D' 的立体示意图，可见顶点标注 A、B、C、D（底面）和 A'、B'、C'、D'（顶面）.",
+            "figure_id": "ipa_evidence_ce59b182ec28"
+          }
+        ]
+      },
+      "source_context_id": "s012_ch13_s13.2",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [
+        {
+          "standard": "kg_schema_label_property_v2",
+          "version": "v2"
+        }
+      ],
+      "original_edge_ids": [
+        "edge_section_kp_plane_plane_perp_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_430679b2ffac",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_19a7fe085680",
+      "target_node_id": "canon_knowledgepoint_fea70b8346df",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.1.md",
+            "section": {
+              "id": "s014",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "应用统计方法分析问题时，最好能够获得关于研究对象的所有数据，但在实际问题中往往抽取部分数据进行研究"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section title and introductory text define the basic pathways for data acquisition."
+      },
+      "source_context_id": "s014_ch14_s14.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_e665df51fad1",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_19a7fe085680",
+      "target_node_id": "canon_knowledgepoint_679eb117597e",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.1.md",
+            "section": {
+              "id": "s014",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "我国在尾数逢0的年份开展人口普查"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section explicitly describes the national population census regulation."
+      },
+      "source_context_id": "s014_ch14_s14.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_8841f9ec3a2b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_19a7fe085680",
+      "target_node_id": "canon_knowledgepoint_cbbe6201aaa5",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.1.md",
+            "section": {
+              "id": "s014",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "在两次人口普查的中间年份进行全国1%人口抽样调查"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section explicitly describes the national 1% population sampling survey regulation."
+      },
+      "source_context_id": "s014_ch14_s14.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_0b69c2784f3e",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_9ba214e3de86",
+      "target_node_id": "canon_knowledgepoint_fea70b8346df",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.1.md",
+            "section": {
+              "id": "s014",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "查阅《中国统计年鉴》，了解1978年后我国各年度的人口性别比，0～14岁、15～64 岁和65 岁及以上人口占比."
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Problem requires accessing statistical yearbook data, applying data acquisition concepts."
+      },
+      "source_context_id": "s014_ch14_s14.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_740dc2db7c9c",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_88081c83aa64",
+      "target_node_id": "canon_knowledgepoint_0b800b414702",
+      "properties": {
+        "rationale": "Section 14.2 defines Simple Random Sampling.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.2.md",
+            "section": {
+              "id": "s015",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "一般地，从个体数为N的总体中逐步不放回地取出n个个体作为样本(n<N)，如果每个个体都有相同的机会被取到，那么这样的抽样方法称为简单随机抽样."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s015_ch14_s14.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_dadd6e4dcacd",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_88081c83aa64",
+      "target_node_id": "canon_knowledgepoint_291150ee4a51",
+      "properties": {
+        "rationale": "Section 14.2 defines Stratified Sampling.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.2.md",
+            "section": {
+              "id": "s015",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "当总体由差异明显的几个部分组成时，为了使样本更客观地反映总体情况，我们常常将总体中的个体按不同的特点分成层次比较分明的几个部分，然后按各个部分在总体中所占的比实施抽样."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s015_ch14_s14.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_feb7851cb329",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_88081c83aa64",
+      "target_node_id": "canon_knowledgepoint_f1449f4d074a",
+      "properties": {
+        "rationale": "Section 14.2 defines Population, Individual, and Sample.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.2.md",
+            "section": {
+              "id": "s015",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "一般地，在获取数据时，我们把所考察对象(某一项指标的数据)的全体叫作总体(population),把组成总体的每一个考察对象叫作个体(subject)，从总体中所抽取的一部分个体叫作总体的一个样本(sample)."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s015_ch14_s14.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_e6f88dbf3221",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_88081c83aa64",
+      "target_node_id": "canon_knowledgepoint_6abd89bb1063",
+      "properties": {
+        "rationale": "Section 14.2 defines Random Number Table.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.2.md",
+            "section": {
+              "id": "s015",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "制作一个表，这个表由0，1，2，3，4，5，6,7，8，9这10个数字组成，表中任一位置出现任一数字的概率相同，且不同位置的数字之间是独立的."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s015_ch14_s14.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_4079d7e26667",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_88081c83aa64",
+      "target_node_id": "canon_knowledgepoint_db3001270242",
+      "properties": {
+        "rationale": "Section 14.2 defines Sample Capacity.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.2.md",
+            "section": {
+              "id": "s015",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "样本中个体的数目叫作样本容量(size of a sample)."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s015_ch14_s14.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_95d27150ed49",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_a39ed67d615a",
+      "target_node_id": "canon_knowledgepoint_f1449f4d074a",
+      "properties": {
+        "rationale": "Example 1 asks which problems require sample application.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.2.md",
+            "section": {
+              "id": "s015",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "例1 为了解决下列问题，哪些需要应用样本？并就怎样选取样本说出自己的想法."
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s015_ch14_s14.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_a25aa41938c9",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_82bc74c7db5b",
+      "target_node_id": "canon_knowledgepoint_f1449f4d074a",
+      "properties": {
+        "rationale": "Exercise 1 asks about data collection schemes involving samples.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.2.md",
+            "section": {
+              "id": "s015",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "练习 1．接受就业技能训练是否能够提高受训者的收入水平？下面是两种获得数据的方案，你认为哪种更有效？并说明理由."
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s015_ch14_s14.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_b4dddc9722e2",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_0b800b414702",
+      "target_node_id": "canon_knowledgepoint_f1449f4d074a",
+      "properties": {
+        "rationale": "Simple Random Sampling definition relies on Population/Individual/Sample concepts.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.2.md",
+            "section": {
+              "id": "s015",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "一般地，从个体数为N的总体中逐步不放回地取出n个个体作为样本(n<N)，如果每个个体都有相同的机会被取到，那么这样的抽样方法称为简单随机抽样."
+          }
+        ],
+        "confidence": 0.8
+      },
+      "source_context_id": "s015_ch14_s14.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_008"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_d4ad0deb0f73",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_291150ee4a51",
+      "target_node_id": "canon_knowledgepoint_f1449f4d074a",
+      "properties": {
+        "rationale": "Stratified Sampling definition relies on Population/Individual/Sample concepts.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.2.md",
+            "section": {
+              "id": "s015",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "当总体由差异明显的几个部分组成时，为了使样本更客观地反映总体情况，我们常常将总体中的个体按不同的特点分成层次比较分明的几个部分，然后按各个部分在总体中所占的比实施抽样."
+          }
+        ],
+        "confidence": 0.8
+      },
+      "source_context_id": "s015_ch14_s14.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_009"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_5e1c37ab31a2",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_6abd89bb1063",
+      "target_node_id": "canon_knowledgepoint_f1449f4d074a",
+      "properties": {
+        "rationale": "Random Number Table usage requires understanding of Sample.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.2.md",
+            "section": {
+              "id": "s015",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "制作一个表，这个表由0，1，2，3，4，5，6,7，8，9这10个数字组成，表中任一位置出现任一数字的概率相同，且不同位置的数字之间是独立的."
+          }
+        ],
+        "confidence": 0.75
+      },
+      "source_context_id": "s015_ch14_s14.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_010"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_2d78ff106a6c",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3eaff4534d0c",
+      "target_node_id": "canon_knowledgepoint_6d87aabba89c",
+      "properties": {
+        "rationale": "Section 14.3 introduces statistical charts including pie charts.",
+        "figures": [
+          {
+            "image_path": "images/page227_img003.jpg",
+            "name": "图14-3-1",
+            "description": "扇形统计图示例，展示2014年三个年龄段人口占比",
+            "figure_id": "ipa_evidence_67ab5a143e43"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.3.md",
+            "section": {
+              "id": "s016",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "我们已经知道，可以用统计图表表示数据，比如扇形统计图（饼图）、折线统计图、频数直方图等."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s016_ch14_s14.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_f2b0912f8788",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3eaff4534d0c",
+      "target_node_id": "canon_knowledgepoint_437598286a5c",
+      "properties": {
+        "rationale": "Section 14.3 introduces line charts as a method to show trends.",
+        "figures": [
+          {
+            "image_path": "images/page227_img004.jpg",
+            "name": "图14-3-2",
+            "description": "折线图显示年份与百分比关系",
+            "figure_id": "ipa_evidence_9f7bd8a5459e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.3.md",
+            "section": {
+              "id": "s016",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "折线统计图可以看出变化趋势."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s016_ch14_s14.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_2d5ae9df6555",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3eaff4534d0c",
+      "target_node_id": "canon_knowledgepoint_0e9e990ea116",
+      "properties": {
+        "rationale": "Section 14.3 introduces frequency histograms to visualize distributions.",
+        "figures": [
+          {
+            "image_path": "images/page228_img003.jpg",
+            "name": "图14-3-3",
+            "description": "频数直方图，横轴为年度销售收入，纵轴为频数",
+            "figure_id": "ipa_evidence_04caa3bbeea2"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.3.md",
+            "section": {
+              "id": "s016",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "我们还可以将此表\"直观化\",作出频数直方图(图14－3－3)."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s016_ch14_s14.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_ecd9e77bec44",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3eaff4534d0c",
+      "target_node_id": "canon_knowledgepoint_ac17e56b00c4",
+      "properties": {
+        "rationale": "Section 14.3 defines frequency histograms where area equals frequency.",
+        "figures": [
+          {
+            "image_path": "images/page231_img002.jpg",
+            "name": "图14-3-6",
+            "description": "频率直方图与频率折线图，横轴为年度销售收入",
+            "figure_id": "ipa_evidence_864afab97fa4"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.3.md",
+            "section": {
+              "id": "s016",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "我们将这种直方图称为频率直方图(frequency histogram)."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s016_ch14_s14.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_a109a46a7640",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_ad982fd9826b",
+      "target_node_id": "canon_knowledgepoint_6d87aabba89c",
+      "properties": {
+        "rationale": "Example 1 asks students to draw a pie chart for population data.",
+        "figures": [
+          {
+            "image_path": "images/page227_img003.jpg",
+            "name": "图14-3-1",
+            "description": "扇形统计图示例",
+            "figure_id": "ipa_evidence_67ab5a143e43"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.3.md",
+            "section": {
+              "id": "s016",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "试用扇形统计图表示 2014年三个年龄段人口所占比;"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s016_ch14_s14.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_055b89abd5ca",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_ad982fd9826b",
+      "target_node_id": "canon_knowledgepoint_437598286a5c",
+      "properties": {
+        "rationale": "Example 1 asks students to draw a line chart for elderly population data.",
+        "figures": [
+          {
+            "image_path": "images/page227_img004.jpg",
+            "name": "图14-3-2",
+            "description": "折线图显示年份与百分比关系",
+            "figure_id": "ipa_evidence_9f7bd8a5459e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.3.md",
+            "section": {
+              "id": "s016",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "试用折线统计图表示1990 年、2000 年和 2014年65岁及以上人口占比."
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s016_ch14_s14.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_7a31fe9379ae",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_b190c29efd97",
+      "target_node_id": "canon_knowledgepoint_0e9e990ea116",
+      "properties": {
+        "rationale": "Example 2 asks students to construct a frequency histogram from sales data.",
+        "figures": [
+          {
+            "image_path": "images/page228_img003.jpg",
+            "name": "图14-3-3",
+            "description": "频数直方图示例",
+            "figure_id": "ipa_evidence_04caa3bbeea2"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.3.md",
+            "section": {
+              "id": "s016",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "我们还可以将此表\"直观化\",作出频数直方图(图14－3－3)."
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s016_ch14_s14.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_bd3afbc28de1",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_6b9f01c2c605",
+      "target_node_id": "canon_knowledgepoint_ac17e56b00c4",
+      "properties": {
+        "rationale": "Example 3 asks students to draw a frequency histogram for tree circumference data.",
+        "figures": [
+          {
+            "image_path": "images/page232_img002.jpg",
+            "name": "图14-3-7",
+            "description": "频率直方图示例",
+            "figure_id": "ipa_evidence_e5e53554543d"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.3.md",
+            "section": {
+              "id": "s016",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "（2）绘制频率直方图；... 这组数据的频率直方图如图14－3－7所示."
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s016_ch14_s14.3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_d13e9cb017ab",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a3ba6b19a6bb",
+      "target_node_id": "canon_knowledgepoint_5230c5f49a41",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.4.md",
+            "section": {
+              "id": "s017",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "一般地，我们把总体中所有数据的算术平均数称为总体的均值(mean)"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section 14.4 defines mean as a central tendency parameter."
+      },
+      "source_context_id": "s017_ch14_s14.4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_cp_section_14_4_kp_mean"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_26447a7dccd6",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a3ba6b19a6bb",
+      "target_node_id": "canon_knowledgepoint_8bf92df6d7f7",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.4.md",
+            "section": {
+              "id": "s017",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "一般地，我们将一组数据中出现次数最多的那个数据叫作该组数据的众数(mode)"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section 14.4 defines mode as the most frequent data point.",
+        "figures": [
+          {
+            "image_path": "images/page239_img002.jpg",
+            "name": "牙膏品牌销量图",
+            "description": "某超市上个月出售的牙膏品牌销售量相关数据图，显示4号牙膏最受欢迎。",
+            "figure_id": "ipa_evidence_e0d4db15c810"
+          }
+        ]
+      },
+      "source_context_id": "s017_ch14_s14.4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_cp_section_14_4_kp_mode"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_801706b5eff5",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a3ba6b19a6bb",
+      "target_node_id": "canon_knowledgepoint_bc0a782c976f",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.4.md",
+            "section": {
+              "id": "s017",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "我们把一组数据的最大值与最小值的差称为极差（range）"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section 14.4 defines range as difference between max and min.",
+        "figures": [
+          {
+            "image_path": "images/page242_img001.jpg",
+            "name": "钢筋抗拉强度点线图",
+            "description": "甲、乙两种钢筋样本数据在数轴上的标绘，用于比较极差和稳定性。",
+            "figure_id": "ipa_evidence_03875b107dd1"
+          }
+        ]
+      },
+      "source_context_id": "s017_ch14_s14.4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_cp_section_14_4_kp_range"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_fe4f83d78f04",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a3ba6b19a6bb",
+      "target_node_id": "canon_knowledgepoint_28552ec0fb74",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.4.md",
+            "section": {
+              "id": "s017",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "我们把由此所得的值称为这组数据的方差(variance)"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section 14.4 defines variance as average squared deviation.",
+        "figures": [
+          {
+            "image_path": "images/page242_img001.jpg",
+            "name": "钢筋抗拉强度点线图",
+            "description": "甲、乙两种钢筋样本数据在数轴上的标绘，用于比较极差和稳定性。",
+            "figure_id": "ipa_evidence_03875b107dd1"
+          }
+        ]
+      },
+      "source_context_id": "s017_ch14_s14.4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_cp_section_14_4_kp_variance"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_cd3fc38777a8",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a3ba6b19a6bb",
+      "target_node_id": "canon_knowledgepoint_fdccc5a32ee0",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.4.md",
+            "section": {
+              "id": "s017",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "所以我们将方差的算术平方根称为这组数据的标准差(standard deviation)"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section 14.4 defines standard deviation as sqrt of variance.",
+        "figures": [
+          {
+            "image_path": "images/page242_img001.jpg",
+            "name": "钢筋抗拉强度点线图",
+            "description": "甲、乙两种钢筋样本数据在数轴上的标绘，用于比较极差和稳定性。",
+            "figure_id": "ipa_evidence_03875b107dd1"
+          }
+        ]
+      },
+      "source_context_id": "s017_ch14_s14.4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_cp_section_14_4_kp_stddev"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_0dd10407c67b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a3ba6b19a6bb",
+      "target_node_id": "canon_knowledgepoint_0fa30a5333d3",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.4.md",
+            "section": {
+              "id": "s017",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "一般地，一组数据的k百分位数(percentile)是这样一个值φ_k，它使得这组数据中至少有k%的数据小于或等于φ_k"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section 14.4 defines percentile as value below which k% of data falls.",
+        "figures": [
+          {
+            "image_path": "images/page249_img001.jpg",
+            "name": "百分位数位置示意图",
+            "description": "样本数据从小到大排列后，k百分位数所处位置的图示说明。",
+            "figure_id": "ipa_evidence_5fce1c15a41e"
+          }
+        ]
+      },
+      "source_context_id": "s017_ch14_s14.4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_cp_section_14_4_kp_percentile"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_derived_from_8ee33717cf91",
+      "predicate": "derived_from",
+      "source_node_id": "canon_knowledgepoint_28552ec0fb74",
+      "target_node_id": "canon_knowledgepoint_fdccc5a32ee0",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.4.md",
+            "section": {
+              "id": "s017",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "因为方差与原始数据的单位不同，且平方后可能夸大了离差的程度，所以我们将方差的算术平方根称为这组数据的标准差"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Standard deviation is explicitly defined as the arithmetic square root of variance.",
+        "figures": [
+          {
+            "image_path": "images/page242_img001.jpg",
+            "name": "钢筋抗拉强度点线图",
+            "description": "甲、乙两种钢筋样本数据在数轴上的标绘，用于比较极差和稳定性。",
+            "figure_id": "ipa_evidence_03875b107dd1"
+          }
+        ]
+      },
+      "source_context_id": "s017_ch14_s14.4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_derived_from_kp_variance_kp_stddev"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_101d6b47ac53",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_28552ec0fb74",
+      "target_node_id": "canon_knowledgepoint_5230c5f49a41",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.4.md",
+            "section": {
+              "id": "s017",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "设一组样本数据x_i，其平均数为x，则称s^2为这个样本的方差"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Variance formula depends on the mean of the data set."
+      },
+      "source_context_id": "s017_ch14_s14.4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_requires_kp_variance_kp_mean"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_derived_from_b98df07d6870",
+      "predicate": "derived_from",
+      "source_node_id": "canon_knowledgepoint_0fa30a5333d3",
+      "target_node_id": "canon_knowledgepoint_8f5077049d09",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.4.md",
+            "section": {
+              "id": "s017",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "显然，中位数即为50百分位数，我们也把中位数、25百分位数和75百分位数称为四分位数"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Median is explicitly identified as the 50th percentile."
+      },
+      "source_context_id": "s017_ch14_s14.4",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_derived_from_kp_percentile_kp_median"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_214733d1220b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a3ba6b19a6bb",
+      "target_node_id": "canon_knowledgepoint_8f5077049d09",
+      "properties": {
+        "relation_label": null,
+        "rationale": "Section 14.4 defines median as the middle value in sorted data.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch14_s14.4.md",
+            "section": {
+              "id": "s017",
+              "title": "第14章 统计"
+            },
+            "quote_or_summary": "一般地，将一组数据按照从小到大的顺序排成一列，如果数据的个数为奇数，那么排在正中间的数据就是这组数据的中位数"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s017_ch14_s14.4",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_cp_section_14_4_kp_median"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_5ab561f6c325",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_0fb2d895fdc1",
+      "target_node_id": "canon_knowledgepoint_7377326480df",
+      "properties": {
+        "rationale": "Section defines random event concept directly.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.1.md",
+            "section": {
+              "id": "s018",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "在一定条件下，某种结果可能发生，也可能不发生，事先不能断定出现哪种结果，这种现象就是随机现象。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s018_ch15_s15.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_b7025fc31cb0",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_0fb2d895fdc1",
+      "target_node_id": "canon_knowledgepoint_68f2d4306145",
+      "properties": {
+        "rationale": "Section defines certain event via sample space.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.1.md",
+            "section": {
+              "id": "s018",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "显然,Ω(全集)是必然事件，(空集)是不可能事件."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s018_ch15_s15.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c45e883cf3c8",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_0fb2d895fdc1",
+      "target_node_id": "canon_knowledgepoint_d095d24aa1e7",
+      "properties": {
+        "rationale": "Section defines impossible event via empty set.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.1.md",
+            "section": {
+              "id": "s018",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "显然,Ω(全集)是必然事件，(空集)是不可能事件."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s018_ch15_s15.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_8115345c195e",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_0fb2d895fdc1",
+      "target_node_id": "canon_knowledgepoint_e86ed30b5af9",
+      "properties": {
+        "rationale": "Section defines random experiment as observation of random phenomenon.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.1.md",
+            "section": {
+              "id": "s018",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "对某随机现象进行的实验、观察称为随机试验（randomexperiment)，简称试验."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s018_ch15_s15.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_16ebf322e691",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_0fb2d895fdc1",
+      "target_node_id": "canon_knowledgepoint_94d6d0f1b092",
+      "properties": {
+        "rationale": "Section defines sample point as possible result of experiment.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.1.md",
+            "section": {
+              "id": "s018",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "我们把随机试验的每一个可能结果称为样本点（samplepoint），用ω表示"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s018_ch15_s15.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_7651d4dbf929",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_0fb2d895fdc1",
+      "target_node_id": "canon_knowledgepoint_62f490150e0d",
+      "properties": {
+        "rationale": "Section defines sample space as set of all sample points.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.1.md",
+            "section": {
+              "id": "s018",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "所有样本点组成的集合称为样本空间（sample space),用Ω表示."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s018_ch15_s15.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_e950be0d7292",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_9db59c38876c",
+      "target_node_id": "canon_knowledgepoint_7377326480df",
+      "properties": {
+        "rationale": "Problem uses events A and B to test understanding of random events.",
+        "figures": [
+          {
+            "image_path": "images/page266_img002.jpg",
+            "name": "",
+            "description": "> $$\\\\begin{array} { c } { \\\\Omega } \\\\ { \\\\text { A } \\\\quad \\\\text { B } } \\\\end{array}$$",
+            "figure_id": "ipa_evidence_a6f80f9c8023"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.1.md",
+            "section": {
+              "id": "s018",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "例2“抛掷一颗骰子，结果向上的点数是偶数”记为事件A，“抛掷一颗骰子，结果向上的点数是2”记为事件B"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s018_ch15_s15.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_5d4647e71a3b",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_9db59c38876c",
+      "target_node_id": "canon_knowledgepoint_62f490150e0d",
+      "properties": {
+        "rationale": "Problem requires writing sample space Ω to analyze events.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.1.md",
+            "section": {
+              "id": "s018",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "分别写出A,B所包含的样本点，并用集合的语言分析A,B两者之间的关系."
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s018_ch15_s15.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_008"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_46343b36e55e",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_9db59c38876c",
+      "target_node_id": "canon_knowledgepoint_94d6d0f1b092",
+      "properties": {
+        "rationale": "Problem defines sample points ωk to enumerate outcomes.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.1.md",
+            "section": {
+              "id": "s018",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "记\"抛掷一颗骰子，结果向上的点数为 k\"为 ωk (k=1,2,3,4,5,6)"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s018_ch15_s15.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_009"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_8ee315f43c1b",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_62f490150e0d",
+      "target_node_id": "canon_knowledgepoint_94d6d0f1b092",
+      "properties": {
+        "rationale": "Sample space is defined as the set of all sample points.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.1.md",
+            "section": {
+              "id": "s018",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "所有样本点组成的集合称为样本空间（sample space),用Ω表示."
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s018_ch15_s15.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_010"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_002e37547ff6",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_7377326480df",
+      "target_node_id": "canon_knowledgepoint_62f490150e0d",
+      "properties": {
+        "rationale": "Random event is defined as a subset of sample space.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.1.md",
+            "section": {
+              "id": "s018",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "样本空间的子集称为随机事件（random event),简称事件."
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s018_ch15_s15.1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_011"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_cfbe72f03e14",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_46783c4ef926",
+      "target_node_id": "canon_knowledgepoint_322cd2723dce",
+      "properties": {
+        "rationale": "Section defines and explains the classical probability model.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.2.md",
+            "section": {
+              "id": "s019",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "我们将满足上述条件的随机试验的概率模型称为古典概型"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s019_ch15_s15.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_3a6c71a9ebb0",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_46783c4ef926",
+      "target_node_id": "canon_knowledgepoint_56ef34807eba",
+      "properties": {
+        "rationale": "Section defines and explains the stability of frequency.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.2.md",
+            "section": {
+              "id": "s019",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "我们将频率的这个性质称为频率的稳定性"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s019_ch15_s15.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_3df2fdbc220d",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_847ffb6cfbaf",
+      "target_node_id": "canon_knowledgepoint_322cd2723dce",
+      "properties": {
+        "rationale": "Problem applies classical probability model to calculate P(A).",
+        "figures": [
+          {
+            "image_path": "images/page269_img002.jpg",
+            "name": "图15－2－1",
+            "description": "直观地给出了Ω与A的关系",
+            "figure_id": "ipa_evidence_d0ea82f2fe5f"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.2.md",
+            "section": {
+              "id": "s019",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "例1 一只不透明的口袋内装有大小相同的5个球，其中3个白球、2个黑球"
+          }
+        ],
+        "confidence": 0.92
+      },
+      "source_context_id": "s019_ch15_s15.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_75647df4a58f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_2d80b7e6532d",
+      "target_node_id": "canon_knowledgepoint_322cd2723dce",
+      "properties": {
+        "rationale": "Problem applies classical probability model to genetic inheritance.",
+        "figures": [
+          {
+            "image_path": "images/page269_img003.jpg",
+            "name": "图15-2-2",
+            "description": "展示了豌豆杂交实验中第二子代（F₂）基因型的遗传过程",
+            "figure_id": "ipa_evidence_6af351d6edd9"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.2.md",
+            "section": {
+              "id": "s019",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "例2 豌豆的黄绿色性状的遗传由其一对基因决定，求第二子代为黄色的概率"
+          }
+        ],
+        "confidence": 0.92
+      },
+      "source_context_id": "s019_ch15_s15.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_539405f44c64",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_d360077e513e",
+      "target_node_id": "canon_knowledgepoint_322cd2723dce",
+      "properties": {
+        "rationale": "Problem applies classical probability model to dice rolling.",
+        "figures": [
+          {
+            "image_path": "images/page270_img005.jpg",
+            "name": "图15-2-3",
+            "description": "直观地给出了例3第(4)问中的12种可能结果",
+            "figure_id": "ipa_evidence_df1c8c2962b6"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.2.md",
+            "section": {
+              "id": "s019",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "例3 同时抛掷两颗骰子，观察向上的点数"
+          }
+        ],
+        "confidence": 0.92
+      },
+      "source_context_id": "s019_ch15_s15.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_bdf6cb1d5ec1",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_b36dc40e1a0c",
+      "target_node_id": "canon_knowledgepoint_322cd2723dce",
+      "properties": {
+        "rationale": "Problem applies classical probability model to coloring rectangles.",
+        "figures": [
+          {
+            "image_path": "images/page271_img001.jpg",
+            "name": "图15-2-4",
+            "description": "一个由蓝色线条勾勒的水平矩形，被一条垂直蓝线均分为左右两个相等的空白矩形区域",
+            "figure_id": "ipa_evidence_002f3c4bda7b"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.2.md",
+            "section": {
+              "id": "s019",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "例4 用3种不同颜色给图15－2－4中2个矩形随机涂色，求颜色相同和不同的概率"
+          }
+        ],
+        "confidence": 0.92
+      },
+      "source_context_id": "s019_ch15_s15.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_49d781ded956",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_51c110c87eeb",
+      "target_node_id": "canon_knowledgepoint_322cd2723dce",
+      "properties": {
+        "rationale": "Exercise applies classical probability model to cube cutting.",
+        "figures": [
+          {
+            "image_path": "images/page274_img001.jpg",
+            "name": "图15-2-5",
+            "description": "一个被分割成64个小正方体的蓝色大正方体",
+            "figure_id": "ipa_evidence_5d6c75ce483a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.2.md",
+            "section": {
+              "id": "s019",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "练习 3．如图，把一个体积为 64 cm³、表面涂有蓝漆的正方体木块锯成64个体积为1 cm³的小正方体"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s019_ch15_s15.2",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_e7aa3fae62f4",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a73ee6149bd6",
+      "target_node_id": "canon_knowledgepoint_c89aec646a16",
+      "properties": {
+        "rationale": "Section title and content explicitly define mutually exclusive events.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.3.md",
+            "section": {
+              "id": "s020",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "## 15.3 互斥事件和独立事件。1．互斥事件。称A,B为互斥事件(exclusive events)."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s020_ch15_s15.3",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_247670282c5c",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a73ee6149bd6",
+      "target_node_id": "canon_knowledgepoint_ab3ae437a1b7",
+      "properties": {
+        "rationale": "Section content defines complementary events as a subset of mutually exclusive events.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.3.md",
+            "section": {
+              "id": "s020",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "对立事件是必有一个发生的互斥事件"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s020_ch15_s15.3",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_2242e3199b72",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a73ee6149bd6",
+      "target_node_id": "canon_knowledgepoint_17d22a7d6fcd",
+      "properties": {
+        "rationale": "Section explicitly introduces and defines independent events.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.3.md",
+            "section": {
+              "id": "s020",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "2．独立事件。如果P(AB）=P(A)P(B)，那么称A,B为相互独立事件"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s020_ch15_s15.3",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_835d5758b178",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a73ee6149bd6",
+      "target_node_id": "canon_knowledgepoint_a06fcb21cd64",
+      "properties": {
+        "rationale": "Section presents the addition formula as a property of mutually exclusive events.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.3.md",
+            "section": {
+              "id": "s020",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "如果事件A，B互斥，那么 P(A+B)=P(A)+P(B)"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s020_ch15_s15.3",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_3da22bec7773",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_847ffb6cfbaf",
+      "target_node_id": "canon_knowledgepoint_c89aec646a16",
+      "properties": {
+        "rationale": "Example 1 explicitly asks to judge if events are mutually exclusive.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.3.md",
+            "section": {
+              "id": "s020",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "例1 ... 问：事件A与B是否为互斥事件？是否为对立事件？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s020_ch15_s15.3",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_9bb9c21bbc9d",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_2d80b7e6532d",
+      "target_node_id": "canon_knowledgepoint_ab3ae437a1b7",
+      "properties": {
+        "rationale": "Example 2 Part 2 explicitly uses complementary events to calculate probability.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.3.md",
+            "section": {
+              "id": "s020",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "（2）事件\"射击1次，命中不足7环\"是事件\"射击1次，命中至少7环\"的对立事件"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s020_ch15_s15.3",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_0c6e9ea2dd3b",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_b18c7317190d",
+      "target_node_id": "canon_knowledgepoint_17d22a7d6fcd",
+      "properties": {
+        "rationale": "Exercise 2.2 describes a system where components work independently.",
+        "figures": [
+          {
+            "image_path": "images/page285_img001.jpg",
+            "name": "",
+            "description": "> X\\quad Y",
+            "figure_id": "ipa_evidence_f58cf2187f6c"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.3.md",
+            "section": {
+              "id": "s020",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "用X,Y两种不同的元件串联连接成系统S,每个元件是否正常工作不受其他元件的影响"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s020_ch15_s15.3",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_125da63d01a5",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_ab3ae437a1b7",
+      "target_node_id": "canon_knowledgepoint_c89aec646a16",
+      "properties": {
+        "rationale": "Definition of complementary events relies on the concept of mutually exclusive events.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.3.md",
+            "section": {
+              "id": "s020",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "对立事件是必有一个发生的互斥事件"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s020_ch15_s15.3",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_008"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_derived_from_e059e219834c",
+      "predicate": "derived_from",
+      "source_node_id": "canon_knowledgepoint_a06fcb21cd64",
+      "target_node_id": "canon_knowledgepoint_c89aec646a16",
+      "properties": {
+        "rationale": "Addition formula is derived from the condition of mutual exclusivity.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_192236_普通高中教科书·数学必修第二册_20260702\\enhanced_markdown\\sections\\ch15_s15.3.md",
+            "section": {
+              "id": "s020",
+              "title": "第15章 概率"
+            },
+            "quote_or_summary": "如果事件A，B互斥，那么 P(A+B)=P(A)+P(B)"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s020_ch15_s15.3",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_009"
+      ]
+    }
+  ]
+}

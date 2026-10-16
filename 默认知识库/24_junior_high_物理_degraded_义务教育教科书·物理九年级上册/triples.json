@@ -1,0 +1,438 @@
+{
+  "schema_version": "kg.triples.v1",
+  "run_id": "kg_义务教育教科书·物理九年级上册_20260703",
+  "triples": [
+    {
+      "triple_id": "triple_contains_601ca102cde2",
+      "subject_node_id": "canon_chaptersection_31e656047c33",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_71748c0b9910",
+      "edge_id": "canon_edge_contains_5e02573b3dbe",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\004_小组活动评价表.md",
+          "section": {
+            "id": "s004",
+            "title": "小组活动评价表"
+          },
+          "quote_or_summary": "## 杠杆\n\n支点：杠杆绕着转动的点.\n\n力臂：从支点到力的作用线的距离."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_25f4f330121b",
+      "subject_node_id": "canon_chaptersection_31e656047c33",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_33c59f6e093a",
+      "edge_id": "canon_edge_contains_1e2a107d29f7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\004_小组活动评价表.md",
+          "section": {
+            "id": "s004",
+            "title": "小组活动评价表"
+          },
+          "quote_or_summary": "## 滑轮\n\n使用定滑轮可以改变施力的方向，但既不省力，也不省距离．\n\n使用动滑轮可以省力."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_aea0d10949c4",
+      "subject_node_id": "canon_chaptersection_31e656047c33",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_9708fd7c181a",
+      "edge_id": "canon_edge_contains_5cb6dfbeecd7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\004_小组活动评价表.md",
+          "section": {
+            "id": "s004",
+            "title": "小组活动评价表"
+          },
+          "quote_or_summary": "## 功\n\n力对物体做的功，等于力与物体在力的方向上通过的距离的乘积，公式为 W = F s"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d078fd24659d",
+      "subject_node_id": "canon_chaptersection_31e656047c33",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_125b6faaf51a",
+      "edge_id": "canon_edge_contains_52c4d399d5f1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\004_小组活动评价表.md",
+          "section": {
+            "id": "s004",
+            "title": "小组活动评价表"
+          },
+          "quote_or_summary": "## 功率\n\n功率是表示做功快慢的物理量，它是功与做功所用时间的比，即 P = W / t"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_29f736cada32",
+      "subject_node_id": "canon_chaptersection_31e656047c33",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_628dff2b5a37",
+      "edge_id": "canon_edge_contains_00799f061b7f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\004_小组活动评价表.md",
+          "section": {
+            "id": "s004",
+            "title": "小组活动评价表"
+          },
+          "quote_or_summary": "## 机械效率\n\n有用功与总功的比值叫作机械效率，它常用百分数表示，公式为 η = W_有用 / W_总 × 100%"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_f5dbf33bdb2a",
+      "subject_node_id": "canon_chaptersection_3f7d255bd7d4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8b2619990ba8",
+      "edge_id": "canon_edge_contains_708cef00baa9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\005_发动机口的秘密.md",
+          "section": {
+            "id": "s005",
+            "title": "发动机口的秘密"
+          },
+          "quote_or_summary": "运动的物体能对其他物体做功，它就具有能量。这种由于运动而具有的能量叫作动能."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8f51145f0a2f",
+      "subject_node_id": "canon_chaptersection_3f7d255bd7d4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_55885d70c3ec",
+      "edge_id": "canon_edge_contains_4d942d90edfb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\005_发动机口的秘密.md",
+          "section": {
+            "id": "s005",
+            "title": "发动机口的秘密"
+          },
+          "quote_or_summary": "发生弹性形变的物体能对其他物体做功，表明它具有能量，这种能量叫作弹性势能。被举高的物体同样具有做功的本领，也具有势能，这种势能叫作重力势能."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_2b02f9b4deef",
+      "subject_node_id": "canon_chaptersection_3f7d255bd7d4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_3a7c88e1928f",
+      "edge_id": "canon_edge_contains_ea9eb630e4a5",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\005_发动机口的秘密.md",
+          "section": {
+            "id": "s005",
+            "title": "发动机口的秘密"
+          },
+          "quote_or_summary": "在物理学中，动能和势能统称为机械能。一个物体可以同时具有动能和势能。例如，正被起重机吊起的重物，跳水过程中的运动员，等等."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_fb1507f4b61d",
+      "subject_node_id": "canon_chaptersection_3f7d255bd7d4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_54efd59544f3",
+      "edge_id": "canon_edge_contains_d74950d753be",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\005_发动机口的秘密.md",
+          "section": {
+            "id": "s005",
+            "title": "发动机口的秘密"
+          },
+          "quote_or_summary": "在物理学中，我们把物体内所有分子动能和分子势能的总和叫作物体的内能。任何物体都具有内能。物体的温度越高，它的内能就越大."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_631723d11037",
+      "subject_node_id": "canon_chaptersection_3f7d255bd7d4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ad702e98eebd",
+      "edge_id": "canon_edge_contains_0ffed254860c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\005_发动机口的秘密.md",
+          "section": {
+            "id": "s005",
+            "title": "发动机口的秘密"
+          },
+          "quote_or_summary": "物理学中，将物体温度升高时吸收的热量与它的质量和升高温度的乘积之比，叫作比热容。比热容用符号c表示，它的单位是焦/(千克·摄氏度)."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_f9f029e52b88",
+      "subject_node_id": "canon_chaptersection_3f7d255bd7d4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7c6b9b0972cd",
+      "edge_id": "canon_edge_contains_8960e2ec9c6a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\005_发动机口的秘密.md",
+          "section": {
+            "id": "s005",
+            "title": "发动机口的秘密"
+          },
+          "quote_or_summary": "燃料完全燃烧放出的热量与燃料的质量之比，叫作这种燃料的热值。燃料的热值用q表示，单位是 J/kg."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_48869485d4ea",
+      "subject_node_id": "canon_problem_74f3ba0935ad",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ad702e98eebd",
+      "edge_id": "canon_edge_tests_5592c759f83f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\005_发动机口的秘密.md",
+          "section": {
+            "id": "s005",
+            "title": "发动机口的秘密"
+          },
+          "quote_or_summary": "例题初温为 20 ℃，质量为5kg的一壶水温度升高到 100 ℃，需要吸收多少热量？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_f2172458ae2a",
+      "subject_node_id": "canon_chaptersection_fe4c944f969f",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_f107a495713c",
+      "edge_id": "canon_edge_contains_0a2694bd41b3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\006_一、初识家用电器和电路.md",
+          "section": {
+            "id": "s006",
+            "title": "一、初识家用电器和电路"
+          },
+          "quote_or_summary": "用电器是利用电能进行工作的装置。它与电源连接后，可以将电能转化为我们所需要的能。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_f2436c4c8c65",
+      "subject_node_id": "canon_chaptersection_fe4c944f969f",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_850a496c8629",
+      "edge_id": "canon_edge_contains_65e872b77e93",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\006_一、初识家用电器和电路.md",
+          "section": {
+            "id": "s006",
+            "title": "一、初识家用电器和电路"
+          },
+          "quote_or_summary": "电源是能持续供电的装置。从能量转化的观点来看，电源是把其他形式的能转化为电能的装置。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_9d89b1576ef7",
+      "subject_node_id": "canon_chaptersection_fe4c944f969f",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_91d29fd93230",
+      "edge_id": "canon_edge_contains_edea159b5f7c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\006_一、初识家用电器和电路.md",
+          "section": {
+            "id": "s006",
+            "title": "一、初识家用电器和电路"
+          },
+          "quote_or_summary": "电路就是用导线把电源、用电器、开关等元件连接起来组成的电流的路径。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_5169ccf17c00",
+      "subject_node_id": "canon_chaptersection_fe4c944f969f",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_45c0f0389e2d",
+      "edge_id": "canon_edge_contains_efdf10d6704d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\006_一、初识家用电器和电路.md",
+          "section": {
+            "id": "s006",
+            "title": "一、初识家用电器和电路"
+          },
+          "quote_or_summary": "如果不经过用电器，用导线直接将电源的两极相连，就会形成短路，损坏电源。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_cd76f0cf2daa",
+      "subject_node_id": "canon_chaptersection_fe4c944f969f",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_17db2d5e8296",
+      "edge_id": "canon_edge_contains_fbe64d53f539",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\006_一、初识家用电器和电路.md",
+          "section": {
+            "id": "s006",
+            "title": "一、初识家用电器和电路"
+          },
+          "quote_or_summary": "闭合开关，形成通路，电路中有电流流过，小灯泡发光。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_76dcf072a884",
+      "subject_node_id": "canon_chaptersection_fe4c944f969f",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d01053d578d5",
+      "edge_id": "canon_edge_contains_ef5b28610a69",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\006_一、初识家用电器和电路.md",
+          "section": {
+            "id": "s006",
+            "title": "一、初识家用电器和电路"
+          },
+          "quote_or_summary": "断开开关，形成断路，电路中没有电流，小灯泡熄灭。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_b8f7504c77e1",
+      "subject_node_id": "canon_problem_303ddf5659d2",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_91d29fd93230",
+      "edge_id": "canon_edge_tests_7397ec467582",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\006_一、初识家用电器和电路.md",
+          "section": {
+            "id": "s006",
+            "title": "一、初识家用电器和电路"
+          },
+          "quote_or_summary": "现有电池、小灯泡、灯座、开关和导线，请你根据对手电筒的观察和研究，试着把它们连接起来，使开关能控制小灯泡的发光与熄灭。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_da5498e06154",
+      "subject_node_id": "canon_chaptersection_bd2ddb8315d7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_f107a495713c",
+      "edge_id": "canon_edge_contains_452b59e2e761",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\007_生活·物理·社会.md",
+          "section": {
+            "id": "s007",
+            "title": "生活·物理·社会"
+          },
+          "quote_or_summary": "集成电路是应用半导体技术制成的特殊电路."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_bb5556029013",
+      "subject_node_id": "canon_chaptersection_bd2ddb8315d7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_850a496c8629",
+      "edge_id": "canon_edge_contains_588bcde6d5c8",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\007_生活·物理·社会.md",
+          "section": {
+            "id": "s007",
+            "title": "生活·物理·社会"
+          },
+          "quote_or_summary": "把用电器逐个顺次连接起来的方式，叫作串联"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_7b0c8193b2a5",
+      "subject_node_id": "canon_chaptersection_bd2ddb8315d7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_91d29fd93230",
+      "edge_id": "canon_edge_contains_95c0551616fc",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\007_生活·物理·社会.md",
+          "section": {
+            "id": "s007",
+            "title": "生活·物理·社会"
+          },
+          "quote_or_summary": "把用电器并列地连接起来的方式，叫作并联"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_5d50929860c2",
+      "subject_node_id": "canon_chaptersection_bd2ddb8315d7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_45c0f0389e2d",
+      "edge_id": "canon_edge_contains_8fd2cd5d25de",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\007_生活·物理·社会.md",
+          "section": {
+            "id": "s007",
+            "title": "生活·物理·社会"
+          },
+          "quote_or_summary": "用电流强度(简称电流)来表示电流的大小"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_10eab61b0975",
+      "subject_node_id": "canon_chaptersection_bd2ddb8315d7",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_17db2d5e8296",
+      "edge_id": "canon_edge_contains_3db7baeb46ae",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_175548_义务教育教科书·物理九年级上册_20260703\\enhanced_markdown\\sections\\007_生活·物理·社会.md",
+          "section": {
+            "id": "s007",
+            "title": "生活·物理·社会"
+          },
+          "quote_or_summary": "测量电路中电流大小的仪器叫电流表"
+        }
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

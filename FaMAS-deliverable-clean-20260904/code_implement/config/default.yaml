@@ -1,0 +1,7 @@
+paths:
+  input_pdf_dir: ../../textbook
+  output_markdown_dir: ../data/output/markdown
+  workspace_dir: ../workspace
+
+mineru:
+  command: mineru -b pipeline

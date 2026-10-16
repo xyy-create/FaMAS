@@ -1,0 +1,1578 @@
+{
+  "schema_version": "kg.merged_nodes.v1",
+  "run_id": "kg_义务教育教科书·物理九年级下册_20260703",
+  "nodes": [
+    {
+      "node_id": "canon_chaptersection_5f445d194e32",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "九 年级下册 1?",
+        "chapter_num": "1",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\001_九年级下册1.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\001_九年级下册1.md",
+            "section": {
+              "id": "s001",
+              "title": "九 年级下册 1?"
+            },
+            "quote_or_summary": "# 九 年级下册 1?"
+          }
+        ],
+        "confidence": 0.95,
+        "features": [
+          "Preface",
+          "Table of Contents"
+        ],
+        "introduction": "义务教育教科书 物理九年级下册 封面及目录页",
+        "figures": [
+          {
+            "image_path": "images/page004_img001.jpg",
+            "name": "",
+            "description": "电路板实验装置：一张红色电路板的特写照片，板上安装有银色鳍片式散热器、黑色风扇、多个电容、插槽及接线端子；左侧可见橙色和黄黑双色导线连接至电路板，右侧有红白双色导线插入白色插头；背景为模糊的实验台环境。",
+            "figure_id": "ipa_evidence_758d24847a38"
+          }
+        ],
+        "aliases": [
+          "九年级下册1?"
+        ]
+      },
+      "source_context_id": "s001_001_九年级下册1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_ch001"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_e4a03b745e38",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "第十六章 电磁转换",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\001_九年级下册1.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\001_九年级下册1.md",
+            "section": {
+              "id": "s001",
+              "title": "九 年级下册 1?"
+            },
+            "quote_or_summary": "## 第十六章 电磁转换"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "第十六章电磁转换"
+        ]
+      },
+      "source_context_id": "s001_001_九年级下册1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_ch016"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_59a7fb6fff42",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "第十七章 电磁波与现代通信",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\001_九年级下册1.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\001_九年级下册1.md",
+            "section": {
+              "id": "s001",
+              "title": "九 年级下册 1?"
+            },
+            "quote_or_summary": "## 第十七章 电磁波与现代通信"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "第十七章电磁波与现代通信"
+        ]
+      },
+      "source_context_id": "s001_001_九年级下册1",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_ch017"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_4f9faff83ad8",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "丰富多彩的电器世界",
+        "chapter_num": "2",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\002_丰富多彩的电器世界.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\002_丰富多彩的电器世界.md",
+            "section": {
+              "id": "s002",
+              "title": "丰富多彩的电器世界"
+            },
+            "quote_or_summary": "# 丰富多彩的电器世界\n\n电功和电热第十五章"
+          }
+        ],
+        "confidence": 0.95,
+        "features": [
+          "Chapter 2",
+          "Electrical Appliances"
+        ],
+        "aliases": [
+          "丰富多彩的电器世界"
+        ]
+      },
+      "source_context_id": "s002_002_丰富多彩的电器世界",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s002_section"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_7a62c710458c",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "电能表",
+        "definition": "用来测量电路消耗电能(electricalenergy)多少的仪表叫作电能表.",
+        "figures": [
+          {
+            "image_path": "images/page008_img003.jpg",
+            "name": "电子式电能表",
+            "description": "单相电子式电能表技术参数",
+            "figure_id": "ipa_evidence_902920bd5886"
+          },
+          {
+            "image_path": "images/page008_img004.jpg",
+            "name": "感应式电能表",
+            "description": "家用感应式电能表示意图",
+            "figure_id": "ipa_evidence_eab8c901c8c5"
+          },
+          {
+            "image_path": "images/page009_img001.jpg",
+            "name": "电能表示数",
+            "description": "电能表的示数组成示意图",
+            "figure_id": "ipa_evidence_d9490d6c4cbc"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\002_丰富多彩的电器世界.md",
+            "section": {
+              "id": "s002",
+              "title": "丰富多彩的电器世界"
+            },
+            "quote_or_summary": "用来测量电路消耗电能(electricalenergy)多少的仪表叫作电能表."
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "电能表"
+        ]
+      },
+      "source_context_id": "s002_002_丰富多彩的电器世界",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s002_kp_energy_meter"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_eb4434e4cc72",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "电功",
+        "definition": "电流所做的功叫作电功.",
+        "formulas": [
+          {
+            "expression": "W = U I t",
+            "variables": [
+              {
+                "name": "U",
+                "desc": "电压"
+              },
+              {
+                "name": "I",
+                "desc": "电流"
+              },
+              {
+                "name": "t",
+                "desc": "时间"
+              }
+            ],
+            "units": "J"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page010_img002.jpg",
+            "name": "并联电路实验装置",
+            "description": "包含电源、滑动变阻器、灯泡、电压表的并联电路",
+            "figure_id": "ipa_evidence_465f12ad3b16"
+          },
+          {
+            "image_path": "images/page010_img003.jpg",
+            "name": "串联电路实物连接图",
+            "description": "电源、滑动变阻器、开关、灯泡、电流表串联连接",
+            "figure_id": "ipa_evidence_c1e67024b326"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\002_丰富多彩的电器世界.md",
+            "section": {
+              "id": "s002",
+              "title": "丰富多彩的电器世界"
+            },
+            "quote_or_summary": "电流所做的功叫作电功."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "电功"
+        ]
+      },
+      "source_context_id": "s002_002_丰富多彩的电器世界",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s002_kp_work"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_edf0193d9e8b",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "电功率",
+        "definition": "电功率(electric power)是描述电流做功快慢的物理量.",
+        "formulas": [
+          {
+            "expression": "P = U I",
+            "variables": [
+              {
+                "name": "P",
+                "desc": "电功率"
+              },
+              {
+                "name": "U",
+                "desc": "电压"
+              },
+              {
+                "name": "I",
+                "desc": "电流"
+              }
+            ],
+            "units": "W"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page015_img001.jpg",
+            "name": "电路图",
+            "description": "测量小灯泡功率的电路图",
+            "figure_id": "ipa_evidence_04882d9f9523"
+          },
+          {
+            "image_path": "images/page015_img002.jpg",
+            "name": "实物图",
+            "description": "测量小灯泡功率的实验器材",
+            "figure_id": "ipa_evidence_44592e814392"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\002_丰富多彩的电器世界.md",
+            "section": {
+              "id": "s002",
+              "title": "丰富多彩的电器世界"
+            },
+            "quote_or_summary": "电功率(electric power)是描述电流做功快慢的物理量."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "电功率"
+        ]
+      },
+      "source_context_id": "s002_002_丰富多彩的电器世界",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s002_kp_power"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_0caea42b0bdd",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "额定功率",
+        "definition": "用电器在额定电压下工作时的功率叫作额定功率(rated power）.",
+        "figures": [
+          {
+            "image_path": "images/page013_img003.jpg",
+            "name": "电热水器铭牌",
+            "description": "某电热水器的铭牌参数",
+            "figure_id": "ipa_evidence_b9e4040dd3b2"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\002_丰富多彩的电器世界.md",
+            "section": {
+              "id": "s002",
+              "title": "丰富多彩的电器世界"
+            },
+            "quote_or_summary": "用电器在额定电压下工作时的功率叫作额定功率(rated power）."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "额定功率"
+        ]
+      },
+      "source_context_id": "s002_002_丰富多彩的电器世界",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s002_kp_rated_power"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_769495b0040c",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "焦耳定律",
+        "definition": "电流通过导体产生的热量与电流的平方成正比，与导体的电阻成正比，与通电的时间成正比.",
+        "formulas": [
+          {
+            "expression": "Q = I ^ { 2 } R t",
+            "variables": [
+              {
+                "name": "Q",
+                "desc": "热量"
+              },
+              {
+                "name": "I",
+                "desc": "电流"
+              },
+              {
+                "name": "R",
+                "desc": "电阻"
+              },
+              {
+                "name": "t",
+                "desc": "时间"
+              }
+            ],
+            "units": "J"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page019_img001.jpg",
+            "name": "实验装置示意图",
+            "description": "电阻丝浸没在液体中的实验装置",
+            "figure_id": "ipa_evidence_002bf0a2c97e"
+          },
+          {
+            "image_path": "images/page019_img002.jpg",
+            "name": "电路图",
+            "description": "探究电流热效应的电路图",
+            "figure_id": "ipa_evidence_d1628649f875"
+          },
+          {
+            "image_path": "images/page019_img003.jpg",
+            "name": "实验装置",
+            "description": "两段阻值不等电阻丝串联实验装置",
+            "figure_id": "ipa_evidence_f0236140571e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\002_丰富多彩的电器世界.md",
+            "section": {
+              "id": "s002",
+              "title": "丰富多彩的电器世界"
+            },
+            "quote_or_summary": "电流通过导体产生的热量与电流的平方成正比，与导体的电阻成正比，与通电的时间成正比."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "焦耳定律"
+        ]
+      },
+      "source_context_id": "s002_002_丰富多彩的电器世界",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s002_kp_joule"
+      ]
+    },
+    {
+      "node_id": "canon_problem_335a4e9f5920",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "将一个电暖器单独接在家庭电路中，它连续正常工作2h后，电能表的示数由 4321.8 变为 4323.4。已知该电暖器的额定电压为220V，求通过电暖器的电流.",
+        "answer": "约为3.64A",
+        "solution_steps": [
+          {
+            "step_text": "计算消耗的电能 W = (4323.4 - 4321.8) kW·h = 1.6 kW·h"
+          },
+          {
+            "step_text": "利用公式 I = W / (U t) 计算电流"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\002_丰富多彩的电器世界.md",
+            "section": {
+              "id": "s002",
+              "title": "丰富多彩的电器世界"
+            },
+            "quote_or_summary": "例题将一个电暖器单独接在家庭电路中，它连续正常工作2h后..."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "将一个电暖器单独接在家庭电路中，它连续正常工作2h后，电能表的示数由4321.8变为4323.4。已知该电暖器的额定电压为220V，求通过电暖器的电流."
+        ]
+      },
+      "source_context_id": "s002_002_丰富多彩的电器世界",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s002_prob_heater"
+      ]
+    },
+    {
+      "node_id": "canon_problem_e7ba9e924c5e",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "图15-8是额定电压为220V、额定功率为8.5W的LED灯泡.该灯泡的额定电流是多大？与普通白炽灯相比，在达到相同亮度的条件下，假设LED灯可以节约85.8%的电能，那么，这个LED灯与多大功率的白炽灯亮度相当？",
+        "answer": "额定电流约0.039A，相当于60W白炽灯",
+        "solution_steps": [
+          {
+            "step_text": "利用 I = P / U 计算额定电流"
+          },
+          {
+            "step_text": "利用 P' = P / 14.2% 计算等效白炽灯功率"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\002_丰富多彩的电器世界.md",
+            "section": {
+              "id": "s002",
+              "title": "丰富多彩的电器世界"
+            },
+            "quote_or_summary": "例题LED灯具有节能、环保等特点.图15-8是额定电压为220V..."
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "图15-8是额定电压为220V、额定功率为8.5W的LED灯泡.该灯泡的额定电流是多大？与普通白炽灯相比，在达到相同亮度的条件下，假设LED灯可以节约85.8%的电能，那么，这个LED灯与多大功率的白炽灯亮度相当？"
+        ]
+      },
+      "source_context_id": "s002_002_丰富多彩的电器世界",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s002_prob_led"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_6e3e9ab3509a",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "生活·物理·社会",
+        "chapter_num": "3",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\003_生活·物理·社会.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\003_生活·物理·社会.md",
+            "section": {
+              "id": "s003",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "# 生活·物理·社会"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "生活·物理·社会"
+        ]
+      },
+      "source_context_id": "s003_003_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s003_node_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_a77bc2ec2824",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "家庭电路的组成",
+        "definition": "家庭电路主要由进户线、电能表、总开关、熔断器、开关、插座、用电器及地线组成，各用电器并联连接.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\003_生活·物理·社会.md",
+            "section": {
+              "id": "s003",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "家庭电路主要由进入家庭的进户线（电源线）、电能表、总开关、熔断器、开关、插座、用电器等组成."
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page023_img001.jpg",
+            "name": "家庭电路布线示意图",
+            "description": "家庭电路示意图，展示进户线、电能表、供电箱、支路及插座接线结构。",
+            "figure_id": "ipa_evidence_f8318f0e5166"
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "家庭电路的组成"
+        ]
+      },
+      "source_context_id": "s003_003_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s003_node_002"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_063876e4d249",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "三线插头与三线插座",
+        "definition": "三线插座按左零右火中接地方法接入，地线与埋在地下的金属板相连，插头接法对应插座.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\003_生活·物理·社会.md",
+            "section": {
+              "id": "s003",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "它应按'左零右火中接地'的方法接入电路.地线一般与埋在地下的金属板相连."
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page024_img002.jpg",
+            "name": "三线插座",
+            "description": "白色三孔插座，三个插孔呈三角形排列，标注地线、零线、火线。",
+            "figure_id": "ipa_evidence_82a2af9f1ba2"
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "三线插头与三线插座"
+        ]
+      },
+      "source_context_id": "s003_003_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s003_node_003"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_d0c122b203e9",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "测电笔",
+        "definition": "用于判断火线的工具，由金属电极、氖管、弹簧和高电阻组成，使用时手接触尾部金属电极.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\003_生活·物理·社会.md",
+            "section": {
+              "id": "s003",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "测电笔的结构如图15-18所示，它由两个金属电极、氛管、弹簧和一个阻值很大的电阻——高电阻等组成."
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page025_img001.jpg",
+            "name": "测电笔结构示意图",
+            "description": "测电笔实物及拆解部件图，包含高电阻、氖管、弹簧、金属电极等。",
+            "figure_id": "ipa_evidence_1100617b19b8"
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "测电笔"
+        ]
+      },
+      "source_context_id": "s003_003_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s003_node_004"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_61e19b8f27f7",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "熔断器与熔丝",
+        "definition": "保护电路装置，熔丝由熔点较低的铅锑合金制成，电流过大时熔断切断电路.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\003_生活·物理·社会.md",
+            "section": {
+              "id": "s003",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "为了避免这种事故的发生，电路里必须安装保护电路的装置——熔断器...熔丝的温度达到熔点时，它便会熔断，自动切断电路."
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page026_img001.jpg",
+            "name": "熔断器及各种规格的熔丝",
+            "description": "旧式熔断器面板及多种规格熔丝实物图，含管状熔断器和保险丝卷。",
+            "figure_id": "ipa_evidence_43820eff4405"
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "熔断器与熔丝"
+        ]
+      },
+      "source_context_id": "s003_003_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s003_node_005"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_09dea0ce6ea5",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "触电的形式",
+        "definition": "触电分为单线触电和双线触电，是人体与电网构成闭合回路导致电流通过人体.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\003_生活·物理·社会.md",
+            "section": {
+              "id": "s003",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "触电一般分为单线触电和双线触电，如图15-22所示.单线触电是人体接触火线或漏电的用电器等."
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page027_img001.jpg",
+            "name": "触电的两种形式",
+            "description": "图示单线触电和双线触电的电路连接方式。",
+            "figure_id": "ipa_evidence_38295dc589df"
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "触电的形式"
+        ]
+      },
+      "source_context_id": "s003_003_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s003_node_006"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_6ea5724ee84f",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "安全用电常识",
+        "definition": "安装电路符合规范，开关接火线，金属外壳接地，防止绝缘破损，触电先断电.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\003_生活·物理·社会.md",
+            "section": {
+              "id": "s003",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "为防止触电和其他事故的发生，应该注意：1．安装家庭电路要符合规范.例如，开关必须接在火线上."
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page029_img001.jpg",
+            "name": "家庭安全用电常识",
+            "description": "插图展示用电器金属外壳接地、防止导线破损、发现触电灭火等场景。",
+            "figure_id": "ipa_evidence_0f15f5a11291"
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "安全用电常识"
+        ]
+      },
+      "source_context_id": "s003_003_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s003_node_007"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_7e4991ce158f",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "电功与电功率",
+        "definition": "电功是电流做的功，公式 W=UIt；电功率表示电流做功快慢，公式 P=UI.",
+        "formulas": [
+          {
+            "expression": "W = U I t",
+            "variables": [
+              {
+                "name": "W",
+                "description": "电功"
+              },
+              {
+                "name": "U",
+                "description": "电压"
+              },
+              {
+                "name": "I",
+                "description": "电流"
+              },
+              {
+                "name": "t",
+                "description": "时间"
+              }
+            ],
+            "units": "J, kW·h"
+          },
+          {
+            "expression": "P = U I",
+            "variables": [
+              {
+                "name": "P",
+                "description": "电功率"
+              },
+              {
+                "name": "U",
+                "description": "电压"
+              },
+              {
+                "name": "I",
+                "description": "电流"
+              }
+            ],
+            "units": "W"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\003_生活·物理·社会.md",
+            "section": {
+              "id": "s003",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "电流所做的功叫作电功... W = U I t ... 电功率的含义：表示电流做功快慢的物理量... P = U I"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "电功与电功率"
+        ]
+      },
+      "source_context_id": "s003_003_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s003_node_008"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_9fb04d562bed",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "探索电与磁的联系",
+        "chapter_num": "4",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\004_探素电与磁的联系.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\004_探素电与磁的联系.md",
+            "section": {
+              "id": "s004",
+              "title": "探素电与磁的联系"
+            },
+            "quote_or_summary": "# 探素电与磁的联系\n第十六章电磁转换"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "探索电与磁的联系"
+        ]
+      },
+      "source_context_id": "s004_004_探素电与磁的联系",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s004_chapter"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_dda736b4f7d4",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "磁体与磁场",
+        "definition": "磁体周围存在磁场，磁极间通过磁场发生相互作用。",
+        "figures": [
+          {
+            "image_path": "images/page039_img005.jpg",
+            "name": "图16-4",
+            "description": "条形磁体周围小磁针静止时N极指向示意图",
+            "figure_id": "ipa_evidence_b23ac914f000"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\004_探素电与磁的联系.md",
+            "section": {
+              "id": "s004",
+              "title": "探素电与磁的联系"
+            },
+            "quote_or_summary": "研究表明，磁体的周围存在着磁场。磁体通过磁场使某些物质显现磁性。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "磁体与磁场"
+        ]
+      },
+      "source_context_id": "s004_004_探素电与磁的联系",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s004_magnet_field"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_7ac0e96fc647",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "电流的磁效应",
+        "definition": "通电导线周围存在磁场，其方向与电流方向有关。",
+        "figures": [
+          {
+            "image_path": "images/page044_img003.jpg",
+            "name": "图16-12",
+            "description": "奥斯特实验装置示意图",
+            "figure_id": "ipa_evidence_80ca91be5c50"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\004_探素电与磁的联系.md",
+            "section": {
+              "id": "s004",
+              "title": "探素电与磁的联系"
+            },
+            "quote_or_summary": "上述实验表明：通电导线周围存在磁场，其方向与电流方向有关。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "电流的磁效应"
+        ]
+      },
+      "source_context_id": "s004_004_探素电与磁的联系",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s004_current_effect"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_5a4eb44940c3",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "安培定则",
+        "definition": "用右手握住螺线管，让弯曲的四指所指的方向与螺线管中的电流方向一致，则拇指所指的那端就是通电螺线管的N极。",
+        "figures": [
+          {
+            "image_path": "images/page046_img002.jpg",
+            "name": "图16-18",
+            "description": "通电螺线管的磁感线和安培定则示意图",
+            "figure_id": "ipa_evidence_d6ba4edd3303"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\004_探素电与磁的联系.md",
+            "section": {
+              "id": "s004",
+              "title": "探素电与磁的联系"
+            },
+            "quote_or_summary": "这种判断方法称为安培定则。用右手握住螺线管，让弯曲的四指所指的方向与螺线管中的电流方向一致。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "安培定则"
+        ]
+      },
+      "source_context_id": "s004_004_探素电与磁的联系",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s004_ampere_rule"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_76eb4116e469",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "电磁感应",
+        "definition": "闭合电路的一部分导体在磁场中做切割磁感线运动时，电路中就会产生感应电流。",
+        "figures": [
+          {
+            "image_path": "images/page058_img002.jpg",
+            "name": "图16-38",
+            "description": "探究感应电流产生的条件装置示意图",
+            "figure_id": "ipa_evidence_cd0af13fd730"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\004_探素电与磁的联系.md",
+            "section": {
+              "id": "s004",
+              "title": "探素电与磁的联系"
+            },
+            "quote_or_summary": "通过实验可知，闭合电路的一部分导体在磁场中做切割磁感线运动时，电路中就会产生感应电流。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "电磁感应"
+        ]
+      },
+      "source_context_id": "s004_004_探素电与磁的联系",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s004_induction"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_e87c1915686f",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "电动机",
+        "definition": "电动机是利用磁场对电流作用的原理工作的装置。",
+        "figures": [
+          {
+            "image_path": "images/page053_img002.jpg",
+            "name": "图16-29",
+            "description": "直流电动机的工作原理示意图",
+            "figure_id": "ipa_evidence_e5d955d093d4"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\004_探素电与磁的联系.md",
+            "section": {
+              "id": "s004",
+              "title": "探素电与磁的联系"
+            },
+            "quote_or_summary": "电动机是利用磁场对电流作用的原理工作的。直流电动机安装换向器的目的是改变线圈中的电流方向。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "电动机"
+        ]
+      },
+      "source_context_id": "s004_004_探素电与磁的联系",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s004_motor"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_4e5e2726e045",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "发电机",
+        "definition": "发电机是利用电磁感应原理发电的，它将机械能转化为电能。",
+        "figures": [
+          {
+            "image_path": "images/page064_img004.jpg",
+            "name": "图16-48",
+            "description": "交流发电机的工作原理示意图",
+            "figure_id": "ipa_evidence_774b70be2d61"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\004_探素电与磁的联系.md",
+            "section": {
+              "id": "s004",
+              "title": "探素电与磁的联系"
+            },
+            "quote_or_summary": "发电机是利用电磁感应原理发电的，它将机械能转化为电能。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "发电机"
+        ]
+      },
+      "source_context_id": "s004_004_探素电与磁的联系",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s004_generator"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_27336d842433",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "磁感线",
+        "definition": "物理学中把描述磁场的带箭头的假想曲线叫作磁感线。",
+        "figures": [
+          {
+            "image_path": "images/page040_img004.jpg",
+            "name": "图16-7",
+            "description": "条形磁体周围的磁感线分布示意图",
+            "figure_id": "ipa_evidence_05b417d6e831"
+          },
+          {
+            "image_path": "images/page040_img005.jpg",
+            "name": "图16-7",
+            "description": "蹄形磁体周围的磁感线分布示意图",
+            "figure_id": "ipa_evidence_af298ca36b09"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\004_探素电与磁的联系.md",
+            "section": {
+              "id": "s004",
+              "title": "探素电与磁的联系"
+            },
+            "quote_or_summary": "物理学中把这样的曲线叫作磁感线。磁体外部的磁感线都是从磁体的N极出发，回到S极。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "磁感线"
+        ]
+      },
+      "source_context_id": "s004_004_探素电与磁的联系",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s004_magnetic_lines"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_cc5e4544da04",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "走进信息时代",
+        "chapter_num": "5",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\005_走进信息时代.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\005_走进信息时代.md",
+            "section": {
+              "id": "s005",
+              "title": "走进信息时代"
+            },
+            "quote_or_summary": "走进信息时代"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "走进信息时代"
+        ]
+      },
+      "source_context_id": "s005_005_走进信息时代",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s005_chapter"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_189aba84931a",
+      "label": "ChapterSection",
+      "source_context_id": "s006_006_电磁波与现代通信",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "properties": {
+        "title": "电磁波与现代通信",
+        "chapter_num": "6",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\006_电磁波与现代通信.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\006_电磁波与现代通信.md",
+            "section": {
+              "id": "s006",
+              "title": "电磁波与现代通信"
+            },
+            "quote_or_summary": "电磁波的发现使人类进入了无线通信时代，无线电报、传真、广播以及电视等如雨后春笋般地涌现出来"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "电磁波与现代通信"
+        ]
+      },
+      "original_node_ids": [
+        "node_s006_section_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_e7f276f6cc10",
+      "label": "KnowledgePoint",
+      "source_context_id": "s006_006_电磁波与现代通信",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "properties": {
+        "name": "电磁波与现代通信",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\006_电磁波与现代通信.md",
+            "section": {
+              "id": "s006",
+              "title": "电磁波与现代通信"
+            },
+            "quote_or_summary": "电磁波的发现使人类进入了无线通信时代，无线电报、传真、广播以及电视等如雨后春笋般地涌现出来"
+          }
+        ],
+        "confidence": 0.9,
+        "figures": [
+          {
+            "image_path": "images/page065_img001.jpg",
+            "name": "",
+            "description": "Information communication technology systems illustration",
+            "figure_id": "ipa_evidence_b1b66cd2f4d6"
+          }
+        ],
+        "aliases": [
+          "电磁波与现代通信"
+        ]
+      },
+      "original_node_ids": [
+        "node_s006_kp_001"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_9c732eb4b5b7",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "个地球",
+        "chapter_num": "8",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\008_个地球.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\008_个地球.md",
+            "section": {
+              "id": "s008",
+              "title": "个地球"
+            },
+            "quote_or_summary": "# 个地球"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "个地球"
+        ]
+      },
+      "source_context_id": "s008_008_个地球",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s008_chapter_section"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_f98a90efc471",
+      "label": "ChapterSection",
+      "source_context_id": "s009_009_能源与可持续发展",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "properties": {
+        "title": "能源与可持续发展",
+        "chapter_num": "9",
+        "section_num": "",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\009_能源与可持续发展.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\009_能源与可持续发展.md",
+            "section": {
+              "id": "s009",
+              "title": "能源与可持续发展"
+            },
+            "quote_or_summary": "# 能源与可持续发展\n宇宙中只有一个地球，她是人类赖以生存的地方呵护地球，不仅仅是为了现在，更是为了千秋万代."
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "能源与可持续发展"
+        ]
+      },
+      "original_node_ids": [
+        "node_s009_chapter"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_4263c6e5a75d",
+      "label": "KnowledgePoint",
+      "source_context_id": "s009_009_能源与可持续发展",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "properties": {
+        "name": "核能",
+        "definition": "原子核的结构发生变化时会释放出巨大的能量。对于相等质量的核燃料和煤炭来说，核燃料放出的能量比煤炭燃烧放出的能量大得多。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\009_能源与可持续发展.md",
+            "section": {
+              "id": "s009",
+              "title": "能源与可持续发展"
+            },
+            "quote_or_summary": "某些原子核的结构发生变化时会释放出巨大的能量，这种能量叫作核能(nuclearenergy）."
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page091_img001.jpg",
+            "name": "图18-4",
+            "description": "中子轰击铀核，铀核分裂成两半的原子核，同时释放能量，并放出多个中子；这些中子继续轰击其他铀核，引发连锁反应。",
+            "figure_id": "ipa_evidence_91d9c81ad582"
+          },
+          {
+            "image_path": "images/page092_img001.jpg",
+            "name": "图18-5核电站示意图",
+            "description": "核电站示意图：核反应堆 → 汽轮机 → 发电机 → 电网。",
+            "figure_id": "ipa_evidence_80706e948a82"
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "核能"
+        ]
+      },
+      "original_node_ids": [
+        "node_s009_nuclear_energy"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_f0b16d21da41",
+      "label": "KnowledgePoint",
+      "source_context_id": "s009_009_能源与可持续发展",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "properties": {
+        "name": "链式反应",
+        "definition": "铀核发生裂变时，除了释放能量外，每个铀核同时还会放出2～3个中子。这些中子又能使其他铀核发生裂变，从而放出更多的中子，这种现象叫作链式反应（chain reaction）。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\009_能源与可持续发展.md",
+            "section": {
+              "id": "s009",
+              "title": "能源与可持续发展"
+            },
+            "quote_or_summary": "如果附近有足够多的铀核，裂变将不断自行地继续下去，就像发生雪崩一样，使千千万万个铀核在极短的时间内相继裂变，这种现象叫作链式反应（chain reaction）。"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page091_img001.jpg",
+            "name": "图18-4",
+            "description": "中子轰击铀核，铀核分裂成两半的原子核，同时释放能量，并放出多个中子；这些中子继续轰击其他铀核，引发连锁反应。",
+            "figure_id": "ipa_evidence_91d9c81ad582"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "链式反应"
+        ]
+      },
+      "original_node_ids": [
+        "node_s009_chain_reaction"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_7666334696f0",
+      "label": "KnowledgePoint",
+      "source_context_id": "s009_009_能源与可持续发展",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "properties": {
+        "name": "能量守恒定律",
+        "definition": "任何一种形式的能量在转化成其他形式能量的过程中，其总量保持不变。也就是说，能量既不会凭空产生，也不会凭空消失，它只会从一种形式转化为其他形式，或者从一个物体转移到其他物体，而在转化或转移的过程中，总量保持不变。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\009_能源与可持续发展.md",
+            "section": {
+              "id": "s009",
+              "title": "能源与可持续发展"
+            },
+            "quote_or_summary": "科学家经过长时间的探索终于发现：任何一种形式的能量在转化成其他形式能量的过程中，其总量保持不变。这就是能量守恒定律(lawof conservation of energy）。"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page099_img002.jpg",
+            "name": "图18-14(a)",
+            "description": "一个盛有蓝色液体的盆，盆边搭着一条毛巾，毛巾一端浸入液体中，另一端垂在盆外并分出多条彩色液流向下滴落。",
+            "figure_id": "ipa_evidence_9cae5fda22ff"
+          },
+          {
+            "image_path": "images/page099_img003.jpg",
+            "name": "图18-14(b)",
+            "description": "图中展示了三个阶梯状排列的盆，从左下到右上逐级升高。每个盆中盛有蓝色液体（水），盆口边缘搭着一条白色毛巾。",
+            "figure_id": "ipa_evidence_7ea5bcbfcc42"
+          },
+          {
+            "image_path": "images/page100_img002.jpg",
+            "name": "图18-15(a)",
+            "description": "滴水实验示意图：图中为一个玻璃杯，内盛红色液体（水），杯中插入一根棉纱带，棉纱一端浸入液体中，另一端垂挂至杯外并搭在杯沿上。",
+            "figure_id": "ipa_evidence_8f72da5ae52e"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "能量守恒定律"
+        ]
+      },
+      "original_node_ids": [
+        "node_s009_energy_conservation"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_d34fd632c34b",
+      "label": "KnowledgePoint",
+      "source_context_id": "s009_009_能源与可持续发展",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "properties": {
+        "name": "能量转化的方向性",
+        "definition": "自然界中许多自发的过程都是有方向的，或者说能量的转化和转移是有方向的。例如，电能可以使电灯发光，同时产生内能散失到空气中，但这些内能却无法自动地转化为电能。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\009_能源与可持续发展.md",
+            "section": {
+              "id": "s009",
+              "title": "能源与可持续发展"
+            },
+            "quote_or_summary": "原来，自然界中许多自发的过程都是有方向的，或者说能量的转化和转移是有方向的．"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page101_img002.jpg",
+            "name": "图18-17",
+            "description": "烧杯中盛有液体，底部放置多块蓝色冰块，液面上方有两股白色蒸汽向上飘散，表示热水中的冰块正在熔化。",
+            "figure_id": "ipa_evidence_def8095e6853"
+          },
+          {
+            "image_path": "images/page101_img004.jpg",
+            "name": "图18-19",
+            "description": "烧杯中盛有液体，底部可见少量不规则固态物质；液体内部有稀疏、大小不一的圆形气泡；液面上方有模糊上升线条。",
+            "figure_id": "ipa_evidence_09c793de31a8"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "能量转化的方向性"
+        ]
+      },
+      "original_node_ids": [
+        "node_s009_energy_direction"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_78f1d49e2d67",
+      "label": "KnowledgePoint",
+      "source_context_id": "s009_009_能源与可持续发展",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "properties": {
+        "name": "热机的效率",
+        "definition": "对于热机来说，转化为有用功的能量与燃料完全燃烧所释放的能量之比叫作热机的效率。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\009_能源与可持续发展.md",
+            "section": {
+              "id": "s009",
+              "title": "能源与可持续发展"
+            },
+            "quote_or_summary": "对于热机来说，转化为有用功的能量与燃料完全燃烧所释放的能量之比叫作热机的效率．"
+          }
+        ],
+        "figures": [
+          {
+            "image_path": "images/page103_img005.jpg",
+            "name": "图18-24(a)",
+            "description": "理想白炽灯：100 J 电能 → 100 J 光能。",
+            "figure_id": "ipa_evidence_d9905fc05659"
+          },
+          {
+            "image_path": "images/page103_img006.jpg",
+            "name": "图18-24(b)",
+            "description": "实际白炽灯：100 J 电能 → 10 J 光能 + 90 J 内能。",
+            "figure_id": "ipa_evidence_d1cf60de73c8"
+          }
+        ],
+        "confidence": 0.88,
+        "aliases": [
+          "热机的效率"
+        ]
+      },
+      "original_node_ids": [
+        "node_s009_heat_engine_efficiency"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_30730e1f637c",
+      "label": "KnowledgePoint",
+      "source_context_id": "s009_009_能源与可持续发展",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "properties": {
+        "name": "可持续发展",
+        "definition": "既要考虑当前发展的需要，又要考虑未来发展的需要，不能以牺牲后人的利益为代价来满足当代人的需求。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\009_能源与可持续发展.md",
+            "section": {
+              "id": "s009",
+              "title": "能源与可持续发展"
+            },
+            "quote_or_summary": "所谓可持续发展，就是既要考虑当前发展的需要，又要考虑未来发展的需要，不能以牺牲后人的利益为代价来满足当代人的需求．"
+          }
+        ],
+        "confidence": 0.92,
+        "aliases": [
+          "可持续发展"
+        ]
+      },
+      "original_node_ids": [
+        "node_s009_sustainable_development"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_d546a6b67920",
+      "label": "KnowledgePoint",
+      "source_context_id": "s009_009_能源与可持续发展",
+      "revision_round": 1,
+      "status": "candidate",
+      "audit_refs": [],
+      "properties": {
+        "name": "可再生能源与不可再生能源",
+        "definition": "可再生能源是指可以从自然界源源不断地得到的能源，如太阳能、风能、水能等；不可再生能源是指一旦消耗就很难再生的能源，如煤、石油、天然气以及核燃料等。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\009_能源与可持续发展.md",
+            "section": {
+              "id": "s009",
+              "title": "能源与可持续发展"
+            },
+            "quote_or_summary": "可再生能源是指可以从自然界源源不断地得到的能源，如太阳能、风能、水能等；不可再生能源是指一旦消耗就很难再生的能源，如煤、石油、天然气以及核燃料等。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "可再生能源与不可再生能源"
+        ]
+      },
+      "original_node_ids": [
+        "node_s009_renewable_energy"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_04812a14ff8e",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "后记",
+        "chapter_num": "10",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\010_后记.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_191034_义务教育教科书·物理九年级下册_20260703\\enhanced_markdown\\sections\\010_后记.md",
+            "section": {
+              "id": "s010",
+              "title": "后记"
+            },
+            "quote_or_summary": "# 后记"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "后记"
+        ]
+      },
+      "source_context_id": "s010_010_后记",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "s010_section"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "version": "ipa.taxonomy.v2.fine_grained",
+  "items": [
+    {
+      "id": "math_expression_fragment",
+      "label": "算式/公式/数学文字片段",
+      "default_kg_value": "medium",
+      "rule": "只含算式、公式、比较式、单位、填空式或短数学文字；若有图形关系或坐标结构，选对应图形类。"
+    },
+    {
+      "id": "geometry_shape_diagram",
+      "label": "几何形状与性质图",
+      "default_kg_value": "high",
+      "rule": "三角形、四边形、多边形、角、面积、周长、辅助线等形状和性质关系图；不含明显平移、旋转、对称过程时选此类。"
+    },
+    {
+      "id": "geometry_transformation_diagram",
+      "label": "几何变换/展开示意图",
+      "default_kg_value": "high",
+      "rule": "平移、旋转、轴对称、折叠、展开、拼摆或位置变化过程图；若主要是网格坐标定位，选 coordinate_or_grid_diagram。"
+    },
+    {
+      "id": "coordinate_or_grid_diagram",
+      "label": "坐标/方格/网格图",
+      "default_kg_value": "high",
+      "rule": "方格纸、坐标轴、坐标点、路线网格、图形在网格中的位置或变化；若没有网格而是普通几何形状，选几何类。"
+    },
+    {
+      "id": "data_table",
+      "label": "数据表格",
+      "default_kg_value": "high",
+      "rule": "由行列、表头、字段和值组成的表格或调查记录；若是条形图、折线图、扇形图等可视化统计图，选 statistical_chart。"
+    },
+    {
+      "id": "statistical_chart",
+      "label": "统计图",
+      "default_kg_value": "high",
+      "rule": "条形图、折线图、扇形图、象形统计图等统计可视化；若只是行列表格数据，选 data_table。"
+    },
+    {
+      "id": "operation_model",
+      "label": "计算模型/教具图",
+      "default_kg_value": "high",
+      "rule": "算盘、计数器、小棒、数位模型、点子图、操作步骤或计算过程模型；若只是公式截图，选 math_expression_fragment。"
+    },
+    {
+      "id": "word_problem_context",
+      "label": "应用题情境图",
+      "default_kg_value": "medium",
+      "rule": "桥、车、飞机、菜地、楼梯、收费站等承载题目数量关系的情境图；若只是普通照片且无明确数学任务，选 real_world_photo。"
+    },
+    {
+      "id": "instructional_composite",
+      "label": "教学复合片段",
+      "default_kg_value": "medium",
+      "rule": "多个小图、文字、对话框、步骤和箭头混在同一图中的教学片段；若核心是一张清晰表格/统计图/几何图，选更具体类别。"
+    },
+    {
+      "id": "real_world_photo",
+      "label": "现实照片",
+      "default_kg_value": "medium",
+      "rule": "真实场景照片或实物照片；只有当照片本身承载题目数量关系时才选 word_problem_context。"
+    },
+    {
+      "id": "decorative_character",
+      "label": "卡通角色/装饰人物",
+      "default_kg_value": "low",
+      "rule": "只作引导或装饰的卡通人物、拟人形象、表情角色；不要因附近正文含数学就提升为数学图。"
+    },
+    {
+      "id": "section_marker_or_icon",
+      "label": "题号/章节/活动图标",
+      "default_kg_value": "low",
+      "rule": "页眉图标、题号叶子、箭头、活动标识、章节小图标等导航符号；不承载可抽取数学内容。"
+    },
+    {
+      "id": "cover_or_front_matter",
+      "label": "封面/目录/出版信息",
+      "default_kg_value": "low",
+      "rule": "封面图、目录前图、版权页、条形码、出版信息或版式装饰；不作为知识图谱证据。"
+    },
+    {
+      "id": "blank_or_shape_fragment",
+      "label": "空白框/残缺形状片段",
+      "default_kg_value": "low",
+      "rule": "空白矩形、裁切残片、孤立色块、单个箭头或无法独立理解的图形碎片；若可读成完整几何关系，选几何类。"
+    },
+    {
+      "id": "unknown_or_unreadable",
+      "label": "无法确认/不可读",
+      "default_kg_value": "uncertain",
+      "rule": "图片缺失、过小、模糊、遮挡、上下文不足或无法判断内容；只有确实不可读时使用。"
+    },
+    {
+      "id": "other_math_visual",
+      "label": "其他数学视觉结构",
+      "default_kg_value": "medium",
+      "rule": "确有数学视觉结构但不适合以上任何细类；使用前先确认不是公式、几何、坐标、表格、统计图或操作模型。"
+    }
+  ]
+}

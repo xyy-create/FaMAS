@@ -1,0 +1,132 @@
+{
+  "schema_version": "kg.triples.v1",
+  "run_id": "kg_义务教育教科书·数学三年级下册_20260701",
+  "triples": [
+    {
+      "triple_id": "triple_contains_55e9bfc94bdb",
+      "subject_node_id": "canon_chaptersection_c087dfa82a3e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_572d79fafbab",
+      "edge_id": "canon_edge_contains_6fc0fae608a4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_051622_义务教育教科书·数学三年级下册_20260701\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 2 × 1 0 ="
+          },
+          "quote_or_summary": "正方形的边长是 1 分米，它的面积是 1 平方分米。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a27eab541fdf",
+      "subject_node_id": "canon_chaptersection_c087dfa82a3e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d4b3c14655db",
+      "edge_id": "canon_edge_contains_6e678b896fb9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_051622_义务教育教科书·数学三年级下册_20260701\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 2 × 1 0 ="
+          },
+          "quote_or_summary": "分数的初步认识（二）把一盘桃平均分给 2 只小猴。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_b580bae637d6",
+      "subject_node_id": "canon_chaptersection_c087dfa82a3e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_097600c51b7e",
+      "edge_id": "canon_edge_contains_c7e88b413a1f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_051622_义务教育教科书·数学三年级下册_20260701\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 2 × 1 0 ="
+          },
+          "quote_or_summary": "小数的初步认识 5 分米是 5/10 米，还可以写成 0.5 米。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_42a5220bc763",
+      "subject_node_id": "canon_chaptersection_c087dfa82a3e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b789e00e03b3",
+      "edge_id": "canon_edge_contains_4e05d64d1178",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_051622_义务教育教科书·数学三年级下册_20260701\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 2 × 1 0 ="
+          },
+          "quote_or_summary": "数据的收集和整理（二）收集数据是解决问题的重要方法。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_8858336c19a0",
+      "subject_node_id": "canon_problem_cbb2af083792",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_572d79fafbab",
+      "edge_id": "canon_edge_tests_42eb9528d7ec",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_051622_义务教育教科书·数学三年级下册_20260701\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 2 × 1 0 ="
+          },
+          "quote_or_summary": "正方形的边长是 1 分米，它的面积是 1 平方分米。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_7c0967961208",
+      "subject_node_id": "canon_problem_71b08f8d3799",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_d4b3c14655db",
+      "edge_id": "canon_edge_tests_f469c3c3f871",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_051622_义务教育教科书·数学三年级下册_20260701\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 2 × 1 0 ="
+          },
+          "quote_or_summary": "把这篮蘑菇平均分成 3 份，白蘑菇是其中的 1 份……答：小兔一共分得 2 个。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_b2fc30a4d4f6",
+      "subject_node_id": "canon_problem_833fd8b28537",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_097600c51b7e",
+      "edge_id": "canon_edge_tests_37c309cf3f45",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_051622_义务教育教科书·数学三年级下册_20260701\\enhanced_markdown\\sections\\ch1_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第一章 2 × 1 0 ="
+          },
+          "quote_or_summary": "0.8 元是 8 角，0.6 元是 6 角，8 角大于 6 角。"
+        }
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

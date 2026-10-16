@@ -1,0 +1,831 @@
+{
+  "schema_version": "kg.merged_edges.v1",
+  "run_id": "kg_普通高中教科书·化学选择性必修1化学反应原理_20260630",
+  "edges": [
+    {
+      "edge_id": "canon_edge_contains_a5dd40f399ee",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ade9429c7e72",
+      "target_node_id": "canon_knowledgepoint_1e26f866fcf8",
+      "properties": {
+        "rationale": "Section introduces spontaneous reaction concept directly under unit title.",
+        "figures": [
+          {
+            "image_path": "images/page060_img002.jpg",
+            "name": "图 2-12",
+            "description": "一张像素风格的插图，显示一个由三层堆叠的蓝绿色块状物组成的结构，边缘有黄绿色晕染背景，整体呈方形，可能象征自然界中具有方向性的变化过程。",
+            "figure_id": "ipa_evidence_e29c17cdba02"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\002_第二单元化学反应的方向与限度.md",
+            "section": {
+              "id": "s002",
+              "title": "第二单元 化学反应的方向与限度"
+            },
+            "quote_or_summary": "在一定条件下能自动进行的反应，我们称之为自发反应（spontaneous reaction）。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_002_第二单元化学反应的方向与限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s002_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_6ef5882531a3",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ade9429c7e72",
+      "target_node_id": "canon_knowledgepoint_b59aedfa11d7",
+      "properties": {
+        "rationale": "Section defines chemical equilibrium state explicitly with rate-time relationship.",
+        "figures": [
+          {
+            "image_path": "images/page065_img006.jpg",
+            "name": "图 2-16",
+            "description": "图中显示：横轴为时间，纵轴为反应速率；橙色曲线从高处下降，标注为“正反应”；蓝色曲线从原点上升，标注为“逆反应”；两条曲线在某时刻相交后趋于重合，进入水平平台区。",
+            "figure_id": "ipa_evidence_7b0665717d35"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\002_第二单元化学反应的方向与限度.md",
+            "section": {
+              "id": "s002",
+              "title": "第二单元 化学反应的方向与限度"
+            },
+            "quote_or_summary": "当外界条件不变时，可逆反应进行到一定程度，反应物和生成物的浓度不再随时间而发生变化，我们称之为化学平衡（chemicalequilibrium）状态。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_002_第二单元化学反应的方向与限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s002_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_9ffafc7b10a3",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ade9429c7e72",
+      "target_node_id": "canon_knowledgepoint_d68de3459ee5",
+      "properties": {
+        "rationale": "Section defines equilibrium constant as the ratio of concentration products at equilibrium.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\002_第二单元化学反应的方向与限度.md",
+            "section": {
+              "id": "s002",
+              "title": "第二单元 化学反应的方向与限度"
+            },
+            "quote_or_summary": "我们把这个定值称为该反应的化学平衡常数，简称平衡常数（equilibrium constant）。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_002_第二单元化学反应的方向与限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s002_contains_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_fc7d2428620a",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ade9429c7e72",
+      "target_node_id": "canon_knowledgepoint_cff589af3a73",
+      "properties": {
+        "rationale": "Section defines reversible reaction with bidirectional process example.",
+        "figures": [
+          {
+            "image_path": "images/page064_img004.jpg",
+            "name": "可逆反应循环示意图",
+            "description": "一个由两个绿色弯曲箭头组成的顺时针环形结构，环绕中心一个浅绿色小圆圈，整体被淡黄色光晕包围，示意可逆反应的双向进行过程。",
+            "figure_id": "ipa_evidence_92675a30ede5"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\002_第二单元化学反应的方向与限度.md",
+            "section": {
+              "id": "s002",
+              "title": "第二单元 化学反应的方向与限度"
+            },
+            "quote_or_summary": "在高温下，氧化铁能与一氧化碳反应生成铁和二氧化碳；同时，铁与二氧化碳反应也能生成氧化铁和一氧化碳。该反应是可逆反应。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_002_第二单元化学反应的方向与限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s002_contains_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_2685c7f8995f",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ade9429c7e72",
+      "target_node_id": "canon_knowledgepoint_0ae98b7ede4c",
+      "properties": {
+        "rationale": "Section defines entropy change as measure of system disorder change.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\002_第二单元化学反应的方向与限度.md",
+            "section": {
+              "id": "s002",
+              "title": "第二单元 化学反应的方向与限度"
+            },
+            "quote_or_summary": "衡量一个体系混乱度的物理量叫做熵（entropy），用符号S表示。反应前后体系熵值的变化称为反应的熵变，记为\\Delta S。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_002_第二单元化学反应的方向与限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s002_contains_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_37cfbf25e9d3",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_d283fd1a00c5",
+      "target_node_id": "canon_knowledgepoint_d68de3459ee5",
+      "properties": {
+        "rationale": "Problem explicitly asks to calculate equilibrium constant for given reaction.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\002_第二单元化学反应的方向与限度.md",
+            "section": {
+              "id": "s002",
+              "title": "第二单元 化学反应的方向与限度"
+            },
+            "quote_or_summary": "试求该温度下H2(g)+I2(g)⇌2HI(g)的平衡常数。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_002_第二单元化学反应的方向与限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s002_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_b9a571e58e0c",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_00c51be697c8",
+      "target_node_id": "canon_knowledgepoint_d68de3459ee5",
+      "properties": {
+        "rationale": "Problem uses equilibrium constant K to calculate conversion rate.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\002_第二单元化学反应的方向与限度.md",
+            "section": {
+              "id": "s002",
+              "title": "第二单元 化学反应的方向与限度"
+            },
+            "quote_or_summary": "CO(g)+H2O(g)⇌CO2(g)+H2(g) K=1.00。若反应开始时CO和H2O的浓度均为0.200 mol·L^-1，求达到平衡时CO转化为CO2的转化率。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s002_002_第二单元化学反应的方向与限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s002_tests_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_972c88282d52",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_b59aedfa11d7",
+      "target_node_id": "canon_knowledgepoint_cff589af3a73",
+      "properties": {
+        "rationale": "Chemical equilibrium is defined as a state reached by reversible reactions.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\002_第二单元化学反应的方向与限度.md",
+            "section": {
+              "id": "s002",
+              "title": "第二单元 化学反应的方向与限度"
+            },
+            "quote_or_summary": "当外界条件不变时，可逆反应进行到一定程度，反应物和生成物的浓度不再随时间而发生变化，我们称之为化学平衡状态。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s002_002_第二单元化学反应的方向与限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s002_requires_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_110e01e66f64",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_d68de3459ee5",
+      "target_node_id": "canon_knowledgepoint_b59aedfa11d7",
+      "properties": {
+        "rationale": "Equilibrium constant is defined based on concentrations at chemical equilibrium state.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\002_第二单元化学反应的方向与限度.md",
+            "section": {
+              "id": "s002",
+              "title": "第二单元 化学反应的方向与限度"
+            },
+            "quote_or_summary": "在一定温度下，无论反应物的起始浓度如何，反应达到平衡状态后，将各物质的物质的量浓度代入以下表达式，得到的结果是一个定值。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s002_002_第二单元化学反应的方向与限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s002_requires_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_0f712d2a6429",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_1e26f866fcf8",
+      "target_node_id": "canon_knowledgepoint_0ae98b7ede4c",
+      "properties": {
+        "rationale": "Judging spontaneity requires considering entropy change alongside enthalpy change.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\002_第二单元化学反应的方向与限度.md",
+            "section": {
+              "id": "s002",
+              "title": "第二单元 化学反应的方向与限度"
+            },
+            "quote_or_summary": "考察化学反应能否自发进行，不能直接用放热或吸热作为判断依据...研究表明，一些自发进行的化学反应有趋于体系混乱度增大的倾向。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s002_002_第二单元化学反应的方向与限度",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s002_requires_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_18eef1ae990a",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_bd78e3f0bb9b",
+      "target_node_id": "canon_knowledgepoint_828947fd7011",
+      "properties": {
+        "rationale": "章节标题和正文明确定义了化学平衡移动的概念。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\003_第三单元化学平衡的移动.md",
+            "section": {
+              "id": "s003",
+              "title": "第三单元 化学平衡的移动"
+            },
+            "quote_or_summary": "从一个平衡状态变为另一个平衡状态，称为化学平衡的移动。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_第三单元化学平衡的移动",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_4354ff6f67a2",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_bd78e3f0bb9b",
+      "target_node_id": "canon_knowledgepoint_d777c387cfeb",
+      "properties": {
+        "rationale": "章节正文阐述了勒夏特列原理的定义及其表述。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\003_第三单元化学平衡的移动.md",
+            "section": {
+              "id": "s003",
+              "title": "第三单元 化学平衡的移动"
+            },
+            "quote_or_summary": "每一种影响平衡因素的变化，都会使平衡向减弱这种影响的方向移动。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_第三单元化学平衡的移动",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_025291e2352d",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_bd78e3f0bb9b",
+      "target_node_id": "canon_knowledgepoint_9582f016efec",
+      "properties": {
+        "rationale": "章节正文引入了浓度商的定义及其计算公式。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\003_第三单元化学平衡的移动.md",
+            "section": {
+              "id": "s003",
+              "title": "第三单元 化学平衡的移动"
+            },
+            "quote_or_summary": "我们把这个数值称为浓度商（concentration quotient）。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_第三单元化学平衡的移动",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_2ed54c3c3430",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_bd78e3f0bb9b",
+      "target_node_id": "canon_knowledgepoint_934b62494375",
+      "properties": {
+        "rationale": "章节通过实验和图表详细说明了浓度、压强、温度对平衡的影响。",
+        "figures": [
+          {
+            "image_path": "images/page071_img004.jpg",
+            "name": "铬酸钾溶液与重铬酸钾溶液的颜色",
+            "description": "两张并列试管，左侧黄色溶液标注“铬酸钾溶液”，右侧橙红色溶液标注“重铬酸钾溶液”。",
+            "figure_id": "ipa_evidence_d7c75ec652b5"
+          },
+          {
+            "image_path": "images/page074_img002.jpg",
+            "name": "不同温度和压强下合成氨平衡体系中氨的物质的量分数",
+            "description": "三维柱状图，展示不同温度和压强下氨在平衡体系中的物质的量分数。显示随着压强增大、温度降低，氨的物质的量分数升高。",
+            "figure_id": "ipa_evidence_bacd009168ab"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\003_第三单元化学平衡的移动.md",
+            "section": {
+              "id": "s003",
+              "title": "第三单元 化学平衡的移动"
+            },
+            "quote_or_summary": "大量实验表明，在其他条件不变的情况下，增大反应物的浓度或减小生成物的浓度，平衡向正反应方向移动。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_第三单元化学平衡的移动",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_88e528a25fed",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_5c8f5465b177",
+      "target_node_id": "canon_knowledgepoint_9582f016efec",
+      "properties": {
+        "rationale": "例题明确要求计算浓度商以判断平衡移动方向。",
+        "figures": [
+          {
+            "image_path": "images/page072_img004.jpg",
+            "name": "绿色箭头图标",
+            "description": "一个由青绿色和浅绿色组成的六边形图形，内部有一个指向右上方的粗箭头，箭头路径呈阶梯式上升。",
+            "figure_id": "ipa_evidence_34d8211639e3"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\003_第三单元化学平衡的移动.md",
+            "section": {
+              "id": "s003",
+              "title": "第三单元 化学平衡的移动"
+            },
+            "quote_or_summary": "计算操作后反应的浓度商，并判断平衡移动的方向。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s003_003_第三单元化学平衡的移动",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_204f7d3aae70",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_5c8f5465b177",
+      "target_node_id": "canon_knowledgepoint_828947fd7011",
+      "properties": {
+        "rationale": "例题要求根据浓度商计算结果判断平衡移动的具体方向。",
+        "figures": [
+          {
+            "image_path": "images/page072_img004.jpg",
+            "name": "绿色箭头图标",
+            "description": "一个由青绿色和浅绿色组成的六边形图形，内部有一个指向右上方的粗箭头，箭头路径呈阶梯式上升。",
+            "figure_id": "ipa_evidence_34d8211639e3"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\003_第三单元化学平衡的移动.md",
+            "section": {
+              "id": "s003",
+              "title": "第三单元 化学平衡的移动"
+            },
+            "quote_or_summary": "判断平衡移动的方向。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s003_003_第三单元化学平衡的移动",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_tests_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_6af8e2f61940",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_18b1f202d807",
+      "target_node_id": "canon_knowledgepoint_d777c387cfeb",
+      "properties": {
+        "rationale": "应用题考察改变条件对平衡移动方向的影响，直接关联勒夏特列原理。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\003_第三单元化学平衡的移动.md",
+            "section": {
+              "id": "s003",
+              "title": "第三单元 化学平衡的移动"
+            },
+            "quote_or_summary": "改变下列条件一定能使化学平衡向正反应方向移动的是"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s003_003_第三单元化学平衡的移动",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_tests_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_499be37f5723",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_878b0d6ef278",
+      "target_node_id": "canon_knowledgepoint_2d84df7823cb",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\005_第四单元沉淀溶解平衡.md",
+            "section": {
+              "id": "s005",
+              "title": "第四单元 沉淀溶解平衡"
+            },
+            "quote_or_summary": "在一定温度下，当溶解速率和沉淀速率相等时，体系中形成氯化银饱和溶液，氯化银的溶解达到平衡状态"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_第四单元沉淀溶解平衡",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_78a6b05ba9fb",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_878b0d6ef278",
+      "target_node_id": "canon_knowledgepoint_9540793958f7",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\005_第四单元沉淀溶解平衡.md",
+            "section": {
+              "id": "s005",
+              "title": "第四单元 沉淀溶解平衡"
+            },
+            "quote_or_summary": "用平衡常数来描述难溶电解质在水中的沉淀溶解平衡，其平衡常数称为溶度积常数，简称溶度积（solubility product），用 Ksp 表示"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_第四单元沉淀溶解平衡",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_f2b30eb5f341",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_878b0d6ef278",
+      "target_node_id": "canon_knowledgepoint_43ff349b30f4",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\005_第四单元沉淀溶解平衡.md",
+            "section": {
+              "id": "s005",
+              "title": "第四单元 沉淀溶解平衡"
+            },
+            "quote_or_summary": "一般来说，溶解能力相对较强的物质容易转化为溶解能力相对较弱的物质"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_第四单元沉淀溶解平衡",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_contains_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_4d2ed10e90e3",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_878b0d6ef278",
+      "target_node_id": "canon_knowledgepoint_a98e2638d147",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\005_第四单元沉淀溶解平衡.md",
+            "section": {
+              "id": "s005",
+              "title": "第四单元 沉淀溶解平衡"
+            },
+            "quote_or_summary": "难溶电解质的沉淀溶解平衡在生产、科研、环保等领域应用广泛"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_第四单元沉淀溶解平衡",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_contains_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_030d9817512b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_878b0d6ef278",
+      "target_node_id": "canon_knowledgepoint_930110075c56",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\005_第四单元沉淀溶解平衡.md",
+            "section": {
+              "id": "s005",
+              "title": "第四单元 沉淀溶解平衡"
+            },
+            "quote_or_summary": "含氟牙膏中少量的氟离子能与羟基磷灰石发生反应，生成更难溶解的氟磷灰石"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_第四单元沉淀溶解平衡",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_contains_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_bb5ae682334c",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_a6bb47ff590a",
+      "target_node_id": "canon_knowledgepoint_2d84df7823cb",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\005_第四单元沉淀溶解平衡.md",
+            "section": {
+              "id": "s005",
+              "title": "第四单元 沉淀溶解平衡"
+            },
+            "quote_or_summary": "CaCO3 在水中的溶解平衡可表示为"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s005_005_第四单元沉淀溶解平衡",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_1272fe320e9c",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_a6bb47ff590a",
+      "target_node_id": "canon_knowledgepoint_9540793958f7",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\005_第四单元沉淀溶解平衡.md",
+            "section": {
+              "id": "s005",
+              "title": "第四单元 沉淀溶解平衡"
+            },
+            "quote_or_summary": "碳酸钙的溶度积常数表达式为"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s005_005_第四单元沉淀溶解平衡",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_tests_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_f06bbd8a55d1",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_043f83e7c4fa",
+      "target_node_id": "canon_knowledgepoint_a98e2638d147",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\005_第四单元沉淀溶解平衡.md",
+            "section": {
+              "id": "s005",
+              "title": "第四单元 沉淀溶解平衡"
+            },
+            "quote_or_summary": "为了除去氯化镁酸性溶液中的 Fe3+，可在加热搅拌的条件下加入一种过量的试剂"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s005_005_第四单元沉淀溶解平衡",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_tests_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_b792868ccacb",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_43ff349b30f4",
+      "target_node_id": "canon_knowledgepoint_2d84df7823cb",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\005_第四单元沉淀溶解平衡.md",
+            "section": {
+              "id": "s005",
+              "title": "第四单元 沉淀溶解平衡"
+            },
+            "quote_or_summary": "沉淀转化的实质就是沉淀溶解平衡的移动"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s005_005_第四单元沉淀溶解平衡",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_requires_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_bb25c340757a",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_43ff349b30f4",
+      "target_node_id": "canon_knowledgepoint_9540793958f7",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\005_第四单元沉淀溶解平衡.md",
+            "section": {
+              "id": "s005",
+              "title": "第四单元 沉淀溶解平衡"
+            },
+            "quote_or_summary": "根据化学平衡研究的思路，我们也可以用平衡常数来描述... Ksp"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s005_005_第四单元沉淀溶解平衡",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_requires_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_fcabb5245d19",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_930110075c56",
+      "target_node_id": "canon_knowledgepoint_2d84df7823cb",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\005_第四单元沉淀溶解平衡.md",
+            "section": {
+              "id": "s005",
+              "title": "第四单元 沉淀溶解平衡"
+            },
+            "quote_or_summary": "羟基磷灰石持续溶解，最终形成龋齿"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s005_005_第四单元沉淀溶解平衡",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_requires_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_9a26fd002e39",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_930110075c56",
+      "target_node_id": "canon_knowledgepoint_9540793958f7",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_080251_普通高中教科书·化学选择性必修1化学反应原理_20260630\\enhanced_markdown\\sections\\005_第四单元沉淀溶解平衡.md",
+            "section": {
+              "id": "s005",
+              "title": "第四单元 沉淀溶解平衡"
+            },
+            "quote_or_summary": "生成更难溶解的氟磷灰石"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s005_005_第四单元沉淀溶解平衡",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_requires_004"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "schema_version": "kg.merged_nodes.v1",
+  "run_id": "kg_义务教育教科书·数学三年级下册_20260701",
+  "nodes": [
+    {
+      "node_id": "canon_knowledgepoint_572d79fafbab",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "面积单位换算",
+        "definition": "1 平方分米等于 100 平方厘米。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_051622_义务教育教科书·数学三年级下册_20260701\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 2 × 1 0 ="
+            },
+            "quote_or_summary": "正方形的边长是 1 分米，10×10＝100（平方厘米），它的面积是 100 平方厘米。"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page072_img002.jpg",
+            "name": "面积单位网格图",
+            "description": "一个由虚线构成的正方形网格，横向有 11 条竖线，纵向有 11 条横线，形成 10×10 个单位小正方形。",
+            "figure_id": "ipa_evidence_ad0e0083d65d"
+          }
+        ],
+        "aliases": [
+          "面积单位换算"
+        ]
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s001_kp_area_unit"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_d4b3c14655db",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "分数的初步认识",
+        "definition": "把一盘桃平均分成 2 份，每份是这盘桃的 1/2。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_051622_义务教育教科书·数学三年级下册_20260701\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 2 × 1 0 ="
+            },
+            "quote_or_summary": "把一盘桃平均分成 2 份，每份是这盘桃的 1/2。"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page078_img003.jpg",
+            "name": "桃子平均分图示",
+            "description": "一盘桃子被平均分成两份，中间有一条虚线将椭圆垂直平分为左右两部分。",
+            "figure_id": "ipa_evidence_01f7b5e891fa"
+          }
+        ],
+        "aliases": [
+          "分数的初步认识"
+        ]
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s001_kp_fraction"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_097600c51b7e",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "小数的初步认识",
+        "definition": "5 分米是 5/10 米，还可以写成 0.5 米。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_051622_义务教育教科书·数学三年级下册_20260701\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 2 × 1 0 ="
+            },
+            "quote_or_summary": "5 分米是 5/10 米，还可以写成 0.5 米。0.5 读作零点五。"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page089_img002.jpg",
+            "name": "测量桌面场景",
+            "description": "两个孩子在桌边操作卡片，桌面上有数字 5 和汉字分。",
+            "figure_id": "ipa_evidence_375cc2c931c9"
+          }
+        ],
+        "aliases": [
+          "小数的初步认识"
+        ]
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s001_kp_decimal"
+      ]
+    },
+    {
+      "node_id": "canon_problem_cbb2af083792",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "正方形的边长是 1 分米，它的面积是多少？",
+        "answer": "1 平方分米",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_051622_义务教育教科书·数学三年级下册_20260701\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 2 × 1 0 ="
+            },
+            "quote_or_summary": "正方形的边长是 1 分米，它的面积是 1 平方分米。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "正方形的边长是1分米，它的面积是多少？"
+        ]
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s001_prob_square_area"
+      ]
+    },
+    {
+      "node_id": "canon_problem_71b08f8d3799",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "把这篮蘑菇平均分成 3 份，白蘑菇是其中的 1 份，白蘑菇有几个？",
+        "answer": "2 个",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_051622_义务教育教科书·数学三年级下册_20260701\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 2 × 1 0 ="
+            },
+            "quote_or_summary": "把这篮蘑菇平均分成 3 份，白蘑菇是其中的 1 份……答：小兔一共分得 2 个。"
+          }
+        ],
+        "confidence": 0.85,
+        "figures": [
+          {
+            "image_path": "images/page085_img006.jpg",
+            "name": "蘑菇分组图",
+            "description": "图中有一排 6 个手绘风格的蘑菇，被一个粉色椭圆框整体圈出。",
+            "figure_id": "ipa_evidence_09c1289e95f3"
+          }
+        ],
+        "aliases": [
+          "把这篮蘑菇平均分成3份，白蘑菇是其中的1份，白蘑菇有几个？"
+        ]
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s001_prob_fraction_mushroom"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_b789e00e03b3",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "数据的收集和整理",
+        "definition": "收集数据是解决问题的重要方法。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_051622_义务教育教科书·数学三年级下册_20260701\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 2 × 1 0 ="
+            },
+            "quote_or_summary": "通过这次实践活动，你有什么收获？收集数据是解决问题的重要方法。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "数据的收集和整理"
+        ]
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s001_kp_data_collection"
+      ]
+    },
+    {
+      "node_id": "canon_problem_833fd8b28537",
+      "label": "Problem",
+      "properties": {
+        "problem_text": "雪糕和冰棍，哪个贵一些？0.8 元和 0.6 元。",
+        "answer": "雪糕贵",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_051622_义务教育教科书·数学三年级下册_20260701\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 2 × 1 0 ="
+            },
+            "quote_or_summary": "0.8 元是 8 角，0.6 元是 6 角，8 角大于 6 角。"
+          }
+        ],
+        "confidence": 0.85,
+        "figures": [
+          {
+            "image_path": "images/page092_img001.jpg",
+            "name": "冰激凌店价格表",
+            "description": "左侧为一名小女孩站在冰激凌摊前，右侧为摊位窗口内一位女售货员；右上角列有四种冰激凌及其价格。",
+            "figure_id": "ipa_evidence_4048c8a17053"
+          }
+        ],
+        "aliases": [
+          "雪糕和冰棍，哪个贵一些？0.8元和0.6元。"
+        ]
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_node_ids": [
+        "node_s001_prob_decimal_compare"
+      ]
+    },
+    {
+      "node_id": "canon_chaptersection_c087dfa82a3e",
+      "label": "ChapterSection",
+      "properties": {
+        "title": "2 × 1 =",
+        "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_051622_义务教育教科书·数学三年级下册_20260701\\enhanced_markdown\\sections\\ch1_s1.md",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_051622_义务教育教科书·数学三年级下册_20260701\\enhanced_markdown\\sections\\ch1_s1.md",
+            "section": {
+              "id": "s001",
+              "title": "第一章 2 × 1 0 ="
+            },
+            "quote_or_summary": "第一章 2 × 1 0 = 第一节 2 × 1 ="
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "2×1="
+        ]
+      },
+      "source_context_id": "s001_ch1_s1",
+      "revision_round": 1,
+      "status": "candidate",
+      "audit_refs": [],
+      "figures": [],
+      "original_node_ids": [
+        "node_s001_section_001"
+      ]
+    }
+  ]
+}

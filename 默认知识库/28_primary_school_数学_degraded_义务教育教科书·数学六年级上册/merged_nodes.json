@@ -1,0 +1,267 @@
+{
+  "schema_version": "kg.merged_nodes.v1",
+  "run_id": "kg_义务教育教科书·数学六年级上册_20260701",
+  "nodes": [
+    {
+      "node_id": "canon_knowledgepoint_2791e79644a9",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "分数除以整数",
+        "definition": "分数除以整数，等于分数乘这个整数的倒数。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_084307_义务教育教科书·数学六年级上册_20260701\\enhanced_markdown\\sections\\ch3.md",
+            "section": {
+              "id": "s001",
+              "title": "第三章 一个正方体纸盒, 像下面的样子沿着画有红线的棱剪开, 就可以得到它的展开图。"
+            },
+            "quote_or_summary": "分数除以整数，等于分数乘这个整数的倒数。"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page045_img004.jpg",
+            "name": "分数可视化图",
+            "description": "图中水平排列着四个大小相同的空心圆，颜色为橙红色轮廓，背景为白色，整体被一个浅蓝色矩形边框包围。",
+            "figure_id": "ipa_evidence_be036dcbe065"
+          }
+        ],
+        "aliases": [
+          "分数除以整数"
+        ]
+      },
+      "source_context_id": "s001_ch3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_frac_div_int_001"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_9b8423df29f8",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "整数除以分数",
+        "definition": "整数除以分数，等于整数乘这个分数的倒数。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_084307_义务教育教科书·数学六年级上册_20260701\\enhanced_markdown\\sections\\ch3.md",
+            "section": {
+              "id": "s001",
+              "title": "第三章 一个正方体纸盒, 像下面的样子沿着画有红线的棱剪开, 就可以得到它的展开图。"
+            },
+            "quote_or_summary": "整数除以分数，等于整数乘这个分数的倒数。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "整数除以分数"
+        ]
+      },
+      "source_context_id": "s001_ch3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_int_div_frac_002",
+        "kp_int_div_frac_002"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_9c87d0ede2b3",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "分数除以分数",
+        "definition": "甲数除以乙数（0 除外），等于甲数乘乙数的倒数。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_084307_义务教育教科书·数学六年级上册_20260701\\enhanced_markdown\\sections\\ch3.md",
+            "section": {
+              "id": "s001",
+              "title": "第三章 一个正方体纸盒, 像下面的样子沿着画有红线的棱剪开, 就可以得到它的展开图。"
+            },
+            "quote_or_summary": "甲数除以乙数（0 除外），等于甲数乘乙数的倒数。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "分数除以分数"
+        ]
+      },
+      "source_context_id": "s001_ch3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_frac_div_frac_003",
+        "kp_frac_div_frac_003"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_8e0e4f917520",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "比的意义",
+        "definition": "两个数相除又可以叫作两个数的比。比的前项除以后项所得的商叫作比值。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_084307_义务教育教科书·数学六年级上册_20260701\\enhanced_markdown\\sections\\ch3.md",
+            "section": {
+              "id": "s001",
+              "title": "第三章 一个正方体纸盒, 像下面的样子沿着画有红线的棱剪开, 就可以得到它的展开图。"
+            },
+            "quote_or_summary": "两个数相除又可以叫作两个数的比。比的前项除以后项所得的商叫作比值。"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page058_img002.jpg",
+            "name": "方格比例图",
+            "description": "表格形式展示红色方格与白色方格个数的对比。",
+            "figure_id": "ipa_evidence_3ad7ae3f3182"
+          }
+        ],
+        "aliases": [
+          "比的意义"
+        ]
+      },
+      "source_context_id": "s001_ch3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_ratio_meaning_004"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_8a239082f4ea",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "比的基本性质",
+        "definition": "比的前项和后项同时乘或除以相同的数（0 除外），比值不变。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_084307_义务教育教科书·数学六年级上册_20260701\\enhanced_markdown\\sections\\ch3.md",
+            "section": {
+              "id": "s001",
+              "title": "第三章 一个正方体纸盒, 像下面的样子沿着画有红线的棱剪开, 就可以得到它的展开图。"
+            },
+            "quote_or_summary": "比的前项和后项同时乘或除以相同的数（0 除外），比值不变。这是比的基本性质。"
+          }
+        ],
+        "confidence": 0.95,
+        "aliases": [
+          "比的基本性质"
+        ]
+      },
+      "source_context_id": "s001_ch3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_ratio_prop_005",
+        "kp_ratio_prop_005"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_8982ae9f595d",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "百分数",
+        "definition": "像上面这样表示一个数是另一个数的百分之几的数，叫作百分数。百分数又叫作百分比或百分率。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_084307_义务教育教科书·数学六年级上册_20260701\\enhanced_markdown\\sections\\ch3.md",
+            "section": {
+              "id": "s001",
+              "title": "第三章 一个正方体纸盒, 像下面的样子沿着画有红线的棱剪开, 就可以得到它的展开图。"
+            },
+            "quote_or_summary": "像上面这样表示一个数是另一个数的百分之几的数，叫作百分数。百分数又叫作百分比或百分率。"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page087_img004.jpg",
+            "name": "百分数方格图",
+            "description": "大正方形网格，部分涂色表示百分数含义。",
+            "figure_id": "ipa_evidence_29e3c992908b"
+          }
+        ],
+        "aliases": [
+          "百分数"
+        ]
+      },
+      "source_context_id": "s001_ch3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_percent_006"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_72b5158f0270",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "解决问题的策略-假设",
+        "definition": "通过假设可以转化问题，使数量关系变得简单。假设时要弄清楚数量之间的关系。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_084307_义务教育教科书·数学六年级上册_20260701\\enhanced_markdown\\sections\\ch3.md",
+            "section": {
+              "id": "s001",
+              "title": "第三章 一个正方体纸盒, 像下面的样子沿着画有红线的棱剪开, 就可以得到它的展开图。"
+            },
+            "quote_or_summary": "通过假设可以转化问题，使数量关系变得简单。假设时要弄清楚数量之间的关系。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "解决问题的策略-假设"
+        ]
+      },
+      "source_context_id": "s001_ch3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_strategy_assume_007",
+        "kp_strategy_assume_007"
+      ]
+    },
+    {
+      "node_id": "canon_knowledgepoint_bff2530a6a90",
+      "label": "KnowledgePoint",
+      "properties": {
+        "name": "分数四则混合运算",
+        "definition": "分数四则混合运算的运算顺序与整数相同。整数的运算律对于分数同样适用。",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_084307_义务教育教科书·数学六年级上册_20260701\\enhanced_markdown\\sections\\ch3.md",
+            "section": {
+              "id": "s001",
+              "title": "第三章 一个正方体纸盒, 像下面的样子沿着画有红线的棱剪开, 就可以得到它的展开图。"
+            },
+            "quote_or_summary": "分数四则混合运算的运算顺序与整数相同。整数的运算律对于分数同样适用。"
+          }
+        ],
+        "confidence": 0.9,
+        "aliases": [
+          "分数四则混合运算"
+        ]
+      },
+      "source_context_id": "s001_ch3",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_node_ids": [
+        "kp_frac_mixed_op_008",
+        "kp_frac_mixed_op_008"
+      ]
+    }
+  ]
+}

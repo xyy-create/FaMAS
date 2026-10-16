@@ -1,0 +1,1518 @@
+{
+  "schema_version": "kg.triples.v1",
+  "run_id": "kg_普通高中教科书·数学必修第一册_20260702",
+  "triples": [
+    {
+      "triple_id": "triple_contains_919defad9a4a",
+      "subject_node_id": "canon_chaptersection_457be50c9765",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_9b61b1a6d415",
+      "edge_id": "canon_edge_contains_d607e749cd34",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.1.md",
+          "section": {
+            "id": "s001",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "给定两个非空实数集合A和B，如果按照某种对应关系f，对于集合A中的每一个实数x，在集合B中都有唯一的实数y和它对应，那么就称f:A→B为从集合A到集合B的一个函数"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_493bcc2ba634",
+      "subject_node_id": "canon_chaptersection_457be50c9765",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_9f66e95669f5",
+      "edge_id": "canon_edge_contains_550db2d5b96f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.1.md",
+          "section": {
+            "id": "s001",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "其中，x叫作自变量，集合A叫作函数的定义域(domain). 我们将所有输出值y组成的集合{y | y=f(x), x∈A}称为函数的值域(range)"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_428e7f901d3a",
+      "subject_node_id": "canon_chaptersection_457be50c9765",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_a6fb52cb4e26",
+      "edge_id": "canon_edge_contains_6a1be41a6bdf",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.1.md",
+          "section": {
+            "id": "s001",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "将自变量的一个值x0作为横坐标，相应的函数值f(x0)作为纵坐标，就得到坐标平面上的一个点(x0, f(x0)). 所有这些点组成的图形就是函数y=f(x)的图象"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_a44d3ee6a32a",
+      "subject_node_id": "canon_problem_0f17a6757247",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_9b61b1a6d415",
+      "edge_id": "canon_edge_tests_13ef4323db6c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.1.md",
+          "section": {
+            "id": "s001",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "例1 判断下列对应是否为函数：(1) x->2/x, x≠0, x∈R; (2) x->y, 这里y^2=x, x∈N, y∈R. (3) 当x为有理数时，x→1；当x为无理数时，x→0"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_7b39218d1e10",
+      "subject_node_id": "canon_problem_13b86015cab5",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_9f66e95669f5",
+      "edge_id": "canon_edge_tests_781d9e969e09",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.1.md",
+          "section": {
+            "id": "s001",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "例2 求下列函数的定义域：(1) f(x)=√(x-1); (2) g(x)=1/(x+1)."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_e18ed3f811df",
+      "subject_node_id": "canon_problem_907142959a02",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_a6fb52cb4e26",
+      "edge_id": "canon_edge_tests_a9526223cafa",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.1.md",
+          "section": {
+            "id": "s001",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "例6 试画出二次函数 f(x)=x^2+1 的图象，并根据图象回答下列问题：(1) 比较 f(-2), f(1), f(3) 的大小；(2) 若 0<x1<x2，试比较 f(x1) 与 f(x2) 的大小."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_85e7df81afa1",
+      "subject_node_id": "canon_knowledgepoint_a6fb52cb4e26",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_9b61b1a6d415",
+      "edge_id": "canon_edge_requires_64091f7f63fb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.1.md",
+          "section": {
+            "id": "s001",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "在初中，我们学习了一次函数...知道了“函数”的定义... 将自变量的一个值 x0 作为横坐标... 所有这些点组成的图形就是函数 y=f(x) 的图象"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_c072a7724fff",
+      "subject_node_id": "canon_chaptersection_f866ba2f1c2e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_0f256e9272f7",
+      "edge_id": "canon_edge_contains_eb06b7237ef7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.2.md",
+          "section": {
+            "id": "s002",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "这种用列表来表示两个变量之间函数关系的方法称为列表法."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_de7d67916598",
+      "subject_node_id": "canon_chaptersection_f866ba2f1c2e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_201f37729d07",
+      "edge_id": "canon_edge_contains_4946c959c78b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.2.md",
+          "section": {
+            "id": "s002",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "这种用等式来表示两个变量之间函数关系的方法称为解析法."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a23c2a12d4f4",
+      "subject_node_id": "canon_chaptersection_f866ba2f1c2e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_1f605d8697c8",
+      "edge_id": "canon_edge_contains_3bd60a2f290d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.2.md",
+          "section": {
+            "id": "s002",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "这种用图象表示两个变量之间函数关系的方法称为图象法."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_dc4c3336ca80",
+      "subject_node_id": "canon_chaptersection_f866ba2f1c2e",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_36327b544243",
+      "edge_id": "canon_edge_contains_f01cad6e2cde",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.2.md",
+          "section": {
+            "id": "s002",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "像这样的函数，通常叫作分段函数（piecewisefunction)."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_da68bffeb376",
+      "subject_node_id": "canon_problem_0f17a6757247",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_0f256e9272f7",
+      "edge_id": "canon_edge_tests_9be23888adeb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.2.md",
+          "section": {
+            "id": "s002",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "例1 购买某种饮料x听，所需钱数为y元.若每听2元,试分别用解析法、列表法、图象法将y表示成 $x ( x { \\in } \\{ 1 , \\ 2 , \\ 3 , \\ 4 \\}$ )的函数，并指出这个函数的值域."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_3ac2453de102",
+      "subject_node_id": "canon_problem_0f17a6757247",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_201f37729d07",
+      "edge_id": "canon_edge_tests_5af0c6a7f8cd",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.2.md",
+          "section": {
+            "id": "s002",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "例1 购买某种饮料x听，所需钱数为y元.若每听2元,试分别用解析法、列表法、图象法将y表示成 $x ( x { \\in } \\{ 1 , \\ 2 , \\ 3 , \\ 4 \\}$ )的函数，并指出这个函数的值域."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_f1f3c6a89fdf",
+      "subject_node_id": "canon_problem_0f17a6757247",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_1f605d8697c8",
+      "edge_id": "canon_edge_tests_acdb52362676",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.2.md",
+          "section": {
+            "id": "s002",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "例1 购买某种饮料x听，所需钱数为y元.若每听2元,试分别用解析法、列表法、图象法将y表示成 $x ( x { \\in } \\{ 1 , \\ 2 , \\ 3 , \\ 4 \\}$ )的函数，并指出这个函数的值域."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_e53c1519083b",
+      "subject_node_id": "canon_problem_9f520767cc04",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_36327b544243",
+      "edge_id": "canon_edge_tests_497752d7ece3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.2.md",
+          "section": {
+            "id": "s002",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "例3 某市出租汽车收费标准如下：在3km以内(含3km)路程按起步价9元收费,超过3km 的路程按2.4元/km 收费.试写出收费额(单位：元)关于路程(单位：km)的函数解析式."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_70366db25e40",
+      "subject_node_id": "canon_problem_148f7299e343",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_1f605d8697c8",
+      "edge_id": "canon_edge_tests_30f02b4c9692",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.2.md",
+          "section": {
+            "id": "s002",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "4．下列图象中，表示函数关系 $y = f ( x )$ 的有"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_bb4743d7b0a9",
+      "subject_node_id": "canon_chaptersection_548331f74077",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_0c64bd41ca8e",
+      "edge_id": "canon_edge_contains_47dde2540042",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.4.md",
+          "section": {
+            "id": "s004",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "如果对于任意的 x ∈ A，都有 -x ∈ A 并且 f(-x) = f(x)，那么称函数 y = f(x) 是偶函数"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_50be61766998",
+      "subject_node_id": "canon_chaptersection_548331f74077",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_dfd9882a2c2c",
+      "edge_id": "canon_edge_contains_431756754541",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.4.md",
+          "section": {
+            "id": "s004",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "如果对于任意的 x ∈ A，都有 -x ∈ A，并且 f(-x) = -f(x)，那么称函数 y = f(x) 是奇函数"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_d854ec951ec1",
+      "subject_node_id": "canon_problem_fbfc9b3e8236",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_0c64bd41ca8e",
+      "edge_id": "canon_edge_tests_e49851de5c6c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.4.md",
+          "section": {
+            "id": "s004",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "例1 判定下列函数是否为偶函数或奇函数：(1) f(x) = x^2 - 1; (2) f(x) = 2x; (3) f(x) = 2|x|; (4) f(x) = (x-1)^2."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_2a64ae47e10e",
+      "subject_node_id": "canon_problem_fbfc9b3e8236",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_dfd9882a2c2c",
+      "edge_id": "canon_edge_tests_b598fafbed00",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.4.md",
+          "section": {
+            "id": "s004",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "例1 判定下列函数是否为偶函数或奇函数：(1) f(x) = x^2 - 1; (2) f(x) = 2x; (3) f(x) = 2|x|; (4) f(x) = (x-1)^2."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_9693f2f1af78",
+      "subject_node_id": "canon_problem_3be40fa3e183",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_dfd9882a2c2c",
+      "edge_id": "canon_edge_tests_57afb12b7ee7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.4.md",
+          "section": {
+            "id": "s004",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "例2 判断函数 f(x) = x^3 + 5x 是否具有奇偶性."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_b9168bcd2fe2",
+      "subject_node_id": "canon_problem_fe44f792440e",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_0c64bd41ca8e",
+      "edge_id": "canon_edge_tests_8cd29d82f05a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.4.md",
+          "section": {
+            "id": "s004",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "1.函数 f(x) = sqrt(x^2 + 5) （ ）. A．是奇函数但不是偶函数 B．是偶函数但不是奇函数C．既是奇函数又是偶函数 D．既不是奇函数也不是偶函数"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_920e842b15b2",
+      "subject_node_id": "canon_problem_fe44f792440e",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_dfd9882a2c2c",
+      "edge_id": "canon_edge_tests_24f44b392fcc",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.4.md",
+          "section": {
+            "id": "s004",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "1.函数 f(x) = sqrt(x^2 + 5) （ ）. A．是奇函数但不是偶函数 B．是偶函数但不是奇函数C．既是奇函数又是偶函数 D．既不是奇函数也不是偶函数"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_d2324f9c466f",
+      "subject_node_id": "canon_problem_3ee5c21a1be1",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_0c64bd41ca8e",
+      "edge_id": "canon_edge_tests_37f5aed1bd76",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.4.md",
+          "section": {
+            "id": "s004",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "3.已知函数f(x)在y轴右边的图象如图所示。(1）若f(x)是偶函数，试画出函数f(x)在y轴左边的图象;"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_dfbad22349e8",
+      "subject_node_id": "canon_problem_3ee5c21a1be1",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_dfd9882a2c2c",
+      "edge_id": "canon_edge_tests_aa54502e7050",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch5_s5.4.md",
+          "section": {
+            "id": "s004",
+            "title": "第五章 第5早"
+          },
+          "quote_or_summary": "3.已知函数f(x)在y轴右边的图象如图所示。(2）若f(x)是奇函数，试画出函数f(x)在y轴左边的图象."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_6b88c4aa4548",
+      "subject_node_id": "canon_chaptersection_37627741f6b3",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_845349493f28",
+      "edge_id": "canon_edge_contains_46835995c19f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.1.md",
+          "section": {
+            "id": "s005",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "我们把形如 y = x^α 的函数称为幂函数(power function)，其中 x 是自变量，α是常数."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_9236bbd70f97",
+      "subject_node_id": "canon_chaptersection_37627741f6b3",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_672aa85f59f6",
+      "edge_id": "canon_edge_contains_31426e30e8a9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.1.md",
+          "section": {
+            "id": "s005",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "当 α>0 时，图象都过点 (0,0) 和 (1,1)，在 [0,+∞) 上是增函数。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8dea7bfd6836",
+      "subject_node_id": "canon_chaptersection_37627741f6b3",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b9b9922ce278",
+      "edge_id": "canon_edge_contains_6f2553f07990",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.1.md",
+          "section": {
+            "id": "s005",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "GeoGebra(简称 GGB)是一款用于大中小学数学教与学的免费开源软件."
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_5a40c019efe1",
+      "subject_node_id": "canon_problem_7808730d19f7",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_672aa85f59f6",
+      "edge_id": "canon_edge_tests_67cf130755f3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.1.md",
+          "section": {
+            "id": "s005",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "例 1 写出下列函数的定义域，并分别指出它们的奇偶性：(1) y=x^3 (2) y=x^(1/2) (3) y=x^-2."
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_d0c16f0aa4af",
+      "subject_node_id": "canon_problem_f572bd37e16b",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_672aa85f59f6",
+      "edge_id": "canon_edge_tests_19bbd2cbead0",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.1.md",
+          "section": {
+            "id": "s005",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "例 2 试比较下列各组数的大小：(1) 1.1^3, 0.89^3; (2) 2.1^(1/2), 2^(1/2), 1.8^(1/2); (3) (1/2)^1.3, 1, 3^(1/3)."
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_40f2c656761e",
+      "subject_node_id": "canon_problem_9cabee8023f5",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_672aa85f59f6",
+      "edge_id": "canon_edge_tests_9a8cd1cb56fa",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.1.md",
+          "section": {
+            "id": "s005",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "练习 1．分别写出下列函数的定义域，并指出它们的奇偶性：(1) y=x^4; (2) y=x^(1/4) (3) y=x^-3 (4) y=x^(2/3)"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_3e890d380876",
+      "subject_node_id": "canon_problem_fa8e2fe9224e",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_845349493f28",
+      "edge_id": "canon_edge_tests_da3f517258f6",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.1.md",
+          "section": {
+            "id": "s005",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "练习 2．已知幂函数 y=x^α 的图象过点 (2,√2)，试求出这个函数的解析式."
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_8e2cc05cbc79",
+      "subject_node_id": "canon_chaptersection_61db7e991305",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_9164d26a84cc",
+      "edge_id": "canon_edge_contains_950bff4e2ef9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.2.md",
+          "section": {
+            "id": "s006",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "这些函数的表达式都是指数幂形式，底数为常数，指数为自变量，这样的函数称为指数函数."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_e2fb6d566c62",
+      "subject_node_id": "canon_chaptersection_61db7e991305",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_50974993591c",
+      "edge_id": "canon_edge_contains_da146842cab0",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.2.md",
+          "section": {
+            "id": "s006",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "表6-2-1 指数函数 y=a^x 的图象与性质：定义域 R，值域 (0,+∞)，过定点 (0,1)"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_759106424a5d",
+      "subject_node_id": "canon_problem_fbfc9b3e8236",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_50974993591c",
+      "edge_id": "canon_edge_tests_904066344418",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.2.md",
+          "section": {
+            "id": "s006",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "考察指数函数 y=1.5^x，因为 1.5>1，所以是增函数。又因为 2.5<3.2，所以 1.5^2.5 < 1.5^3.2"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_aa3e1a375904",
+      "subject_node_id": "canon_problem_a2fcc2c6619e",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_50974993591c",
+      "edge_id": "canon_edge_tests_ff95fe1df290",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.2.md",
+          "section": {
+            "id": "s006",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "说明下列函数的图象与指数函数 y=2^x 的图象的关系，并画出它们的示意图"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_b96cd16749bf",
+      "subject_node_id": "canon_problem_8aa6c5218f7a",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_9164d26a84cc",
+      "edge_id": "canon_edge_tests_2b739f031755",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.2.md",
+          "section": {
+            "id": "s006",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "某种放射性物质不断变化为其他物质，每经过1年，这种物质剩留的质量是原来的84%"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_f6822836d848",
+      "subject_node_id": "canon_problem_2c40917a74cb",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_9164d26a84cc",
+      "edge_id": "canon_edge_tests_ed7dfe68abce",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.2.md",
+          "section": {
+            "id": "s006",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "某种储蓄按复利计算利息，若本金为a元，每期利率为r，设存期是x，本利和为y"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_c2b44fd2ebae",
+      "subject_node_id": "canon_problem_54da15bcfd46",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_9164d26a84cc",
+      "edge_id": "canon_edge_tests_36d04a7a5eb7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.2.md",
+          "section": {
+            "id": "s006",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "2000～2002年，我国国内生产总值年平均增长7.8%.按照这个增长速度，画出从2000年开始我国年国内生产总值随时间变化的图象"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_b4150607497d",
+      "subject_node_id": "canon_chaptersection_4a1fbe6f552b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ec17482d3d47",
+      "edge_id": "canon_edge_contains_b3a8be9b300b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.3.md",
+          "section": {
+            "id": "s007",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "函数 y = log_a x (a>0, a!=1) 叫作对数函数，它的定义域是 (0, +∞)"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_ecc82e800d25",
+      "subject_node_id": "canon_chaptersection_4a1fbe6f552b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_1af90d8171de",
+      "edge_id": "canon_edge_contains_f77d20a4bdea",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.3.md",
+          "section": {
+            "id": "s007",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "钢琴与指数曲线：琴弦长度与频率成反比，符合指数函数模型"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_5f5f94f79052",
+      "subject_node_id": "canon_problem_cd9152f1700d",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ec17482d3d47",
+      "edge_id": "canon_edge_tests_d87059a9a471",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.3.md",
+          "section": {
+            "id": "s007",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "例1 求下列函数的定义域：(1) y = log_0.2(4-x) (2) y = log_a sqrt(x-1)"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_3d480600f66a",
+      "subject_node_id": "canon_problem_b60c931d65df",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_33ad469b4051",
+      "edge_id": "canon_edge_tests_8707eca4b506",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.3.md",
+          "section": {
+            "id": "s007",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "例2 比较下列各组数中两个数的大小：(1) log_2 3.4, log_2 3.8 (2) log_0.5 1.8, log_0.5 2.1"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_4a8a5c95667e",
+      "subject_node_id": "canon_problem_b2bc67158643",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_33ad469b4051",
+      "edge_id": "canon_edge_tests_11b7cac4c598",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.3.md",
+          "section": {
+            "id": "s007",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "练习 11.设 a,b,c,d 均为不等于 1 的正实数，如图，判断大小关系"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_007c21623488",
+      "subject_node_id": "canon_chaptersection_4a1fbe6f552b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_33ad469b4051",
+      "edge_id": "canon_edge_contains_b14d269d7a44",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.3.md",
+          "section": {
+            "id": "s007",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "定义域：(0,+∞)，值域：R，图象过点(1,0)，单调性依底数而定"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_21fa52e278e5",
+      "subject_node_id": "canon_chaptersection_4a1fbe6f552b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_00ee388d96c0",
+      "edge_id": "canon_edge_contains_dd8d312c457a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch6_s6.3.md",
+          "section": {
+            "id": "s007",
+            "title": "第六章 幂函数、指数函数和对数函数"
+          },
+          "quote_or_summary": "当 a>0, a!=1 时，y=log_a x 称为 y=a^x 的反函数，图象关于直线 y=x 对称"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_72be7de75b73",
+      "subject_node_id": "canon_chaptersection_52b25337afa4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5dd3fe7d99a1",
+      "edge_id": "canon_edge_contains_65b09613c348",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+          "section": {
+            "id": "s008",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "一个角可以看作平面内一条射线绕着它的端点从一个位置旋转到另一个位置所形成的图形。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_31fbf1146da1",
+      "subject_node_id": "canon_chaptersection_52b25337afa4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_9bb74049ca88",
+      "edge_id": "canon_edge_contains_f1477c8cad2b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+          "section": {
+            "id": "s008",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "把长度等于半径长的弧所对的圆心角叫作1弧度(radian)的角，记作1rad。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_778884954978",
+      "subject_node_id": "canon_chaptersection_52b25337afa4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_2149a5c4b595",
+      "edge_id": "canon_edge_contains_66dbfd872a46",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+          "section": {
+            "id": "s008",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "一般地，与角α终边相同的角的集合为 { β | β = k • 360° + α, k ∈ Z }。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_4d3c45a7f851",
+      "subject_node_id": "canon_chaptersection_52b25337afa4",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d97fa4cff965",
+      "edge_id": "canon_edge_contains_307f22e15ea8",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+          "section": {
+            "id": "s008",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "角的终边(除端点外)在第几象限，就说这个角是第几象限角。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_0204bac1dd11",
+      "subject_node_id": "canon_problem_0f17a6757247",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_2149a5c4b595",
+      "edge_id": "canon_edge_tests_59282b2940c1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+          "section": {
+            "id": "s008",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "在 0° 到 360° 的范围内，找出与下列各角终边相同的角"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_054e875cda39",
+      "subject_node_id": "canon_problem_0f17a6757247",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_d97fa4cff965",
+      "edge_id": "canon_edge_tests_956ec6d1ddb9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+          "section": {
+            "id": "s008",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "并分别判断它们是第几象限角"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_3860d0d4ad17",
+      "subject_node_id": "canon_problem_13b86015cab5",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_2149a5c4b595",
+      "edge_id": "canon_edge_tests_3e534af65dc8",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+          "section": {
+            "id": "s008",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "已知α与 240° 角的终边相同"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_98e1d8ed8b77",
+      "subject_node_id": "canon_problem_13b86015cab5",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_d97fa4cff965",
+      "edge_id": "canon_edge_tests_ab103b9be771",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+          "section": {
+            "id": "s008",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "判断 α/2 是第几象限角"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_91de6fcfa432",
+      "subject_node_id": "canon_problem_9f520767cc04",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_9bb74049ca88",
+      "edge_id": "canon_edge_tests_f5476e6268ca",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+          "section": {
+            "id": "s008",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "把下列各角从弧度化为度"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_2c10baac83a3",
+      "subject_node_id": "canon_knowledgepoint_9bb74049ca88",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_5dd3fe7d99a1",
+      "edge_id": "canon_edge_requires_c66b71420be5",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+          "section": {
+            "id": "s008",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "引入弧度制后，角的集合与弧度数的集合之间建立起一一对应关系"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_48c5bed72453",
+      "subject_node_id": "canon_knowledgepoint_d97fa4cff965",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_5dd3fe7d99a1",
+      "edge_id": "canon_edge_requires_5613501fca3a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+          "section": {
+            "id": "s008",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "为了便于研究，今后我们常以角的顶点为坐标原点，角的始边为x 轴正半轴"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_5a6191a8a848",
+      "subject_node_id": "canon_knowledgepoint_2149a5c4b595",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_5dd3fe7d99a1",
+      "edge_id": "canon_edge_requires_7012b18df0aa",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.1.md",
+          "section": {
+            "id": "s008",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "一个角可以看作平面内一条射线绕着它的端点从一个位置旋转到另一个位置所形成的图形"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_62be72debb87",
+      "subject_node_id": "canon_chaptersection_95234729772c",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ac2d077664c3",
+      "edge_id": "canon_edge_contains_0798040e60d7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.3.md",
+          "section": {
+            "id": "s010",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "如果存在一个非零的常数 T，使得对于任意的 x∈A，都有 x+T∈A，并且 f(x+T)=f(x)，那么函数 f(x) 就叫作周期函数。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_b27c8778d4ba",
+      "subject_node_id": "canon_chaptersection_95234729772c",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_88d2b0b99de9",
+      "edge_id": "canon_edge_contains_8959bd3848e3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.3.md",
+          "section": {
+            "id": "s010",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "对于一个周期函数 f(x)，如果在它所有的周期中存在一个最小的正数，那么，这个最小的正数就叫作 f(x) 的最小正周期。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_70629b3a0ee3",
+      "subject_node_id": "canon_chaptersection_95234729772c",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ee5c3a924888",
+      "edge_id": "canon_edge_contains_b39740eac2c8",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.3.md",
+          "section": {
+            "id": "s010",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "描出五点后，函数 y=sinx 的图象形状就基本确定了。这种作图方法称为“五点法”。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_4d489472bc2f",
+      "subject_node_id": "canon_chaptersection_95234729772c",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_a039c59d6590",
+      "edge_id": "canon_edge_contains_958815a649a9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.3.md",
+          "section": {
+            "id": "s010",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "正弦函数、余弦函数的定义域都是实数集 R，值域都是 [-1,1]，周期都是 2π，正弦函数是奇函数。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_345630e8c8ce",
+      "subject_node_id": "canon_chaptersection_95234729772c",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_3e34f42e28ac",
+      "edge_id": "canon_edge_contains_5c12cbc9193f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.3.md",
+          "section": {
+            "id": "s010",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "余弦函数是偶函数，其图象关于 y 轴对称。由单位圆中的三角函数线，也容易发现这些性质。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_330921ffab88",
+      "subject_node_id": "canon_chaptersection_95234729772c",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_effd944c9417",
+      "edge_id": "canon_edge_contains_3aef327b3c40",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.3.md",
+          "section": {
+            "id": "s010",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "正切函数是周期为π的周期函数，是奇函数，每个开区间 (-π/2+kπ, π/2+kπ) 都是增区间。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_d28fb04a653f",
+      "subject_node_id": "canon_problem_fdd1df6b4476",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ac2d077664c3",
+      "edge_id": "canon_edge_tests_153a8ab7e138",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.3.md",
+          "section": {
+            "id": "s010",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "例 1 已知作周期性运动的钟摆的高度 h 与时间 t 之间的函数关系如图 7-3-1 所示。(1) 求该函数的周期；"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_5585db417373",
+      "subject_node_id": "canon_chaptersection_b0e41d897c5b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c3dd0c99e745",
+      "edge_id": "canon_edge_contains_b946fdd548f4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.4.md",
+          "section": {
+            "id": "s011",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "## 三角函数应用\n利用这些函数可以刻画一些周期现象，建立一些周期性运动的数学模型."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_cd76b5125890",
+      "subject_node_id": "canon_problem_ebb80f9bab5c",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_c3dd0c99e745",
+      "edge_id": "canon_edge_tests_9e7c09be0b31",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.4.md",
+          "section": {
+            "id": "s011",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "例 1...已知振幅为 3cm，周期为 3 s...求物体对平衡位置的位移 x 和时间 t 之间的函数关系"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_c52fa0413a08",
+      "subject_node_id": "canon_problem_0c8208cdc18e",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_c3dd0c99e745",
+      "edge_id": "canon_edge_tests_cf39b44a9867",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.4.md",
+          "section": {
+            "id": "s011",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "例 2...水轮每分钟逆时针转动 4 圈...表示点 P 到水面的距离 x 为时间 t 的函数"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_c4db973c8184",
+      "subject_node_id": "canon_problem_7545b72c3823",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_c3dd0c99e745",
+      "edge_id": "canon_edge_tests_4b582d980475",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.4.md",
+          "section": {
+            "id": "s011",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "应用与建模 港口水深的变化与三角函数...选用一个三角函数来近似描述这个港口的水深与时间的函数关系"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_88cf1193cb66",
+      "subject_node_id": "canon_problem_3e13bbc108d6",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_c3dd0c99e745",
+      "edge_id": "canon_edge_tests_d3bcaec389e3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.4.md",
+          "section": {
+            "id": "s011",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "习题 5 摩天轮的半径为 40m，点 O 距地面的高度为 50m...确定在时刻 t 时点 P 距离地面的高度"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_635a8bbcb1c1",
+      "subject_node_id": "canon_problem_5475a5433c3f",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_c3dd0c99e745",
+      "edge_id": "canon_edge_tests_623bb027ef0c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch7_s7.4.md",
+          "section": {
+            "id": "s011",
+            "title": "第七章 三角函数"
+          },
+          "quote_or_summary": "习题 16 弹簧挂着的小球做上下振动...h = 2 sin(t + \\pi/4)"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_28a4a50b3ba0",
+      "subject_node_id": "canon_problem_eea00efe4726",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_fedcf103c3a4",
+      "edge_id": "canon_edge_tests_c6d5e0e72960",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch8_s8.1.md",
+          "section": {
+            "id": "s012",
+            "title": "第八章 函数应用"
+          },
+          "quote_or_summary": "例 1 证明：函数 f(x) = x^3 + x^2 + 1 在区间 (-2, -1) 上存在零点"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_601e7eacc567",
+      "subject_node_id": "canon_problem_cf2dbc2bcbc8",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_fedcf103c3a4",
+      "edge_id": "canon_edge_tests_56518e117659",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch8_s8.1.md",
+          "section": {
+            "id": "s012",
+            "title": "第八章 函数应用"
+          },
+          "quote_or_summary": "例 2 求证：函数 f(x) = 2^x + 2x - 3 有零点"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_4a95ec131cef",
+      "subject_node_id": "canon_problem_1eb2cc7a4118",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_7ad1caa9cab5",
+      "edge_id": "canon_edge_tests_92015b60bb41",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch8_s8.1.md",
+          "section": {
+            "id": "s012",
+            "title": "第八章 函数应用"
+          },
+          "quote_or_summary": "例 3 利用计算器，求方程 lg x = 3 - x 的近似解 (精确到 0.1)"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_837bdbb1baa9",
+      "subject_node_id": "canon_problem_8b0f5837411f",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_7ad1caa9cab5",
+      "edge_id": "canon_edge_tests_350f9dbc3367",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch8_s8.1.md",
+          "section": {
+            "id": "s012",
+            "title": "第八章 函数应用"
+          },
+          "quote_or_summary": "例 4 利用计算器，求方程 sin x = 1 - x 的近似解 (精确到 0.1)"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_074f3d2adddb",
+      "subject_node_id": "canon_knowledgepoint_7ad1caa9cab5",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_fedcf103c3a4",
+      "edge_id": "canon_edge_requires_909aea65f0f9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch8_s8.1.md",
+          "section": {
+            "id": "s012",
+            "title": "第八章 函数应用"
+          },
+          "quote_or_summary": "运用二分法的前提是要先判断某解所在的区间"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_69b78b3f0dd7",
+      "subject_node_id": "canon_knowledgepoint_fedcf103c3a4",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_d909b8d2631e",
+      "edge_id": "canon_edge_requires_979a20bc22be",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch8_s8.1.md",
+          "section": {
+            "id": "s012",
+            "title": "第八章 函数应用"
+          },
+          "quote_or_summary": "使函数 f(x) 的值为 0 的实数 x 称为函数 y=f(x) 的零点"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_7e58363e15f5",
+      "subject_node_id": "canon_chaptersection_dcc9d1e8821c",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_83228cfcdc77",
+      "edge_id": "canon_edge_contains_e6d58d22d3ad",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch8_s8.2.md",
+          "section": {
+            "id": "s013",
+            "title": "第八章 函数应用"
+          },
+          "quote_or_summary": "根据(1)（2)，我们可以发现\"指数爆炸\"的含义是：当 a>1 时，指数函数 y=a^x 随着 x 的增大而增大..."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_46635dc88e5c",
+      "subject_node_id": "canon_chaptersection_dcc9d1e8821c",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_93698701d062",
+      "edge_id": "canon_edge_contains_5d0d69d34f42",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch8_s8.2.md",
+          "section": {
+            "id": "s013",
+            "title": "第八章 函数应用"
+          },
+          "quote_or_summary": "由图 1 可知，数学建模的过程主要包括：在实际情境中从数学的视角发现问题、提出问题，分析问题、构建模型..."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_3236bfb64f7b",
+      "subject_node_id": "canon_chaptersection_dcc9d1e8821c",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8d7ff7363e4d",
+      "edge_id": "canon_edge_contains_09a7959a5d81",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch8_s8.2.md",
+          "section": {
+            "id": "s013",
+            "title": "第八章 函数应用"
+          },
+          "quote_or_summary": "例 5 在经济学中，函数 f ( x ) 的边际函数 M f ( x ) 定义为 M f ( x ) = f ( x + 1 ) - f ( x )"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_bf581533c900",
+      "subject_node_id": "canon_chaptersection_dcc9d1e8821c",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_cff3f4cf24ba",
+      "edge_id": "canon_edge_contains_099908866902",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch8_s8.2.md",
+          "section": {
+            "id": "s013",
+            "title": "第八章 函数应用"
+          },
+          "quote_or_summary": "如果将方程 g ( x ) = 0 改写为 x = f ( x ) ,那么函数 f(x) 的不动点就是方程 g ( x ) = 0 的解."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_13105ac2a669",
+      "subject_node_id": "canon_chaptersection_dcc9d1e8821c",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_0a97812eda88",
+      "edge_id": "canon_edge_contains_c22899aabe73",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch8_s8.2.md",
+          "section": {
+            "id": "s013",
+            "title": "第八章 函数应用"
+          },
+          "quote_or_summary": "对于指数函数 y=a^x(a>1),幂函数 y=x^\\alpha(\\alpha>0) 和对数函数 y=log_a x(a>1),x 足够大时 a^x>x^\\alpha>log_a x."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_1a11c3a9f7b6",
+      "subject_node_id": "canon_problem_f5f71a296c1b",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_93698701d062",
+      "edge_id": "canon_edge_tests_b2281e1b5394",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch8_s8.2.md",
+          "section": {
+            "id": "s013",
+            "title": "第八章 函数应用"
+          },
+          "quote_or_summary": "通过上述 3 个例子，我们可以看出，解决实际问题通常按实际问题->建立数学模型->求解数学模型->解决实际的程序进行"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_90f281b9b82b",
+      "subject_node_id": "canon_problem_df578311c816",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_93698701d062",
+      "edge_id": "canon_edge_tests_d7ff5774ff09",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260702_174351_普通高中教科书·数学必修第一册_20260702\\enhanced_markdown\\sections\\ch8_s8.2.md",
+          "section": {
+            "id": "s013",
+            "title": "第八章 函数应用"
+          },
+          "quote_or_summary": "通过上述 3 个例子，我们可以看出，解决实际问题通常按实际问题->建立数学模型->求解数学模型->解决实际的程序进行"
+        }
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

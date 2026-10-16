@@ -1,0 +1,20 @@
+Extract edge candidates from node_pack, node evidence, section contexts, standards, and schema.
+The response must be a single top-level JSON object with this shape:
+{
+  "schema_version": "kg.edge_extraction.v1",
+  "run_id": "edge_real_or_mock_run_id",
+  "mock": false,
+  "batch_id": "batch_001",
+  "edges": []
+}
+Do not output a top-level array, even when there is only one edge.
+Every edge must include edge_id, predicate, source_node_id, target_node_id, properties.evidence, properties.confidence, source_context_id, revision_round, status, and audit_refs.
+Revision mode: when distilled_va_feedback is not empty, only return repaired edges whose edge_id is in distilled_va_feedback[].target_id. If a feedback item cannot be repaired faithfully, omit that edge and return edges: []. Do not add new edges unrelated to distilled_va_feedback.
+For edge evidence, reuse the relevant VA-approved node text evidence or copy a short relation-bearing span from the enhanced Markdown.
+Do not return an empty edges list when the node_pack contains schema-compatible structural relations supported by section metadata or node evidence.
+Always check contains, tests, uses_method, integrates, belongs_to_period, evidence_for, and exhibits_trait against the schema edge_labels before deciding edges: [].
+EvidenceRef is text-only provenance with source_path, section, and quote_or_summary. Do not include image_path, figure_id, or image metadata in EvidenceRef.
+Also inspect section_contexts[].ipa_image_evidence. When an image intrinsically expresses or clarifies the relation, put a FigureRef in the edge's properties.figures with image_path from ipa_image_evidence[].image_path, optional name from ipa_image_evidence[].name, and optional description from ipa_image_evidence[].description_text.
+Do not fill FigureRef.figure_id. The pipeline backfills figure_id after extraction.
+Only cite real image_path values from section_contexts[].ipa_image_evidence. Do not invent figures or image paths.
+Do not create evidence by explaining the relation in your own words; put your explanation only in properties.rationale.

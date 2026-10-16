@@ -1,0 +1,42 @@
+{
+  "schema_version": "kg.triples.v1",
+  "run_id": "kg_义务教育教科书·数学六年级上册_20260701",
+  "triples": [
+    {
+      "triple_id": "triple_requires_2be3a8b0524e",
+      "subject_node_id": "canon_knowledgepoint_9b8423df29f8",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_9c87d0ede2b3",
+      "edge_id": "canon_edge_requires_5c8dc3d74068",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_084307_义务教育教科书·数学六年级上册_20260701\\enhanced_markdown\\sections\\ch3.md",
+          "section": {
+            "id": "s001",
+            "title": "第三章 一个正方体纸盒, 像下面的样子沿着画有红线的棱剪开, 就可以得到它的展开图。"
+          },
+          "quote_or_summary": "联系前面学习的分数除以整数、整数除以分数的计算，你能说一说怎样计算分数除法吗？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_943161838c8d",
+      "subject_node_id": "canon_knowledgepoint_9c87d0ede2b3",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_bff2530a6a90",
+      "edge_id": "canon_edge_requires_c636a971d585",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_084307_义务教育教科书·数学六年级上册_20260701\\enhanced_markdown\\sections\\ch3.md",
+          "section": {
+            "id": "s001",
+            "title": "第三章 一个正方体纸盒, 像下面的样子沿着画有红线的棱剪开, 就可以得到它的展开图。"
+          },
+          "quote_or_summary": "分数四则混合运算的运算顺序与整数相同。整数的运算律对于分数同样适用。"
+        }
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

@@ -1,0 +1,1154 @@
+{
+  "schema_version": "kg.merged_edges.v1",
+  "run_id": "kg_义务教育教科书·物理八年级下册_20260703",
+  "edges": [
+    {
+      "edge_id": "canon_edge_contains_adecb52d29e6",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_6129ec9eebde",
+      "target_node_id": "canon_knowledgepoint_823664611068",
+      "properties": {
+        "rationale": "Section '走进物质世界' explicitly defines and discusses mass.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\003_走进物质世界.md",
+            "section": {
+              "id": "s003",
+              "title": "走进物质世界"
+            },
+            "quote_or_summary": "物体所含物质的多少叫作物体的质量（mass），通常用字母m表示。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_走进物质世界",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_mass"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_5a7ea2a8b4a5",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_6129ec9eebde",
+      "target_node_id": "canon_knowledgepoint_bf61ec84a2ae",
+      "properties": {
+        "rationale": "Section '走进物质世界' explicitly defines and discusses density.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\003_走进物质世界.md",
+            "section": {
+              "id": "s003",
+              "title": "走进物质世界"
+            },
+            "quote_or_summary": "某种物质的物体，其质量与体积之比叫作这种物质的密度（density）。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_走进物质世界",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_density"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_ebd9307b3f76",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_6129ec9eebde",
+      "target_node_id": "canon_knowledgepoint_fac6fba4212a",
+      "properties": {
+        "rationale": "Section '走进物质世界' includes measurement tools like balance.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\003_走进物质世界.md",
+            "section": {
+              "id": "s003",
+              "title": "走进物质世界"
+            },
+            "quote_or_summary": "实验室中常用天平(balance)测量物体的质量。使用方法：将天平放在水平台面上，游码归零，调平。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_走进物质世界",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_balance"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_1320153342c3",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_6129ec9eebde",
+      "target_node_id": "canon_knowledgepoint_adcf0f517cb4",
+      "properties": {
+        "rationale": "Section '走进物质世界' includes measurement tools like cylinder.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\003_走进物质世界.md",
+            "section": {
+              "id": "s003",
+              "title": "走进物质世界"
+            },
+            "quote_or_summary": "量筒是测量液体体积的工具。读数时，视线应与液体凹面的底部相平。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_走进物质世界",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_cylinder"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_acfa2f2a04d9",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_6129ec9eebde",
+      "target_node_id": "canon_knowledgepoint_8a8513262354",
+      "properties": {
+        "rationale": "Section '走进物质世界' covers physical properties of matter.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\003_走进物质世界.md",
+            "section": {
+              "id": "s003",
+              "title": "走进物质世界"
+            },
+            "quote_or_summary": "不同的物质，其物理属性一般不同。物质的物理属性有许多种，如熔点、密度等。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_走进物质世界",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_properties"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_f81eb771f150",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_6129ec9eebde",
+      "target_node_id": "canon_knowledgepoint_bae4690071dd",
+      "properties": {
+        "rationale": "Section '走进物质世界' discusses mass invariance under shape/state change.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\003_走进物质世界.md",
+            "section": {
+              "id": "s003",
+              "title": "走进物质世界"
+            },
+            "quote_or_summary": "事实说明，当物体的形状、物质的状态发生改变时，物体的质量不改变。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_走进物质世界",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_mass_invariant"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_bda82d91302a",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_f971d3c6d58c",
+      "target_node_id": "canon_knowledgepoint_bf61ec84a2ae",
+      "properties": {
+        "rationale": "Problem requires calculating mass using density formula.",
+        "figures": [
+          {
+            "image_path": "images/page019_img001.jpg",
+            "name": "图6-10",
+            "description": "阳山碑材",
+            "figure_id": "ipa_evidence_8a6be7a4c56a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\003_走进物质世界.md",
+            "section": {
+              "id": "s003",
+              "title": "走进物质世界"
+            },
+            "quote_or_summary": "例题：计算碑身的质量。已知材料密度和尺寸求质量。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_走进物质世界",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_tests_density"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_e9199d4c9fb2",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_f971d3c6d58c",
+      "target_node_id": "canon_knowledgepoint_823664611068",
+      "properties": {
+        "rationale": "Problem requires calculating mass directly.",
+        "figures": [
+          {
+            "image_path": "images/page019_img001.jpg",
+            "name": "图6-10",
+            "description": "阳山碑材",
+            "figure_id": "ipa_evidence_8a6be7a4c56a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\003_走进物质世界.md",
+            "section": {
+              "id": "s003",
+              "title": "走进物质世界"
+            },
+            "quote_or_summary": "例题：计算碑身的质量。已知材料密度和尺寸求质量。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s003_003_走进物质世界",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_tests_mass"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_74a864122f34",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_bf61ec84a2ae",
+      "target_node_id": "canon_knowledgepoint_823664611068",
+      "properties": {
+        "rationale": "Density definition depends on mass and volume.",
+        "figures": [
+          {
+            "image_path": "images/page017_img002.jpg",
+            "name": "图6-8",
+            "description": "蜡块和干松木的质量-体积关系图像",
+            "figure_id": "ipa_evidence_f7757665b9aa"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\003_走进物质世界.md",
+            "section": {
+              "id": "s003",
+              "title": "走进物质世界"
+            },
+            "quote_or_summary": "密度的公式可以写作：ρ = m / V"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s003_003_走进物质世界",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_requires_mass"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_728d66b4b8e7",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_1eaafd278e59",
+      "target_node_id": "canon_knowledgepoint_28383561d020",
+      "properties": {
+        "rationale": "Section '生活·物理·社会' explicitly defines and discusses the unit '千克'.",
+        "figures": [
+          {
+            "image_path": "images/page027_img002.jpg",
+            "name": "国际千克原器",
+            "description": "保存在法国档案局的铂标准千克原器",
+            "figure_id": "ipa_evidence_d7a650c48034"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\004_生活·物理·社会.md",
+            "section": {
+              "id": "s004",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "在国际单位制中，质量的单位是千克.规定在4℃时，1dm纯水的质量为1kg"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_contains_kg_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_4285a877cb06",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_1eaafd278e59",
+      "target_node_id": "canon_knowledgepoint_5648dac1203f",
+      "properties": {
+        "rationale": "Section '生活·物理·社会' describes new ceramic materials and their properties.",
+        "figures": [
+          {
+            "image_path": "images/page024_img001.jpg",
+            "name": "哥伦比亚号解体",
+            "description": "哥伦比亚号重返大气层时在空中解体，碎片拖着长长的烟迹飞向大地",
+            "figure_id": "ipa_evidence_cd824b0e2a58"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\004_生活·物理·社会.md",
+            "section": {
+              "id": "s004",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "新型陶瓷不仅具有耐高温、耐磨损、耐腐蚀和隔热性好等优点"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_contains_ceramic_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_cfe3889b5242",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_1eaafd278e59",
+      "target_node_id": "canon_knowledgepoint_c29e35f5ab78",
+      "properties": {
+        "rationale": "Section '生活·物理·社会' details ablative materials used in spacecraft.",
+        "figures": [
+          {
+            "image_path": "images/page024_img002.jpg",
+            "name": "神舟九号发射",
+            "description": "神舟九号发射升空",
+            "figure_id": "ipa_evidence_54a50b089e70"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\004_生活·物理·社会.md",
+            "section": {
+              "id": "s004",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "烧蚀材料在高温高压气流的冲刷下，会发生热解、熔化、汽化、升华等"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_contains_ablative_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_ded9d51eb0b1",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_1eaafd278e59",
+      "target_node_id": "canon_knowledgepoint_de77c3f68c0e",
+      "properties": {
+        "rationale": "Section '生活·物理·社会' recounts Edison's filament material experiments.",
+        "figures": [
+          {
+            "image_path": "images/page028_img001.jpg",
+            "name": "爱迪生早期电灯",
+            "description": "爱迪生发明的第一批电灯中的一盏",
+            "figure_id": "ipa_evidence_e10d6124c55d"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\004_生活·物理·社会.md",
+            "section": {
+              "id": "s004",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "爱迪生试验了1600多种耐高温材料，最终用碳化竹丝制成灯丝"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_contains_filament_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_866a881397a5",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_28383561d020",
+      "target_node_id": "canon_knowledgepoint_bf61ec84a2ae",
+      "properties": {
+        "rationale": "Definition of kilogram relies on water density at 4 degrees Celsius.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\004_生活·物理·社会.md",
+            "section": {
+              "id": "s004",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "规定'在4℃时，1dm纯水的质量为1kg'（因为水在4℃时的密度最大）"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s004_004_生活·物理·社会",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_requires_kg_density_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_cffd7b80c3f3",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_1eaafd278e59",
+      "target_node_id": "canon_knowledgepoint_bf61ec84a2ae",
+      "properties": {
+        "rationale": "Section '生活·物理·社会' compares population density with physics density.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\004_生活·物理·社会.md",
+            "section": {
+              "id": "s004",
+              "title": "生活·物理·社会"
+            },
+            "quote_or_summary": "我们常说城市的人口密度比乡村大，这里所说的\"密度\"与物理学中的密度相比有什么区别？试从意义、计算公式和单位三个方面阐述."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s004_004_生活·物理·社会",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s004_contains_density_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_dc00bc7c7f21",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a4c46f9f0582",
+      "target_node_id": "canon_knowledgepoint_f7715bd2811a",
+      "properties": {
+        "rationale": "Section '向物质世界的两极进军' defines and introduces the concept of molecules.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\005_向物质世界的两极进军.md",
+            "section": {
+              "id": "s005",
+              "title": "向物质世界的两极进军"
+            },
+            "quote_or_summary": "科学家把能保持物质化学性质的最小微粒称为分子（molecule）。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_向物质世界的两极进军",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_aee5f053a72b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a4c46f9f0582",
+      "target_node_id": "canon_knowledgepoint_3da6cb4d4fd9",
+      "properties": {
+        "rationale": "Section defines diffusion phenomenon with red ink example.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\005_向物质世界的两极进军.md",
+            "section": {
+              "id": "s005",
+              "title": "向物质世界的两极进军"
+            },
+            "quote_or_summary": "不同的物质在相互接触时，彼此进入对方的现象，叫作扩散。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_向物质世界的两极进军",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_fd01569f7c2c",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a4c46f9f0582",
+      "target_node_id": "canon_knowledgepoint_a821c15e25af",
+      "properties": {
+        "rationale": "Section defines Molecular Kinetic Theory summarizing molecule/motion/force.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\005_向物质世界的两极进军.md",
+            "section": {
+              "id": "s005",
+              "title": "向物质世界的两极进军"
+            },
+            "quote_or_summary": "科学家把关于分子、分子运动和分子间相互作用的认识称为分子动理论。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_向物质世界的两极进军",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_contains_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_bc1c3f6604cd",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a4c46f9f0582",
+      "target_node_id": "canon_knowledgepoint_7de473b503cf",
+      "properties": {
+        "rationale": "Section defines intermolecular attraction and repulsion forces.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\005_向物质世界的两极进军.md",
+            "section": {
+              "id": "s005",
+              "title": "向物质世界的两极进军"
+            },
+            "quote_or_summary": "分子间不仅存在吸引力，而且还存在排斥力。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_向物质世界的两极进军",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_contains_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_7d8253b8d1f2",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a4c46f9f0582",
+      "target_node_id": "canon_knowledgepoint_0924706b3f15",
+      "properties": {
+        "rationale": "Section defines charge interaction rules (repel/attract).",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\005_向物质世界的两极进军.md",
+            "section": {
+              "id": "s005",
+              "title": "向物质世界的两极进军"
+            },
+            "quote_or_summary": "同种电荷相互排斥，异种电荷相互吸引。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_向物质世界的两极进军",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_contains_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_45cd644ad738",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a4c46f9f0582",
+      "target_node_id": "canon_knowledgepoint_7cc564891dcc",
+      "properties": {
+        "rationale": "Section defines atomic structure (nucleus/electrons).",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\005_向物质世界的两极进军.md",
+            "section": {
+              "id": "s005",
+              "title": "向物质世界的两极进军"
+            },
+            "quote_or_summary": "原子是由带正电的原子核和带负电的电子构成的，且正负电荷数量相等。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_向物质世界的两极进军",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_contains_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_be29ae720796",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_1cbff4faa918",
+      "target_node_id": "canon_knowledgepoint_f7715bd2811a",
+      "properties": {
+        "rationale": "Experiment demonstrates molecular gaps and existence of particles.",
+        "figures": [
+          {
+            "image_path": "images/page030_img002.jpg",
+            "name": "图7-1 水和酒精混合实验",
+            "description": "图7-1 酒精 水",
+            "figure_id": "ipa_evidence_caab15264d88"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\005_向物质世界的两极进军.md",
+            "section": {
+              "id": "s005",
+              "title": "向物质世界的两极进军"
+            },
+            "quote_or_summary": "向一端封闭的玻璃管中注水至一半位置，然后再注入酒精直至充满。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s005_005_向物质世界的两极进军",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_7ed0ab668970",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_a821c15e25af",
+      "target_node_id": "canon_knowledgepoint_f7715bd2811a",
+      "properties": {
+        "rationale": "Molecular Kinetic Theory definition includes understanding of molecules.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\005_向物质世界的两极进军.md",
+            "section": {
+              "id": "s005",
+              "title": "向物质世界的两极进军"
+            },
+            "quote_or_summary": "科学家把关于分子、分子运动和分子间相互作用的认识称为分子动理论。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s005_005_向物质世界的两极进军",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_requires_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_20cbd18fafb2",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_a821c15e25af",
+      "target_node_id": "canon_knowledgepoint_3da6cb4d4fd9",
+      "properties": {
+        "rationale": "Molecular Kinetic Theory definition includes understanding of molecular motion.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\005_向物质世界的两极进军.md",
+            "section": {
+              "id": "s005",
+              "title": "向物质世界的两极进军"
+            },
+            "quote_or_summary": "科学家把关于分子、分子运动和分子间相互作用的认识称为分子动理论。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s005_005_向物质世界的两极进军",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_requires_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_requires_ab219d1bbd0d",
+      "predicate": "requires",
+      "source_node_id": "canon_knowledgepoint_a821c15e25af",
+      "target_node_id": "canon_knowledgepoint_7de473b503cf",
+      "properties": {
+        "rationale": "Molecular Kinetic Theory definition includes understanding of intermolecular forces.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\005_向物质世界的两极进军.md",
+            "section": {
+              "id": "s005",
+              "title": "向物质世界的两极进军"
+            },
+            "quote_or_summary": "科学家把关于分子、分子运动和分子间相互作用的认识称为分子动理论。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s005_005_向物质世界的两极进军",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s005_requires_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_1af5d2895383",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a198856de00a",
+      "target_node_id": "canon_knowledgepoint_782e8754ae51",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section metadata and text define '加速器' within '生活·物理·社'.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\006_生活·物理·社.md",
+            "section": {
+              "id": "s006",
+              "title": "生活·物理·社"
+            },
+            "quote_or_summary": "我们把能使带电粒子增加速度(或动能)的装置称为加速器."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_生活·物理·社",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s006_contains_KP001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_d5a5ff8bcddd",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a198856de00a",
+      "target_node_id": "canon_knowledgepoint_a0853f4624d1",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section text defines '原子核式结构模型' in context of Rutherford.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\006_生活·物理·社.md",
+            "section": {
+              "id": "s006",
+              "title": "生活·物理·社"
+            },
+            "quote_or_summary": "由此，卢瑟福提出了著名的原子核式结构模型."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_生活·物理·社",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s006_contains_KP002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_83890a80820b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a198856de00a",
+      "target_node_id": "canon_knowledgepoint_7e4e89e6cb04",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section text defines '日心说' in context of Copernicus.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\006_生活·物理·社.md",
+            "section": {
+              "id": "s006",
+              "title": "生活·物理·社"
+            },
+            "quote_or_summary": "哥白尼等引发的天文学革命...创立了“日心说”."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_生活·物理·社",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s006_contains_KP004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_0eef11b17652",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a198856de00a",
+      "target_node_id": "canon_knowledgepoint_1d38875f04ac",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section text defines '银河系' and image evidence supports it.",
+        "figures": [
+          {
+            "image_path": "images/page042_img001.jpg",
+            "name": "图7-24 浩瀚的宇宙",
+            "description": "宇宙结构层次示意图，中心为银河系，标注有‘邻近星系’和‘3×10⁷光年’。",
+            "figure_id": "ipa_evidence_605353d42215"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\006_生活·物理·社.md",
+            "section": {
+              "id": "s006",
+              "title": "生活·物理·社"
+            },
+            "quote_or_summary": "它好像是一个中央突起、四周扁平的旋转铁饼，直径大约为8万光年."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_生活·物理·社",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s006_contains_KP005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_1a63435b2bb6",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a198856de00a",
+      "target_node_id": "canon_knowledgepoint_82b69aa98c78",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section text defines '光年' and image evidence supports it.",
+        "figures": [
+          {
+            "image_path": "images/page042_img001.jpg",
+            "name": "图7-24 浩瀚的宇宙",
+            "description": "宇宙结构层次示意图，中心为银河系，标注有‘邻近星系’和‘3×10⁷光年’。",
+            "figure_id": "ipa_evidence_605353d42215"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\006_生活·物理·社.md",
+            "section": {
+              "id": "s006",
+              "title": "生活·物理·社"
+            },
+            "quote_or_summary": "人们将光在真空中传播一年所经过的距离作为长度单位，称为1光年(l.y.)."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_生活·物理·社",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s006_contains_KP006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_e781e52b0cb3",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a198856de00a",
+      "target_node_id": "canon_knowledgepoint_72023ebad221",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section text defines '分子动理论的基本观点' in knowledge review.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\006_生活·物理·社.md",
+            "section": {
+              "id": "s006",
+              "title": "生活·物理·社"
+            },
+            "quote_or_summary": "物质是由大量分子组成的，一般分子直径的数量级为10^-10m.分子间有空隙."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_生活·物理·社",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s006_contains_KP007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_a52f5a07c676",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_a198856de00a",
+      "target_node_id": "canon_knowledgepoint_9a505465cd01",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section text defines '地心说' and image evidence supports it.",
+        "figures": [
+          {
+            "image_path": "images/page041_img002.jpg",
+            "name": "图7-21 托勒玫的\"地心说\"",
+            "description": "托勒玫的地心说模型，图中为同心圆轨道结构，中心标注 Sol.（太阳），但根据图像可见内容，太阳实际位于偏心位置。",
+            "figure_id": "ipa_evidence_a1511a87c6d0"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\006_生活·物理·社.md",
+            "section": {
+              "id": "s006",
+              "title": "生活·物理·社"
+            },
+            "quote_or_summary": "公元2世纪，古希腊天文学家托勒玫提出了以地球为宇宙中心的“地心说”."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_生活·物理·社",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s006_contains_KP003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_a88120150342",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3f908ffc67d6",
+      "target_node_id": "canon_knowledgepoint_7c72fc5e546c",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\008_左右物体运动的规律.md",
+            "section": {
+              "id": "s008",
+              "title": "左右物体运动的规律"
+            },
+            "quote_or_summary": "## 一、二力平衡\n\n自然界中，物体的运动和受力情况大多是很复杂的．为便于研究力与运动的关系，让我们从最简单的情况开始."
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header explicitly introduces the knowledge point."
+      },
+      "source_context_id": "s008_008_左右物体运动的规律",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_contains_kp_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_53adfc537e95",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3f908ffc67d6",
+      "target_node_id": "canon_knowledgepoint_8412a35dadf3",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\008_左右物体运动的规律.md",
+            "section": {
+              "id": "s008",
+              "title": "左右物体运动的规律"
+            },
+            "quote_or_summary": "## 二、牛顿第一定律\n\n英国著名物理学家牛顿...总结出一条定律：一切物体，在没有受到力的作用时，总保持静止或匀速直线运动状态．后人称之为牛顿第一定律．"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header explicitly introduces the knowledge point."
+      },
+      "source_context_id": "s008_008_左右物体运动的规律",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_contains_kp_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_7ca18a0a8893",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3f908ffc67d6",
+      "target_node_id": "canon_knowledgepoint_44c718a25e71",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\008_左右物体运动的规律.md",
+            "section": {
+              "id": "s008",
+              "title": "左右物体运动的规律"
+            },
+            "quote_or_summary": "## 惯性\n\n事实表明：原来静止的物体，具有保持静止的性质;原来运动的物体，具有保持原有速度做匀速直线运动的性质.我们将物体具有保持静止或匀速直线运动状态不变的性质称为惯性(inertia）."
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header explicitly introduces the knowledge point."
+      },
+      "source_context_id": "s008_008_左右物体运动的规律",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_contains_kp_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_b51158fb4a41",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3f908ffc67d6",
+      "target_node_id": "canon_knowledgepoint_85e68b8c3e5e",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\008_左右物体运动的规律.md",
+            "section": {
+              "id": "s008",
+              "title": "左右物体运动的规律"
+            },
+            "quote_or_summary": "## 三、力与运动的关系\n\n从力的作用效果可知，力是物体运动状态改变的原因."
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header explicitly introduces the knowledge point."
+      },
+      "source_context_id": "s008_008_左右物体运动的规律",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_contains_kp_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_0574544a8bde",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3f908ffc67d6",
+      "target_node_id": "canon_knowledgepoint_0f2460c9e20d",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\008_左右物体运动的规律.md",
+            "section": {
+              "id": "s008",
+              "title": "左右物体运动的规律"
+            },
+            "quote_or_summary": "## 知识梳理\n\n## 二力平衡条件\n\n作用在同一物体上的两个力，大小相等、方向相反，且在同一直线上."
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section header explicitly introduces the knowledge point."
+      },
+      "source_context_id": "s008_008_左右物体运动的规律",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_contains_kp_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_525b26f6094d",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_2fd419595a9c",
+      "target_node_id": "canon_knowledgepoint_7c72fc5e546c",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\008_左右物体运动的规律.md",
+            "section": {
+              "id": "s008",
+              "title": "左右物体运动的规律"
+            },
+            "quote_or_summary": "1．如图9-1(a)所示，质量为0.5kg的花瓶放在桌面上.请说明桌面对花瓶支持力的大小和方向."
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Problem asks about support force on stationary vase, testing equilibrium conditions."
+      },
+      "source_context_id": "s008_008_左右物体运动的规律",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_tests_prob001_kp_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_161e04d13f98",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_8131109e1ccd",
+      "target_node_id": "canon_knowledgepoint_7c72fc5e546c",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_164630_义务教育教科书·物理八年级下册_20260703\\enhanced_markdown\\sections\\008_左右物体运动的规律.md",
+            "section": {
+              "id": "s008",
+              "title": "左右物体运动的规律"
+            },
+            "quote_or_summary": "2.在弹簧测力计的秤钩上挂100g钩码，记录静止时弹簧测力计的示数．然后，使弹簧测力计和钩码一起向上匀速运动，并观察弹簧测力计的示数．两次相比，弹簧测力计的示数近似相等吗？"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Problem compares static and uniform motion states, testing equilibrium understanding."
+      },
+      "source_context_id": "s008_008_左右物体运动的规律",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s008_tests_prob002_kp_001"
+      ]
+    }
+  ]
+}

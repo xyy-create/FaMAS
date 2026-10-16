@@ -1,0 +1,21 @@
+models:
+  kg_text:
+    name: "qwen3.5-flash"
+    api_key_env: "DASHSCOPE_API_KEY"
+  kg_validation:
+    name: "deepseek-v4-flash"
+    base_url: "https://api.deepseek.com"
+    api_key_env: "DEEPSEEK_API_KEY"
+    provider: "deepseek_openai_compatible"
+  ita_vision:
+    name: "qwen3-vl-flash"
+    api_key_env: "DASHSCOPE_API_KEY"
+  ipa_generator:
+    name: "qwen3-vl-flash"
+    api_key_env: "DASHSCOPE_API_KEY"
+  ipa_verifier:
+    name: "qwen-vl-plus"
+    api_key_env: "DASHSCOPE_API_KEY"
+  schema_agent:
+    name: "qwen3.5-flash"
+    api_key_env: "DASHSCOPE_API_KEY"

@@ -1,0 +1,5194 @@
+{
+  "schema_version": "kg.merged_edges.v1",
+  "run_id": "kg_义务教育教科书·数学三年级上册_20260630",
+  "edges": [
+    {
+      "edge_id": "canon_edge_contains_2106845ca78b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_51b90b25d3e3",
+      "target_node_id": "canon_knowledgepoint_df72d7b37c80",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section title and content define the knowledge point '整十数乘一位数的口算方法'. Calculation diagrams illustrate the method.",
+        "figures": [
+          {
+            "image_path": "images/page003_img006.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_345af4262733"
+          },
+          {
+            "image_path": "images/page003_img007.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_b864699021ba"
+          },
+          {
+            "image_path": "images/page003_img008.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_5315808a7fac"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\001_王阿姨在购物网站订购了3箱黑玉米,每箱20根。.md",
+            "section": {
+              "id": "s001",
+              "title": "王阿姨在购物网站订购了 3 箱黑玉米, 每箱 20 根。"
+            },
+            "quote_or_summary": "2 个十乘 3 得 6 个十，6 个十是 60。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s001_001_王阿姨在购物网站订购了3箱黑玉米,每箱20根。",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_5572d4b3e03f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_8092fe3c595c",
+      "target_node_id": "canon_knowledgepoint_df72d7b37c80",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem requires calculating 20×3 using the mental math method defined in the knowledge point. Diagrams show the calculation steps.",
+        "figures": [
+          {
+            "image_path": "images/page003_img006.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_345af4262733"
+          },
+          {
+            "image_path": "images/page003_img007.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_b864699021ba"
+          },
+          {
+            "image_path": "images/page003_img008.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_5315808a7fac"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\001_王阿姨在购物网站订购了3箱黑玉米,每箱20根。.md",
+            "section": {
+              "id": "s001",
+              "title": "王阿姨在购物网站订购了 3 箱黑玉米, 每箱 20 根。"
+            },
+            "quote_or_summary": "王阿姨在购物网站订购了 3 箱黑玉米，每箱 20 根。一共有多少根？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s001_001_王阿姨在购物网站订购了3箱黑玉米,每箱20根。",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s001_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_509215a012a2",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_740217d832f0",
+      "target_node_id": "canon_knowledgepoint_5d02e7bd5d7e",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\002_想想做做.md",
+            "section": {
+              "id": "s002",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "黄花的朵数是蓝花的 3 倍。"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page006_img007.jpg",
+            "name": "蓝花示意图",
+            "description": "一个粉色椭圆内包含两朵蓝色的花，每朵花有黄色花心和绿色叶子，共两朵蓝花。",
+            "figure_id": "ipa_evidence_c14cb5c27675"
+          },
+          {
+            "image_path": "images/page006_img010.jpg",
+            "name": "黄花示意图",
+            "description": "图中一个粉色椭圆内有两朵黄色的花，每朵花有五片花瓣、中心为深色、下方有一片绿叶。",
+            "figure_id": "ipa_evidence_bf2084402c7b"
+          }
+        ]
+      },
+      "source_context_id": "s002_002_想想做做",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s002_contains_multiple"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_8d67562748f5",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_e9903eff7c58",
+      "target_node_id": "canon_knowledgepoint_5d02e7bd5d7e",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\002_想想做做.md",
+            "section": {
+              "id": "s002",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "红花的朵数是蓝花的几倍？先圈一圈，再填一填。"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page006_img002.jpg",
+            "name": "花盆中的花朵",
+            "description": "图中一个椭圆形花盆里种有红、蓝、黄、粉四种颜色的花，左侧女孩旁有对话框文字‘蓝花有 2 朵’；花盆周围站着三个儿童，其中右侧男孩和中间女孩正指向花盆内的花。",
+            "figure_id": "ipa_evidence_b6e1047ada0e"
+          }
+        ]
+      },
+      "source_context_id": "s002_002_想想做做",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s002_tests_flower_multiple"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_8d0e83aaaad4",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_c5a6f8f04e72",
+      "target_node_id": "canon_knowledgepoint_912b1004bca5",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\003_想想做做.md",
+            "section": {
+              "id": "s003",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "## 想想做做"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section metadata defines s003 as containing the knowledge point on multiples."
+      },
+      "source_context_id": "s003_003_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_b1a8b267c4b8",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_0200f2581b58",
+      "target_node_id": "canon_knowledgepoint_912b1004bca5",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\003_想想做做.md",
+            "section": {
+              "id": "s003",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "12 里面有（ ）个 3， 的个数是 的（ ）倍。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem text explicitly asks for multiple relationship between 12 and 3.",
+        "figures": [
+          {
+            "image_path": "images/page007_img006.jpg",
+            "name": "",
+            "description": "蓝色圆形：一个纯浅蓝色填充、带有深蓝色轮廓的圆形，位于白色背景中央，无其他图案或文字。",
+            "figure_id": "ipa_evidence_c6ff4326ecc1"
+          },
+          {
+            "image_path": "images/page007_img007.jpg",
+            "name": "",
+            "description": "蓝色圆形：一个浅蓝色填充、带有深蓝色轮廓的圆形，位于白色背景中央，无其他图案或文字。",
+            "figure_id": "ipa_evidence_572e2a2383d3"
+          }
+        ]
+      },
+      "source_context_id": "s003_003_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_tests_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_3b13ebb9bd01",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_55e647b2d4aa",
+      "target_node_id": "canon_knowledgepoint_912b1004bca5",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\003_想想做做.md",
+            "section": {
+              "id": "s003",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "10 里面有（ ）个 2， 的个数是 的（ ）倍。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem text explicitly asks for multiple relationship between 10 and 2.",
+        "figures": [
+          {
+            "image_path": "images/page007_img008.jpg",
+            "name": "",
+            "description": "两个蓝色圆形：图像中并列放置两个浅蓝色、带有高光的圆形，外形类似球体或按钮，背景为纯白色。",
+            "figure_id": "ipa_evidence_ed4dc7362591"
+          },
+          {
+            "image_path": "images/page007_img009.jpg",
+            "name": "",
+            "description": "> 彩色球体\n图中展示了一行共 10 个彩色球体，每个球体表面有红、橙、黄、绿、蓝五种颜色组成的螺旋条纹图案，球体从左到右水平排列，无重叠，背景为纯白色。",
+            "figure_id": "ipa_evidence_4663e3f09c9e"
+          }
+        ]
+      },
+      "source_context_id": "s003_003_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_tests_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_d4719b642173",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_b9b63e0a9491",
+      "target_node_id": "canon_knowledgepoint_912b1004bca5",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\003_想想做做.md",
+            "section": {
+              "id": "s003",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "菊花的盆数是月季花的几倍？"
+          }
+        ],
+        "confidence": 0.92,
+        "rationale": "Problem text explicitly asks for multiple relationship between chrysanthemums and roses."
+      },
+      "source_context_id": "s003_003_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_tests_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_efbba3122f4c",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_e1ec03914e86",
+      "target_node_id": "canon_knowledgepoint_912b1004bca5",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\003_想想做做.md",
+            "section": {
+              "id": "s003",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "成人票价是儿童票价的几倍？"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem text explicitly asks for multiple relationship between ticket prices.",
+        "figures": [
+          {
+            "image_path": "images/page008_img004.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_4533f1ee950b"
+          }
+        ]
+      },
+      "source_context_id": "s003_003_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_tests_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_deba78b27dc4",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_8fef8ad6ae43",
+      "target_node_id": "canon_knowledgepoint_912b1004bca5",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\003_想想做做.md",
+            "section": {
+              "id": "s003",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "小芳跳的下数是小刚的多少倍？"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem text explicitly asks for multiple relationship between jump counts.",
+        "figures": [
+          {
+            "image_path": "images/page008_img007.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_cfbadfdf3032"
+          }
+        ]
+      },
+      "source_context_id": "s003_003_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_tests_008"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_3abb7ae21903",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3198455db8be",
+      "target_node_id": "canon_knowledgepoint_912b1004bca5",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\003_想想做做.md",
+            "section": {
+              "id": "s003",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "柳树的棵数是杨树的 3 倍。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem text explicitly states multiple relationship between tree counts.",
+        "figures": [
+          {
+            "image_path": "images/page009_img001.jpg",
+            "name": "",
+            "description": "植树场景插图：画面左侧有 5 棵杨树，一名女孩指着杨树说‘杨树有 5 棵’；右侧有若干柳树，一名男孩指着柳树说‘柳树的棵数是杨树的 3 倍’。图中可见 5 棵杨树和至少 4 棵柳树（实际数量未直接标出，但根据文字关系可推知为 15 棵）。",
+            "figure_id": "ipa_evidence_bf19739f1dd0"
+          },
+          {
+            "image_path": "images/page009_img005.jpg",
+            "name": "",
+            "description": "> $\\square \\, \\circ \\, \\square = \\square \\quad ( \\quad )$",
+            "figure_id": "ipa_evidence_d55c3284c3bd"
+          }
+        ]
+      },
+      "source_context_id": "s003_003_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s003_tests_009"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_6ee94534821d",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b116090fabb2",
+      "target_node_id": "canon_knowledgepoint_7955f9dc57d5",
+      "properties": {
+        "rationale": "Section explicitly states the calculation rule for carrying over digits in multiplication.",
+        "figures": [
+          {
+            "image_path": "images/page016_img002.jpg",
+            "name": "",
+            "description": "竖式计算填空：152 乘以 24 的部分积",
+            "figure_id": "ipa_evidence_29f117ae8289"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\005_想想做做.md",
+            "section": {
+              "id": "s005",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "哪一位上乘得的数满几十，就向前一位进几。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001_contains_calc_rule"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c143d49138e2",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b116090fabb2",
+      "target_node_id": "canon_knowledgepoint_1b1c8b0fa639",
+      "properties": {
+        "rationale": "Section introduces the concept of multiples through the swan problem context.",
+        "figures": [
+          {
+            "image_path": "images/page015_img002.jpg",
+            "name": "",
+            "description": "湖中天鹅图：湖面有灰天鹅和白天鹅，女孩对话框显示倍数关系",
+            "figure_id": "ipa_evidence_8a1067d90a05"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\005_想想做做.md",
+            "section": {
+              "id": "s005",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "白天鹅有多少只？48 × 2 ="
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s005_005_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002_contains_multiple"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_3e6c7486eb07",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_e75f7dae955c",
+      "target_node_id": "canon_knowledgepoint_1b1c8b0fa639",
+      "properties": {
+        "rationale": "Problem explicitly asks for the number of white swans given gray swans count and 2x ratio.",
+        "figures": [
+          {
+            "image_path": "images/page015_img002.jpg",
+            "name": "",
+            "description": "湖中天鹅图：一幅插画，展示一片湖面，水中有多只灰天鹅和白天鹅",
+            "figure_id": "ipa_evidence_8a1067d90a05"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\005_想想做做.md",
+            "section": {
+              "id": "s005",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "湖里有 48 只灰天鹅。白天鹅有多少只？48 × 2 ="
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s005_005_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003_tests_swans_multiple"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_c5c797afe6f6",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_476f889fc5da",
+      "target_node_id": "canon_knowledgepoint_7955f9dc57d5",
+      "properties": {
+        "rationale": "Problem involves mixed multiplication and addition requiring calculation rules.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\005_想想做做.md",
+            "section": {
+              "id": "s005",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "3 \\times 9 + 5 = 5 \\times 7 + 6 ="
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s005_005_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004_tests_mixed_calc"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_589c2d341373",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_12b744971983",
+      "target_node_id": "canon_knowledgepoint_7955f9dc57d5",
+      "properties": {
+        "rationale": "Problem requires vertical calculation of three-digit by one-digit multiplication.",
+        "figures": [
+          {
+            "image_path": "images/page016_img002.jpg",
+            "name": "",
+            "description": "竖式计算填空：152 乘以 24 的部分积",
+            "figure_id": "ipa_evidence_29f117ae8289"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\005_想想做做.md",
+            "section": {
+              "id": "s005",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "4 \\times 152 ="
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s005_005_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005_tests_try_calc"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_32fb5261ad2a",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_34d624761000",
+      "target_node_id": "canon_knowledgepoint_1b1c8b0fa639",
+      "properties": {
+        "rationale": "Problem context implies finding a multiple of last year's fish fry count.",
+        "figures": [
+          {
+            "image_path": "images/page014_img017.jpg",
+            "name": "",
+            "description": "男孩放鱼苗插图：一名穿黄衣绿裤的男孩站在池塘边，左手提着装有鱼苗的篮子",
+            "figure_id": "ipa_evidence_fb6e84f5d37d"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\005_想想做做.md",
+            "section": {
+              "id": "s005",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "去年放养鱼苗 342 尾，今年放养了多少尾？"
+          }
+        ],
+        "confidence": 0.75
+      },
+      "source_context_id": "s005_005_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006_tests_fish_multiple"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_2604edb8122f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_8ad710a46060",
+      "target_node_id": "canon_knowledgepoint_7955f9dc57d5",
+      "properties": {
+        "rationale": "Problem asks total bottles in a box, implying multiplication structure.",
+        "figures": [
+          {
+            "image_path": "images/page014_img012.jpg",
+            "name": "",
+            "description": "箱子装水瓶示意图：一个黄色纸箱，侧面标有“12 瓶”，箱内可见 4 个带红白条纹标签的塑料水瓶，瓶身透明，箱内有斜线示意可能还有其他瓶子未完全显示。",
+            "figure_id": "ipa_evidence_b5a6fe3f273a"
+          },
+          {
+            "image_path": "images/page014_img013.jpg",
+            "name": "",
+            "description": "装水瓶的箱子：一个黄色纸箱，侧面标有“12 瓶”字样；箱内可见 4 个带红白条纹标签的塑料水瓶，瓶身透明；一根斜线从右下角穿过箱体及部分瓶子。",
+            "figure_id": "ipa_evidence_cbeb713d5fd0"
+          },
+          {
+            "image_path": "images/page014_img014.jpg",
+            "name": "",
+            "description": "装水瓶的箱子：一个黄色纸箱，侧面标有“12 瓶”，箱内可见 4 个带红白条纹盖子的透明水瓶，箱体被斜线划过，表示部分瓶子已取出或示意内部容量。",
+            "figure_id": "ipa_evidence_e39d40e91c8c"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\005_想想做做.md",
+            "section": {
+              "id": "s005",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "一共有多少瓶？"
+          }
+        ],
+        "confidence": 0.75
+      },
+      "source_context_id": "s005_005_想想做做",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_007_tests_water_calc"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_e0c821b2383f",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_46fc71da4150",
+      "target_node_id": "canon_knowledgepoint_98c870f90d29",
+      "properties": {
+        "rationale": "Section 想想做做 structurally contains the KnowledgePoint 多位数乘一位数 via multiple vertical multiplication exercises.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\006_想想做做.md",
+            "section": {
+              "id": "s006",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "Section 想想做做 contains multiple vertical multiplication exercises."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_f0904a1c3559",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3f1baf92ba29",
+      "target_node_id": "canon_knowledgepoint_98c870f90d29",
+      "properties": {
+        "rationale": "Problem 1 explicitly performs vertical multiplication of 38 by 2, testing the KnowledgePoint.",
+        "figures": [
+          {
+            "image_path": "images/page016_img007.jpg",
+            "name": "computation_with_vertical_forms",
+            "description": "Vertical form: 38 × 2 with blank boxes for result.",
+            "figure_id": "ipa_evidence_4b92e42cfea7"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\006_想想做做.md",
+            "section": {
+              "id": "s006",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "1 . 38 × 2"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s006_006_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_bf7d6a3e5c5a",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_9df9dac1c274",
+      "target_node_id": "canon_knowledgepoint_98c870f90d29",
+      "properties": {
+        "rationale": "Problem 4 requires calculating total seats (31 rows × 6 seats), applying multi-digit multiplication.",
+        "figures": [
+          {
+            "image_path": "images/page016_img011.jpg",
+            "name": "application_scenarios",
+            "description": "Image link preserved, no text extraction.",
+            "figure_id": "ipa_evidence_dbfc45bfe543"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\006_想想做做.md",
+            "section": {
+              "id": "s006",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "31 排座位，每排有 6 个。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s006_006_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_0cdc9fb4d166",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_4bc5afb4c268",
+      "target_node_id": "canon_knowledgepoint_98c870f90d29",
+      "properties": {
+        "rationale": "Problem 6 asks for minutes for 5 orbits (114 × 5), requiring multi-digit multiplication.",
+        "figures": [
+          {
+            "image_path": "images/page017_img008.jpg",
+            "name": "application_scenarios",
+            "description": "Image link preserved, no text extraction.",
+            "figure_id": "ipa_evidence_e0063c661b37"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\006_想想做做.md",
+            "section": {
+              "id": "s006",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "绕地球一周要 114 分钟，绕地球 5 周要多少分钟？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s006_006_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_df8b18b7be4b",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_d9719470a3af",
+      "target_node_id": "canon_knowledgepoint_98c870f90d29",
+      "properties": {
+        "rationale": "Problem 12 calculates cucumber count (5 rows × 12 plants), testing multi-digit multiplication.",
+        "figures": [
+          {
+            "image_path": "images/page018_img034.jpg",
+            "name": "application_scenarios",
+            "description": "Hand-drawn illustration of cucumber plants with vines, leaves, flowers, and fruits.",
+            "figure_id": "ipa_evidence_e9820f6ecaf8"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\006_想想做做.md",
+            "section": {
+              "id": "s006",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "黄瓜有 5 行，每行 12 棵。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s006_006_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_1ec0405aa25b",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_24216d9ff22c",
+      "target_node_id": "canon_knowledgepoint_98c870f90d29",
+      "properties": {
+        "rationale": "Problem 13 involves summing goldfish and multiplying by 2, utilizing multi-digit arithmetic.",
+        "figures": [
+          {
+            "image_path": "images/page019_img002.jpg",
+            "name": "application_scenarios",
+            "description": "Lake scene with grey swans and ducks, people on shore, dialogue bubble: '野鸭的只数是灰天鹅的 4 倍。'",
+            "figure_id": "ipa_evidence_a1497cb2bcb0"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\006_想想做做.md",
+            "section": {
+              "id": "s006",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "红金鱼有 26 条，黑金鱼有 9 条。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s006_006_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_af2d3eb78cb9",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3fb7029af844",
+      "target_node_id": "canon_knowledgepoint_94791318fe0e",
+      "properties": {
+        "rationale": "Section 想想做做 defines the knowledge point 0 与任何数相乘的规律.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\008_想想做做.md",
+            "section": {
+              "id": "s008",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "0 和任何数相乘都等于 0。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_008_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001_cs_kp_zero"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_bd7e52939c83",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3fb7029af844",
+      "target_node_id": "canon_knowledgepoint_6e9740d3c4f4",
+      "properties": {
+        "rationale": "Section 想想做做 defines the knowledge point 三位数乘一位数的估算.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\008_想想做做.md",
+            "section": {
+              "id": "s008",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "102 接近 100，4 个这样的看台大约一共有 400 个座位。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s008_008_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002_cs_kp_est"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_be02cf008225",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_70671d84d6a0",
+      "target_node_id": "canon_knowledgepoint_6e9740d3c4f4",
+      "properties": {
+        "rationale": "Problem asks how to compare student numbers, implying estimation strategy.",
+        "figures": [
+          {
+            "image_path": "images/page020_img007.jpg",
+            "name": "参观学生人数对话图",
+            "description": "参观学生人数对话图：一幅室内场景插画，左侧一位穿粉色上衣的女性和几名儿童，其对话框文字为“上午有 3 批学生来参观，每批 69 人”；右侧一位穿蓝衬衫黄领带的男性，其对话框文字为“下午来参观的学生有 213 人”；背景有两枚火箭模型及三幅航天主题挂画。",
+            "figure_id": "ipa_evidence_0b869e7e2f99"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\008_想想做做.md",
+            "section": {
+              "id": "s008",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "上午参观的学生多，还是下午参观的学生多？你是怎样比的？"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s008_008_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003_prob_kp_est"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_8609b4738f2d",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9ae4408359ad",
+      "target_node_id": "canon_knowledgepoint_fc90ebbabf10",
+      "properties": {
+        "rationale": "Section 想想做做 covers exercises involving multiplication of tens and hundreds by single digits.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\011_想想做做.md",
+            "section": {
+              "id": "s011",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "## 想想做做 Exercises involve 260×2, 180×3, 350×4, 820×5."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s011_011_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_fc7f27b3b06c",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9ae4408359ad",
+      "target_node_id": "canon_knowledgepoint_52e5d5f0578c",
+      "properties": {
+        "rationale": "Section 想想做做 includes problems defining multiple relationships (e.g., tree counts).",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\011_想想做做.md",
+            "section": {
+              "id": "s011",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "Problem 6 states willow trees are 3 times pine trees."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s011_011_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_c24eab36e170",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_062362c0db8c",
+      "target_node_id": "canon_knowledgepoint_fc90ebbabf10",
+      "properties": {
+        "rationale": "Exercise 2 requires correcting vertical multiplication errors for tens/hundreds numbers.",
+        "figures": [
+          {
+            "image_path": "images/page026_img001.jpg",
+            "name": "Vertical form 380×4=152",
+            "description": "Vertical form 380×4=152",
+            "figure_id": "ipa_evidence_ce27cfa18950"
+          },
+          {
+            "image_path": "images/page026_img002.jpg",
+            "name": "Vertical form 450×6=270",
+            "description": "Vertical form 450×6=270",
+            "figure_id": "ipa_evidence_53d2fe590fef"
+          },
+          {
+            "image_path": "images/page026_img003.jpg",
+            "name": "Vertical form 600×8=480",
+            "description": "Vertical form 600×8=480",
+            "figure_id": "ipa_evidence_95f172290d17"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\011_想想做做.md",
+            "section": {
+              "id": "s011",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "Exercise 2: Find errors in vertical multiplication."
+          }
+        ],
+        "confidence": 0.92
+      },
+      "source_context_id": "s011_011_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_447f0c079abb",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_2e396260e442",
+      "target_node_id": "canon_knowledgepoint_fc90ebbabf10",
+      "properties": {
+        "rationale": "Exercise 5 requires filling a table using multiplication of 180 by number of trays.",
+        "figures": [
+          {
+            "image_path": "images/page026_img004.jpg",
+            "name": "Application scenario: silkworm trays",
+            "description": "Application scenario: silkworm trays",
+            "figure_id": "ipa_evidence_4034858c7a26"
+          },
+          {
+            "image_path": "images/page026_img005.jpg",
+            "name": "Table for silkworm counts",
+            "description": "Table for silkworm counts",
+            "figure_id": "ipa_evidence_bc9a5656fd50"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\011_想想做做.md",
+            "section": {
+              "id": "s011",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "Exercise 5: Fill table for silkworm cocoon counts."
+          }
+        ],
+        "confidence": 0.92
+      },
+      "source_context_id": "s011_011_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_tests_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_fefe08151b2e",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_34900014985b",
+      "target_node_id": "canon_knowledgepoint_52e5d5f0578c",
+      "properties": {
+        "rationale": "Exercise 6 explicitly defines a multiple relationship between pine and willow trees.",
+        "figures": [
+          {
+            "image_path": "images/page026_img007.jpg",
+            "name": "Application scenario: pine and willow trees",
+            "description": "Application scenario: pine and willow trees",
+            "figure_id": "ipa_evidence_b9f1626f44bd"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\011_想想做做.md",
+            "section": {
+              "id": "s011",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "Exercise 6: Calculate tree counts using multiples."
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s011_011_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_tests_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_75ca3db9d0b4",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_34900014985b",
+      "target_node_id": "canon_knowledgepoint_fc90ebbabf10",
+      "properties": {
+        "rationale": "Exercise 6 requires multiplication calculation to solve the multiple relationship problem.",
+        "figures": [
+          {
+            "image_path": "images/page026_img007.jpg",
+            "name": "Application scenario: pine and willow trees",
+            "description": "Application scenario: pine and willow trees",
+            "figure_id": "ipa_evidence_b9f1626f44bd"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\011_想想做做.md",
+            "section": {
+              "id": "s011",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "Exercise 6: Calculate tree counts using multiples."
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s011_011_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_tests_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_31d5723507ec",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_b59e47db187b",
+      "target_node_id": "canon_knowledgepoint_fc90ebbabf10",
+      "properties": {
+        "rationale": "Exercise 5 involves a word problem requiring multiplication of 150 by 4.",
+        "figures": [
+          {
+            "image_path": "images/page027_img025.jpg",
+            "name": "Truck carrying cement bags at construction site",
+            "description": "Truck carrying cement bags at construction site",
+            "figure_id": "ipa_evidence_84ab815e3072"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\011_想想做做.md",
+            "section": {
+              "id": "s011",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "Exercise 5: Cement truck word problem."
+          }
+        ],
+        "confidence": 0.92
+      },
+      "source_context_id": "s011_011_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_tests_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_0171c771c3a6",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_6910f6f3be3b",
+      "target_node_id": "canon_knowledgepoint_fc90ebbabf10",
+      "properties": {
+        "rationale": "Exercise 1 provides basic multiplication practice including tens/hundreds numbers.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\011_想想做做.md",
+            "section": {
+              "id": "s011",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "Exercise 1: Basic multiplication practice."
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s011_011_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s011_tests_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_a9345089d0c2",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_24abdd43c846",
+      "target_node_id": "canon_knowledgepoint_28383561d020",
+      "properties": {
+        "rationale": "Section explicitly defines kilogram unit.",
+        "figures": [
+          {
+            "image_path": "images/page030_img005.jpg",
+            "name": "",
+            "description": "女孩用秤称重示意图：一个扎马尾、穿粉色上衣的女孩站在桌旁，右手食指向上指着，头顶对话框内文字为“我用秤称一称。”；桌上左侧有一台绿色指针式弹簧秤，秤盘上放着一袋包装食品；右侧桌面上放着另一袋浅色食品（部分被遮挡）；背景为浅黄色。",
+            "figure_id": "ipa_evidence_c0b3bbb27815"
+          },
+          {
+            "image_path": "images/page030_img006.jpg",
+            "name": "",
+            "description": "> Two green kitchen scales side by side\\n\\nLeft: An empty green mechanical scale with a circular dial marked from 0 to 4 kg in increments of 1, and the pointer at 0. Right: The same type of scale with a bag of red dates on the platform; the pointer is pointing exactly at the 0.5 kg mark (midway between 0 and 1).",
+            "figure_id": "ipa_evidence_56d460ac901e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\013_千克和克.md",
+            "section": {
+              "id": "s013",
+              "title": "千 克 和 克"
+            },
+            "quote_or_summary": "称一般物品有多重，常用千克作单位。千克可以用字母“kg”表示。千克又叫作公斤。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s013_013_千克和克",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s013_contains_kp_kilogram_s013"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_450e3465d765",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_852604233470",
+      "target_node_id": "canon_knowledgepoint_28383561d020",
+      "properties": {
+        "rationale": "Problem asks to weigh schoolbag in kilograms.",
+        "figures": [
+          {
+            "image_path": "images/page031_img003.jpg",
+            "name": "",
+            "description": "> 称书包\\n\\n 图中显示一个红色机械秤，秤盘上放着一个蓝色书包。旁边有一个放大的圆形秤盘刻度盘，单位为‘kg’，刻度从0到3，指针指向2和3之间，约在2.5 kg位置。画面中有四个儿童：左侧穿粉色连衣裙的女孩正指着放大刻度盘；她身后穿黄色上衣的女孩在微笑；中间穿绿色上衣的男孩扶着蓝色书包；右侧穿蓝色上衣的男孩面前放着一个粉色书包。右上角有对话框文字‘我的书包’。",
+            "figure_id": "ipa_evidence_885112e1f2ea"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\013_千克和克.md",
+            "section": {
+              "id": "s013",
+              "title": "千 克 和 克"
+            },
+            "quote_or_summary": "称一称你的书包，看看大约重多少千克。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s013_013_千克和克",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_schoolbag_s013_tests_kp_kilogram_s013"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_47ab59774e13",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_bd56879c6270",
+      "target_node_id": "canon_knowledgepoint_eebc1768af2a",
+      "properties": {
+        "rationale": "Section introduces common scales including platform scales, pan scales, balances, and steelyards.",
+        "figures": [
+          {
+            "image_path": "images/page032_img006.jpg",
+            "name": "绿色立式台秤",
+            "description": "绿色台秤：一台绿色立式台秤，配有蓝色称重平台、带轮子的底座、横梁和悬挂的秤钩；横梁上可见刻度与配重结构。",
+            "figure_id": "ipa_evidence_9e4c1fa18884"
+          },
+          {
+            "image_path": "images/page032_img007.jpg",
+            "name": "浅色盘秤实物图",
+            "description": "盘秤：一张盘秤的实物图，秤体为浅色，顶部有金属称盘；正面面板为米黄色背景，印有黑色数字刻度（如0、1、2、3、4、5等）和对应单位标识（如‘千克’），下方有若干圆形按钮或指示灯，整体呈长方形立式结构。",
+            "figure_id": "ipa_evidence_b570c24e1b49"
+          },
+          {
+            "image_path": "images/page032_img010.jpg",
+            "name": "老式双盘天平秤",
+            "description": "盘秤：一台老式双盘天平秤，底座为银灰色金属材质，中央有横梁和指针，左右各悬挂一个黑色圆形托盘，右侧横梁末端配有调节螺母。",
+            "figure_id": "ipa_evidence_2f126856381d"
+          },
+          {
+            "image_path": "images/page032_img012.jpg",
+            "name": "杆秤实物图",
+            "description": "盘秤：一张盘秤的实物图：一根长杆，左端挂有钩子，右端悬挂一个黑色圆柱形秤砣，杆身中部有悬挂点，整体呈水平状态。",
+            "figure_id": "ipa_evidence_e5fba8767375"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\015_你知道吗.md",
+            "section": {
+              "id": "s015",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "下面是生活中常见的几种秤。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s015_015_你知道吗",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_d6ef22d58994",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_bd56879c6270",
+      "target_node_id": "canon_knowledgepoint_c1cbc900a18d",
+      "properties": {
+        "rationale": "Section defines mass units gram and kilogram with conversion relationship and usage examples.",
+        "figures": [
+          {
+            "image_path": "images/page033_img007.jpg",
+            "name": "电子秤显示一枚硬币重量",
+            "description": "电子秤显示一枚硬币重量：电子秤秤盘上放着一枚硬币，秤的数字显示屏显示“1.1 g”，表示该硬币质量为1.1克。",
+            "figure_id": "ipa_evidence_17f195e59c3c"
+          },
+          {
+            "image_path": "images/page034_img002.jpg",
+            "name": "绿色弹簧秤，两袋盐共重 1 千克",
+            "description": "绿色弹簧秤，秤盘上放有两袋盐，指针指向1 kg刻度线附近",
+            "figure_id": "ipa_evidence_149bb5a400fc"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\015_你知道吗.md",
+            "section": {
+              "id": "s015",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "称比较轻的物品，常用克作单位。克可以用字母“g”表示。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s015_015_你知道吗",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_ef6eae086fbb",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_be6655e32902",
+      "target_node_id": "canon_knowledgepoint_c1cbc900a18d",
+      "properties": {
+        "rationale": "Problem requires weighing items in grams, directly applying the mass unit knowledge.",
+        "figures": [
+          {
+            "image_path": "images/page034_img002.jpg",
+            "name": "绿色弹簧秤，秤盘上放有两袋盐",
+            "description": "绿色弹簧秤，秤盘上放有两袋盐，指针指向1 kg刻度线附近",
+            "figure_id": "ipa_evidence_149bb5a400fc"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\015_你知道吗.md",
+            "section": {
+              "id": "s015",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "称一称数学书大约有多少克，再称一称你的文具盒大约有多少克，分别用手掂一掂。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s015_015_你知道吗",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_8edc10e0856a",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b37bb921884e",
+      "target_node_id": "canon_knowledgepoint_601af49c6c9d",
+      "properties": {
+        "rationale": "Section '你知道吗' explicitly defines reasonable diet combination.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\017_你知道吗.md",
+            "section": {
+              "id": "s017",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "不同的食物含有不同的营养，合理的饮食搭配有利于身体健康。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s017_017_你知道吗",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001_contains_diet"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_1f21f337e379",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b37bb921884e",
+      "target_node_id": "canon_knowledgepoint_09bd6ea04881",
+      "properties": {
+        "rationale": "Section includes exercises on filling weight units for various objects.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\017_你知道吗.md",
+            "section": {
+              "id": "s017",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "练习五题目涉及篮球、乒乓球、童车、手机等物体的重量单位填空及比较。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s017_017_你知道吗",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002_contains_mass"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_ee52d096dbb2",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_a8a87bc27bb8",
+      "target_node_id": "canon_knowledgepoint_09bd6ea04881",
+      "properties": {
+        "rationale": "Problem requires selecting correct weight units for given objects.",
+        "figures": [
+          {
+            "image_path": "images/page036_img003.jpg",
+            "name": "橙色球体",
+            "description": "一个橙色球体，表面有少量黑色标记，无明显纹路或字样，背景为浅米色。",
+            "figure_id": "ipa_evidence_cc9d52d8293b"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\017_你知道吗.md",
+            "section": {
+              "id": "s017",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "在（ ）里填合适的单位。\n\n篮球重 640（ ）\n\n乒乓球重 3（ ）\n\n童车重 3（ ）\n\n手机重 85（ ）"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s017_017_你知道吗",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_003_tests_fill_units"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_469d75eff392",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_1746bb9c644f",
+      "target_node_id": "canon_knowledgepoint_09bd6ea04881",
+      "properties": {
+        "rationale": "Problem calculates quantity based on total weight and unit weight.",
+        "figures": [
+          {
+            "image_path": "images/page036_img012.jpg",
+            "name": "奶糖包装放大图",
+            "description": "四袋奶糖，其中一袋被放大镜圈出，标注“含量：70 克”",
+            "figure_id": "ipa_evidence_258276c9ec90"
+          },
+          {
+            "image_path": "images/page036_img013.jpg",
+            "name": "奶糖包装袋",
+            "description": "一张奶糖的透明塑料包装袋，袋身有绿色和黄色图案；袋子上贴有标签，清晰标注‘190 克’，右上方有文字‘1 袋净含量’；袋内可见数颗棕色球形奶糖。",
+            "figure_id": "ipa_evidence_f61b6a2c1335"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\017_你知道吗.md",
+            "section": {
+              "id": "s017",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "（1）多少袋这样的奶糖重 1 千克？（口答）（2）每袋售价 3 元，买 1 千克这样的奶糖应付多少元？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s017_017_你知道吗",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_004_tests_milk_candy"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_fe2a53f5fb9e",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_d358209eb5ac",
+      "target_node_id": "canon_knowledgepoint_09bd6ea04881",
+      "properties": {
+        "rationale": "Problem estimates liquid weight based on visual volume comparison.",
+        "figures": [
+          {
+            "image_path": "images/page037_img001.jpg",
+            "name": "空杯子",
+            "description": "一个透明的圆柱形玻璃杯，杯中无液体，底部有轻微反光，整体呈直筒状，杯口边缘清晰可见。",
+            "figure_id": "ipa_evidence_0488339025dc"
+          },
+          {
+            "image_path": "images/page037_img002.jpg",
+            "name": "2 号杯",
+            "description": "一个透明玻璃杯，杯中盛有约三分之一高度的橙色液体，杯身右侧标有黑色文字“2 号”。",
+            "figure_id": "ipa_evidence_fd0568e8cdf8"
+          },
+          {
+            "image_path": "images/page037_img003.jpg",
+            "name": "装有橙汁的杯子",
+            "description": "一个透明玻璃杯，杯中盛有约三分之二高度的橙色液体，推测为橙汁；杯身无刻度或标签，底部有轻微反光。",
+            "figure_id": "ipa_evidence_6271fc449da2"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\017_你知道吗.md",
+            "section": {
+              "id": "s017",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "（1）4 个杯子同样大，1 号是空杯，重 240 克。2 号杯里的橙汁重多少克？（2）估计 3、4 号杯里的橙汁各重多少克。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s017_017_你知道吗",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_005_tests_orange_juice"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_8e966a04d512",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_371acdecc65b",
+      "target_node_id": "canon_knowledgepoint_09bd6ea04881",
+      "properties": {
+        "rationale": "Problem determines mass ratio using balance scale equilibrium.",
+        "figures": [
+          {
+            "image_path": "images/page037_img007.jpg",
+            "name": "天平称重图",
+            "description": "一台托盘天平处于平衡状态，左盘放置 2 个菠萝和 1 个苹果，右盘放置 5 个苹果和 1 个菠萝；天平横梁水平，表明两边质量相等。",
+            "figure_id": "ipa_evidence_d62aac8c27e1"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\017_你知道吗.md",
+            "section": {
+              "id": "s017",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "每个菠萝同样重，每个苹果也同样重。1 个菠萝的质量是 1 个苹果的几倍？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s017_017_你知道吗",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_006_tests_pineapple_apple"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_730f4de92a21",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4ea60d5fdebc",
+      "target_node_id": "canon_knowledgepoint_4d4baaa83906",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section '你知道吗' explicitly defines legal mass units.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\018_你知道吗.md",
+            "section": {
+              "id": "s018",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "“千克”和“克”是我国法定的质量单位。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s018_018_你知道吗",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s018_section_contains_legal_units"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_9dd3d730cee0",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4ea60d5fdebc",
+      "target_node_id": "canon_knowledgepoint_38f5522013d6",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section '你知道吗' explicitly defines traditional mass units and conversions.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\018_你知道吗.md",
+            "section": {
+              "id": "s018",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "日常生活中，有些地区还习惯用市制单位“斤”和“两”表示物品的轻重，1 斤=500 克，1 两=50 克。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s018_018_你知道吗",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s018_section_contains_traditional_units"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_8ca86774c8dd",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4ea60d5fdebc",
+      "target_node_id": "canon_knowledgepoint_c6266fb9b1c9",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section '你知道吗' explicitly defines historical measurement methods.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\018_你知道吗.md",
+            "section": {
+              "id": "s018",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "以前，我国还曾长期使用 1 斤=1 6 两的计量方法。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s018_018_你知道吗",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s018_section_contains_history"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_6425977d2c72",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_402d75b0892c",
+      "target_node_id": "canon_knowledgepoint_9c39db88487b",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section explicitly defines rectangle properties.",
+        "figures": [
+          {
+            "image_path": "images/page038_img004.jpg",
+            "name": "测量与折叠操作示意图",
+            "description": "长方形和正方形的测量与折叠操作示意图：四格拼图式图片展示一名穿校服的学生在深色桌面上进行纸张操作：左上图为用直尺测量长方形纸片边长；右上图为将一张长方形纸片对折后放置于另一张已对折的纸片旁；左下图为手持长方形纸片并将其一角向内折叠；右下图为将纸片沿对角线对折成三角形。所有操作均在白色背景下进行。",
+            "figure_id": "ipa_evidence_2b1997c0943a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\019_长方形和正方形.md",
+            "section": {
+              "id": "s019",
+              "title": "长方形和正方形"
+            },
+            "quote_or_summary": "长方形有四条边，对边相等；有四个角，都是直角。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s019_019_长方形和正方形",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs_s019_001_kp_rect_001_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_7383389f4747",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_402d75b0892c",
+      "target_node_id": "canon_knowledgepoint_e217af59d30e",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section explicitly defines square properties.",
+        "figures": [
+          {
+            "image_path": "images/page038_img004.jpg",
+            "name": "测量与折叠操作示意图",
+            "description": "长方形和正方形的测量与折叠操作示意图：四格拼图式图片展示一名穿校服的学生在深色桌面上进行纸张操作：左上图为用直尺测量长方形纸片边长；右上图为将一张长方形纸片对折后放置于另一张已对折的纸片旁；左下图为手持长方形纸片并将其一角向内折叠；右下图为将纸片沿对角线对折成三角形。所有操作均在白色背景下进行。",
+            "figure_id": "ipa_evidence_2b1997c0943a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\019_长方形和正方形.md",
+            "section": {
+              "id": "s019",
+              "title": "长方形和正方形"
+            },
+            "quote_or_summary": "正方形的四条边都相等，四个角都是直角。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s019_019_长方形和正方形",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs_s019_001_kp_sq_001_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_216af4332d0c",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_402d75b0892c",
+      "target_node_id": "canon_knowledgepoint_3e3e37c89d4b",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section poses comparison question between square and rectangle.",
+        "figures": [
+          {
+            "image_path": "images/page038_img004.jpg",
+            "name": "测量与折叠操作示意图",
+            "description": "长方形和正方形的测量与折叠操作示意图：四格拼图式图片展示一名穿校服的学生在深色桌面上进行纸张操作：左上图为用直尺测量长方形纸片边长；右上图为将一张长方形纸片对折后放置于另一张已对折的纸片旁；左下图为手持长方形纸片并将其一角向内折叠；右下图为将纸片沿对角线对折成三角形。所有操作均在白色背景下进行。",
+            "figure_id": "ipa_evidence_2b1997c0943a"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\019_长方形和正方形.md",
+            "section": {
+              "id": "s019",
+              "title": "长方形和正方形"
+            },
+            "quote_or_summary": "正方形和长方形有什么相同的地方？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s019_019_长方形和正方形",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_cs_s019_001_kp_similar_001_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_ffadf65ac127",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b85955e929f6",
+      "target_node_id": "canon_knowledgepoint_372337100705",
+      "properties": {
+        "rationale": "Section explicitly defines perimeter using bookmark example.",
+        "figures": [
+          {
+            "image_path": "images/page041_img007.jpg",
+            "name": "四边形示例",
+            "description": "一个四边形",
+            "figure_id": "ipa_evidence_b78109d3d18e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\020_想想做做.md",
+            "section": {
+              "id": "s020",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "书签一周边线的长就是它的周长。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s020_020_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s020_sec_kp_perimeter_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_e0af318c2e95",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b85955e929f6",
+      "target_node_id": "canon_knowledgepoint_c2e6e94a4960",
+      "properties": {
+        "rationale": "Section includes problem requiring triangular rulers.",
+        "figures": [
+          {
+            "image_path": "images/page039_img010.jpg",
+            "name": "三角尺",
+            "description": "一个蓝色的三角尺，其底边为直尺刻度，从左到右标有数字 0 到 10，单位为厘米（cm）",
+            "figure_id": "ipa_evidence_2148c111af3b"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\020_想想做做.md",
+            "section": {
+              "id": "s020",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "2． 你能用两副同样的三角尺，拼成一个长方形和一个正方形吗？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s020_020_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s020_sec_kp_tool_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_12e6106a253e",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_b85955e929f6",
+      "target_node_id": "canon_knowledgepoint_128cce8537b0",
+      "properties": {
+        "rationale": "Section includes problem requiring drawing on grid paper.",
+        "figures": [
+          {
+            "image_path": "images/page042_img010.jpg",
+            "name": "网格图",
+            "description": "网格图上的四个多边形",
+            "figure_id": "ipa_evidence_efa15d26d4e2"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\020_想想做做.md",
+            "section": {
+              "id": "s020",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "6． 在下面的方格纸上画一个长方形和一个正方形。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s020_020_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s020_sec_kp_grid_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_4b7a2e4624ff",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_6c95d845398f",
+      "target_node_id": "canon_knowledgepoint_372337100705",
+      "properties": {
+        "rationale": "Problem requires measuring lengths of rectangles and squares.",
+        "figures": [
+          {
+            "image_path": "images/page040_img003.jpg",
+            "name": "空白长方形图",
+            "description": "一个空的、横向放置的长方形，由青绿色线条勾勒边框，内部为纯白色背景",
+            "figure_id": "ipa_evidence_fc2d3d53ac10"
+          },
+          {
+            "image_path": "images/page040_img004.jpg",
+            "name": "正方形示意图",
+            "description": "一个浅蓝色边框的空白正方形，内部无任何标记或内容",
+            "figure_id": "ipa_evidence_eb00052537c0"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\020_想想做做.md",
+            "section": {
+              "id": "s020",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "4． 先量一量，再填一填。长方形长（ ）厘米，宽（ ）厘米。正方形边长）厘米。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s020_020_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s020_prob_ex4_kp_perimeter_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_2978760d6744",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_e95372594f51",
+      "target_node_id": "canon_knowledgepoint_372337100705",
+      "properties": {
+        "rationale": "Problem explicitly asks to measure leaf perimeter.",
+        "figures": [
+          {
+            "image_path": "images/page041_img010.jpg",
+            "name": "树叶示意图",
+            "description": "一张绿色椭圆形树叶的简笔画，叶脉为棕色线条，中央有一条主脉",
+            "figure_id": "ipa_evidence_2c0ed890ce46"
+          },
+          {
+            "image_path": "images/page041_img011.jpg",
+            "name": "测量树叶周长示意图",
+            "description": "图中展示了一片绿色的树叶，叶脉清晰，边缘用橙色粗线勾勒；右侧有一只手",
+            "figure_id": "ipa_evidence_47546eb1d7d8"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\020_想想做做.md",
+            "section": {
+              "id": "s020",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "小组合作，想办法测量一片树叶的周长。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s020_020_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s020_prob_tryit_kp_perimeter_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_622ae7ddca62",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3e497e5331a9",
+      "target_node_id": "canon_knowledgepoint_c2e6e94a4960",
+      "properties": {
+        "rationale": "Problem asks to use triangular rulers to form shapes.",
+        "figures": [
+          {
+            "image_path": "images/page039_img010.jpg",
+            "name": "三角尺",
+            "description": "一个蓝色的三角尺，其底边为直尺刻度，从左到右标有数字 0 到 10，单位为厘米（cm）",
+            "figure_id": "ipa_evidence_2148c111af3b"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\020_想想做做.md",
+            "section": {
+              "id": "s020",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "2． 你能用两副同样的三角尺，拼成一个长方形和一个正方形吗？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s020_020_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s020_prob_ex2_kp_tool_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_1f909358ab87",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_252f4d9e1bf7",
+      "target_node_id": "canon_knowledgepoint_412723d4e73f",
+      "properties": {
+        "rationale": "Section explicitly defines the rectangle perimeter calculation rule.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\021_3篮球场长28米,宽15米。篮球场的周长是多少米.md",
+            "section": {
+              "id": "s021",
+              "title": "3 篮球场长 28 米, 宽 1 5 米。 篮球场的周长是多少米?"
+            },
+            "quote_or_summary": "长＋宽＋长＋宽= 长方形的周长"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s021_021_3篮球场长28米,宽15米。篮球场的周长是多少米",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s021_section_kp_rect_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_ed758900abbf",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_252f4d9e1bf7",
+      "target_node_id": "canon_knowledgepoint_869d6cbcfb76",
+      "properties": {
+        "rationale": "Section explicitly defines the square perimeter calculation rule.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\021_3篮球场长28米,宽15米。篮球场的周长是多少米.md",
+            "section": {
+              "id": "s021",
+              "title": "3 篮球场长 28 米, 宽 1 5 米。 篮球场的周长是多少米?"
+            },
+            "quote_or_summary": "边长 × 4 = 正方形的周长"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s021_021_3篮球场长28米,宽15米。篮球场的周长是多少米",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s021_section_kp_sq_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_1d4f34c7b197",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_b7410b4c42b5",
+      "target_node_id": "canon_knowledgepoint_412723d4e73f",
+      "properties": {
+        "rationale": "Problem requires calculating rectangle perimeter using given dimensions.",
+        "figures": [
+          {
+            "image_path": "images/page043_img002.jpg",
+            "name": "篮球场平面图",
+            "description": "几何测量示意图：篮球场平面尺寸标注图",
+            "figure_id": "ipa_evidence_82610e748d41"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\021_3篮球场长28米,宽15米。篮球场的周长是多少米.md",
+            "section": {
+              "id": "s021",
+              "title": "3 篮球场长 28 米, 宽 1 5 米。 篮球场的周长是多少米?"
+            },
+            "quote_or_summary": "篮球场长 28 米，宽 15 米。篮球场的周长是多少米？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s021_021_3篮球场长28米,宽15米。篮球场的周长是多少米",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s021_prob_basketball_kp_rect_tests_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_70778e0a7bd2",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3feaf8bc7399",
+      "target_node_id": "canon_knowledgepoint_869d6cbcfb76",
+      "properties": {
+        "rationale": "Problem requires calculating square perimeter using given side length.",
+        "figures": [
+          {
+            "image_path": "images/page044_img002.jpg",
+            "figure_id": "ipa_evidence_2281a766fb38"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\021_3篮球场长28米,宽15米。篮球场的周长是多少米.md",
+            "section": {
+              "id": "s021",
+              "title": "3 篮球场长 28 米, 宽 1 5 米。 篮球场的周长是多少米?"
+            },
+            "quote_or_summary": "一块正方形手帕的边长是 25 厘米，它的周长是多少厘米？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s021_021_3篮球场长28米,宽15米。篮球场的周长是多少米",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s021_prob_handkerchief_kp_sq_tests_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_245d43889522",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_95c50226dad5",
+      "target_node_id": "canon_knowledgepoint_79f320752d91",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\024_你知道吗.md",
+            "section": {
+              "id": "s024",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "我们的祖先对简单几何形状与图案早就有了认识。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section '你知道吗' explicitly introduces the knowledge point '简单几何形状与图案' supported by textual definition and artifact imagery.",
+        "figures": [
+          {
+            "image_path": "images/page047_img015.jpg",
+            "name": "",
+            "description": "八角星纹陶盆：一个红褐色陶盆，外壁绘有橙黄色八角星纹图案，星形中心为方形，周围还有竖条纹装饰；盆口呈圆形，内壁为深色。",
+            "figure_id": "ipa_evidence_08511195017f"
+          }
+        ]
+      },
+      "source_context_id": "s024_024_你知道吗",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s024_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_7328e0f4c194",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_552e6cc90ab1",
+      "target_node_id": "canon_knowledgepoint_875caf244bb0",
+      "properties": {
+        "relation_label": "包含",
+        "rationale": "章节标题和正文内容直接定义了知识点，并使用几何图形作为核心示例。",
+        "figures": [
+          {
+            "image_path": "images/page048_img002.jpg",
+            "description": "由6个边长为1厘米的正方形横向拼接而成的长方形",
+            "figure_id": "ipa_evidence_68168665ec6c"
+          },
+          {
+            "image_path": "images/page048_img003.jpg",
+            "description": "| | | |",
+            "figure_id": "ipa_evidence_24accbbfddc1"
+          },
+          {
+            "image_path": "images/page048_img004.jpg",
+            "description": "由6个边长1厘米的正方形组成的阶梯状图形",
+            "figure_id": "ipa_evidence_9df3bfcf067c"
+          },
+          {
+            "image_path": "images/page048_img005.jpg",
+            "description": "ASCII 图形表示",
+            "figure_id": "ipa_evidence_27c92d8b14af"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\026_拼一拼.md",
+            "section": {
+              "id": "s026",
+              "title": "拼 一 拼"
+            },
+            "quote_or_summary": "用 6 个边长 1 厘米的正方形可以拼成不同的图形。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s026_026_拼一拼",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_CS_s026_01_KP_s026_01_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_0f1aa187298e",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_4bcc657541bb",
+      "target_node_id": "canon_knowledgepoint_875caf244bb0",
+      "properties": {
+        "relation_label": "考察",
+        "rationale": "题目要求基于已定义的拼组图形知识计算周长，直接考察该知识点的应用。",
+        "figures": [
+          {
+            "image_path": "images/page048_img002.jpg",
+            "description": "由6个边长为1厘米的正方形横向拼接而成的长方形",
+            "figure_id": "ipa_evidence_68168665ec6c"
+          },
+          {
+            "image_path": "images/page048_img003.jpg",
+            "description": "| | | |",
+            "figure_id": "ipa_evidence_24accbbfddc1"
+          },
+          {
+            "image_path": "images/page048_img004.jpg",
+            "description": "由6个边长1厘米的正方形组成的阶梯状图形",
+            "figure_id": "ipa_evidence_9df3bfcf067c"
+          },
+          {
+            "image_path": "images/page048_img005.jpg",
+            "description": "ASCII 图形表示",
+            "figure_id": "ipa_evidence_27c92d8b14af"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\026_拼一拼.md",
+            "section": {
+              "id": "s026",
+              "title": "拼 一 拼"
+            },
+            "quote_or_summary": "你还能拼出怎样的图形？拼成的图形周长各是多少厘米？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s026_026_拼一拼",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_Prob_s026_01_KP_s026_01_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_0b64625add88",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ea8948d57407",
+      "target_node_id": "canon_knowledgepoint_372337100705",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\029_量量.md",
+            "section": {
+              "id": "s029",
+              "title": "量 量"
+            },
+            "quote_or_summary": "由几个相同正方形拼成的图形，周长可能不相等。不同形状的图形，周长可能相等。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section explicitly defines perimeter properties through text and examples."
+      },
+      "source_context_id": "s029_029_量量",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_001_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_710ccab0ef83",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_5af97f9e3abf",
+      "target_node_id": "canon_knowledgepoint_372337100705",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\029_量量.md",
+            "section": {
+              "id": "s029",
+              "title": "量 量"
+            },
+            "quote_or_summary": "下面两个图案的周长大约各是多少厘米？先估一估，再量一量。"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page049_img003.jpg",
+            "name": "五角星图案",
+            "description": "五角星图案：一个粉红色线条绘制的五角星（实际为六角星，根据核实意见修正），无填充，位于白色背景中央，用于测量周长练习。",
+            "figure_id": "ipa_evidence_b27b9f11f287"
+          }
+        ],
+        "rationale": "Problem requires measuring perimeter of the figure shown in the image."
+      },
+      "source_context_id": "s029_029_量量",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_002_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_165908007e45",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_572f29d8ca96",
+      "target_node_id": "canon_knowledgepoint_f003c0217f85",
+      "properties": {
+        "rationale": "Section title and content define the knowledge point.",
+        "figures": [
+          {
+            "image_path": "images/page050_img002.jpg",
+            "name": "铅笔捆示意图",
+            "description": "图中展示 5 组红色铅笔，每组由 10 支铅笔捆扎成一捆，每捆铅笔上贴有蓝色标签，标签上写有'每捆 10 支'字样。",
+            "figure_id": "ipa_evidence_3e1a113e6b22"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\031_两、三位数除以一位数.md",
+            "section": {
+              "id": "s031",
+              "title": "两、 三位数除以一位数"
+            },
+            "quote_or_summary": "## 两、 三位数除以一位数"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s031_031_两、三位数除以一位数",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s031_section_kp_div_tens_hundreds_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_f09ab18dae42",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_2d03313e5292",
+      "target_node_id": "canon_knowledgepoint_f003c0217f85",
+      "properties": {
+        "rationale": "Problem requires dividing 60 by 3 using tens/hundreds mental math.",
+        "figures": [
+          {
+            "image_path": "images/page050_img003.jpg",
+            "name": "小女孩思考题",
+            "description": "一名扎黄色蝴蝶结马尾、穿粉色上衣和蓝色裙子的小女孩侧身站立，头顶有一个粉色对话气泡，内有文字‘每班分得多少支？’。",
+            "figure_id": "ipa_evidence_a7f2084b64e5"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\031_两、三位数除以一位数.md",
+            "section": {
+              "id": "s031",
+              "title": "两、 三位数除以一位数"
+            },
+            "quote_or_summary": "把 60 支铅笔平均分给 3 个班。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s031_031_两、三位数除以一位数",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_60_pencils_kp_div_tens_hundreds_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_71702b048aee",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_9e334480b885",
+      "target_node_id": "canon_knowledgepoint_f003c0217f85",
+      "properties": {
+        "rationale": "Problem requires dividing 120 by 3 using tens/hundreds mental math.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\031_两、三位数除以一位数.md",
+            "section": {
+              "id": "s031",
+              "title": "两、 三位数除以一位数"
+            },
+            "quote_or_summary": "把 1 20 支铅笔平均分给 3 个班，每班分得多少支？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s031_031_两、三位数除以一位数",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_120_pencils_kp_div_tens_hundreds_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_a96ac3d70082",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_91594b131869",
+      "target_node_id": "canon_knowledgepoint_8192fae58f1a",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section 想想做做 explicitly demonstrates and explains the vertical division method through examples and diagrams.",
+        "figures": [
+          {
+            "image_path": "images/page052_img003.jpg",
+            "name": "小棒分一分示意图",
+            "description": "小棒分一分示意图：图中左侧显示4捆（每捆10根）小棒和5根散的小棒；右侧为分完后结果：2捆、2捆（共4捆）、3根散的小棒；中间有粉色箭头表示分的过程；左上角萝卜卡通形象说‘我用小棒分一分’。",
+            "figure_id": "ipa_evidence_a3b8e00577a2"
+          },
+          {
+            "image_path": "images/page053_img003.jpg",
+            "name": "竖式计算填空图",
+            "description": "> $$\\begin{array}{r} \\phantom{0}1 \\square \\square \\\\ 2 \\overline{)2\\ 4\\ 6} \\\\ \\phantom{0}2 \\\\ \\hline \\phantom{0}4 \\\\ \\phantom{0}\\square \\\\ \\hline \\phantom{0}\\square \\\\ \\phantom{0}\\square \\\\ \\hline \\phantom{0}\\square \\end{array}$$",
+            "figure_id": "ipa_evidence_c1947464c0c8"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\032_想想做做.md",
+            "section": {
+              "id": "s032",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "可以用竖式计算。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s032_032_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_f21e935ddda2",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_944047c54947",
+      "target_node_id": "canon_knowledgepoint_8192fae58f1a",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem directly asks about vertical calculation steps and digit placement.",
+        "figures": [
+          {
+            "image_path": "images/page053_img003.jpg",
+            "name": "竖式计算填空图",
+            "description": "> $$\\begin{array}{r} \\phantom{0}1 \\square \\square \\\\ 2 \\overline{)2\\ 4\\ 6} \\\\ \\phantom{0}2 \\\\ \\hline \\phantom{0}4 \\\\ \\phantom{0}\\square \\\\ \\hline \\phantom{0}\\square \\\\ \\phantom{0}\\square \\\\ \\hline \\phantom{0}\\square \\end{array}$$",
+            "figure_id": "ipa_evidence_c1947464c0c8"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\032_想想做做.md",
+            "section": {
+              "id": "s032",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "试一试。246 ÷ 2 = 。1 为什么写在商的百位上？接下去该怎样算？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s032_032_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_b19ab2926c9f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_18b0c696a99a",
+      "target_node_id": "canon_knowledgepoint_8192fae58f1a",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem introduces context for vertical calculation and suggests using vertical form.",
+        "figures": [
+          {
+            "image_path": "images/page052_img001.jpg",
+            "name": "羽毛球分配示意图",
+            "description": "> 图示\n>\n> 图中左侧有4个羽毛球筒，每个筒上标有“10 个”，表示每个筒内有10个羽毛球；右侧散落着7个羽毛球。图中右下角有一个小女孩，她指着一个对话框，对话框内文字为：“平均分给2个班，每班分得多少个？”",
+            "figure_id": "ipa_evidence_d168e6c7a90f"
+          },
+          {
+            "image_path": "images/page052_img003.jpg",
+            "name": "小棒分一分示意图",
+            "description": "小棒分一分示意图：图中左侧显示4捆（每捆10根）小棒和5根散的小棒；右侧为分完后结果：2捆、2捆（共4捆）、3根散的小棒；中间有粉色箭头表示分的过程；左上角萝卜卡通形象说‘我用小棒分一分’。",
+            "figure_id": "ipa_evidence_a3b8e00577a2"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\032_想想做做.md",
+            "section": {
+              "id": "s032",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "46 ÷ 2 = 你想怎样算？... 可以用竖式计算。"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s032_032_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_e06e9670f819",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_3c7e20bc47ed",
+      "target_node_id": "canon_knowledgepoint_63baf31385b0",
+      "properties": {
+        "rationale": "Section explicitly introduces and defines the division verification method through text and examples.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\033_想想做做.md",
+            "section": {
+              "id": "s033",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "除法可以怎样验算？每根跳绳的价钱乘根数，应该等于总价钱。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s033_033_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s033_contains_kp001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_184a98ac6c23",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_31dbed806ebf",
+      "target_node_id": "canon_knowledgepoint_63baf31385b0",
+      "properties": {
+        "rationale": "Problem explicitly requires students to apply the division verification method to check their calculations.",
+        "figures": [
+          {
+            "image_path": "images/page054_img001.jpg",
+            "name": "商品价格展示图",
+            "description": "商品价格展示图：一幅儿童场景插画：一位穿绿衣系紫领结的女老师站在柜台后，面前有跳绳；一名穿绿衣系红领巾的男孩站在对面。背景货架上陈列着毽子（标价 1 元）、彩球（2 元）、跳绳（3 元）等玩具及一个足球，所有价格标签清晰可见。",
+            "figure_id": "ipa_evidence_fc7fe3f8eaea"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\033_想想做做.md",
+            "section": {
+              "id": "s033",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "除法可以怎样验算？每根跳绳的价钱乘根数，应该等于总价钱。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s033_033_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s033_tests_kp001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_f1e17d6838d9",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_5135a12cc97f",
+      "target_node_id": "canon_knowledgepoint_8192fae58f1a",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\035_12.一共做了48个。.md",
+            "section": {
+              "id": "s035",
+              "title": "1 2 . 一共做了 48 个。"
+            },
+            "quote_or_summary": "可以用竖式计算。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Section explicitly introduces the vertical division method as the primary calculation tool for the content.",
+        "figures": [
+          {
+            "image_path": "images/page058_img005.jpg",
+            "name": "computation_with_vertical_forms",
+            "description": "竖式计算骨架：1 \\square \\square \\square -----\\n\\square",
+            "figure_id": "ipa_evidence_a2d3614355a7"
+          }
+        ]
+      },
+      "source_context_id": "s035_035_12.一共做了48个。",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_s035_section_001_knowledgepoint_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_3b2ce2420f17",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3fe9d6df81f3",
+      "target_node_id": "canon_knowledgepoint_8192fae58f1a",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\035_12.一共做了48个。.md",
+            "section": {
+              "id": "s035",
+              "title": "1 2 . 一共做了 48 个。"
+            },
+            "quote_or_summary": "52 ÷ 2 = 先摆小棒分一分，再和同学交流。"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem explicitly demonstrates the vertical division method taught in the section.",
+        "figures": [
+          {
+            "image_path": "images/page058_img003.jpg",
+            "name": "computation_with_vertical_forms",
+            "description": "小棒分组示意图：左侧显示5捆（每捆10根）小棒和2根散开的小棒；右侧显示重新分组后：4捆小棒，1根横放的10根散棒，以及2根散棒；中间有粉色箭头表示从左到右的分组变化过程。",
+            "figure_id": "ipa_evidence_c3ab472b7e89"
+          },
+          {
+            "image_path": "images/page058_img005.jpg",
+            "name": "computation_with_vertical_forms",
+            "description": "竖式计算骨架：1 \\square \\square \\square -----\\n\\square",
+            "figure_id": "ipa_evidence_a2d3614355a7"
+          }
+        ]
+      },
+      "source_context_id": "s035_035_12.一共做了48个。",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_s035_problem_003_knowledgepoint_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_41f2a342dbd3",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_1158194f38a7",
+      "target_node_id": "canon_knowledgepoint_8192fae58f1a",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\035_12.一共做了48个。.md",
+            "section": {
+              "id": "s035",
+              "title": "1 2 . 一共做了 48 个。"
+            },
+            "quote_or_summary": "送给幼儿园 15 个。剩下的平均分给一年级 3 个班，每班分得多少个？"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Word problem requires division operation covered by the section's vertical calculation method.",
+        "figures": [
+          {
+            "image_path": "images/page057_img026.jpg",
+            "name": "application_scenarios",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_498c5780729a"
+          }
+        ]
+      },
+      "source_context_id": "s035_035_12.一共做了48个。",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_s035_problem_001_knowledgepoint_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_727e02c55193",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_7f7f4ab12116",
+      "target_node_id": "canon_knowledgepoint_8192fae58f1a",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\035_12.一共做了48个。.md",
+            "section": {
+              "id": "s035",
+              "title": "1 2 . 一共做了 48 个。"
+            },
+            "quote_or_summary": "小宇的火车票票价是妈妈的一半，小宇的火车票票价是多少元？"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Word problem involves division (halving) consistent with the section's learning objectives.",
+        "figures": [
+          {
+            "image_path": "images/page058_img002.jpg",
+            "name": "fraction_concept_visualization",
+            "description": "![图片描述：五根标有“10个”的羽毛球筒，其中四根完整，第五根部分显示；筒内各插有羽毛球，右侧有3只散落的羽毛球；右下角有一个女孩，她指着一个对话框，对话框中文字为“平均分给2个班，每班分得多少个？”]",
+            "figure_id": "ipa_evidence_0bf3a6206e57"
+          }
+        ]
+      },
+      "source_context_id": "s035_035_12.一共做了48个。",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_s035_problem_002_knowledgepoint_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_081f2b4ea093",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4c5053e2c4c6",
+      "target_node_id": "canon_knowledgepoint_b581a29ffd11",
+      "properties": {
+        "rationale": "Section explicitly defines the vertical division rules used in the exercises.",
+        "figures": [
+          {
+            "image_path": "images/page062_img005.jpg",
+            "name": "Vertical Form Example",
+            "description": "Shows vertical division calculation illustrating the rule.",
+            "figure_id": "ipa_evidence_f81c83d6a78f"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\037_想想做做.md",
+            "section": {
+              "id": "s037",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "从被除数的高位除起，一位不够看两位。除到哪一位，商就写在那一位的上面。每次余下的数要比除数小。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s037_037_想想做做",
+      "revision_round": 1,
+      "status": "extracted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s037_001_s037_007_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_fccd9bd23006",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_4c5053e2c4c6",
+      "target_node_id": "canon_knowledgepoint_493b006b3f20",
+      "properties": {
+        "rationale": "Section explicitly defines the estimation strategy for division.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\037_想想做做.md",
+            "section": {
+              "id": "s037",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "先估计商比 100 大还是比 100 小，再用竖式计算。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s037_037_想想做做",
+      "revision_round": 1,
+      "status": "extracted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s037_001_s037_008_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_754d900b5208",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_0bf91c9b5e52",
+      "target_node_id": "canon_knowledgepoint_b581a29ffd11",
+      "properties": {
+        "rationale": "Problem requires completing vertical division calculations using the defined rules.",
+        "figures": [
+          {
+            "image_path": "images/page061_img002.jpg",
+            "name": "Vertical Form 1",
+            "description": "Incomplete vertical division square box format.",
+            "figure_id": "ipa_evidence_4426c224a732"
+          },
+          {
+            "image_path": "images/page061_img003.jpg",
+            "name": "Vertical Form 2",
+            "description": "Incomplete vertical division square box format.",
+            "figure_id": "ipa_evidence_c5808b66415f"
+          },
+          {
+            "image_path": "images/page061_img004.jpg",
+            "name": "Vertical Form 3",
+            "description": "3)\\overline{7\\ 6\\ 9}",
+            "figure_id": "ipa_evidence_cb2c6b60c832"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\037_想想做做.md",
+            "section": {
+              "id": "s037",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "1 . Complete vertical division calculations."
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s037_037_想想做做",
+      "revision_round": 1,
+      "status": "extracted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s037_002_s037_007_tests_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_ca7d03f4fd02",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_7fc3d6e2e1cb",
+      "target_node_id": "canon_knowledgepoint_493b006b3f20",
+      "properties": {
+        "rationale": "Problem explicitly instructs to estimate result hundreds before calculating vertically.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\037_想想做做.md",
+            "section": {
+              "id": "s037",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "2. 先估计得数是几百多，再用竖式计算。605 ÷ 5 986 ÷ 2 7 1 6 ÷ 3 965 ÷ 4"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s037_037_想想做做",
+      "revision_round": 1,
+      "status": "extracted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s037_003_s037_008_tests_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_bf49e7345425",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_944b12c2f454",
+      "target_node_id": "canon_knowledgepoint_b581a29ffd11",
+      "properties": {
+        "rationale": "Word problem requires vertical division to find average harvest per tree.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\037_想想做做.md",
+            "section": {
+              "id": "s037",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "3. 张大叔家种了 5 棵荔枝树，去年一共收获荔枝 875 千克。平均每棵树收获多少千克荔枝？"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s037_037_想想做做",
+      "revision_round": 1,
+      "status": "extracted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s037_004_s037_007_tests_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_3bf843b8aee2",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_23d2d9ada1e1",
+      "target_node_id": "canon_knowledgepoint_b581a29ffd11",
+      "properties": {
+        "rationale": "Word problem requires division to determine number of notebooks purchasable.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\037_想想做做.md",
+            "section": {
+              "id": "s037",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "4. 王老师用 72 元买笔记本。如果买每本 2 元的，能买多少本？"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s037_037_想想做做",
+      "revision_round": 1,
+      "status": "extracted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s037_005_s037_007_tests_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_cc29ab51a825",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_2d421e4ceb7b",
+      "target_node_id": "canon_knowledgepoint_b581a29ffd11",
+      "properties": {
+        "rationale": "Application scenario problem requires division to check if boxes are enough.",
+        "figures": [
+          {
+            "image_path": "images/page061_img007.jpg",
+            "name": "Battery Packing Diagram",
+            "description": "Boy packing yellow batteries into green boxes; text indicates 540 batteries, 4 per box.",
+            "figure_id": "ipa_evidence_3da7919e2377"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\037_想想做做.md",
+            "section": {
+              "id": "s037",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "5 . 1 30 个盒子够装吗？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s037_037_想想做做",
+      "revision_round": 1,
+      "status": "extracted",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s037_006_s037_007_tests_007"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_2d04914a56bb",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_38a363aeb3eb",
+      "target_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\040_想想做做.md",
+            "section": {
+              "id": "s040",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "想想做做"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Section title and content indicate practice of three-digit division."
+      },
+      "source_context_id": "s040_040_想想做做",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_s040_kp_division"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_5ec0b32085c1",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_627b61713812",
+      "target_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\040_想想做做.md",
+            "section": {
+              "id": "s040",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "用竖式计算，并验算。820 ÷ 4 636 ÷ 9"
+          }
+        ],
+        "confidence": 0.95,
+        "rationale": "Problem explicitly requires vertical calculation matching the knowledge point.",
+        "figures": [
+          {
+            "image_path": "images/page069_img003.jpg",
+            "name": "",
+            "description": "Computation with vertical forms",
+            "figure_id": "ipa_evidence_882ebc7a9107"
+          }
+        ]
+      },
+      "source_context_id": "s040_040_想想做做",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_p001_kp_division"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_87ad3d7df9c9",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_743a89c89ac0",
+      "target_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\040_想想做做.md",
+            "section": {
+              "id": "s040",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "李大爷收获了 648 个柚子。每 6 个装一盒，可以装多少盒？"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Word problem requires division operation consistent with knowledge point."
+      },
+      "source_context_id": "s040_040_想想做做",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_p002_kp_division"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_688ef4b8a1df",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_537779f2c90a",
+      "target_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\040_想想做做.md",
+            "section": {
+              "id": "s040",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "3 只蜻蜓 3 小时一共捕捉了 3 1 8 只蚊子。这些蜻蜓平均每小时捕捉多少只蚊子？"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Average rate calculation requires division consistent with knowledge point."
+      },
+      "source_context_id": "s040_040_想想做做",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_p003_kp_division"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_828b70883c9f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_18b0c696a99a",
+      "target_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\040_想想做做.md",
+            "section": {
+              "id": "s040",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "光明灯泡厂试验生产一种新型节能灯。第一批生产了 640 个，经检验，其中有 1 0 个不合格。将合格的节能灯每 6 个装一盒，需要多少个包装盒？"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Multi-step word problem requires division consistent with knowledge point."
+      },
+      "source_context_id": "s040_040_想想做做",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_p004_kp_division"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_3f5ab153fa4f",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_0d338afdf5b1",
+      "target_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\040_想想做做.md",
+            "section": {
+              "id": "s040",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "要使商的中间一位是 0，里可以填几？"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Question tests quotient digit properties related to division knowledge point."
+      },
+      "source_context_id": "s040_040_想想做做",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_p005_kp_division"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_769dc0fc3ba9",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_944047c54947",
+      "target_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\040_想想做做.md",
+            "section": {
+              "id": "s040",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "要使商的末尾是 0，两个 里分别可以填几？"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Question tests quotient digit properties related to division knowledge point."
+      },
+      "source_context_id": "s040_040_想想做做",
+      "revision_round": 0,
+      "status": "candidate",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_p006_kp_division"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c8ec88a2f58b",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_5fb3f6e469e8",
+      "target_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section 041 Review explicitly covers three-digit division by one-digit calculations.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\041_复习.md",
+            "section": {
+              "id": "s041",
+              "title": "复 习"
+            },
+            "quote_or_summary": "369 ÷ 3, 423 ÷ 3, 672 ÷ 6 等计算题"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s041_041_复习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s041_section_01_contains_s041_kp_01"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_edb71bf287f8",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_5fb3f6e469e8",
+      "target_node_id": "canon_knowledgepoint_748feb3144d9",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section 041 Review includes tasks to check for remainders in division results.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\041_复习.md",
+            "section": {
+              "id": "s041",
+              "title": "复 习"
+            },
+            "quote_or_summary": "计算上面各题，看看得到的结果有没有余数"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s041_041_复习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s041_section_01_contains_s041_kp_02"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_738b0afe2535",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_5fb3f6e469e8",
+      "target_node_id": "canon_knowledgepoint_3c0b93d989b0",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section 041 Review includes multi-step word problems like buying items with remaining money.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\041_复习.md",
+            "section": {
+              "id": "s041",
+              "title": "复 习"
+            },
+            "quote_or_summary": "用 50 元买一副乒乓球拍，剩下的钱还能买多少个乒乓球？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s041_041_复习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s041_section_01_contains_s041_kp_03"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_a5d86f70e168",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_6afab318f27b",
+      "target_node_id": "canon_knowledgepoint_3c0b93d989b0",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem requires subtracting cost then dividing by unit price to find quantity.",
+        "figures": [
+          {
+            "image_path": "images/page071_img023.jpg",
+            "name": "乒乓球拍价格图",
+            "description": "单位换算与测量类图片，展示商品及价格信息",
+            "figure_id": "ipa_evidence_cb30d3434384"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\041_复习.md",
+            "section": {
+              "id": "s041",
+              "title": "复 习"
+            },
+            "quote_or_summary": "用 50 元买一副乒乓球拍，剩下的钱还能买多少个乒乓球？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s041_041_复习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s041_prob_01_tests_s041_kp_03"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_bb0e74da0f83",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_4a2df7695c66",
+      "target_node_id": "canon_knowledgepoint_3c0b93d989b0",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem requires division to find quantities then comparing totals or costs.",
+        "figures": [
+          {
+            "image_path": "images/page071_img024.jpg",
+            "name": "钢笔价格标签",
+            "description": "浅绿色背景钢笔及标价牌显示 8 元",
+            "figure_id": "ipa_evidence_51b4e1ebd6fb"
+          },
+          {
+            "image_path": "images/page071_img025.jpg",
+            "name": "篮球价格标签",
+            "description": "篮球标价 7 元",
+            "figure_id": "ipa_evidence_5d8832462ed0"
+          },
+          {
+            "image_path": "images/page071_img026.jpg",
+            "name": "蓝色钢笔价格标签",
+            "description": "蓝色钢笔下方标价牌显示 3 元",
+            "figure_id": "ipa_evidence_e9760ee67393"
+          },
+          {
+            "image_path": "images/page071_img027.jpg",
+            "name": "苹果价格标签",
+            "description": "立式价格标签写有 2 元，上方悬浮红橙色苹果图像",
+            "figure_id": "ipa_evidence_4de302e1cebe"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\041_复习.md",
+            "section": {
+              "id": "s041",
+              "title": "复 习"
+            },
+            "quote_or_summary": "王老师买一种笔用去 108 元，买一种球用去 60 元。他买的是哪一种笔和哪一种球？各买了多少？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s041_041_复习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s041_prob_02_tests_s041_kp_03"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_a6e6c8aab9b3",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_f9793cb335c2",
+      "target_node_id": "canon_knowledgepoint_3c0b93d989b0",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem requires adding people then dividing by capacity to find minimum tents.",
+        "figures": [
+          {
+            "image_path": "images/page072_img016.jpg",
+            "name": "帐篷住宿场景图",
+            "description": "户外草地蓝色帐篷插画，对话框内文字为每顶帐篷最多住 6 人",
+            "figure_id": "ipa_evidence_d25fade4916b"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\041_复习.md",
+            "section": {
+              "id": "s041",
+              "title": "复 习"
+            },
+            "quote_or_summary": "一共有 5 名老师和 65 名同学，至少要搭多少顶帐篷？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s041_041_复习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s041_prob_03_tests_s041_kp_03"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_2459b0606a4c",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_c8bcf33ac597",
+      "target_node_id": "canon_knowledgepoint_b3dffb4fb489",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem involves filling blanks in vertical division of three-digit by one-digit numbers.",
+        "figures": [
+          {
+            "image_path": "images/page072_img019.jpg",
+            "name": "竖式填空 1",
+            "description": "三位数除以 3 的竖式填空结构",
+            "figure_id": "ipa_evidence_b2ef76c61214"
+          },
+          {
+            "image_path": "images/page072_img020.jpg",
+            "name": "竖式填空 2",
+            "description": "三位数除以 5 的竖式填空结构",
+            "figure_id": "ipa_evidence_c0fdc6e684a6"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\041_复习.md",
+            "section": {
+              "id": "s041",
+              "title": "复 习"
+            },
+            "quote_or_summary": "在□里填合适的数字。竖式计算填空"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s041_041_复习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s041_prob_04_tests_s041_kp_01"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_9519ec018801",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_c8bcf33ac597",
+      "target_node_id": "canon_knowledgepoint_748feb3144d9",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Section text following vertical forms asks to check for remainders in calculated results.",
+        "figures": [
+          {
+            "image_path": "images/page072_img019.jpg",
+            "name": "竖式填空 1",
+            "description": "三位数除以 3 的竖式填空结构",
+            "figure_id": "ipa_evidence_b2ef76c61214"
+          },
+          {
+            "image_path": "images/page072_img020.jpg",
+            "name": "竖式填空 2",
+            "description": "三位数除以 5 的竖式填空结构",
+            "figure_id": "ipa_evidence_c0fdc6e684a6"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\041_复习.md",
+            "section": {
+              "id": "s041",
+              "title": "复 习"
+            },
+            "quote_or_summary": "计算上面各题，看看得到的结果有没有余数"
+          }
+        ],
+        "confidence": 0.85
+      },
+      "source_context_id": "s041_041_复习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s041_prob_04_tests_s041_kp_02"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_133c05242e93",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9a4cdf9770ec",
+      "target_node_id": "canon_knowledgepoint_e7a587bcf16f",
+      "properties": {
+        "rationale": "Section title '间 隔 排 列' matches KnowledgePoint name '间隔排列'. Text explicitly defines the concept within the section.",
+        "figures": [
+          {
+            "image_path": "images/page080_img001.jpg",
+            "name": "间隔排列示意图",
+            "description": "小兔与蘑菇、木桩与篱笆的间隔排列示意图",
+            "figure_id": "ipa_evidence_e2eb5c029ddd"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\046_间隔排列.md",
+            "section": {
+              "id": "s046",
+              "title": "间 隔 排 列"
+            },
+            "quote_or_summary": "每组的两种物体都是一一间隔排列。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s046_046_间隔排列",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s046_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_59dcc97a3575",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_979000aa9a61",
+      "target_node_id": "canon_knowledgepoint_ef41a425778a",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\047_你能回答下面的问题吗.md",
+            "section": {
+              "id": "s047",
+              "title": "你能回答下面的问题吗?"
+            },
+            "quote_or_summary": "两种物体一个隔个地排成一行，它们的数量可能相等，也可能相差 1。"
+          }
+        ],
+        "confidence": 0.95,
+        "figures": [
+          {
+            "image_path": "images/page081_img006.jpg",
+            "name": "物体排列图示",
+            "description": "图像上部为一排交替排列的圆形（蓝色）和方形（粉色）图形，两端均为蓝色圆形，中间以省略号表示延续；下部右侧有一个戴黄橙斑点蘑菇帽的卡通人物，其左侧有一个带省略号的对话框。",
+            "figure_id": "ipa_evidence_1fee6aea9c44"
+          }
+        ],
+        "rationale": "Section explicitly defines the pattern relationship between alternating objects."
+      },
+      "source_context_id": "s047_047_你能回答下面的问题吗",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s047_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_40ed388cc5bb",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_f2b2f3e5ab35",
+      "target_node_id": "canon_knowledgepoint_ef41a425778a",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\047_你能回答下面的问题吗.md",
+            "section": {
+              "id": "s047",
+              "title": "你能回答下面的问题吗?"
+            },
+            "quote_or_summary": "20 只小兔站成一排，每相邻两只小兔中间有一个蘑菇，一共有多少个蘑菇？"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem requires applying the alternating arrangement quantity relationship."
+      },
+      "source_context_id": "s047_047_你能回答下面的问题吗",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s047_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_8e6f1bffe156",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_fe139a661c34",
+      "target_node_id": "canon_knowledgepoint_ef41a425778a",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\047_你能回答下面的问题吗.md",
+            "section": {
+              "id": "s047",
+              "title": "你能回答下面的问题吗?"
+            },
+            "quote_or_summary": "把 20 块手帕像上面那样夹在绳子上，一共需要多少个夹子？"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem requires applying the alternating arrangement quantity relationship."
+      },
+      "source_context_id": "s047_047_你能回答下面的问题吗",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s047_tests_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_f07480471992",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_c717d5a43980",
+      "target_node_id": "canon_knowledgepoint_ef41a425778a",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\047_你能回答下面的问题吗.md",
+            "section": {
+              "id": "s047",
+              "title": "你能回答下面的问题吗?"
+            },
+            "quote_or_summary": "如果把 与 一个隔一个地排成一行，有 1 0 个，最少有几个？最多呢？"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem requires applying the alternating arrangement quantity relationship."
+      },
+      "source_context_id": "s047_047_你能回答下面的问题吗",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s047_tests_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_778a42fc7921",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_fe7482ea19d3",
+      "target_node_id": "canon_knowledgepoint_abef9545be19",
+      "properties": {
+        "rationale": "Section title and content define translation concept with examples.",
+        "figures": [
+          {
+            "image_path": "images/page082_img006.jpg",
+            "name": "平移运动示意图",
+            "description": "图中男孩和女孩站在课桌旁，男孩左手按着一本彩色书，右手旁有红色水平向右箭头；女孩双手向前平举，旁边有红色竖直向上箭头。",
+            "figure_id": "ipa_evidence_637985535583"
+          },
+          {
+            "image_path": "images/page082_img002.jpg",
+            "name": "高速列车侧面图",
+            "description": "一辆白色高速列车停在铁轨上，车身侧面有蓝色装饰条纹，车头呈流线型。",
+            "figure_id": "ipa_evidence_f40338b970b9"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\048_平移、旋转和轴对称.md",
+            "section": {
+              "id": "s048",
+              "title": "平移、 旋转和轴对称"
+            },
+            "quote_or_summary": "这些物体的运动都可以看成是平移。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s048_048_平移、旋转和轴对称",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_section_contains_translation"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_70828f380f8a",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_fe7482ea19d3",
+      "target_node_id": "canon_knowledgepoint_d3834a86b836",
+      "properties": {
+        "rationale": "Section title and content define rotation concept with examples.",
+        "figures": [
+          {
+            "image_path": "images/page083_img004.jpg",
+            "name": "钟面",
+            "description": "一个粉色边框的圆形钟面，表盘上有1到12的数字刻度，以及细密的分钟刻度。时针指向1和2之间，分针指向3。",
+            "figure_id": "ipa_evidence_ecdc995e3478"
+          },
+          {
+            "image_path": "images/page083_img008.jpg",
+            "name": "转盘",
+            "description": "一个圆形转盘，边缘有四个标记点，分别标为 A、B、C、D。转盘中心有一个粉红色的指针，当前指向 A。",
+            "figure_id": "ipa_evidence_319ad13fc688"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\048_平移、旋转和轴对称.md",
+            "section": {
+              "id": "s048",
+              "title": "平移、 旋转和轴对称"
+            },
+            "quote_or_summary": "这些物体的运动都可以看成是旋转。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s048_048_平移、旋转和轴对称",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_section_contains_rotation"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_0d4e2ecd2da1",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_b7255c8b07e8",
+      "target_node_id": "canon_knowledgepoint_abef9545be19",
+      "properties": {
+        "rationale": "Problem explicitly instructs to translate a book across desk corners.",
+        "figures": [
+          {
+            "image_path": "images/page082_img006.jpg",
+            "name": "平移运动示意图",
+            "description": "图中男孩和女孩站在课桌旁，男孩左手按着一本彩色书，右手旁有红色水平向右箭头；女孩双手向前平举，旁边有红色竖直向上箭头。",
+            "figure_id": "ipa_evidence_637985535583"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\048_平移、旋转和轴对称.md",
+            "section": {
+              "id": "s048",
+              "title": "平移、 旋转和轴对称"
+            },
+            "quote_or_summary": "把数学书放在课桌面的左上角，接着把它平移到课桌面的右上角，再依次平移到右下角和左下角。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s048_048_平移、旋转和轴对称",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_problem_tests_translation"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_0f7385c2e642",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_2dc000b69bd9",
+      "target_node_id": "canon_knowledgepoint_d3834a86b836",
+      "properties": {
+        "rationale": "Problem explicitly instructs to rotate a pointer on a turntable.",
+        "figures": [
+          {
+            "image_path": "images/page083_img008.jpg",
+            "name": "转盘",
+            "description": "一个圆形转盘，边缘有四个标记点，分别标为 A、B、C、D。转盘中心有一个粉红色的指针，当前指向 A。",
+            "figure_id": "ipa_evidence_319ad13fc688"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\048_平移、旋转和轴对称.md",
+            "section": {
+              "id": "s048",
+              "title": "平移、 旋转和轴对称"
+            },
+            "quote_or_summary": "做一个转盘，把指针从指向 A 旋转到指向 B。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s048_048_平移、旋转和轴对称",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_problem_tests_rotation"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_f6f1501588ea",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ae0bc018a725",
+      "target_node_id": "canon_knowledgepoint_c787c6ed61e2",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section explicitly defines axisymmetric figures through text and supporting figures.",
+        "figures": [
+          {
+            "image_path": "images/page085_img009.jpg",
+            "name": "轴对称折叠示例",
+            "description": "Three figures showing axisymmetric folding: a blue butterfly with dashed right wing, a red temple with dashed right half, and a gray jet with dashed right side. Each has a vertical or horizontal dashed line indicating the fold line.",
+            "figure_id": "ipa_evidence_11819f238c45"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\050_动手做.md",
+            "section": {
+              "id": "s050",
+              "title": "动 手 做"
+            },
+            "quote_or_summary": "对折后能完全重合的图形是轴对称图形。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s050_050_动手做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s050_contains_kp001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_d480a576a11f",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_ae0bc018a725",
+      "target_node_id": "canon_knowledgepoint_d3834a86b836",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section introduces rotation concept via windmill activity instructions.",
+        "figures": [
+          {
+            "image_path": "images/page084_img005.jpg",
+            "name": "风车制作步骤",
+            "description": "风车制作步骤",
+            "figure_id": "ipa_evidence_a59adac04187"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\050_动手做.md",
+            "section": {
+              "id": "s050",
+              "title": "动 手 做"
+            },
+            "quote_or_summary": "将风车迎着风，观察它是怎样旋转的。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s050_050_动手做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s050_contains_kp002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_6e25207defbd",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_604e05d6f7cd",
+      "target_node_id": "canon_knowledgepoint_d3834a86b836",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem explicitly instructs students to observe rotation behavior.",
+        "figures": [
+          {
+            "image_path": "images/page084_img005.jpg",
+            "name": "风车制作步骤",
+            "description": "风车制作步骤",
+            "figure_id": "ipa_evidence_a59adac04187"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\050_动手做.md",
+            "section": {
+              "id": "s050",
+              "title": "动 手 做"
+            },
+            "quote_or_summary": "观察它是怎样旋转的。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s050_050_动手做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s050_prob001_tests_kp002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_b085e28ce402",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_38f7eed2b655",
+      "target_node_id": "canon_knowledgepoint_c787c6ed61e2",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Problem explicitly asks students to identify axisymmetric figures by folding.",
+        "figures": [
+          {
+            "image_path": "images/page085_img009.jpg",
+            "name": "轴对称折叠示例",
+            "description": "Three figures showing axisymmetric folding: a blue butterfly with dashed right wing, a red temple with dashed right half, and a gray jet with dashed right side. Each has a vertical or horizontal dashed line indicating the fold line.",
+            "figure_id": "ipa_evidence_11819f238c45"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\050_动手做.md",
+            "section": {
+              "id": "s050",
+              "title": "动 手 做"
+            },
+            "quote_or_summary": "看看哪些是轴对称图形。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s050_050_动手做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s050_prob002_tests_kp001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_63d4485fc586",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_9fdda79009dc",
+      "target_node_id": "canon_knowledgepoint_a21d318d1ec8",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section '你知道吗' introduces the concept of symmetry through examples of insects and architecture, directly defining and illustrating the KnowledgePoint '对称'.",
+        "figures": [
+          {
+            "image_path": "images/page088_img003.jpg",
+            "name": "雪花",
+            "description": "雪花：一张蓝色的六角形雪花图案，具有六个对称辐射的分支，每个分支上带有细小的分叉结构，整体呈中心对称形态。",
+            "figure_id": "ipa_evidence_0a18a15b1bbd"
+          },
+          {
+            "image_path": "images/page088_img008.jpg",
+            "name": "人民大会堂",
+            "description": "人民大会堂夜景：夜晚拍摄的人民大会堂正面建筑，对称结构，中央上方悬挂国徽，顶部排列多面旗帜；建筑立面有成排立柱和窗户，底部可见灯光照明及少量人群剪影。",
+            "figure_id": "ipa_evidence_5b52b04e6e12"
+          },
+          {
+            "image_path": "images/page088_img009.jpg",
+            "name": "故宫太和殿",
+            "description": "故宫建筑：一张故宫太和殿的正面照片，展示其对称的中国传统宫殿建筑结构：黄色琉璃瓦屋顶、多层飞檐、红色墙体、中央宽阔台阶及两侧对称排列的白色栏杆与阶梯，背景为蓝天白云。",
+            "figure_id": "ipa_evidence_a4ef68934579"
+          },
+          {
+            "image_path": "images/page088_img010.jpg",
+            "name": "中山陵",
+            "description": "中山陵牌坊与墓道：一张中山陵的实景照片：前景为一座蓝顶白柱的中式三门石牌坊，中景是一条笔直延伸至远方的林荫大道，远景是山顶上蓝顶白墙的陵寝建筑，背景为连绵青山和蓝天白云。整幅画面呈轴对称布局。",
+            "figure_id": "ipa_evidence_3a55ef7efb2e"
+          },
+          {
+            "image_path": "images/page088_img011.jpg",
+            "name": "埃菲尔铁塔",
+            "description": "埃菲尔铁塔：一张埃菲尔铁塔的竖版照片，铁塔主体为金属格构结构，背景是晴朗蓝天，底部可见部分地面景物和人群。",
+            "figure_id": "ipa_evidence_5f2b13fbedde"
+          },
+          {
+            "image_path": "images/page088_img012.jpg",
+            "name": "黄鹤楼",
+            "description": "黄鹤楼：一座多层中式古塔式建筑，红棕色木质结构，层层飞檐向上收拢，顶部有匾额题字；建筑底部可见基座、台阶及前方绿植；背景为浅色天空。",
+            "figure_id": "ipa_evidence_25f154e86d6c"
+          },
+          {
+            "image_path": "images/page088_img013.jpg",
+            "name": "伦敦塔桥",
+            "description": "伦敦塔桥：一张伦敦塔桥的实景照片，显示其双塔结构、横跨河流的桥面及悬索，背景为多云天空，桥下有水面和远处建筑。",
+            "figure_id": "ipa_evidence_7f4401273ff4"
+          },
+          {
+            "image_path": "images/page088_img014.jpg",
+            "name": "泰姬陵",
+            "description": "泰姬陵：白色大理石建筑，中央为大型圆顶，两侧各有一座较小圆顶和两座高耸的尖塔；建筑前方可见少量人群，背景为浅蓝色天空。",
+            "figure_id": "ipa_evidence_b23b57d129f3"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\053_你知道吗.md",
+            "section": {
+              "id": "s053",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "蝴蝶、蜻蜓等昆虫能在空中自由地飞行，是因为它们都有一对或几对对称的翅膀。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s053_053_你知道吗",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s053_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_6a092b5b2c14",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_acdc676a7321",
+      "target_node_id": "canon_knowledgepoint_adf069ecaa52",
+      "properties": {
+        "rationale": "The section title explicitly defines the knowledge point topic.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\054_分数的初步认识(一).md",
+            "section": {
+              "id": "s054",
+              "title": "分数的初步认识(一)"
+            },
+            "quote_or_summary": "## 分数的初步认识（一）"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s054_054_分数的初步认识(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s054_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_c7e5be5b8a22",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_2fa82ae3b369",
+      "target_node_id": "canon_knowledgepoint_adf069ecaa52",
+      "properties": {
+        "rationale": "The problem asks students to divide food equally, directly applying the fraction concept.",
+        "figures": [
+          {
+            "image_path": "images/page089_img002.jpg",
+            "name": "",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_b6ab0483d4aa"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\054_分数的初步认识(一).md",
+            "section": {
+              "id": "s054",
+              "title": "分数的初步认识(一)"
+            },
+            "quote_or_summary": "把每种食品平均分给两人，每人分得多少？"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s054_054_分数的初步认识(一)",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s054_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_1b1dfe489df9",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_8cc1c9b870e4",
+      "target_node_id": "canon_knowledgepoint_46bef4a865a8",
+      "properties": {
+        "rationale": "Section title and content explicitly define the concept of 'one-half'.",
+        "figures": [
+          {
+            "image_path": "images/page089_img008.jpg",
+            "name": "",
+            "description": "蛋糕被平均分成两份",
+            "figure_id": "ipa_evidence_f96a86969d98"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\055_半个也就是二分之一个。.md",
+            "section": {
+              "id": "s055",
+              "title": "半个也就是二分之一个。"
+            },
+            "quote_or_summary": "把一个蛋糕平均分成 2 份，每份是它的二分之一，写作 $\\frac 1 2$"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s055_055_半个也就是二分之一个。",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s055_section_kp_half_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_b442b1b252bb",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_8cc1c9b870e4",
+      "target_node_id": "canon_knowledgepoint_d96058469f3f",
+      "properties": {
+        "rationale": "Section explicitly lists components of the fraction symbol.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\055_半个也就是二分之一个。.md",
+            "section": {
+              "id": "s055",
+              "title": "半个也就是二分之一个。"
+            },
+            "quote_or_summary": "$\\frac 1 2$ ……分子……分数线……分母"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s055_055_半个也就是二分之一个。",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s055_section_kp_fraction_parts_contains_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_363204c91775",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_8cc1c9b870e4",
+      "target_node_id": "canon_knowledgepoint_57457e85f0fd",
+      "properties": {
+        "rationale": "Section states the rule for comparing fractions with equal numerators.",
+        "figures": [
+          {
+            "image_path": "images/page090_img002.jpg",
+            "name": "",
+            "description": "$\\frac{1}{2}$",
+            "figure_id": "ipa_evidence_99ed72eed5f7"
+          },
+          {
+            "image_path": "images/page090_img003.jpg",
+            "name": "",
+            "description": "$\\frac{1}{4}$",
+            "figure_id": "ipa_evidence_b4c0e5140b67"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\055_半个也就是二分之一个。.md",
+            "section": {
+              "id": "s055",
+              "title": "半个也就是二分之一个。"
+            },
+            "quote_or_summary": "用同样大的纸片平均分，分的份数越多，每份就越小。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s055_055_半个也就是二分之一个。",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s055_section_kp_fraction_size_contains_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_585498fedd76",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3e428b299cfd",
+      "target_node_id": "canon_knowledgepoint_46bef4a865a8",
+      "properties": {
+        "rationale": "Problem explicitly requires representing the fraction 1/2.",
+        "figures": [
+          {
+            "image_path": "images/page090_img002.jpg",
+            "name": "",
+            "description": "$\\frac{1}{2}$",
+            "figure_id": "ipa_evidence_99ed72eed5f7"
+          },
+          {
+            "image_path": "images/page090_img003.jpg",
+            "name": "",
+            "description": "$\\frac{1}{4}$",
+            "figure_id": "ipa_evidence_b4c0e5140b67"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\055_半个也就是二分之一个。.md",
+            "section": {
+              "id": "s055",
+              "title": "半个也就是二分之一个。"
+            },
+            "quote_or_summary": "分别表示出 $\\frac { 1 } { 2 }$ 和 $\\frac { 1 } { 4 }$"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s055_055_半个也就是二分之一个。",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s055_problem_compare_kp_half_tests_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_f62f7dcc0c02",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3e428b299cfd",
+      "target_node_id": "canon_knowledgepoint_57457e85f0fd",
+      "properties": {
+        "rationale": "Problem explicitly requires comparing the size of the two fractions.",
+        "figures": [
+          {
+            "image_path": "images/page090_img002.jpg",
+            "name": "",
+            "description": "$\\frac{1}{2}$",
+            "figure_id": "ipa_evidence_99ed72eed5f7"
+          },
+          {
+            "image_path": "images/page090_img003.jpg",
+            "name": "",
+            "description": "$\\frac{1}{4}$",
+            "figure_id": "ipa_evidence_b4c0e5140b67"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\055_半个也就是二分之一个。.md",
+            "section": {
+              "id": "s055",
+              "title": "半个也就是二分之一个。"
+            },
+            "quote_or_summary": "再比较这两个分数的大小"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s055_055_半个也就是二分之一个。",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s055_problem_compare_kp_fraction_size_tests_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_82949d6caf4c",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_5028942e6d8f",
+      "target_node_id": "canon_knowledgepoint_b6b61be1347b",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\056_想想做做.md",
+            "section": {
+              "id": "s056",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "用分数表示涂色部分。3 个 1/4 是 3/4，3/4 也是分数。"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Section '想想做做' contains exercises defining fraction meaning."
+      },
+      "source_context_id": "s056_056_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_s056_section_001_kp_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_052f0bf175ea",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_5028942e6d8f",
+      "target_node_id": "canon_knowledgepoint_89a955db0296",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\056_想想做做.md",
+            "section": {
+              "id": "s056",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "都平均分成 8 份，3 份比 5 份小。3 个 1/8 比 5 个 1/8 小。"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Section includes exercises comparing fraction sizes."
+      },
+      "source_context_id": "s056_056_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_contains_s056_section_001_kp_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_6df118da4481",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_c546560ea241",
+      "target_node_id": "canon_knowledgepoint_b6b61be1347b",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\056_想想做做.md",
+            "section": {
+              "id": "s056",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "1．用分数表示涂色部分。"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem asks to represent shaded parts with fractions.",
+        "figures": [
+          {
+            "image_path": "images/page090_img009.jpg",
+            "name": "圆形三等分涂色",
+            "description": "圆形被平均分成 3 份，其中 1 份涂色",
+            "figure_id": "ipa_evidence_9917e79643b8"
+          },
+          {
+            "image_path": "images/page090_img010.jpg",
+            "name": "圆形五等分涂色",
+            "description": "圆形被分成 5 个扇形，其中 1 个扇形涂色",
+            "figure_id": "ipa_evidence_16dd80df7884"
+          },
+          {
+            "image_path": "images/page090_img011.jpg",
+            "name": "方格图涂色",
+            "description": "一个 3×3 的方格图，中间一个小正方形被涂成浅蓝色",
+            "figure_id": "ipa_evidence_3ef0b3ce7a4e"
+          },
+          {
+            "image_path": "images/page090_img012.jpg",
+            "name": "网格涂色",
+            "description": "2×3 网格，左下角方块涂蓝",
+            "figure_id": "ipa_evidence_ae9607b02d71"
+          }
+        ]
+      },
+      "source_context_id": "s056_056_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_001_kp_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_467fe4b71e1b",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_1c35cfbae07c",
+      "target_node_id": "canon_knowledgepoint_b6b61be1347b",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\056_想想做做.md",
+            "section": {
+              "id": "s056",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "2 哪个图形里的涂色部分是 $\\frac { 1 } { 4 } ?$ 在（ ）里画“O"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem asks to identify 1/4 shaded area.",
+        "figures": [
+          {
+            "image_path": "images/page090_img013.jpg",
+            "name": "图形判断 1",
+            "description": "",
+            "figure_id": "ipa_evidence_24a9fd0cef29"
+          },
+          {
+            "image_path": "images/page090_img014.jpg",
+            "name": "图形判断 2",
+            "description": "一个圆被两条虚线直径分成四等份，其中一份被涂成浅蓝色",
+            "figure_id": "ipa_evidence_4c93c9b9d18b"
+          },
+          {
+            "image_path": "images/page090_img015.jpg",
+            "name": "图形判断 3",
+            "description": "一个长方形被竖直的虚线平均分成了 5 个相等的竖条，其中最左边的 1 个竖条被涂成浅蓝色，其余 4 个竖条为白色。",
+            "figure_id": "ipa_evidence_9f2f037c5dac"
+          },
+          {
+            "image_path": "images/page090_img016.jpg",
+            "name": "图形判断 4",
+            "description": "一个被水平线分割的圆",
+            "figure_id": "ipa_evidence_6320d1343363"
+          }
+        ]
+      },
+      "source_context_id": "s056_056_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_002_kp_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_0324449c48fc",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_ad7e0b59edc9",
+      "target_node_id": "canon_knowledgepoint_89a955db0296",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\056_想想做做.md",
+            "section": {
+              "id": "s056",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "4．先涂色，再比较大小。"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem asks to compare fraction sizes visually.",
+        "figures": [
+          {
+            "image_path": "images/page091_img003.jpg",
+            "name": "分数比较图示",
+            "description": "$\\frac{1}{4} \\quad \\bigcirc \\quad \\frac{1}{8}$",
+            "figure_id": "ipa_evidence_b054e6125df6"
+          }
+        ]
+      },
+      "source_context_id": "s056_056_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_003_kp_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_86ab1257080e",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_ae1defcb6a0b",
+      "target_node_id": "canon_knowledgepoint_b6b61be1347b",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\056_想想做做.md",
+            "section": {
+              "id": "s056",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "6．张大伯用一块地的 $\\frac { 1 } { 3 }$ 种番茄，剩下的一半种黄瓜，其余的种辣椒。"
+          }
+        ],
+        "confidence": 0.85,
+        "rationale": "Problem applies fraction meaning to real-world scenario.",
+        "figures": [
+          {
+            "image_path": "images/page091_img005.jpg",
+            "name": "地块示意图",
+            "description": "",
+            "figure_id": "ipa_evidence_40ced347a436"
+          }
+        ]
+      },
+      "source_context_id": "s056_056_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_004_kp_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_dd15c4e599be",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3edeec807ef8",
+      "target_node_id": "canon_knowledgepoint_b6b61be1347b",
+      "properties": {
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\056_想想做做.md",
+            "section": {
+              "id": "s056",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "试一试：先说说涂色部分各表示多少个几分之一，再在（ ）里写出分数。"
+          }
+        ],
+        "confidence": 0.9,
+        "rationale": "Problem asks to count fractional parts and write fractions.",
+        "figures": [
+          {
+            "image_path": "images/page092_img004.jpg",
+            "name": "三角形涂色 1",
+            "description": "一个被虚线分割的三角形，顶部区域涂色",
+            "figure_id": "ipa_evidence_56cd6d50aae0"
+          },
+          {
+            "image_path": "images/page092_img005.jpg",
+            "name": "三角形涂色 2",
+            "description": "一个大三角形被分成 4 个小三角形，其中 2 个被涂成浅蓝色",
+            "figure_id": "ipa_evidence_27127d8001f8"
+          },
+          {
+            "image_path": "images/page092_img006.jpg",
+            "name": "三角形分割图",
+            "description": "三角形分割图",
+            "figure_id": "ipa_evidence_49fe9fc1cfdb"
+          },
+          {
+            "image_path": "images/page092_img007.jpg",
+            "name": "三角形涂色 3",
+            "description": "大三角形内含两个蓝色小三角形",
+            "figure_id": "ipa_evidence_32ce7c4d50e4"
+          },
+          {
+            "image_path": "images/page092_img008.jpg",
+            "name": "圆形涂色 1",
+            "description": "圆被两条虚线分成四部分，其中右上、左下两个扇形区域被涂成浅蓝色，左上和右下为白色",
+            "figure_id": "ipa_evidence_a1bb7add6f79"
+          },
+          {
+            "image_path": "images/page092_img009.jpg",
+            "name": "圆形涂色 2",
+            "description": "圆被分成五个相等的扇形，其中三个为蓝色，两个为白色",
+            "figure_id": "ipa_evidence_138633a396a4"
+          },
+          {
+            "image_path": "images/page092_img010.jpg",
+            "name": "圆形涂色 3",
+            "description": "",
+            "figure_id": "ipa_evidence_0440ca780022"
+          },
+          {
+            "image_path": "images/page092_img011.jpg",
+            "name": "圆形涂色 4",
+            "description": "一个圆被 6 条虚线平均分成 6 份，其中 1 份涂成浅蓝色。",
+            "figure_id": "ipa_evidence_7ebb65e4953b"
+          }
+        ]
+      },
+      "source_context_id": "s056_056_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_tests_prob_005_kp_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_f556ce63474c",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_08f8ee10f8b9",
+      "target_node_id": "canon_knowledgepoint_528c70c62574",
+      "properties": {
+        "rationale": "Section explicitly states the origin of fractions in ancient times.",
+        "figures": [
+          {
+            "image_path": "images/page094_img020.jpg",
+            "name": "",
+            "description": "Ancient division scenario",
+            "figure_id": "ipa_evidence_3450b8b466f8"
+          },
+          {
+            "image_path": "images/page094_img021.jpg",
+            "name": "",
+            "description": "Ancient division scenario",
+            "figure_id": "ipa_evidence_f23dee8880d5"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\058_你知道吗.md",
+            "section": {
+              "id": "s058",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "在古代，人们分东西（果实、猎物等）时经常出现结果不是整数的情况。于是，渐渐产生了分数。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s058_058_你知道吗",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_node_s058_section_contains_node_s058_kp_origin"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_8a23ef69c119",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_08f8ee10f8b9",
+      "target_node_id": "canon_knowledgepoint_d0943a71a7ce",
+      "properties": {
+        "rationale": "Section details the evolution of fraction representation from counting rods to Arabic numerals.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\058_你知道吗.md",
+            "section": {
+              "id": "s058",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "我国很早就有了分数，最初用算筹表示...后来，印度人发明了数字...阿拉伯人发明了分数线"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s058_058_你知道吗",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_node_s058_section_contains_node_s058_kp_rep"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_ec6e59b62c62",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_08f8ee10f8b9",
+      "target_node_id": "canon_knowledgepoint_780b38d40031",
+      "properties": {
+        "rationale": "Section provides the rule and example for adding fractions with same denominator.",
+        "figures": [
+          {
+            "image_path": "images/page095_img005.jpg",
+            "name": "",
+            "description": "Grid visualization of 5/8 + 2/8",
+            "figure_id": "ipa_evidence_f6accb1bf715"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\058_你知道吗.md",
+            "section": {
+              "id": "s058",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "5 个 1/8 加 2 个 1/8 是 7 个 1/8，就是 7/8。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s058_058_你知道吗",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_node_s058_section_contains_node_s058_kp_add_rule"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_a82632b8babc",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_08f8ee10f8b9",
+      "target_node_id": "canon_knowledgepoint_4fc3e085f2c1",
+      "properties": {
+        "rationale": "Section provides the rule and example for subtracting fractions with same denominator.",
+        "figures": [
+          {
+            "image_path": "images/page095_img008.jpg",
+            "name": "",
+            "description": "Two circles showing fraction subtraction",
+            "figure_id": "ipa_evidence_450d9ab1e31e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\058_你知道吗.md",
+            "section": {
+              "id": "s058",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "3/5 - 2/5 = 1/5"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s058_058_你知道吗",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_node_s058_section_contains_node_s058_kp_sub_rule"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_3e69b0c541cd",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_d06bd6337154",
+      "target_node_id": "canon_knowledgepoint_780b38d40031",
+      "properties": {
+        "rationale": "Problem asks for sum of two fractions, testing the addition rule.",
+        "figures": [
+          {
+            "image_path": "images/page095_img002.jpg",
+            "name": "",
+            "description": "Chocolate bars showing 5/8 and 2/8 shaded",
+            "figure_id": "ipa_evidence_a20a3b77f350"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\058_你知道吗.md",
+            "section": {
+              "id": "s058",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "两人一共吃这块巧克力的几分之几？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s058_058_你知道吗",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_node_s058_prob_add_tests_node_s058_kp_add_rule"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_3d0587681ea8",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_f8709592771d",
+      "target_node_id": "canon_knowledgepoint_4fc3e085f2c1",
+      "properties": {
+        "rationale": "Problem asks for difference of two fractions, testing the subtraction rule.",
+        "figures": [
+          {
+            "image_path": "images/page095_img008.jpg",
+            "name": "",
+            "description": "Two circles showing fraction subtraction",
+            "figure_id": "ipa_evidence_450d9ab1e31e"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\058_你知道吗.md",
+            "section": {
+              "id": "s058",
+              "title": "你知道吗"
+            },
+            "quote_or_summary": "3/5 - 2/5 = ?"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s058_058_你知道吗",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_node_s058_prob_sub_tests_node_s058_kp_sub_rule"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_907b2207965d",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_f8c57159f539",
+      "target_node_id": "canon_knowledgepoint_8b3689b1948e",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Visual hexagon problem requires same-denominator fraction addition.",
+        "figures": [
+          {
+            "image_path": "images/page096_img003.jpg",
+            "name": "六边形分割图",
+            "description": "两个正六边形，每个被三条虚线从中心分成六个全等的等边三角形。左图：其中4个三角形被涂成浅蓝色；右图：其中1个三角形被涂成浅蓝色；中间有一个加号连接两图。",
+            "figure_id": "ipa_evidence_4423b63817b5"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\059_想想做做.md",
+            "section": {
+              "id": "s059",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "（ ） + （ ） ="
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s059_059_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s059_tests_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_5d80b2bcd4ab",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_048d93cbbe20",
+      "target_node_id": "canon_knowledgepoint_8b3689b1948e",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Explicit calculation exercises for same-denominator fraction arithmetic.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\059_想想做做.md",
+            "section": {
+              "id": "s059",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "$$\\frac { 1 } { 5 } + \\frac { 3 } { 5 }$$"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s059_059_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s059_tests_002"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_b32ae5775581",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_a8bb57fa8e28",
+      "target_node_id": "canon_knowledgepoint_8b3689b1948e",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Word problem involving fraction addition with same denominator.",
+        "figures": [
+          {
+            "image_path": "images/page096_img012.jpg",
+            "name": "喝水场景图",
+            "description": "该图片保留原图链接和价值标记，未生成文本化内容。",
+            "figure_id": "ipa_evidence_f22246de14cd"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\059_想想做做.md",
+            "section": {
+              "id": "s059",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "第一次大约喝了这杯水的 $\\frac { 1 } { 4 }$，第二次大约喝了这杯水的 $\\frac { 2 } { 4 }$。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s059_059_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s059_tests_003"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_148c33641738",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_cf17e30ba829",
+      "target_node_id": "canon_knowledgepoint_8b3689b1948e",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Mooncake sharing problem requires fraction addition/subtraction.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\059_想想做做.md",
+            "section": {
+              "id": "s059",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "一块月饼平均切成 5 份，冬冬吃了其中的 3 份，丽丽吃了其中的 1 份。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s059_059_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s059_tests_004"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_b4cf77568cff",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_3740479ad481",
+      "target_node_id": "canon_knowledgepoint_8b3689b1948e",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Book reading problem involves adding fractions with same denominator.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\059_想想做做.md",
+            "section": {
+              "id": "s059",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "她第一天看了这本书的 $\\frac { 2 } { 7 }$，第二天看的与第一天同样多。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s059_059_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s059_tests_005"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_1870a9e0b277",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_aadf612af6ff",
+      "target_node_id": "canon_knowledgepoint_8b3689b1948e",
+      "properties": {
+        "relation_label": "题目考察知识点",
+        "rationale": "Paper usage problem requires fraction addition/subtraction.",
+        "figures": [
+          {
+            "image_path": "images/page097_img020.jpg",
+            "name": "纸张使用示意图",
+            "description": "张梅李华我用 $\\frac{2}{8}$ 做",
+            "figure_id": "ipa_evidence_3563b17cf032"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\059_想想做做.md",
+            "section": {
+              "id": "s059",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "我用这张纸的 $\\frac { 3 } { 8 }$ 做红花。我用这张纸的 $\\frac { 2 } { 8 }$ 做小旗。"
+          }
+        ],
+        "confidence": 0.9
+      },
+      "source_context_id": "s059_059_想想做做",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s059_tests_006"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_c6e6d2676bc7",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_784aa14c620b",
+      "target_node_id": "canon_knowledgepoint_8b3689b1948e",
+      "properties": {
+        "relation_label": "章节包含知识点",
+        "rationale": "Section 想想做做 contains exercises testing fraction addition/subtraction.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\059_想想做做.md",
+            "section": {
+              "id": "s059",
+              "title": "想想做做"
+            },
+            "quote_or_summary": "第一次大约喝了这杯水的 $\\frac { 1 } { 4 }$ ，第二次大约喝了这杯水的 $\\frac { 2 } { 4 }$ 。两次一共大约喝了这杯水的几分之几？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s059_059_想想做做",
+      "revision_round": 2,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s059_contains_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_818b7dd0f0a8",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_e778501e5985",
+      "target_node_id": "canon_knowledgepoint_9c048fc65998",
+      "properties": {
+        "rationale": "Section defines unit fractions via bar models.",
+        "figures": [
+          {
+            "image_path": "images/page098_img001.jpg",
+            "name": "",
+            "description": "> 1",
+            "figure_id": "ipa_evidence_84575ff45cd9"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\061_活动准备.md",
+            "section": {
+              "id": "s061",
+              "title": "活 动 准 备"
+            },
+            "quote_or_summary": "下面的每个直条都表示“1”。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s061_061_活动准备",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s061_section_kp_unit_fractions_s061_contains"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_5d9a84aa4335",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_0679d430b3fa",
+      "target_node_id": "canon_knowledgepoint_9c048fc65998",
+      "properties": {
+        "rationale": "Problem asks how many unit fractions fit in 1, testing the concept.",
+        "figures": [
+          {
+            "image_path": "images/page098_img002.jpg",
+            "name": "",
+            "description": "> $\\frac{1}{8}$",
+            "figure_id": "ipa_evidence_9fbf38a5dbad"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\061_活动准备.md",
+            "section": {
+              "id": "s061",
+              "title": "活 动 准 备"
+            },
+            "quote_or_summary": "想一想， “1 ” 里面有几个 $\\frac { 1 } { 2 } ?$"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s061_061_活动准备",
+      "revision_round": 1,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob_think_s061_kp_unit_fractions_s061_tests"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_contains_1e70f1348453",
+      "predicate": "contains",
+      "source_node_id": "canon_chaptersection_0557a95e1e7e",
+      "target_node_id": "canon_knowledgepoint_613ce7a17968",
+      "properties": {
+        "rationale": "Section title and content explicitly mention the knowledge point.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\064_期末复习.md",
+            "section": {
+              "id": "s064",
+              "title": "期 末 复 习"
+            },
+            "quote_or_summary": "图形的周长。再计算每个方形菜地，"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s064_064_期末复习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_s064_kp_perimeter_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_0ce0405754c9",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_0088e827a0c7",
+      "target_node_id": "canon_knowledgepoint_613ce7a17968",
+      "properties": {
+        "rationale": "Problem explicitly asks for fence length around a shape, indicating perimeter calculation.",
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\064_期末复习.md",
+            "section": {
+              "id": "s064",
+              "title": "期 末 复 习"
+            },
+            "quote_or_summary": "1 6 . 2 0 8围上篱笆，篱笆的长是多少米？"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s064_064_期末复习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob016_kp_perimeter_001"
+      ]
+    },
+    {
+      "edge_id": "canon_edge_tests_03fa090797bb",
+      "predicate": "tests",
+      "source_node_id": "canon_problem_1b2e5787cc61",
+      "target_node_id": "canon_knowledgepoint_613ce7a17968",
+      "properties": {
+        "rationale": "Problem explicitly mentions perimeter of square and triangle flower beds.",
+        "figures": [
+          {
+            "image_path": "images/page104_img002.jpg",
+            "name": "三角形花圃示意图",
+            "description": "三角形花圃：一个由红色和黄色小花组成的三角形图案，呈金字塔状堆叠，底部最宽，向上逐层变窄，整体为三角形轮廓，用于表示题目中提到的三角形花圃。",
+            "figure_id": "ipa_evidence_988c9a58e85d"
+          }
+        ],
+        "evidence": [
+          {
+            "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260630_235946_义务教育教科书·数学三年级上册_20260630\\enhanced_markdown\\sections\\064_期末复习.md",
+            "section": {
+              "id": "s064",
+              "title": "期 末 复 习"
+            },
+            "quote_or_summary": "27 校园里有两个花圃（如下图），正方形花圃的周长是 56 米，三角形花圃的周长比正方形花圃少 8 米。"
+          }
+        ],
+        "confidence": 0.95
+      },
+      "source_context_id": "s064_064_期末复习",
+      "revision_round": 0,
+      "status": "active",
+      "audit_refs": [],
+      "original_edge_ids": [
+        "edge_prob027_kp_perimeter_001"
+      ]
+    }
+  ]
+}

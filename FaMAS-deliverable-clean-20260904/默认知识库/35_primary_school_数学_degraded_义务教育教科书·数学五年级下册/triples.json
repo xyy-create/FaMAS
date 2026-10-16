@@ -1,0 +1,1212 @@
+{
+  "schema_version": "kg.triples.v1",
+  "run_id": "kg_义务教育教科书·数学五年级下册_20260701",
+  "triples": [
+    {
+      "triple_id": "triple_contains_afd2468bc9e7",
+      "subject_node_id": "canon_chaptersection_91d1a3891ecd",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_773938e3ac31",
+      "edge_id": "canon_edge_contains_6fb7a4418d62",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\002_整理与练习.md",
+          "section": {
+            "id": "s002",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "举例说说什么是因数和倍数。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_5774ac691d61",
+      "subject_node_id": "canon_chaptersection_91d1a3891ecd",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d1f4eeaaba23",
+      "edge_id": "canon_edge_contains_b56e07b1908e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\002_整理与练习.md",
+          "section": {
+            "id": "s002",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "找两个数的公因数和公倍数。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_49a337a54079",
+      "subject_node_id": "canon_chaptersection_91d1a3891ecd",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_3ec804bf7f5c",
+      "edge_id": "canon_edge_contains_0bc974b8954a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\002_整理与练习.md",
+          "section": {
+            "id": "s002",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "怎样求两个数的最大公因数和最小公倍数？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_97a037941691",
+      "subject_node_id": "canon_chaptersection_91d1a3891ecd",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c2acd3cfa8a8",
+      "edge_id": "canon_edge_contains_e1d371bb24dd",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\002_整理与练习.md",
+          "section": {
+            "id": "s002",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "下面各数，哪些是质数，哪些是合数？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_b23686d6cfbc",
+      "subject_node_id": "canon_chaptersection_91d1a3891ecd",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_fbf551e2c7be",
+      "edge_id": "canon_edge_contains_8149f1db8be5",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\002_整理与练习.md",
+          "section": {
+            "id": "s002",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "连成的折线有什么特点？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_e19064a579ba",
+      "subject_node_id": "canon_problem_34105e4459bd",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_3ec804bf7f5c",
+      "edge_id": "canon_edge_tests_126223b9464d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\002_整理与练习.md",
+          "section": {
+            "id": "s002",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "暑假期间，小林每 6 天游泳一次，小军每 8 天游泳一次。7 月 31 日两人在游泳池相遇，八月几日他们又再次相遇？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_5830cec41892",
+      "subject_node_id": "canon_problem_5e3be57ed988",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_3ec804bf7f5c",
+      "edge_id": "canon_edge_tests_7a812405df33",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\002_整理与练习.md",
+          "section": {
+            "id": "s002",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "1，2，3，…，15 各数与 3 的最大公因数分别是多少？填一填。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_6c711a626e00",
+      "subject_node_id": "canon_problem_5e3be57ed988",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_fbf551e2c7be",
+      "edge_id": "canon_edge_tests_1bc8dedd0926",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\002_整理与练习.md",
+          "section": {
+            "id": "s002",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "你能根据上表在下图中接着描点再连一连吗？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_4c98186bccdd",
+      "subject_node_id": "canon_chaptersection_a56c784420f5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c63536e89347",
+      "edge_id": "canon_edge_contains_125b1986f09e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\003_和与积的奇偶性.md",
+          "section": {
+            "id": "s003",
+            "title": "和与积的奇偶性"
+          },
+          "quote_or_summary": "两个偶数相加的和是偶数"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_eda16f924f5c",
+      "subject_node_id": "canon_chaptersection_a56c784420f5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_4897df9d4463",
+      "edge_id": "canon_edge_contains_987ad689bc1e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\003_和与积的奇偶性.md",
+          "section": {
+            "id": "s003",
+            "title": "和与积的奇偶性"
+          },
+          "quote_or_summary": "两个奇数相加的和也是偶数"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a9bab9b5d415",
+      "subject_node_id": "canon_chaptersection_a56c784420f5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_2ef3c420dd73",
+      "edge_id": "canon_edge_contains_a83514e1069f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\003_和与积的奇偶性.md",
+          "section": {
+            "id": "s003",
+            "title": "和与积的奇偶性"
+          },
+          "quote_or_summary": "一个奇数与一个偶数相加，和是奇数"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_7d99feee331b",
+      "subject_node_id": "canon_chaptersection_a56c784420f5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_eca4da25aacb",
+      "edge_id": "canon_edge_contains_9b651289fc54",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\003_和与积的奇偶性.md",
+          "section": {
+            "id": "s003",
+            "title": "和与积的奇偶性"
+          },
+          "quote_or_summary": "加数中有 1 个、3 个、5 个……奇数时，和一定是奇数；加数中有 2 个、4 个、6 个……奇数时，和一定是偶数"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_85a748f0c37f",
+      "subject_node_id": "canon_chaptersection_a56c784420f5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_675725899797",
+      "edge_id": "canon_edge_contains_0545652a8e27",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\003_和与积的奇偶性.md",
+          "section": {
+            "id": "s003",
+            "title": "和与积的奇偶性"
+          },
+          "quote_or_summary": "乘数都是奇数，积也是奇数"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_9125bd3a4354",
+      "subject_node_id": "canon_chaptersection_a56c784420f5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_a6b0cb55cb44",
+      "edge_id": "canon_edge_contains_83e1edbd76a3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\003_和与积的奇偶性.md",
+          "section": {
+            "id": "s003",
+            "title": "和与积的奇偶性"
+          },
+          "quote_or_summary": "几个乘数中，只要有一个偶数，积一定是偶数"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_526d4e4f913e",
+      "subject_node_id": "canon_chaptersection_df15e670506b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_29aa41927283",
+      "edge_id": "canon_edge_contains_c7ab8437dc96",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\004_分数的意义和性质.md",
+          "section": {
+            "id": "s004",
+            "title": "分数的意义和性质"
+          },
+          "quote_or_summary": "一个物体、一个计量单位或由许多物体组成的一个整体，都可以用自然数 1 来表示，通常我们把它叫作单位“1”。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_048b6d26eead",
+      "subject_node_id": "canon_chaptersection_df15e670506b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_adf069ecaa52",
+      "edge_id": "canon_edge_contains_e14a7d5aca00",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\004_分数的意义和性质.md",
+          "section": {
+            "id": "s004",
+            "title": "分数的意义和性质"
+          },
+          "quote_or_summary": "把单位“1”平均分成若干份，表示这样的一份或几份的数，叫作分数。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_241e17e9a3e1",
+      "subject_node_id": "canon_chaptersection_df15e670506b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_fdae4a32dd15",
+      "edge_id": "canon_edge_contains_9d26ae04e76e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\004_分数的意义和性质.md",
+          "section": {
+            "id": "s004",
+            "title": "分数的意义和性质"
+          },
+          "quote_or_summary": "表示其中一份的数，叫作分数单位。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d3ba3eb05e0c",
+      "subject_node_id": "canon_chaptersection_df15e670506b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_dcb07ecdfb2c",
+      "edge_id": "canon_edge_contains_3b12d2bb8680",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\004_分数的意义和性质.md",
+          "section": {
+            "id": "s004",
+            "title": "分数的意义和性质"
+          },
+          "quote_or_summary": "分数的分子和分母同时乘或除以一个相同的数（0 除外），分数的大小不变。这是分数的基本性质。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_4921fc5333e2",
+      "subject_node_id": "canon_chaptersection_df15e670506b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_fa6a1ebf0683",
+      "edge_id": "canon_edge_contains_013012c41f29",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\004_分数的意义和性质.md",
+          "section": {
+            "id": "s004",
+            "title": "分数的意义和性质"
+          },
+          "quote_or_summary": "像这样，把一个分数化成同它相等，但分子、分母都比较小的分数，叫作约分。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0aca548c7724",
+      "subject_node_id": "canon_chaptersection_df15e670506b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_fb1f60d5903c",
+      "edge_id": "canon_edge_contains_ae40ef6b8f1a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\004_分数的意义和性质.md",
+          "section": {
+            "id": "s004",
+            "title": "分数的意义和性质"
+          },
+          "quote_or_summary": "分子比分母小的分数叫作真分数，分子比分母大或者分子和分母相等的分数叫作假分数。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_bc3e267f9949",
+      "subject_node_id": "canon_chaptersection_df15e670506b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8189fcc1a303",
+      "edge_id": "canon_edge_contains_b58cc2d7ba43",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\004_分数的意义和性质.md",
+          "section": {
+            "id": "s004",
+            "title": "分数的意义和性质"
+          },
+          "quote_or_summary": "把几个分母不同的分数分别化成和原来分数相等的同分母分数，叫作通分。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_3e9b99f3519c",
+      "subject_node_id": "canon_knowledgepoint_adf069ecaa52",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_29aa41927283",
+      "edge_id": "canon_edge_requires_eba20b132c0d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\004_分数的意义和性质.md",
+          "section": {
+            "id": "s004",
+            "title": "分数的意义和性质"
+          },
+          "quote_or_summary": "把单位“1”平均分成若干份，表示这样的一份或几份的数，叫作分数。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_faab36c16c6e",
+      "subject_node_id": "canon_knowledgepoint_fa6a1ebf0683",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_dcb07ecdfb2c",
+      "edge_id": "canon_edge_requires_0472e6e7d6ee",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\004_分数的意义和性质.md",
+          "section": {
+            "id": "s004",
+            "title": "分数的意义和性质"
+          },
+          "quote_or_summary": "分数的分子和分母同时乘或除以一个相同的数（0 除外），分数的大小不变。这是分数的基本性质。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_requires_babeffd55f56",
+      "subject_node_id": "canon_knowledgepoint_8189fcc1a303",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_dcb07ecdfb2c",
+      "edge_id": "canon_edge_requires_3c6db09f7650",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\004_分数的意义和性质.md",
+          "section": {
+            "id": "s004",
+            "title": "分数的意义和性质"
+          },
+          "quote_or_summary": "把几个分母不同的分数分别化成和原来分数相等的同分母分数，叫作通分。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_7d621791f100",
+      "subject_node_id": "canon_chaptersection_06d158357875",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b6b61be1347b",
+      "edge_id": "canon_edge_contains_a3a149a67ed4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\005_整理与练习.md",
+          "section": {
+            "id": "s005",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "回顾与整理：举例说明分数的意义。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_43ca8a1d09e3",
+      "subject_node_id": "canon_chaptersection_06d158357875",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_282d78269836",
+      "edge_id": "canon_edge_contains_2886e4fe4573",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\005_整理与练习.md",
+          "section": {
+            "id": "s005",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "回顾与整理：分数与除法有什么关系？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_e7d9079615b6",
+      "subject_node_id": "canon_chaptersection_06d158357875",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c02b4a2b1b71",
+      "edge_id": "canon_edge_contains_976031a6ab38",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\005_整理与练习.md",
+          "section": {
+            "id": "s005",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "回顾与整理：假分数怎样化成整数或带分数？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_b8dce44a0d3d",
+      "subject_node_id": "canon_problem_eaf05a59fcc5",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b6b61be1347b",
+      "edge_id": "canon_edge_tests_1595935cb10d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\005_整理与练习.md",
+          "section": {
+            "id": "s005",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "练习与应用：1. 涂色表示分数。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_29cadc57cf14",
+      "subject_node_id": "canon_problem_3ecc767267c0",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_282d78269836",
+      "edge_id": "canon_edge_tests_52e00371cc3f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\005_整理与练习.md",
+          "section": {
+            "id": "s005",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "练习与应用：4. 用分数表示各题的商，是假分数的化成整数或带分数。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_dcf6b7923c75",
+      "subject_node_id": "canon_problem_3ecc767267c0",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_c02b4a2b1b71",
+      "edge_id": "canon_edge_tests_3b717e80cf5c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\005_整理与练习.md",
+          "section": {
+            "id": "s005",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "练习与应用：4. ...是假分数的化成整数或带分数。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_c06bceee4725",
+      "subject_node_id": "canon_problem_8d3a742523e5",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b6b61be1347b",
+      "edge_id": "canon_edge_tests_d257f4cb12a0",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\005_整理与练习.md",
+          "section": {
+            "id": "s005",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "探索与实践：15. 在左边的正方形纸上设计图案，并涂上颜色，再计算涂色部分占这张纸的几分之几。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_ce329b2cfc89",
+      "subject_node_id": "canon_problem_a1f3c3ad57ee",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b6b61be1347b",
+      "edge_id": "canon_edge_tests_98f3d1aa92f0",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\005_整理与练习.md",
+          "section": {
+            "id": "s005",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "探索与实践：16. 照右图做一个转盘，两人一组做游戏。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_cedda610c7a3",
+      "subject_node_id": "canon_chaptersection_79596c1a394b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_c058db27f8ed",
+      "edge_id": "canon_edge_contains_584240956fb4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\006_球的反弹高度.md",
+          "section": {
+            "id": "s006",
+            "title": "球 的 反 弹 高 度"
+          },
+          "quote_or_summary": "选一块靠墙的平地，在墙上量出一个高度并做上标记。再选择一个球从这个高度自由落下，在墙上标出球的反弹高度，量出结果并记录下来。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d454a5871f07",
+      "subject_node_id": "canon_chaptersection_79596c1a394b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_4316f9d093a3",
+      "edge_id": "canon_edge_contains_5e68530f926b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\006_球的反弹高度.md",
+          "section": {
+            "id": "s006",
+            "title": "球 的 反 弹 高 度"
+          },
+          "quote_or_summary": "正常情况下，球的反弹高度大约是下落高度的几分之几？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_6e2cd1a3e7cf",
+      "subject_node_id": "canon_chaptersection_79596c1a394b",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_db2ce4f4f9f4",
+      "edge_id": "canon_edge_contains_a6e901374663",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\006_球的反弹高度.md",
+          "section": {
+            "id": "s006",
+            "title": "球 的 反 弹 高 度"
+          },
+          "quote_or_summary": "同一种球的弹性主要取决于球内部所受到的压力，而压力的大小与球内充进的空气多少有关。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_2d23d2b26307",
+      "subject_node_id": "canon_problem_ea7cbd5c5ce1",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_4316f9d093a3",
+      "edge_id": "canon_edge_tests_21a64de1c6a0",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\006_球的反弹高度.md",
+          "section": {
+            "id": "s006",
+            "title": "球 的 反 弹 高 度"
+          },
+          "quote_or_summary": "用同一个球做实验，你发现了什么？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_49a6614842de",
+      "subject_node_id": "canon_knowledgepoint_4316f9d093a3",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_c058db27f8ed",
+      "edge_id": "canon_edge_requires_ec99ab2a2df2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\006_球的反弹高度.md",
+          "section": {
+            "id": "s006",
+            "title": "球 的 反 弹 高 度"
+          },
+          "quote_or_summary": "我们可以通过实验来了解。选一块靠墙的平地... 求出每次反弹的高度是下落高度的几分之几。"
+        }
+      ],
+      "confidence": 0.8
+    },
+    {
+      "triple_id": "triple_contains_aff686b13863",
+      "subject_node_id": "canon_chaptersection_df29d2ea52fe",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_2429d51ddc21",
+      "edge_id": "canon_edge_contains_9f277b36142a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\007_分数加法和减法.md",
+          "section": {
+            "id": "s007",
+            "title": "分数加法和减法"
+          },
+          "quote_or_summary": "分母不同，就是分数单位不同，不能直接相加。可以先通分，化成同分母分数后再计算。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d313927ff0d0",
+      "subject_node_id": "canon_chaptersection_df29d2ea52fe",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_30c9fe35e3ca",
+      "edge_id": "canon_edge_contains_ed545dd47da9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\007_分数加法和减法.md",
+          "section": {
+            "id": "s007",
+            "title": "分数加法和减法"
+          },
+          "quote_or_summary": "圆和以前学过的三角形、长方形等多边形相比，多边形由线段围成，有顶点；圆由曲线围成没有顶点。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_97c7c3efbf67",
+      "subject_node_id": "canon_chaptersection_df29d2ea52fe",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_828ac99d3569",
+      "edge_id": "canon_edge_contains_86814a59146c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\007_分数加法和减法.md",
+          "section": {
+            "id": "s007",
+            "title": "分数加法和减法"
+          },
+          "quote_or_summary": "一个圆的周长总是直径的 3 倍多一些。任何一个圆的周长除以直径的商都是一个固定的数，叫作圆周率，用字母 \\pi 表示。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a50b9ab7784c",
+      "subject_node_id": "canon_chaptersection_df29d2ea52fe",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_32236459f79e",
+      "edge_id": "canon_edge_contains_7c21c97ea97d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\007_分数加法和减法.md",
+          "section": {
+            "id": "s007",
+            "title": "分数加法和减法"
+          },
+          "quote_or_summary": "如果用 S 表示圆的面积，上面的公式可以写成：S = \\pi r^2。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_b092f92fd1ef",
+      "subject_node_id": "canon_problem_b9e8a9772b30",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_2429d51ddc21",
+      "edge_id": "canon_edge_tests_d97c8b470f0f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\007_分数加法和减法.md",
+          "section": {
+            "id": "s007",
+            "title": "分数加法和减法"
+          },
+          "quote_or_summary": "明桥小学有一块长方形试验田，其中 \\frac { 1 } { 2 } 种黄瓜， \\frac { 1 } { 4 } 种番茄。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_b46724c53de5",
+      "subject_node_id": "canon_problem_399ae4e30b9f",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_828ac99d3569",
+      "edge_id": "canon_edge_tests_c81a5ae97096",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\007_分数加法和减法.md",
+          "section": {
+            "id": "s007",
+            "title": "分数加法和减法"
+          },
+          "quote_or_summary": "一个圆形花坛的周长是 251 .2 米。花坛的直径是多少米？根据 C = \\pi d ，可以列方程解答。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_8e01b26f938e",
+      "subject_node_id": "canon_knowledgepoint_828ac99d3569",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_30c9fe35e3ca",
+      "edge_id": "canon_edge_requires_6030e81944c9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\007_分数加法和减法.md",
+          "section": {
+            "id": "s007",
+            "title": "分数加法和减法"
+          },
+          "quote_or_summary": "画圆时，针尖固定的一点是圆心；连接圆心和圆上任意一点的线段是半径；通过圆心且两端在圆上的线段是直径。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_requires_7b271dff22ea",
+      "subject_node_id": "canon_knowledgepoint_32236459f79e",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_828ac99d3569",
+      "edge_id": "canon_edge_requires_b829452ea99c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\007_分数加法和减法.md",
+          "section": {
+            "id": "s007",
+            "title": "分数加法和减法"
+          },
+          "quote_or_summary": "任何一个圆的周长除以直径的商都是一个固定的数，叫作圆周率...如果用 S 表示圆的面积，上面的公式可以写成：S = \\pi r^2。"
+        }
+      ],
+      "confidence": 0.8
+    },
+    {
+      "triple_id": "triple_tests_e7a7343b9651",
+      "subject_node_id": "canon_problem_413318628464",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_2429d51ddc21",
+      "edge_id": "canon_edge_tests_295b8c833b83",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\007_分数加法和减法.md",
+          "section": {
+            "id": "s007",
+            "title": "分数加法和减法"
+          },
+          "quote_or_summary": "地球的表面大部分被海洋覆盖。太平洋大约占地球表面的 \\frac 1 3 大西洋大约占地球表面的 \\frac { 1 } { 5 } 。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a39e89198543",
+      "subject_node_id": "canon_chaptersection_a3e26a6575a3",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ed3e5564d690",
+      "edge_id": "canon_edge_contains_78c885c108b4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\008_整理与练习.md",
+          "section": {
+            "id": "s008",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "我了解了圆的特征，认识了扇形。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_6a5db742c200",
+      "subject_node_id": "canon_chaptersection_a3e26a6575a3",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ab49f2965777",
+      "edge_id": "canon_edge_contains_c17f4118b089",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\008_整理与练习.md",
+          "section": {
+            "id": "s008",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "我学会了计算圆的周长和面积。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_4096d935dfab",
+      "subject_node_id": "canon_chaptersection_a3e26a6575a3",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_aa54f0485df4",
+      "edge_id": "canon_edge_contains_ea410b4b7a2a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\008_整理与练习.md",
+          "section": {
+            "id": "s008",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "我了解了圆的特征，认识了扇形。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_469c4afe92f3",
+      "subject_node_id": "canon_problem_2982506308ad",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ab49f2965777",
+      "edge_id": "canon_edge_tests_69f84998c645",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\008_整理与练习.md",
+          "section": {
+            "id": "s008",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "1. 画一个直径 4 厘米的圆，并用字母 O、r、d 分别表示它的圆心、半径和直径，再求出它的周长和面积。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_8ebc8ed3c8ba",
+      "subject_node_id": "canon_problem_34b0acf354da",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ab49f2965777",
+      "edge_id": "canon_edge_tests_677dd2858bef",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\008_整理与练习.md",
+          "section": {
+            "id": "s008",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "4. 公园里有一个圆形金鱼池，直径是 18 米。它的周长是多少米？占地多少平方米？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_fbf5e30667d2",
+      "subject_node_id": "canon_problem_059692308f52",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ab49f2965777",
+      "edge_id": "canon_edge_tests_1f4a601fc75c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\008_整理与练习.md",
+          "section": {
+            "id": "s008",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "11. 有一个运动场（如左图），两端是半圆形，中间是长方形。这个运动场的周长和面积各是多少？"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_d190136fa142",
+      "subject_node_id": "canon_problem_17fdff85e75d",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ab49f2965777",
+      "edge_id": "canon_edge_tests_f3cde0f941ac",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\008_整理与练习.md",
+          "section": {
+            "id": "s008",
+            "title": "整理与练 习"
+          },
+          "quote_or_summary": "12 在一张长方形纸上（如右图）剪下一个最大的圆，这个圆的面积是多少平方厘米？剩下纸的面积呢？"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_11a61f5ce6be",
+      "subject_node_id": "canon_chaptersection_be47e27d1422",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_3e9c4a48b0d1",
+      "edge_id": "canon_edge_contains_21ed60b84833",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\009_解决问题的策略.md",
+          "section": {
+            "id": "s009",
+            "title": "解决问题的策略"
+          },
+          "quote_or_summary": "有些复杂的算式可以转化成简单的算式。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d3959161deb5",
+      "subject_node_id": "canon_chaptersection_be47e27d1422",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_32cef6121560",
+      "edge_id": "canon_edge_contains_9fcbb85f1e1c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\009_解决问题的策略.md",
+          "section": {
+            "id": "s009",
+            "title": "解决问题的策略"
+          },
+          "quote_or_summary": "转化后的图形与转化前相比，形状变了，大小没有变。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_74ec5153f22f",
+      "subject_node_id": "canon_problem_cbb661d5df07",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_3e9c4a48b0d1",
+      "edge_id": "canon_edge_tests_eee38c7906c2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\009_解决问题的策略.md",
+          "section": {
+            "id": "s009",
+            "title": "解决问题的策略"
+          },
+          "quote_or_summary": "把它们转化成规则图形进行比较。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_bcf86b5e8874",
+      "subject_node_id": "canon_problem_969102eba681",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_3e9c4a48b0d1",
+      "edge_id": "canon_edge_tests_ea4cf5060f23",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\009_解决问题的策略.md",
+          "section": {
+            "id": "s009",
+            "title": "解决问题的策略"
+          },
+          "quote_or_summary": "原来的加法算式可以转化成……"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_027e172406c5",
+      "subject_node_id": "canon_problem_48abd5e1b1be",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_3e9c4a48b0d1",
+      "edge_id": "canon_edge_tests_495224d95eac",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\009_解决问题的策略.md",
+          "section": {
+            "id": "s009",
+            "title": "解决问题的策略"
+          },
+          "quote_or_summary": "你能联系梯形面积公式，计算出铅笔的支数吗？"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_3de23f6ae1fe",
+      "subject_node_id": "canon_problem_2ce6280f484b",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_3e9c4a48b0d1",
+      "edge_id": "canon_edge_tests_546649736229",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\009_解决问题的策略.md",
+          "section": {
+            "id": "s009",
+            "title": "解决问题的策略"
+          },
+          "quote_or_summary": "怎样计算比较简便？"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_6157e7fb3b65",
+      "subject_node_id": "canon_problem_e4587574d54a",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_3e9c4a48b0d1",
+      "edge_id": "canon_edge_tests_460441e8e35e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\009_解决问题的策略.md",
+          "section": {
+            "id": "s009",
+            "title": "解决问题的策略"
+          },
+          "quote_or_summary": "比赛以单场淘汰制进行。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_2a8af8fbeb5c",
+      "subject_node_id": "canon_chaptersection_eb43cc55c916",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_00aa256f2471",
+      "edge_id": "canon_edge_contains_4a6b1ff75b41",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\010_整理与复习.md",
+          "section": {
+            "id": "s010",
+            "title": "整 理 与 复 习"
+          },
+          "quote_or_summary": "列方程解决实际问题时要注意什么？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_f693f675d8e4",
+      "subject_node_id": "canon_chaptersection_eb43cc55c916",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ab49f2965777",
+      "edge_id": "canon_edge_contains_e4f290168168",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\010_整理与复习.md",
+          "section": {
+            "id": "s010",
+            "title": "整 理 与 复 习"
+          },
+          "quote_or_summary": "圆的周长和面积公式在实际生活中有哪些应用？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_123f9b4705c6",
+      "subject_node_id": "canon_chaptersection_eb43cc55c916",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_437598286a5c",
+      "edge_id": "canon_edge_contains_6c6b36ff2370",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\010_整理与复习.md",
+          "section": {
+            "id": "s010",
+            "title": "整 理 与 复 习"
+          },
+          "quote_or_summary": "本学期我们学习了哪些统计图？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_c4caea7225b9",
+      "subject_node_id": "canon_problem_74888d2adce3",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_00aa256f2471",
+      "edge_id": "canon_edge_tests_7e5f8e6092b1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\010_整理与复习.md",
+          "section": {
+            "id": "s010",
+            "title": "整 理 与 复 习"
+          },
+          "quote_or_summary": "求 x 的值。三角形面积 550 cm2"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_dc1054c9ab22",
+      "subject_node_id": "canon_problem_2c82e3fa7a4d",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ab49f2965777",
+      "edge_id": "canon_edge_tests_835f850de48b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\010_整理与复习.md",
+          "section": {
+            "id": "s010",
+            "title": "整 理 与 复 习"
+          },
+          "quote_or_summary": "车轮的外直径是 45 厘米。从钢丝的一端到另一端，车轮正好滚动 40 圈。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_ae3e29b9ca59",
+      "subject_node_id": "canon_problem_6bcf44370194",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ab49f2965777",
+      "edge_id": "canon_edge_tests_1ea03b3888f3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\010_整理与复习.md",
+          "section": {
+            "id": "s010",
+            "title": "整 理 与 复 习"
+          },
+          "quote_or_summary": "牧民在草地上围成一个周长约 94.2 米的圆形羊圈，羊圈的面积大约是多少平方米？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_89053edc9fb5",
+      "subject_node_id": "canon_problem_189c40bf56d6",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_437598286a5c",
+      "edge_id": "canon_edge_tests_408cd886d171",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_071603_义务教育教科书·数学五年级下册_20260701\\enhanced_markdown\\sections\\010_整理与复习.md",
+          "section": {
+            "id": "s010",
+            "title": "整 理 与 复 习"
+          },
+          "quote_or_summary": "我国自然保护区增长情况统计图（2000～2010 年）"
+        }
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

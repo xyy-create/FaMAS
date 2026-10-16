@@ -1,0 +1,2868 @@
+{
+  "schema_version": "kg.triples.v1",
+  "run_id": "kg_普通高中教科书·物理必修第三册_20260703",
+  "triples": [
+    {
+      "triple_id": "triple_contains_3fdd67c16ddb",
+      "subject_node_id": "canon_chaptersection_cec433ce4673",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7a52ad3af6e3",
+      "edge_id": "canon_edge_contains_5151149558c5",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s1.md",
+          "section": {
+            "id": "s005",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "静电力做功具有跟路径无关的特点，只与电荷在电场中的始、末位置有关。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_79cf9fcdd7fc",
+      "subject_node_id": "canon_chaptersection_cec433ce4673",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_290557a1d043",
+      "edge_id": "canon_edge_contains_550bba776629",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s1.md",
+          "section": {
+            "id": "s005",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "电荷在电场中也具有势能，称为电势能。静电力做的功等于电势能的减少量。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_c3b74a98f662",
+      "subject_node_id": "canon_knowledgepoint_7a52ad3af6e3",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_290557a1d043",
+      "edge_id": "canon_edge_requires_e5687986275c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s1.md",
+          "section": {
+            "id": "s005",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "静电力做功具有跟路径无关的特点... 电荷在电场中也具有势能，称为电势能。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_f5c33450fa73",
+      "subject_node_id": "canon_chaptersection_cc82b201159d",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_32fc73295d6d",
+      "edge_id": "canon_edge_contains_f4437e55fe3d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "电荷在电场中某一点的电势能与它的电荷量之比，叫作电场在这一点的电势。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_aff5ce69ad63",
+      "subject_node_id": "canon_chaptersection_cc82b201159d",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_290557a1d043",
+      "edge_id": "canon_edge_contains_7eb450eeb346",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "规定电荷在 O 点的电势能为 0。A 为电场中的任意一点，电荷 q 在 A 点的电势能为 E_pA"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_9aea5ffac3cd",
+      "subject_node_id": "canon_problem_0df99d0f84c7",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_32fc73295d6d",
+      "edge_id": "canon_edge_tests_995c0bb23e1b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "A 点的电势是多少？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_24ab3d67fbcb",
+      "subject_node_id": "canon_problem_0df99d0f84c7",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_290557a1d043",
+      "edge_id": "canon_edge_tests_bee7c5505316",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "q2 所具有的电势能是多少？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_54f91bbfb583",
+      "subject_node_id": "canon_problem_d71ca7e1008e",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_290557a1d043",
+      "edge_id": "canon_edge_tests_4e4ed92a6196",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "将电荷量为 4×10^-8 C 的正电荷从 A 点移到 B 点...静电力做了多少功？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_bbaf575b47f7",
+      "subject_node_id": "canon_problem_4a1064bb5a34",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_32fc73295d6d",
+      "edge_id": "canon_edge_tests_eba85a4e6323",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "如何根据匀强电场的电场线来判断两点电势的高低？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_1155c023bc6d",
+      "subject_node_id": "canon_problem_aaab7077d8a9",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_290557a1d043",
+      "edge_id": "canon_edge_tests_ce518e0735d5",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "请分析在此过程中该电荷的电势能的变化情况。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_3eea4e8d84a1",
+      "subject_node_id": "canon_knowledgepoint_32fc73295d6d",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_290557a1d043",
+      "edge_id": "canon_edge_requires_d3d2f6a9aa3f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s2.md",
+          "section": {
+            "id": "s006",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "电荷在电场中某一点的电势能与它的电荷量之比，叫作电场在这一点的电势。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_c69e7f4d8cf9",
+      "subject_node_id": "canon_chaptersection_6b5c259f1db3",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_cc63dcb4b19d",
+      "edge_id": "canon_edge_contains_8a870ed46add",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s3.md",
+          "section": {
+            "id": "s007",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "在电场中，两点之间电势的差值叫作电势差（electricpotential difference），电势差也叫作电压（voltage）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_c9caa8644239",
+      "subject_node_id": "canon_chaptersection_6b5c259f1db3",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_eb5a9afd3775",
+      "edge_id": "canon_edge_contains_c91b522b4324",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s3.md",
+          "section": {
+            "id": "s007",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "我们把在电场中电势相同的各点构成的面叫作等势面（equipotential surface）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_596effd43295",
+      "subject_node_id": "canon_chaptersection_6b5c259f1db3",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_f77bfe38a003",
+      "edge_id": "canon_edge_contains_39fe4cc4d50f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s3.md",
+          "section": {
+            "id": "s007",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "匀强电场中两点间的电势差等于电场强度与这两点沿电场方向的距离的乘积。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_87344d74eaad",
+      "subject_node_id": "canon_problem_8ea0020213a2",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_f77bfe38a003",
+      "edge_id": "canon_edge_tests_2f2672adaaee",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s3.md",
+          "section": {
+            "id": "s007",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "真空中平行金属板M、N之间的距离d为0.04m，有一个2×10^-15 kg的带电粒子位于M板旁。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_d97c9ff47630",
+      "subject_node_id": "canon_chaptersection_9bf56a45a48a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b40de7d8f98a",
+      "edge_id": "canon_edge_contains_318715702cae",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s4.md",
+          "section": {
+            "id": "s008",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "电容器（capacitor）是一种重要的电学元件。在两个相距很近的平行金属板中间夹上一层绝缘物质"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_78a2e29cd7ab",
+      "subject_node_id": "canon_chaptersection_9bf56a45a48a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_6aa6ee889977",
+      "edge_id": "canon_edge_contains_c12a81548c46",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s4.md",
+          "section": {
+            "id": "s008",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "电容器所带的电荷量Q与电容器两极板之间的电势差U之比，叫作电容器的电容（capacitance）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d9034a3f698f",
+      "subject_node_id": "canon_chaptersection_9bf56a45a48a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_07343547c1d5",
+      "edge_id": "canon_edge_contains_a471989700f3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s4.md",
+          "section": {
+            "id": "s008",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "减小平行板电容器两极板的正对面积、增大两极板之间的距离都能减小平行板电容器的电容"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_967b19d10498",
+      "subject_node_id": "canon_chaptersection_9bf56a45a48a",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ea3be8927139",
+      "edge_id": "canon_edge_contains_a422d366a1ff",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s4.md",
+          "section": {
+            "id": "s008",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "常用的电容器，从构造上看，可以分为固定电容器和可变电容器两类。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_3263a549255c",
+      "subject_node_id": "canon_problem_dd9644428ac7",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_6aa6ee889977",
+      "edge_id": "canon_edge_tests_d28a5c682c96",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s4.md",
+          "section": {
+            "id": "s008",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "有一个已充电的电容器，两极板之间的电压为3V，所带电荷量为 4.5 × 10^-4 C，此电容器的电容是多少？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_1463e4295777",
+      "subject_node_id": "canon_problem_27a4241d87e7",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_6aa6ee889977",
+      "edge_id": "canon_edge_tests_f08c384de581",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s4.md",
+          "section": {
+            "id": "s008",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "心脏除颤器的电容器电容为15μF，如果充电后电容器的电压为4.0kV，电容器在一定时间内放电至两极板之间的电压为0"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_9bdc25282084",
+      "subject_node_id": "canon_problem_53a7cea06d32",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b40de7d8f98a",
+      "edge_id": "canon_edge_tests_266f5d7f87e6",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s4.md",
+          "section": {
+            "id": "s008",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "用图10.4-1的电路给电容器充、放电。开关S接通1，稳定后改接2，稳定后又改接1，如此往复。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_193a25464f6d",
+      "subject_node_id": "canon_knowledgepoint_6aa6ee889977",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_b40de7d8f98a",
+      "edge_id": "canon_edge_requires_bc4e769e5b59",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s4.md",
+          "section": {
+            "id": "s008",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "电容器（capacitor）是一种重要的电学元件... 电容器所带的电荷量Q与电容器两极板之间的电势差U之比，叫作电容器的电容"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_fd7833f27c1b",
+      "subject_node_id": "canon_knowledgepoint_07343547c1d5",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_6aa6ee889977",
+      "edge_id": "canon_edge_requires_a2060b5ea7e1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s4.md",
+          "section": {
+            "id": "s008",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "理论分析表明，当平行板电容器的两极板之间是真空时，电容C与极板的正对面积S、极板间的距离d的关系为 C = S / (4πkd)"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_4e5e85ba9e02",
+      "subject_node_id": "canon_chaptersection_36395d325a07",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ed40e8ebcfd9",
+      "edge_id": "canon_edge_contains_bcf3c2f2b8f7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s5.md",
+          "section": {
+            "id": "s009",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "利用电场使带电粒子加速，就是其中一种简单的情况。在这种情况中，带电粒子的速度方向与电场强度的方向相同或相反。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_9c0a737dc26d",
+      "subject_node_id": "canon_chaptersection_36395d325a07",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_76b715a5a0e7",
+      "edge_id": "canon_edge_contains_8c6bb0b98603",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s5.md",
+          "section": {
+            "id": "s009",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "带电粒子的初速度方向跟电场方向垂直时，静电力方向跟速度方向不在同一直线上，带电粒子的运动轨迹将发生偏转。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_1a446fe86100",
+      "subject_node_id": "canon_chaptersection_36395d325a07",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ee67b5df080f",
+      "edge_id": "canon_edge_contains_20a3b0749d09",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s5.md",
+          "section": {
+            "id": "s009",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "示波器的核心部件是示波管，它由电子枪、偏转电极和荧光屏组成，管内抽成真空。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_2d6af5fe07a8",
+      "subject_node_id": "canon_chaptersection_36395d325a07",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_28fc04913449",
+      "edge_id": "canon_edge_contains_4919e74cc3c3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s5.md",
+          "section": {
+            "id": "s009",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "范德格拉夫静电加速器由两部分组成，部分是产生高电压的装置，叫作范德格拉夫起电机。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_6cbf18d34245",
+      "subject_node_id": "canon_problem_442a3b035423",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ed40e8ebcfd9",
+      "edge_id": "canon_edge_tests_f776e58f192e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s5.md",
+          "section": {
+            "id": "s009",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "【例题1】如图10.5-1甲，某装置中，多个横截面积相同的金属圆筒依次排列...则金属圆筒的长度和它的序号之间有什么定量关系？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_5d8dbb5debe2",
+      "subject_node_id": "canon_problem_c7f2f4293919",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_76b715a5a0e7",
+      "edge_id": "canon_edge_tests_7586b668af74",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch10_s5.md",
+          "section": {
+            "id": "s009",
+            "title": "第十章 静电场中的能量"
+          },
+          "quote_or_summary": "【例题2】如图10.5-2，两相同极板A与B的长度l为6.0cm...求电子射出电场时沿垂直于板面方向偏移的距离y和偏转的角度θ。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_f6aacc825eda",
+      "subject_node_id": "canon_chaptersection_ffd27cc1dafb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_6bf07e5bb441",
+      "edge_id": "canon_edge_contains_d1a343c0b4de",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s1.md",
+          "section": {
+            "id": "s010",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "我们把大小、方向都不随时间变化的电流叫作恒定电流（steady current）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_4d8e116028fe",
+      "subject_node_id": "canon_chaptersection_ffd27cc1dafb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8437d1229cc7",
+      "edge_id": "canon_edge_contains_a34703202e34",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s1.md",
+          "section": {
+            "id": "s010",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "能把电子从A搬运到B的装置P就是电源（power source），A和B是电源的两个电极。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_f6746a460d11",
+      "subject_node_id": "canon_chaptersection_ffd27cc1dafb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_45c0f0389e2d",
+      "edge_id": "canon_edge_contains_c5b5f13e191a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s1.md",
+          "section": {
+            "id": "s010",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "电流的强弱程度用电流（electric current）这个物理量表示。单位时间内通过导体横截面的电荷量越多，电流就越大。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8ffe8c8df33e",
+      "subject_node_id": "canon_chaptersection_ffd27cc1dafb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d84df5346d66",
+      "edge_id": "canon_edge_contains_111c6e37d17e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s1.md",
+          "section": {
+            "id": "s010",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "这种由稳定分布的电荷所产生的稳定的电场，叫作恒定电场（steady electric field）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_23c92cff04e2",
+      "subject_node_id": "canon_chaptersection_ffd27cc1dafb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_71f8e107242e",
+      "edge_id": "canon_edge_contains_f1994467f7c1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s1.md",
+          "section": {
+            "id": "s010",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "金属导体中的电流跟自由电子的定向移动速率有关，它们之间的关系可用下述方法简单推导出来。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_9eadb37ecd3c",
+      "subject_node_id": "canon_problem_c5564ce2ae90",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_6bf07e5bb441",
+      "edge_id": "canon_edge_tests_7b8ab06a999b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s1.md",
+          "section": {
+            "id": "s010",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "电闪雷鸣时，强大的电流使天空不时发出耀眼的闪光，但它只能存在于一瞬间，而手电筒中的小灯泡却能持续发光，这是为什么？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_0add6a3b948e",
+      "subject_node_id": "canon_problem_c5564ce2ae90",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_8437d1229cc7",
+      "edge_id": "canon_edge_tests_32a6d1556b16",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s1.md",
+          "section": {
+            "id": "s010",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "电闪雷鸣时，强大的电流使天空不时发出耀眼的闪光，但它只能存在于一瞬间，而手电筒中的小灯泡却能持续发光，这是为什么？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_7eb7ab353edf",
+      "subject_node_id": "canon_problem_10801f34202b",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_45c0f0389e2d",
+      "edge_id": "canon_edge_tests_6b8f9ddec091",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s1.md",
+          "section": {
+            "id": "s010",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "一条导线中的电流为50μA，在3.2s内通过这条导线某一横截面的电荷量是多少库仑？有多少个电子通过该横截面？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_ae5099cb2826",
+      "subject_node_id": "canon_knowledgepoint_71f8e107242e",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_45c0f0389e2d",
+      "edge_id": "canon_edge_requires_b7d78c83dd36",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s1.md",
+          "section": {
+            "id": "s010",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "根据电流的公式 $I = { \\frac { q } { t } }$ ，就可以得到电流和自由电子定向移动平均速率的关系"
+        }
+      ],
+      "confidence": 0.8
+    },
+    {
+      "triple_id": "triple_requires_227af46badd6",
+      "subject_node_id": "canon_knowledgepoint_6bf07e5bb441",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_45c0f0389e2d",
+      "edge_id": "canon_edge_requires_327db6ea8d9c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s1.md",
+          "section": {
+            "id": "s010",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "我们把大小、方向都不随时间变化的电流叫作恒定电流（steady current）。"
+        }
+      ],
+      "confidence": 0.8
+    },
+    {
+      "triple_id": "triple_contains_96a71cb2c26c",
+      "subject_node_id": "canon_chaptersection_095a8e10c631",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ec413eb3f146",
+      "edge_id": "canon_edge_contains_32f85370cffc",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s2.md",
+          "section": {
+            "id": "s011",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "2 导体的电阻 ... 导体的电阻与导体的长度、横截面积有关。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_674ccb0aab35",
+      "subject_node_id": "canon_chaptersection_483edcd65af2",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_160a74130ad4",
+      "edge_id": "canon_edge_contains_575243627103",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s3.md",
+          "section": {
+            "id": "s012",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "同一个金属导体的U-I图像是一条过原点的直线。电压跟电流之比都是一个常量，这个结论可以写成 R = U/I"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_c1b9fc8dbf1c",
+      "subject_node_id": "canon_chaptersection_483edcd65af2",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7f35178adeb7",
+      "edge_id": "canon_edge_contains_7767d5f8e29e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s3.md",
+          "section": {
+            "id": "s012",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "导体的电阻到底与导体的哪些因素有关呢？我们可以通过实验来研究导体的电阻与导体的长度、横截面积、材料之间的关系。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_1b923e7468f9",
+      "subject_node_id": "canon_chaptersection_483edcd65af2",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_a640e0f77ca3",
+      "edge_id": "canon_edge_contains_28a591c49df7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s3.md",
+          "section": {
+            "id": "s012",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "同种材料的导体，其电阻R与它的长度l成正比，与它的横截面积S成反比；导体电阻还与构成它的材料有关。写成公式则是 R = \\rho l/S"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_dd5cd5a246da",
+      "subject_node_id": "canon_chaptersection_483edcd65af2",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_be6810598118",
+      "edge_id": "canon_edge_contains_ad3ed51e7f12",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s3.md",
+          "section": {
+            "id": "s012",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "在实际应用中，常用横坐标表示电压U，纵坐标表示电流I，这样画出的I-U图像叫作导体的伏安特性曲线。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_5b338d617147",
+      "subject_node_id": "canon_chaptersection_483edcd65af2",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ab2a256789bb",
+      "edge_id": "canon_edge_contains_435e6f717538",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s3.md",
+          "section": {
+            "id": "s012",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "常用的测量工具是刻度尺，初中我们已经学习了用刻度尺测量长度的方法和读数规则。现在我们进一步学习使用另外两种测量精度更高的工具。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_df6b8e2c0882",
+      "subject_node_id": "canon_chaptersection_483edcd65af2",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_6883266ed6b2",
+      "edge_id": "canon_edge_contains_6d3348951157",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s3.md",
+          "section": {
+            "id": "s012",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "图11.3-4是螺旋测微器的结构图。螺旋测微器的测砧A和固定刻度B是固定在尺架C上的；可动刻度E、旋钮D、微调旋钮D'是与测微螺杆F连在一起的。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_76a3b12133a6",
+      "subject_node_id": "canon_problem_832a029befa9",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ab2a256789bb",
+      "edge_id": "canon_edge_tests_de3399c8be32",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s3.md",
+          "section": {
+            "id": "s012",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "某同学用游标卡尺测量一个导体的长度。游标尺上有10等分刻度，测得的读数如图11.3-11所示，该导体的长度是多少？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_4308eb54d49b",
+      "subject_node_id": "canon_problem_832a029befa9",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_6883266ed6b2",
+      "edge_id": "canon_edge_tests_311e842b96a7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s3.md",
+          "section": {
+            "id": "s012",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "某同学用螺旋测微器测量一个圆柱导体的直径，测得读数如图11.3-12所示，则该圆柱导体的直径是多少？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_0782446267cc",
+      "subject_node_id": "canon_chaptersection_6412ceaa3977",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_62fff6b3a9dd",
+      "edge_id": "canon_edge_contains_308b9bbca9a4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s4.md",
+          "section": {
+            "id": "s013",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "因此，串联电路中的电流处处相等。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_cb2a7fe41b65",
+      "subject_node_id": "canon_chaptersection_6412ceaa3977",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d0d9f50df1e8",
+      "edge_id": "canon_edge_contains_5114346c68a5",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s4.md",
+          "section": {
+            "id": "s013",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "因此，并联电路的总电流等于各支路电流之和。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_c0eb9623bfa1",
+      "subject_node_id": "canon_chaptersection_6412ceaa3977",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_3f423856299b",
+      "edge_id": "canon_edge_contains_32ef40e6ef09",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s4.md",
+          "section": {
+            "id": "s013",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "即，串联电路两端的总电压等于各部分电路两端电压之和。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_c06d815cd1bb",
+      "subject_node_id": "canon_chaptersection_6412ceaa3977",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b8c37dbae565",
+      "edge_id": "canon_edge_contains_a6bd882f51d7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s4.md",
+          "section": {
+            "id": "s013",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "因此，并联电路的总电压与各支路电压相等。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_2fc58d1dcfc7",
+      "subject_node_id": "canon_chaptersection_6412ceaa3977",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_82b031c7a4cd",
+      "edge_id": "canon_edge_contains_ae23f5fd3a23",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s4.md",
+          "section": {
+            "id": "s013",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "即，串联电路的总电阻等于各部分电路电阻之和。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_34c18faf02c3",
+      "subject_node_id": "canon_chaptersection_6412ceaa3977",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_34d71914830a",
+      "edge_id": "canon_edge_contains_0affb6481b23",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s4.md",
+          "section": {
+            "id": "s013",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "即，并联电路总电阻的倒数等于各支路电阻的倒数之和。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_0f44463892d0",
+      "subject_node_id": "canon_problem_9992e770c437",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_34d71914830a",
+      "edge_id": "canon_edge_tests_d012cdd9c6c0",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s4.md",
+          "section": {
+            "id": "s013",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "电流表内阻 R_A 等于 R_g 与 R 的并联值"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_e196b42c50d7",
+      "subject_node_id": "canon_problem_9992e770c437",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_d0d9f50df1e8",
+      "edge_id": "canon_edge_tests_8f3a61d3b8a7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s4.md",
+          "section": {
+            "id": "s013",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "通过电阻 R 的电流 I_R = I - I_g"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_9f3b1c10cce9",
+      "subject_node_id": "canon_chaptersection_e1300463ea87",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_9231efeec767",
+      "edge_id": "canon_edge_contains_a595627f6bde",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s5.md",
+          "section": {
+            "id": "s014",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "多用电表是一种多功能仪表，简单的多用电表可用来测量直流电流、直流电压、交变电压以及电阻。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0c4104435ec1",
+      "subject_node_id": "canon_chaptersection_e1300463ea87",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_115419921122",
+      "edge_id": "canon_edge_contains_2e2bc4e9cded",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch11_s5.md",
+          "section": {
+            "id": "s014",
+            "title": "第11章 电路及其应用"
+          },
+          "quote_or_summary": "图11.5-2测量小灯泡的电压"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_e2975e2fc8eb",
+      "subject_node_id": "canon_chaptersection_75ece51aac75",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_acdefa9b870e",
+      "edge_id": "canon_edge_contains_9118f1f2a487",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s1.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "电功和电功率。电流在一段电路中做功的功率等于这段电路两端的电压与电流的乘积。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d8ce6712ac6f",
+      "subject_node_id": "canon_chaptersection_75ece51aac75",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_769495b0040c",
+      "edge_id": "canon_edge_contains_ad2b80b64f4a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s1.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "焦耳定律。电流通过导体产生的热量跟电流的二次方成正比，跟导体的电阻及通电时间成正比。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_f4076b3db4f9",
+      "subject_node_id": "canon_chaptersection_75ece51aac75",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_3130910c80b6",
+      "edge_id": "canon_edge_contains_730559c9981a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s1.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "电路中的能量转化。电动机消耗的电功率等于发热功率与对外做功功率之和。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a71dcc63b127",
+      "subject_node_id": "canon_chaptersection_75ece51aac75",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_f05ff4ec0eaf",
+      "edge_id": "canon_edge_contains_4002d7d0be5c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s1.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "1 使用多用电表。使用前应该调整指针定位螺丝，使指针指到零刻度。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_29c81bdc3e5d",
+      "subject_node_id": "canon_problem_1db5353c2ab7",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_f05ff4ec0eaf",
+      "edge_id": "canon_edge_tests_6cb9130cd747",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s1.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "用图11.5-1所示的多用电表测量一个阻值约为20Ω的电阻，测量步骤如下："
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_eddb002ad948",
+      "subject_node_id": "canon_problem_3f834f8749da",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_3130910c80b6",
+      "edge_id": "canon_edge_tests_057f14039586",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s1.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "一台电动机，线圈的电阻是0.4Ω，当它两端所加的电压为220V时，通过的电流是5A。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_9c66630cbcb5",
+      "subject_node_id": "canon_problem_3f834f8749da",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_acdefa9b870e",
+      "edge_id": "canon_edge_tests_fa0bd0a1b022",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s1.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "电动机消耗的电功率为 P_总 = U I = 220 × 5 W = 1100 W"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_703e4a693a8f",
+      "subject_node_id": "canon_problem_3f834f8749da",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_769495b0040c",
+      "edge_id": "canon_edge_tests_37585bd738eb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s1.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "电动机发热的功率为 P_热 = I^2 R = 5^2 × 0.4 W = 10 W"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_01340282693b",
+      "subject_node_id": "canon_knowledgepoint_3130910c80b6",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_769495b0040c",
+      "edge_id": "canon_edge_requires_6ec287b07d49",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s1.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "由焦耳定律可知，电动机发热的功率为 P_热 = I^2 R"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_f186b5d6d248",
+      "subject_node_id": "canon_knowledgepoint_3130910c80b6",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_acdefa9b870e",
+      "edge_id": "canon_edge_requires_6b2a148883f2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s1.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "设电动机两端的电压为U，通过电动机线圈的电流为I，可知 P_总 = U I"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_3741d168da47",
+      "subject_node_id": "canon_chaptersection_7ab9d9759c24",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_28e4a86991cf",
+      "edge_id": "canon_edge_contains_5afbdac7db49",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s2.md",
+          "section": {
+            "id": "s016",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "如图12.2-1，由导线、电源和用电器连成的电路叫作闭合电路（closedcircuit）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_f1252f5323aa",
+      "subject_node_id": "canon_problem_b09ff44bc4b4",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_28e4a86991cf",
+      "edge_id": "canon_edge_tests_3c7aa53a17f7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s2.md",
+          "section": {
+            "id": "s016",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "图中小灯泡的规格都相同，两个电路中的电池也相同。多个并联的小灯泡的亮度明显比单独一个小灯泡暗。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_67794a79ea21",
+      "subject_node_id": "canon_chaptersection_d5e48ea78d77",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_03669d67b44f",
+      "edge_id": "canon_edge_contains_1d074ecbacf8",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s3.md",
+          "section": {
+            "id": "s017",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "在物理学中，我们用非静电力所做的功与所移动的电荷量之比来表示电源的这种特性，叫作电动势（electromotive force）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_ddc931ae7360",
+      "subject_node_id": "canon_chaptersection_d5e48ea78d77",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_cbedfbd742c2",
+      "edge_id": "canon_edge_contains_306f0dfecf83",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s3.md",
+          "section": {
+            "id": "s017",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "上式表示：闭合电路的电流跟电源的电动势成正比，跟内、外电路的电阻之和成反比。这个结论叫作闭合电路的欧姆定律。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a6235b2f2111",
+      "subject_node_id": "canon_chaptersection_d5e48ea78d77",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7bcaed69e058",
+      "edge_id": "canon_edge_contains_04417ab91d18",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s3.md",
+          "section": {
+            "id": "s017",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "我们常常把外电路中的用电器叫作负载，把外电路的电势降落叫作路端电压。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8799c238adad",
+      "subject_node_id": "canon_chaptersection_d5e48ea78d77",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8725759fd891",
+      "edge_id": "canon_edge_contains_b1cb8483c5fa",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s3.md",
+          "section": {
+            "id": "s017",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "通常在电源内部也存在电阻，内电路中的电阻叫内电阻，简称内阻。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a7053776db69",
+      "subject_node_id": "canon_chaptersection_d5e48ea78d77",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_a17437f8b0e3",
+      "edge_id": "canon_edge_contains_676be0168429",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s3.md",
+          "section": {
+            "id": "s017",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "用电压表、电流表加上一个滑动变阻器R，就能测定电源的电动势E和内阻r。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_98315b76625c",
+      "subject_node_id": "canon_problem_2aaf67a7a75d",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_03669d67b44f",
+      "edge_id": "canon_edge_tests_7ef20047c394",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s3.md",
+          "section": {
+            "id": "s017",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "某个电动势为E的电源工作时，电流为I,乘积EI的单位是什么？从电动势的意义来考虑，EI表示什么？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_7aac3d0f586d",
+      "subject_node_id": "canon_problem_5d9560248745",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_7bcaed69e058",
+      "edge_id": "canon_edge_tests_c39de01e73e2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s3.md",
+          "section": {
+            "id": "s017",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "图12.2-8是汽车蓄电池供电简化电路图。当汽车启动时，启动开关S闭合，电动机工作，车灯会变暗..."
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_12e4b094b1af",
+      "subject_node_id": "canon_knowledgepoint_a17437f8b0e3",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_cbedfbd742c2",
+      "edge_id": "canon_edge_requires_9537ff58e09a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s3.md",
+          "section": {
+            "id": "s017",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "根据闭合电路的欧姆定律，有多种方法可以测定电池的电动势和内阻。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_c2405bb4f638",
+      "subject_node_id": "canon_knowledgepoint_7bcaed69e058",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_cbedfbd742c2",
+      "edge_id": "canon_edge_requires_6e234f46fdf9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s3.md",
+          "section": {
+            "id": "s017",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "根据闭合电路的欧姆定律...则 U = E - Ir"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_3a2cecec8f75",
+      "subject_node_id": "canon_chaptersection_c576d922beed",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7666334696f0",
+      "edge_id": "canon_edge_contains_281ad4cd51d9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s4.md",
+          "section": {
+            "id": "s018",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "能量既不会凭空产生，也不会凭空消失，它只能从一种形式转化为其他形式，或者从一个物体转移到别的物体，在转化或转移的过程中，能量的总量保持不变。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_f20ecd8d6fc2",
+      "subject_node_id": "canon_chaptersection_c576d922beed",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_71275462c45c",
+      "edge_id": "canon_edge_contains_8eed8f37fd42",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s4.md",
+          "section": {
+            "id": "s018",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "能量的耗散表明，在能源的利用过程中，能量在数量上虽未减少，但在可利用的品质上降低了，从便于利用的能源变成不便于利用的能源。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_f99b1966d0ae",
+      "subject_node_id": "canon_chaptersection_c576d922beed",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_e0276512fda8",
+      "edge_id": "canon_edge_contains_4ab71fca8d08",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s4.md",
+          "section": {
+            "id": "s018",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "化石能源无法在短时间内再生，所以这类能源被叫作不可再生能源。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_3443ba701fcf",
+      "subject_node_id": "canon_chaptersection_c576d922beed",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8fd6bb787f2a",
+      "edge_id": "canon_edge_contains_3070cd8b3b57",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s4.md",
+          "section": {
+            "id": "s018",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "这些能源在自然界可以再生，叫作可再生能源。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0bf634797840",
+      "subject_node_id": "canon_chaptersection_c576d922beed",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_30730e1f637c",
+      "edge_id": "canon_edge_contains_f51531a77865",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s4.md",
+          "section": {
+            "id": "s018",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "可持续发展的核心是追求发展与资源、环境的平衡：既满足当代人的需求，又不损害子孙后代的需求。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_630974ec0d0e",
+      "subject_node_id": "canon_problem_143e53d5b5f2",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_7666334696f0",
+      "edge_id": "canon_edge_tests_16a96ae6aea9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s4.md",
+          "section": {
+            "id": "s018",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "图12.4-6是某工程师的轻轨车站设计方案，与站台前后连接的轨道都有一个小坡度，列车进站时要上坡，出站时要下坡。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_16f47f1263a6",
+      "subject_node_id": "canon_problem_aafc1e5c07c0",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_7666334696f0",
+      "edge_id": "canon_edge_tests_5a6b5f82db7c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch12_s4.md",
+          "section": {
+            "id": "s018",
+            "title": "第12章 电能能量守恒定律"
+          },
+          "quote_or_summary": "在图12-1所示的U-I图像中，直线a为某电源的路端电压与电流的关系，直线b为某电阻R的电压与电流的关系。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_03fdefcb316d",
+      "subject_node_id": "canon_chaptersection_d13cf8417417",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7ac0e96fc647",
+      "edge_id": "canon_edge_contains_a759bab515a7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s1.md",
+          "section": {
+            "id": "s019",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "1820年4月...通电时磁针转动了...发现了电流的磁效应"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_6575390985db",
+      "subject_node_id": "canon_chaptersection_d13cf8417417",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_53f9e7ecf5ca",
+      "edge_id": "canon_edge_contains_158eecc6a54f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s1.md",
+          "section": {
+            "id": "s019",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "这些相互作用是怎样发生的？其实...是通过磁场（magnetic field）发生的。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_2f5daa0d0be5",
+      "subject_node_id": "canon_chaptersection_d13cf8417417",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_27336d842433",
+      "edge_id": "canon_edge_contains_2c9def458945",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s1.md",
+          "section": {
+            "id": "s019",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "这样的曲线就叫作磁感线（magnetic induction line）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_4f0494ebcf92",
+      "subject_node_id": "canon_chaptersection_d13cf8417417",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5a4eb44940c3",
+      "edge_id": "canon_edge_contains_1e9fed692d81",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s1.md",
+          "section": {
+            "id": "s019",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "直线电流的方向跟它的磁感线方向之间的关系可以用安培定则来判断。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_b1472b3f08ca",
+      "subject_node_id": "canon_chaptersection_d13cf8417417",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_ff674aed6d5a",
+      "edge_id": "canon_edge_contains_0e3398e82702",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s1.md",
+          "section": {
+            "id": "s019",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "安培由此受到启发，提出了“分子电流”假说。他认为，在物质内部，存在着一种环形电流。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_f3ab5f0b4380",
+      "subject_node_id": "canon_problem_679d4a6a30fd",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_5a4eb44940c3",
+      "edge_id": "canon_edge_tests_82049278254a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s1.md",
+          "section": {
+            "id": "s019",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "如图13.1-14，当导线环中沿逆时针方向通过电流时，说出小磁针最后静止时N极的指向。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_e88a9b377547",
+      "subject_node_id": "canon_problem_9224972cde09",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_ff674aed6d5a",
+      "edge_id": "canon_edge_tests_50ca3f26ab76",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s1.md",
+          "section": {
+            "id": "s019",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "为解释地球的磁性，19世纪安培假设：地球的磁场是由绕过地心的轴的环形电流I引起的。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_6e1e3f192735",
+      "subject_node_id": "canon_chaptersection_58447daed46f",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b9939932abad",
+      "edge_id": "canon_edge_contains_0aefd3c88161",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s2.md",
+          "section": {
+            "id": "s020",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "B正是我们要寻找的能表征磁场强弱的物理量 - 磁感应强度"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_985e0c9d1c87",
+      "subject_node_id": "canon_chaptersection_58447daed46f",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_1288739c86ba",
+      "edge_id": "canon_edge_contains_51305ddfd798",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s2.md",
+          "section": {
+            "id": "s020",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "我们把B与S的乘积叫作穿过这个面积的磁通量（magnetic flux），简称磁通"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8f9c325e9f58",
+      "subject_node_id": "canon_chaptersection_58447daed46f",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_45b6cadf58dc",
+      "edge_id": "canon_edge_contains_07ffc7282f87",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s2.md",
+          "section": {
+            "id": "s020",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "如果磁场中各点的磁感应强度的大小相等、方向相同，这个磁场叫作匀强磁场"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_f7d92a80c7c1",
+      "subject_node_id": "canon_chaptersection_58447daed46f",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_6a141d87f4a8",
+      "edge_id": "canon_edge_contains_761e05aa591e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s2.md",
+          "section": {
+            "id": "s020",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "地球的地理两极与地磁两极并不重合（图13.2-7），因此，磁针并非准确地指南或指北"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_cefd47ba7dfc",
+      "subject_node_id": "canon_problem_f5d61995090e",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b9939932abad",
+      "edge_id": "canon_edge_tests_d02ea67e62c1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s2.md",
+          "section": {
+            "id": "s020",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "在匀强磁场中，一根长0.4m的通电导线中的电流为20A，这条导线与磁场方向垂直时，所受的磁场力为0.015N，求磁感应强度的大小。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_03fa64038534",
+      "subject_node_id": "canon_problem_7a7274a75d9a",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b9939932abad",
+      "edge_id": "canon_edge_tests_64f067e1d657",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s2.md",
+          "section": {
+            "id": "s020",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "若用图13.2-9中的图像来表示导线受力的大小F与通过导线的电流I的关系。A、B各代表一组F、I的数据。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_6722f2b6aa77",
+      "subject_node_id": "canon_problem_8406606e5b9b",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_1288739c86ba",
+      "edge_id": "canon_edge_tests_4e5ab4f28f8f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s2.md",
+          "section": {
+            "id": "s020",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "如图13.2-8，匀强磁场的磁感应强度B为0.2T，方向沿x轴的正方向...通过面积 S_MNCD S_NEFC S_MEFD 的磁通量 Φ1 Φ2 Φ3 各是多少？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_3c17a993b0ef",
+      "subject_node_id": "canon_chaptersection_0df40e5591aa",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_76eb4116e469",
+      "edge_id": "canon_edge_contains_f44837e82244",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s3.md",
+          "section": {
+            "id": "s021",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "他把这些现象定名为电磁感应（electromagnetic induction），产生的电流叫作感应电流（induction current）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_141cf39871e6",
+      "subject_node_id": "canon_chaptersection_0df40e5591aa",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_1c7955dd0504",
+      "edge_id": "canon_edge_contains_9ff1efc72b43",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s3.md",
+          "section": {
+            "id": "s021",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "以上实验及其他事实表明：当穿过闭合导体回路的磁通量发生变化时，闭合导体回路中就产生感应电流。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_77ddcd418660",
+      "subject_node_id": "canon_chaptersection_0df40e5591aa",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_a45ab1a3e5db",
+      "edge_id": "canon_edge_contains_b55e969fb1d6",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s3.md",
+          "section": {
+            "id": "s021",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "产生的电流叫作感应电流（induction current）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_bcccd71f2801",
+      "subject_node_id": "canon_chaptersection_0df40e5591aa",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5d3c28e9da08",
+      "edge_id": "canon_edge_contains_90492a890cb3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s3.md",
+          "section": {
+            "id": "s021",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "根据电磁感应现象制造的最早的发电机...果然成长为电厂里巨大的发电机...变压器、电磁炉等也是根据电磁感应制造的。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_0dd911dd14f7",
+      "subject_node_id": "canon_problem_10801f34202b",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_1c7955dd0504",
+      "edge_id": "canon_edge_tests_279d9ca706d4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s3.md",
+          "section": {
+            "id": "s021",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "图13.3-7所示的匀强磁场中有一个矩形闭合导线框。在下列几种情况下，线框中是否产生感应电流？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_10f1fd86f6e3",
+      "subject_node_id": "canon_problem_e17eba54318f",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_1c7955dd0504",
+      "edge_id": "canon_edge_tests_4e5bebfbfc0f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s3.md",
+          "section": {
+            "id": "s021",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "矩形线圈ABCD位于通电长直导线附近（图13.3-10），线圈与导线在同一平面内，线圈的两个边与导线平行。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_424114cca23c",
+      "subject_node_id": "canon_problem_196bdad7f232",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_1c7955dd0504",
+      "edge_id": "canon_edge_tests_98afed57c2cc",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s3.md",
+          "section": {
+            "id": "s021",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "某实验装置如图13.3-12所示，在铁芯P上绕着两个线圈A和B。如果线圈A中电流i与时间t的关系有图13.3-13所示的甲、乙、丙、丁四种情况。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_3dbb856b5caa",
+      "subject_node_id": "canon_chaptersection_ffd27cc1dafb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_0104441f84ab",
+      "edge_id": "canon_edge_contains_118166e011d7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s4.md",
+          "section": {
+            "id": "s022",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "麦克斯韦认为：变化的磁场产生电场，变化的电场产生磁场，形成统一的电磁场"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_989b6a0be436",
+      "subject_node_id": "canon_chaptersection_ffd27cc1dafb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_08d5b4800dee",
+      "edge_id": "canon_edge_contains_acf549134cb7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s4.md",
+          "section": {
+            "id": "s022",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "麦克斯韦推断：变化的电场和磁场交替产生，由近及远地向周围传播，即电磁波"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0a333c051971",
+      "subject_node_id": "canon_chaptersection_ffd27cc1dafb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_813e2dd0c57f",
+      "edge_id": "canon_edge_contains_3594bbc646cc",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s4.md",
+          "section": {
+            "id": "s022",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "按电磁波的波长或频率大小的顺序把它们排列起来，就是电磁波谱"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_5bf023fc7a30",
+      "subject_node_id": "canon_chaptersection_ffd27cc1dafb",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_4c99ff8bdacf",
+      "edge_id": "canon_edge_contains_f85453d05d8a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s4.md",
+          "section": {
+            "id": "s022",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "电磁波具有能量，电磁波是一种物质"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_8d4338911eef",
+      "subject_node_id": "canon_problem_8b8b036cb478",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_08d5b4800dee",
+      "edge_id": "canon_edge_tests_7079a89e5047",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s4.md",
+          "section": {
+            "id": "s022",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "家用微波炉的微波频率为2450MHz，它的波长是多少？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_b7f2a6294b4b",
+      "subject_node_id": "canon_problem_818b9d05f929",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_08d5b4800dee",
+      "edge_id": "canon_edge_tests_6f64b8740b38",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s4.md",
+          "section": {
+            "id": "s022",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "变化的磁场和变化的电场形成不可分割的统一体——电磁场，它会由近及远地向外传播，它的传播需要介质吗？它传播的速度是多少？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_547618ac1ec2",
+      "subject_node_id": "canon_problem_b68576b33b0a",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_08d5b4800dee",
+      "edge_id": "canon_edge_tests_fc387ffadd52",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s4.md",
+          "section": {
+            "id": "s022",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "中国航天员在天宫一号目标飞行器上成功进行了太空授课... 试计算航天员讲课的实时画面从天宫一号目标飞行器发至地面接收站，最少需要多少时间？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_e69e79a6aacc",
+      "subject_node_id": "canon_chaptersection_2b22aebb38c2",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_6023a8e2db7a",
+      "edge_id": "canon_edge_contains_fdad5ecb2847",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s5.md",
+          "section": {
+            "id": "s023",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "## 热辐射\n\n我们周围的一切物体都在辐射电磁波，这种辐射与物体的温度有关，所以叫作热辐射。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8a708fb59cd8",
+      "subject_node_id": "canon_chaptersection_2b22aebb38c2",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d7bfa015eeb9",
+      "edge_id": "canon_edge_contains_94b4d8a898dd",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s5.md",
+          "section": {
+            "id": "s023",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "如果某种物体能够完全吸收入射的各种波长的电磁波而不发生反射，这种物体就叫作黑体。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0c0450080bc8",
+      "subject_node_id": "canon_chaptersection_2b22aebb38c2",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_e2eae910231a",
+      "edge_id": "canon_edge_contains_b52e08fad5c3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s5.md",
+          "section": {
+            "id": "s023",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "这个不可再分的最小能量值ε叫作能量子（energy quantum），它的大小为 ε = hν"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0824cf5fc649",
+      "subject_node_id": "canon_chaptersection_2b22aebb38c2",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_66bf72db7797",
+      "edge_id": "canon_edge_contains_f55257250d28",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s5.md",
+          "section": {
+            "id": "s023",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "h是一个常量，后人称之为普朗克常量（Planck constant），其值为 6.62607015×10^-34 J·s"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_329efa70e0f6",
+      "subject_node_id": "canon_chaptersection_2b22aebb38c2",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_3abacb66feee",
+      "edge_id": "canon_edge_contains_a355f6e8d7d1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s5.md",
+          "section": {
+            "id": "s023",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "这些量子化的能量值叫作能级（energylevel）。通常情况下，原子处于能量最低的状态，这是最稳定的。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_4dc167d1dc79",
+      "subject_node_id": "canon_problem_245ddcfb8e65",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_e2eae910231a",
+      "edge_id": "canon_edge_tests_ea1191835234",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s5.md",
+          "section": {
+            "id": "s023",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "2.氮氖激光器发射波长为632.8nm的单色光，这种光的一个光子的能量为多少？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_65d97e7b0e19",
+      "subject_node_id": "canon_problem_7db8be1c7614",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_6023a8e2db7a",
+      "edge_id": "canon_edge_tests_e7c2ca7137fd",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch13_s5.md",
+          "section": {
+            "id": "s023",
+            "title": "第13章 电磁感应与电磁波初步"
+          },
+          "quote_or_summary": "3.晴朗的夜空繁星闪烁（图13.5-3），有的恒星颜色偏红，有的恒星颜色偏蓝。对于“红星”和“蓝星”，你能判断出哪种恒星的表面温度更高么？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_b37357092242",
+      "subject_node_id": "canon_chaptersection_246f3b1a0f91",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_af94da3df279",
+      "edge_id": "canon_edge_contains_e0276bcff0e2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "电荷的多少叫作电荷量（electric quantity），用Q表示，有时也可以用q来表示。在国际单位制中，它的单位是库仑（coulomb），简称库，符号是C。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_e6085dcf9869",
+      "subject_node_id": "canon_chaptersection_246f3b1a0f91",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_776afebe686d",
+      "edge_id": "canon_edge_contains_fed0e1bb6cdf",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "人们发现，很多物体都会由于摩擦而带电，并称这种方式为摩擦起电（electrificationby friction）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_1536bd18f989",
+      "subject_node_id": "canon_chaptersection_246f3b1a0f91",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_0ca2c8161057",
+      "edge_id": "canon_edge_contains_60e293cc8505",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "金属中原子的外层电子往往会脱离原子核的束缚而在金属中自由运动，这种电子叫作自由电子（freeelectron）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_09c92bfea1ec",
+      "subject_node_id": "canon_chaptersection_246f3b1a0f91",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b249b7dc7fc5",
+      "edge_id": "canon_edge_contains_cfd65e70a45e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "这种现象叫作静电感应（electrostatic induction）。利用静电感应使金属导体带电的过程叫作感应起电。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_594e3ada2d9e",
+      "subject_node_id": "canon_chaptersection_246f3b1a0f91",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_84feecc7a1d2",
+      "edge_id": "canon_edge_contains_9c24fcab5ff3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "大量实验事实表明，电荷既不会创生，也不会消灭，它只能从一个物体转移到另一个物体，或者从物体的一部分转移到另一部分；在转移过程中，电荷的总量保持不变。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_35165bab02c5",
+      "subject_node_id": "canon_chaptersection_246f3b1a0f91",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_86aa1342179b",
+      "edge_id": "canon_edge_contains_79a6db15feac",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "迄今为止，实验发现的最小电荷量就是电子所带的电荷量。质子、正电子所带的电荷量与它相同，电性相反。人们把这个最小的电荷量叫作元电荷（elementary charge），用e表示。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_be1961a4fe8e",
+      "subject_node_id": "canon_problem_a14c9e474e34",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_b249b7dc7fc5",
+      "edge_id": "canon_edge_tests_749d6e60784d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "如图9.1-5，将带正电荷Q的导体球C靠近不带电的导体。若沿虚线1将导体分成A、B两部分，这两部分所带电荷量分别为 Q_A, Q_B。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_8cdd7f67aac9",
+      "subject_node_id": "canon_problem_a14c9e474e34",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_84feecc7a1d2",
+      "edge_id": "canon_edge_tests_3e753179a6ab",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "请列出以上四个部分电荷量（绝对值）之间存在的一些等量关系，并简述理由。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_28fdd38e7720",
+      "subject_node_id": "canon_problem_a14c9e474e34",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_af94da3df279",
+      "edge_id": "canon_edge_tests_b86ab31040e4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s1.md",
+          "section": {
+            "id": "s001",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "这两部分所带电荷量分别为 Q_A, Q_B。若沿虚线2将导体分成两部分，这两部分所带电荷量分别为 Q'_A 和 Q'_B。"
+        }
+      ],
+      "confidence": 0.8
+    },
+    {
+      "triple_id": "triple_contains_50ef041953a7",
+      "subject_node_id": "canon_chaptersection_8df9e3abf055",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d5e0f05f2d54",
+      "edge_id": "canon_edge_contains_74b4bb01d7e3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "这个规律叫作库仑定律。真空中两个静止点电荷之间的相互作用力，与它们的电荷量的乘积成正比，与它们的距离的二次方成反比"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_dc893d41b51d",
+      "subject_node_id": "canon_chaptersection_8df9e3abf055",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_f0de118b000d",
+      "edge_id": "canon_edge_contains_e9bab4e624c7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "当带电体之间的距离比它们自身的大小大得多，以致带电体的形状、大小及电荷分布状况对它们之间的作用力的影响可以忽略时，这样的带电体可以看作带电的点，叫作点电荷"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_ce9cbbd3dc79",
+      "subject_node_id": "canon_chaptersection_8df9e3abf055",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_28c4a6efca50",
+      "edge_id": "canon_edge_contains_2325adfb83e7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "式中的k是比例系数，叫作静电力常量。在国际单位制中，电荷量的单位是库仑（C），力的单位是牛顿（N），距离的单位是米（m）。k的数值是 9.0 × 10^9 N·m²/C²"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_01f90bef2227",
+      "subject_node_id": "canon_problem_fd184a993135",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_d5e0f05f2d54",
+      "edge_id": "canon_edge_tests_2d71a5fd90df",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "根据库仑定律，它们之间的静电力 F = k q1 q2 / r^2"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_cae4cda01554",
+      "subject_node_id": "canon_problem_0910e3cc5fcd",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_d5e0f05f2d54",
+      "edge_id": "canon_edge_tests_7cce025af4a3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "解根据库仑定律，点电荷 q3 共受到 F1 和 F2 两个力的作用。其中 q1 = q2 = q3 = q"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_55683fb81b83",
+      "subject_node_id": "canon_problem_aa47b9aea353",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_d5e0f05f2d54",
+      "edge_id": "canon_edge_tests_9024911863d4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "两个分别用长13cm的绝缘细线悬挂于同一点的相同小球（可看作质点），带有同种等量电荷。由于静电力F的作用，它们之间的距离为10cm"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_b367d8a4a7c6",
+      "subject_node_id": "canon_knowledgepoint_d5e0f05f2d54",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_f0de118b000d",
+      "edge_id": "canon_edge_requires_7328360d6715",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "库仑定律描述的是两个点电荷之间的作用力。如果存在两个以上点电荷，那么，每个点电荷都要受到其他所有点电荷对它的作用力。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_cc487c2ece99",
+      "subject_node_id": "canon_problem_fd184a993135",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_9a212dcecd14",
+      "edge_id": "canon_edge_tests_b2f320d21f8d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "试比较氢原子核与电子之间的静电力和万有引力。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_d8e418970b29",
+      "subject_node_id": "canon_problem_aa47b9aea353",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_f0de118b000d",
+      "edge_id": "canon_edge_tests_2b88f364997c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s2.md",
+          "section": {
+            "id": "s002",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "两个分别用长13cm的绝缘细线悬挂于同一点的相同小球（可看作质点），带有同种等量电荷。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_7dfba1ec7c7a",
+      "subject_node_id": "canon_chaptersection_5bdc8be7ca02",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_a64041ec8f5f",
+      "edge_id": "canon_edge_contains_575ff17c3509",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "19世纪30年代，英国科学家法拉第提出一种观点，认为在电荷的周围存在着由它产生的电场。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8d900739888c",
+      "subject_node_id": "canon_chaptersection_5bdc8be7ca02",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d2436960224c",
+      "edge_id": "canon_edge_contains_136aa7829c94",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "这个电荷应该是电荷量和体积都很小的点电荷。这样的电荷常常叫作试探电荷。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_f605dd10bde5",
+      "subject_node_id": "canon_chaptersection_5bdc8be7ca02",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_f3d9d26f04ea",
+      "edge_id": "canon_edge_contains_062610e19d30",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "它反映了电场在各点的性质，叫作电场强度（electric field strength）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0dea5e41857e",
+      "subject_node_id": "canon_chaptersection_5bdc8be7ca02",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7247d9bcf246",
+      "edge_id": "canon_edge_contains_71cb63944238",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "一个电荷量为Q的点电荷，在与之相距r处的电场强度 E = k * Q / r^2。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_ff22a8f9dee4",
+      "subject_node_id": "canon_chaptersection_5bdc8be7ca02",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_6ea54ec895fb",
+      "edge_id": "canon_edge_contains_9de5e877421e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "如果场源是多个点电荷，则电场中某点的电场强度等于各个点电荷单独在该点产生的电场强度的矢量和。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_4132546653c7",
+      "subject_node_id": "canon_chaptersection_5bdc8be7ca02",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b138ed28f9a6",
+      "edge_id": "canon_edge_contains_88cac68c4d5f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "法拉第采用了一个简洁的方法来描述电场，那就是画电场线（electric field line）。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_9b6774472ed6",
+      "subject_node_id": "canon_problem_3f741c41eca0",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_f3d9d26f04ea",
+      "edge_id": "canon_edge_tests_ef04a0afec38",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "练习与应用 1.关于电场强度，小明有以下认识..."
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_d1c0515a3d81",
+      "subject_node_id": "canon_knowledgepoint_f3d9d26f04ea",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_d2436960224c",
+      "edge_id": "canon_edge_requires_7a1cbdd73508",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "在研究电场的性质时，应该将电荷放入电场中，从电荷所受的静电力入手。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_requires_131d8cba1a53",
+      "subject_node_id": "canon_knowledgepoint_6ea54ec895fb",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_f3d9d26f04ea",
+      "edge_id": "canon_edge_requires_81bff3605e77",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s3.md",
+          "section": {
+            "id": "s003",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "电场中某点的电场强度等于各个点电荷单独在该点产生的电场强度的矢量和。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_a4db4156b591",
+      "subject_node_id": "canon_chaptersection_32819420e887",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_37a36b461bb4",
+      "edge_id": "canon_edge_contains_b44dff905992",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "## 静电平衡\n\n如图9.4-1甲，把一个不带电的金属导体ABCD放到电场强度为 E_0 的电场中。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_407bbeac670d",
+      "subject_node_id": "canon_chaptersection_32819420e887",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_fbbc7a3d54f4",
+      "edge_id": "canon_edge_contains_6b45acd5ae30",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "## 尖端放电\n\n静电平衡时，导体内部没有净剩电荷，电荷只分布在导体的外表面。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_c5f68dac2766",
+      "subject_node_id": "canon_chaptersection_32819420e887",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_649d412b076c",
+      "edge_id": "canon_edge_contains_c9940056b045",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "## 静电屏蔽\n\n处于静电平衡状态的导体内部没有电荷，电荷只分布在导体的外表面。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_22e673345a20",
+      "subject_node_id": "canon_chaptersection_32819420e887",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_dbcc64aafed7",
+      "edge_id": "canon_edge_contains_0d5fce60b0bb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "## 静电吸附\n\n静电虽然会有危害，但也可以利用。在电场中，带电粒子受到静电力的作用，向着电极运动。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_be6c18274bb0",
+      "subject_node_id": "canon_chaptersection_32819420e887",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8d0638940358",
+      "edge_id": "canon_edge_contains_0aae89dfc3e8",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "将尖锐的金属棒安装在建筑物的顶端，用粗导线与埋在地下的金属板连接，保持与大地的良好接触，就成为避雷针。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_cdca25087c5b",
+      "subject_node_id": "canon_problem_32f94a16f8e3",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_dbcc64aafed7",
+      "edge_id": "canon_edge_tests_d91d996f504b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "在一次科学晚会上，一位老师表演了一个“魔术”：如图9.4-10...摇动起电机，顿时塑料瓶清澈透明，停止摇动，又是烟雾缭绕。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_bc72c5ce3c60",
+      "subject_node_id": "canon_problem_742e3681103d",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_37a36b461bb4",
+      "edge_id": "canon_edge_tests_0622c514484c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "如图9-1，在带电体C的右侧有两个相互接触的金属导体A和B，均放在绝缘支座上。若先将A、B分开，再移走C，试分析A、B的带电情况..."
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_efc957a632dc",
+      "subject_node_id": "canon_knowledgepoint_fbbc7a3d54f4",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_37a36b461bb4",
+      "edge_id": "canon_edge_requires_78622f82fe23",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "静电平衡时，导体内部没有净剩电荷，电荷只分布在导体的外表面。并且在导体外表面，越尖锐的位置，电荷的密度越大..."
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_requires_cd131236d66b",
+      "subject_node_id": "canon_knowledgepoint_649d412b076c",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_37a36b461bb4",
+      "edge_id": "canon_edge_requires_d9768b545e78",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "处于静电平衡状态的导体内部没有电荷，电荷只分布在导体的外表面。如果放人静电场中的是一个空腔导体...导体壳内空腔里的电场强度也处处为0。"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_requires_14ade466ece6",
+      "subject_node_id": "canon_knowledgepoint_8d0638940358",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_fbbc7a3d54f4",
+      "edge_id": "canon_edge_requires_210eddc0fa8c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260703_032600_普通高中教科书·物理必修第三册_20260703\\enhanced_markdown\\sections\\ch9_s4.md",
+          "section": {
+            "id": "s004",
+            "title": "第九章 静电场及其应用"
+          },
+          "quote_or_summary": "将尖锐的金属棒安装在建筑物的顶端...就成为避雷针...通过尖端放电，这些电荷不断向大气释放，中和空气中的电荷。"
+        }
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

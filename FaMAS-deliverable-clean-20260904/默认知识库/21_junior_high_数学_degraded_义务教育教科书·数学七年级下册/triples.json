@@ -1,0 +1,1588 @@
+{
+  "schema_version": "kg.triples.v1",
+  "run_id": "kg_义务教育教科书·数学七年级下册_20260701",
+  "triples": [
+    {
+      "triple_id": "triple_contains_0d49caa7aceb",
+      "subject_node_id": "canon_chaptersection_0ae24a377c01",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_9b4b4d8132a7",
+      "edge_id": "canon_edge_contains_93951d1e82e1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s10.4.md",
+          "section": {
+            "id": "s011",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "像这样把含有三个未知数的三个一次方程联立在一起就组成了一个三元一次方程组"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_d7dcd62fbe23",
+      "subject_node_id": "canon_chaptersection_0ae24a377c01",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_84b6399009e0",
+      "edge_id": "canon_edge_contains_bc2cdc2ce324",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s10.4.md",
+          "section": {
+            "id": "s011",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "把含有相同未知数的两个二元一次方程联立在一起所组成的方程组叫作二元一次方程组"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_49ac3b24116a",
+      "subject_node_id": "canon_chaptersection_0ae24a377c01",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_dc5d42c63afc",
+      "edge_id": "canon_edge_contains_54fb97b326cc",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s10.4.md",
+          "section": {
+            "id": "s011",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "这种解方程组的方法叫作代入消元法，简称代入法"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_5ffdeff49575",
+      "subject_node_id": "canon_chaptersection_0ae24a377c01",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d1e25da4a427",
+      "edge_id": "canon_edge_contains_cfb2f920e1c9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s10.4.md",
+          "section": {
+            "id": "s011",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "这种解方程组的方法叫作加减消元法，简称加减法"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_d48a540fec29",
+      "subject_node_id": "canon_chaptersection_0ae24a377c01",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_997f4770eaed",
+      "edge_id": "canon_edge_contains_119eb772f627",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s10.4.md",
+          "section": {
+            "id": "s011",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "含有两个未知数，并且含有未知数的项的次数都是 1 的方程叫作二元一次方程"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_20c728e2a3d3",
+      "subject_node_id": "canon_problem_0fbd272b2549",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_84b6399009e0",
+      "edge_id": "canon_edge_tests_08f7e880940f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s10.4.md",
+          "section": {
+            "id": "s011",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "今有鸡兔同笼，上有三十五头，下有九十四足，问鸡兔各几何"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_27d2bf221fa6",
+      "subject_node_id": "canon_problem_ce8847ed43f8",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_9b4b4d8132a7",
+      "edge_id": "canon_edge_tests_190c25daf9e1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s10.4.md",
+          "section": {
+            "id": "s011",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "设三根导线 X,Y,Z 的电阻分别是 x,y,z，连接导线 X,Y 后测得的电阻之和为 a，连接导线 Y,Z 后测得的电阻之和为 b，连接导线 Z,X 后测得的电阻之和为 c，于是得到一个三元一次方程组"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_52cd8cbc8517",
+      "subject_node_id": "canon_knowledgepoint_9b4b4d8132a7",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_84b6399009e0",
+      "edge_id": "canon_edge_requires_d4e083624609",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s10.4.md",
+          "section": {
+            "id": "s011",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "用代入消元法或加减消元法消去一个未知数，就可以把解三元一次方程组转化为解二元一次方程组"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_6f3aa8f20ef4",
+      "subject_node_id": "canon_knowledgepoint_84b6399009e0",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_997f4770eaed",
+      "edge_id": "canon_edge_requires_b795d60824ce",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s10.4.md",
+          "section": {
+            "id": "s011",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "把含有相同未知数的两个二元一次方程联立在一起所组成的方程组叫作二元一次方程组"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_9be09126c37e",
+      "subject_node_id": "canon_chaptersection_dc4d1af4adef",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_1a7cb5fdcc9d",
+      "edge_id": "canon_edge_contains_11eb520cb08d",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s10.5.md",
+          "section": {
+            "id": "s012",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "用二元一次方程组解决问题 通常要先设两个合适的未知数然后根据实际问题中的两个等量关系列出方程组，解这个方程组，并写出问题的答案。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_fccdd6afb813",
+      "subject_node_id": "canon_chaptersection_dc4d1af4adef",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_468cd6bedc65",
+      "edge_id": "canon_edge_contains_ed82bc3f78f7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s10.5.md",
+          "section": {
+            "id": "s012",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "解方程组的基本思路是消元 将解三元一次方程组转化为解二元一次方程组，将解二元一次方程组转化为解一元一次方程。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_99f63b38ec8f",
+      "subject_node_id": "canon_problem_1d84f66bacb5",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_1a7cb5fdcc9d",
+      "edge_id": "canon_edge_tests_8df0adcde0f6",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s10.5.md",
+          "section": {
+            "id": "s012",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "某铁路桥长 2120m，现有一列高铁列车从桥上通过。某人测得该列车从开始上桥到完全过桥共用了 31s，整列列车完全在桥上的时间共 22s。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_75cfa05a2404",
+      "subject_node_id": "canon_problem_ab8d02001533",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_1a7cb5fdcc9d",
+      "edge_id": "canon_edge_tests_8512101e7ad3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s10.5.md",
+          "section": {
+            "id": "s012",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "小明 小亮在 400m 的环形跑道上跑步他们于同一个起点同时出发。如果同向跑 那么经过 200s 两人第一次相遇 如果反向跑 那么经过 40s 两人第一次相遇。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_7d8f89681803",
+      "subject_node_id": "canon_problem_7e9c25dc88db",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_1a7cb5fdcc9d",
+      "edge_id": "canon_edge_tests_22e6e8f5f360",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s10.5.md",
+          "section": {
+            "id": "s012",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "劳动周中 某小组计划做一批 中国结 如果每人做 5 个 那么可比计划多做 9 个 如果每人做 4 个 那么将比计划少做 15 个。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_935a8ff726d5",
+      "subject_node_id": "canon_problem_487b72a85b18",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_1a7cb5fdcc9d",
+      "edge_id": "canon_edge_tests_d24d31c3493c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s10.5.md",
+          "section": {
+            "id": "s012",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "某水果摊在售卖菠萝和哈密瓜。林老师用 78 元购买了 2 个菠萝 1 个哈密瓜，叶老师用 84 元购买了 1 个菠萝 2 个哈密瓜。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_94a012b443e9",
+      "subject_node_id": "canon_problem_839e8595d071",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_1a7cb5fdcc9d",
+      "edge_id": "canon_edge_tests_a195181920f3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s10.5.md",
+          "section": {
+            "id": "s012",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "某市采用价格调控手段来引导市民节约用水：每户居民每年用水不超过 180m³时，按基本水价收费；超过 180m³时，超过的部分加价收费。"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_55e0c6b39b71",
+      "subject_node_id": "canon_chaptersection_dbf40097ae18",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_eccbb5449d4c",
+      "edge_id": "canon_edge_contains_f1a331dc7ed9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s复习题.md",
+          "section": {
+            "id": "s013",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "第十章 二元一次方程组 复习题 复习巩固 灵活运用 探索研究"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_8fb73926646b",
+      "subject_node_id": "canon_chaptersection_dbf40097ae18",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_e93b82d1c389",
+      "edge_id": "canon_edge_contains_f4f6420c4f70",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s复习题.md",
+          "section": {
+            "id": "s013",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "实际问题中的方程建模 将现实世界问题转化为数学方程进行求解"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_0230d2e229bc",
+      "subject_node_id": "canon_chaptersection_dbf40097ae18",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_58259162cf39",
+      "edge_id": "canon_edge_contains_5cc3136e4b87",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s复习题.md",
+          "section": {
+            "id": "s013",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "几何图形中的代数关系 利用几何图形的性质建立代数方程求解未知量"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_3cc7978af53e",
+      "subject_node_id": "canon_problem_5fb5fa73e3ed",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_e93b82d1c389",
+      "edge_id": "canon_edge_tests_0aa62e07d0e4",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s复习题.md",
+          "section": {
+            "id": "s013",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "港珠澳大桥是连接香港、珠海、澳门的超大型跨海通道...求主体工程中的桥梁长度和隧道长度."
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_ccace1bd2a1a",
+      "subject_node_id": "canon_problem_151552139298",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_58259162cf39",
+      "edge_id": "canon_edge_tests_cbaf83fd7c96",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s复习题.md",
+          "section": {
+            "id": "s013",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "如图，在四边形ABCD中，AB // CD，∠CAD = 90°，∠B = ∠ACB = x°，∠ACD = y°，∠D = (x - 20)°。求x,y的值."
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_f7680c5c7fa6",
+      "subject_node_id": "canon_problem_b200ca19ed88",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_58259162cf39",
+      "edge_id": "canon_edge_tests_718b8b9e6d26",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s复习题.md",
+          "section": {
+            "id": "s013",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "如图，宽为 的大长方形是由 个相同的小长方形拼成的，求其中一个小长方形的面积."
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_d320b893f9fc",
+      "subject_node_id": "canon_problem_ed760a71e425",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_e93b82d1c389",
+      "edge_id": "canon_edge_tests_d3bd7382715b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch10_s复习题.md",
+          "section": {
+            "id": "s013",
+            "title": "第十章 二元一次方程组"
+          },
+          "quote_or_summary": "某水果批发市场香蕉的价格如图所示...他第一次、第二次分别购买了多少香蕉?"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_dc3ece6c2222",
+      "subject_node_id": "canon_chaptersection_fe211f856615",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_2c02d1a1b78d",
+      "edge_id": "canon_edge_contains_8f002cc65e17",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.2.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "像 ()()()() 这样，可以判断真假的陈述句叫作命题"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_f992b6399a66",
+      "subject_node_id": "canon_chaptersection_fe211f856615",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_3716ae79a94a",
+      "edge_id": "canon_edge_contains_347b993fb9dd",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.2.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "所作的判断都是正确的命题"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_c8be9c38ac4d",
+      "subject_node_id": "canon_chaptersection_fe211f856615",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_40d2803cc091",
+      "edge_id": "canon_edge_contains_7ef1118a7fe2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.2.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "所作的判断是错误的命题"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_36e67b8ccf15",
+      "subject_node_id": "canon_chaptersection_fe211f856615",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_4f926aa68c2e",
+      "edge_id": "canon_edge_contains_0e39097cd2c6",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.2.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "我们把这样的两个命题称为互逆命题，其中一个叫作原命题，另一个叫作原命题的逆命题"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_373e416c3a28",
+      "subject_node_id": "canon_chaptersection_fe211f856615",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_88cc6f4aaa2b",
+      "edge_id": "canon_edge_contains_5f9f1363333c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.2.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "从命题的条件出发，根据一些已知的事实，用因为所以的形式一步一步推出命题的结论，从而确定这个命题为真命题的过程称为证明"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_584b4d442860",
+      "subject_node_id": "canon_chaptersection_fe211f856615",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_4897f319e387",
+      "edge_id": "canon_edge_contains_d2a65e974db7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.2.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "不管什么样的地图 只需要四种颜色就可以区分相邻区域"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_8b3525e28751",
+      "subject_node_id": "canon_problem_e0d953ed96ac",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_2c02d1a1b78d",
+      "edge_id": "canon_edge_tests_4ab4828e8e1c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.2.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "判断下列命题是真命题还是假命题"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_1acaa657aae9",
+      "subject_node_id": "canon_problem_e0d953ed96ac",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_3716ae79a94a",
+      "edge_id": "canon_edge_tests_e8d5e6671b82",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.2.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "判断下列命题是真命题还是假命题"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_8c56e8657e00",
+      "subject_node_id": "canon_problem_e0d953ed96ac",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_40d2803cc091",
+      "edge_id": "canon_edge_tests_9a7d475db672",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.2.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "判断下列命题是真命题还是假命题"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_d1b6c0a1d295",
+      "subject_node_id": "canon_knowledgepoint_88cc6f4aaa2b",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_2c02d1a1b78d",
+      "edge_id": "canon_edge_requires_b82e19aeec9e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.2.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "从命题的条件出发，根据一些已知的事实，用因为所以的形式一步一步推出命题的结论，从而确定这个命题为真命题的过程称为证明"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_requires_d7e4e95b1860",
+      "subject_node_id": "canon_knowledgepoint_4f926aa68c2e",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_2c02d1a1b78d",
+      "edge_id": "canon_edge_requires_621acaa4dcea",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.2.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "我们把这样的两个命题称为互逆命题，其中一个叫作原命题，另一个叫作原命题的逆命题"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_requires_fc48dd09b2bb",
+      "subject_node_id": "canon_knowledgepoint_3716ae79a94a",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_2c02d1a1b78d",
+      "edge_id": "canon_edge_requires_12faf335daba",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.2.md",
+          "section": {
+            "id": "s015",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "一个命题要么为真，要么为假，二者必居其一"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_fbb3276566bf",
+      "subject_node_id": "canon_chaptersection_d04189c6a194",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_911f1995863c",
+      "edge_id": "canon_edge_contains_e37cab181199",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.4.md",
+          "section": {
+            "id": "s016",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "经过证明之后 就可以把这个命题叫作三角形内角和定理 三角形三个内角的和等于 $1 8 0 ^ { \\circ }$"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_321587840e8c",
+      "subject_node_id": "canon_chaptersection_d04189c6a194",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_e69472fa7028",
+      "edge_id": "canon_edge_contains_b05d187bbc1c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.4.md",
+          "section": {
+            "id": "s016",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "一般地 可以得到多边形内角和定理 n边形的内角和等于 $( n - 2 ) \\cdot 1 8 0 ^ { \\circ }$"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_3832d991542c",
+      "subject_node_id": "canon_chaptersection_d04189c6a194",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_5c2f30673faf",
+      "edge_id": "canon_edge_contains_6978ecbe785f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.4.md",
+          "section": {
+            "id": "s016",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "这样就得到了多边形外角和定理 多边形的外角和等于 $3 6 0 ^ { \\circ }$"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_153fcc95d361",
+      "subject_node_id": "canon_chaptersection_d04189c6a194",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_32b3e5f28458",
+      "edge_id": "canon_edge_contains_9b40a530f311",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.4.md",
+          "section": {
+            "id": "s016",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "像上面这样，我们通过否定命题的结论，发现了矛盾，从而反过来肯定命题结论成立的证明方法叫作反证法"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_937941696fb6",
+      "subject_node_id": "canon_chaptersection_d04189c6a194",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_f1ae1e84e6e2",
+      "edge_id": "canon_edge_contains_ad647ce92e3c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.4.md",
+          "section": {
+            "id": "s016",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "这样，我们就证明了平行线的性质定理：平行于同一条直线的两条直线平行"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_750b304fa16c",
+      "subject_node_id": "canon_chaptersection_d04189c6a194",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_25da1873f796",
+      "edge_id": "canon_edge_contains_21ea58973638",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.4.md",
+          "section": {
+            "id": "s016",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "在说明一个命题是假命题时 常用 举反例 的方法 举反例的关键是找到一个符合命题条件 但不符合命题结论的例子"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_340cb1d1ef69",
+      "subject_node_id": "canon_problem_e3c2278965cf",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_911f1995863c",
+      "edge_id": "canon_edge_tests_ee71293477ec",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.4.md",
+          "section": {
+            "id": "s016",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "∵ ∠A + ∠B + ∠ACB = 180° (三角形内角和定理)"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_471311b220d1",
+      "subject_node_id": "canon_knowledgepoint_e69472fa7028",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_911f1995863c",
+      "edge_id": "canon_edge_requires_c8194f6d94fa",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.4.md",
+          "section": {
+            "id": "s016",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "是否可以利用三角形内角和定理推出多边形的内角和呢？"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_3523edee468e",
+      "subject_node_id": "canon_knowledgepoint_5c2f30673faf",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_e69472fa7028",
+      "edge_id": "canon_edge_requires_bc8ac0a34aed",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch12_s12.4.md",
+          "section": {
+            "id": "s016",
+            "title": "第12章 定义 命题 证明"
+          },
+          "quote_or_summary": "仿照多边形的内角和研究过程，如何求多边形的外角和？"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_2922ee859065",
+      "subject_node_id": "canon_chaptersection_c14e0219f5e5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_db8401e23cd9",
+      "edge_id": "canon_edge_contains_7a34dad48f3a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s7.2.md",
+          "section": {
+            "id": "s001",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "## 同底数幂的乘法 ... 同底数幂相乘，底数不变，指数相加。用符号表示为：a^m · a^n = a^(m+n)"
+        },
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.3.md",
+          "section": {
+            "id": "s006",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "多项式与多项式相乘 先用一个多项式的每一项乘另一个多项式的每一项 再把所得的积相加"
+        },
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s复习题.md",
+          "section": {
+            "id": "s008",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "## 复习题\n\n## 复习巩固\n\n计算:"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_5dea76188d50",
+      "subject_node_id": "canon_chaptersection_c14e0219f5e5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_850221ddf1d5",
+      "edge_id": "canon_edge_contains_abb06b78ee14",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s7.2.md",
+          "section": {
+            "id": "s001",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "## 幂的乘方 ... 幂的乘方，底数不变，指数相乘。用符号表示为：(a^m)^n = a^(mn)"
+        },
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.3.md",
+          "section": {
+            "id": "s006",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "( a + b ) ( c + d ) = a c + a d + b c + b d"
+        },
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s复习题.md",
+          "section": {
+            "id": "s008",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "如何用图形的面积表示 $( a - b ) ^ { 2 } = a ^ { 2 } - 2 a b + b ^ { 2 }$"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_994a220a2cb4",
+      "subject_node_id": "canon_chaptersection_c14e0219f5e5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_81403b4d180b",
+      "edge_id": "canon_edge_contains_396daab9ce82",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s7.2.md",
+          "section": {
+            "id": "s001",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "## 积的乘方 ... 积的乘方，把积的每一个因式分别乘方，再把所得的幂相乘。用符号表示为：(ab)^m = a^m b^m"
+        },
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s复习题.md",
+          "section": {
+            "id": "s008",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "观察下列式子: $$ 2 \\times 4 + 1 = 9 , $$ 探索以上式子的规律"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_5e8994edb3c3",
+      "subject_node_id": "canon_chaptersection_c14e0219f5e5",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_b016bc7eed9a",
+      "edge_id": "canon_edge_contains_9182b996f65a",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s7.2.md",
+          "section": {
+            "id": "s001",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "本章将学习幂的运算，进一步简化代数式的运算过程。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_f83e45715a08",
+      "subject_node_id": "canon_problem_391493d5ac8e",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_db8401e23cd9",
+      "edge_id": "canon_edge_tests_edc0cd2496da",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s7.2.md",
+          "section": {
+            "id": "s001",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "光在真空中的速度约是 3×10^8 m/s。光在真空中传播 1 年的距离称为光年。请你算算：光年约是多少千米？"
+        },
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.3.md",
+          "section": {
+            "id": "s006",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "例1 计算：(1) (x + 2)(x - 3); (2) (-3x + 1)(x - 2)."
+        },
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s复习题.md",
+          "section": {
+            "id": "s008",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "计算：(1) $3 a ^ { 2 } b ( - 2 a b ^ { 3 } )$"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_19c9d5807ae0",
+      "subject_node_id": "canon_problem_4284e909866f",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_850221ddf1d5",
+      "edge_id": "canon_edge_tests_d9abee909b03",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s7.2.md",
+          "section": {
+            "id": "s001",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "例 1 计算：(1) (10^6)^2; (2) (a^m)^4 (m是正整数); (3) -(y^3)^2; (4) [(x-y)^n]^2 (n是正整数)"
+        },
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.3.md",
+          "section": {
+            "id": "s006",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "光伏电池板可以将太阳光能转化为电能，在相同光照条件下，电池板面积越大，输出的电能越大 现将一块长、宽的长方形光伏电池板的长和宽都增加 a ,它的面积将增加多少？"
+        },
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s复习题.md",
+          "section": {
+            "id": "s008",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "求图中阴影部分的面积"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_5abb11b1e0c3",
+      "subject_node_id": "canon_problem_d077f82e2ad3",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_db8401e23cd9",
+      "edge_id": "canon_edge_tests_409878861cca",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s7.2.md",
+          "section": {
+            "id": "s001",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "例 2 计算：(1) x^2 · x^4 + (x^3)^2; (2) (a^3)^3 · (a^4)^3"
+        },
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s复习题.md",
+          "section": {
+            "id": "s008",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "已知 $( a + b ) ^ { 2 } = 7 , ( a - b ) ^ { 2 } = 3 .$ 求 $a ^ { 2 } + b ^ { 2 } , \\ a b$ 的值."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_b548a2f69dfa",
+      "subject_node_id": "canon_problem_d077f82e2ad3",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_850221ddf1d5",
+      "edge_id": "canon_edge_tests_cc6c036dca9b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s7.2.md",
+          "section": {
+            "id": "s001",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "例 2 计算：(1) x^2 · x^4 + (x^3)^2; (2) (a^3)^3 · (a^4)^3"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_eae154ea5bad",
+      "subject_node_id": "canon_chaptersection_f78941ebc649",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_900ac3f75ad0",
+      "edge_id": "canon_edge_contains_6d36366096dc",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s7.3.md",
+          "section": {
+            "id": "s002",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "任何不等于0的数的0次幂等于1。用符号表示为：$a^0 = 1 (a \\neq 0)$"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_3bc08c39ee2c",
+      "subject_node_id": "canon_chaptersection_f78941ebc649",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_69621fefb8ba",
+      "edge_id": "canon_edge_contains_58cce8717574",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s7.3.md",
+          "section": {
+            "id": "s002",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "任何不等于0的数的-n次幂，等于这个数的n次幂的倒数。用符号表示为：$a^{-n} = \\frac{1}{a^n}$"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_6311f54f4ad5",
+      "subject_node_id": "canon_chaptersection_f78941ebc649",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_8f4e3e2802bf",
+      "edge_id": "canon_edge_contains_525729826fb9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s7.3.md",
+          "section": {
+            "id": "s002",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "一般地，用科学记数法可以把一个绝对值大于1的数写成$a \\times 10^n$的形式"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_fba5b3761c1d",
+      "subject_node_id": "canon_chaptersection_f78941ebc649",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_6c06206bc5f1",
+      "edge_id": "canon_edge_contains_5eface80dc0e",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s7.3.md",
+          "section": {
+            "id": "s002",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "本章中我们学习了幂的运算性质...它们的本质都是恒等变形。"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_8e7730aeb7ec",
+      "subject_node_id": "canon_problem_bf16845f37e2",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_8f4e3e2802bf",
+      "edge_id": "canon_edge_tests_40440b62edc1",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s7.3.md",
+          "section": {
+            "id": "s002",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "人体红细胞的截面可以近似地看成圆...半径约为$3.7 \\times 10^{-6} \\text{ m}$"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_49f4e161bf1f",
+      "subject_node_id": "canon_problem_1b6108c1c04a",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_8f4e3e2802bf",
+      "edge_id": "canon_edge_tests_c564c2744c30",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s7.3.md",
+          "section": {
+            "id": "s002",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "请以毫米为长度单位表示1nm。$1 \\text{ nm} = 10^{-9} \\text{ m} = 10^{-6} \\text{ mm}$"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_requires_c1c660aad0f4",
+      "subject_node_id": "canon_knowledgepoint_8f4e3e2802bf",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_69621fefb8ba",
+      "edge_id": "canon_edge_requires_8cccb49d1ee3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s7.3.md",
+          "section": {
+            "id": "s002",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "规定了负整数指数幂后，对于绝对值小于1的数也可以用科学记数法表示为 $a \\times 10^{-n}$"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_0580983d519a",
+      "subject_node_id": "canon_chaptersection_f78941ebc649",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_091d76e32c77",
+      "edge_id": "canon_edge_contains_6ea5dc6d0cb7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s7.3.md",
+          "section": {
+            "id": "s002",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "同底数幂相除，底数不变，指数相减。用符号表示为：$a^m \\\\div a^n = a^{m-n}$"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_b052ae40521a",
+      "subject_node_id": "canon_chaptersection_332795b94100",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_6b76be308cba",
+      "edge_id": "canon_edge_contains_80827ae1452f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s复习题.md",
+          "section": {
+            "id": "s003",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "## 复习题 ... 水由氢、氧两种元素组成 .一个水分子包含两个氢原子和一个氧原子 . 个氢原子的质量约为 1.674×10^-27 kg"
+        },
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.1.md",
+          "section": {
+            "id": "s004",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "本章将在幂的运算和整式加减运算的基础上学习整式乘法 . 整式乘法也满足交换律、结合律和分配律 ."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_a104bceff08a",
+      "subject_node_id": "canon_problem_ef0cdd273ee4",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_6b76be308cba",
+      "edge_id": "canon_edge_tests_3b62fc4f86c3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s复习题.md",
+          "section": {
+            "id": "s003",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "个氢原子的质量约为 1.674×10^-27 kg ,一个氧原子的质量约为 2.657×10^-26 kg"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_c0cbb43bef75",
+      "subject_node_id": "canon_problem_73e8d6f5d781",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_6b76be308cba",
+      "edge_id": "canon_edge_tests_7c675b6f7f3c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s复习题.md",
+          "section": {
+            "id": "s003",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "地球的半径约为 6.37×10^3 km ,太阳的半径约为 6.96×10^5 km"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_tests_86b6e74d59e8",
+      "subject_node_id": "canon_problem_6f4761e3a12b",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_6b76be308cba",
+      "edge_id": "canon_edge_tests_2aefa9e3496c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s复习题.md",
+          "section": {
+            "id": "s003",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "一块尺寸为 1.03 cm × 1.03 cm 的某种芯片上集成了 10^10 个晶体管"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_tests_eb9f14c557c1",
+      "subject_node_id": "canon_problem_86f190b92811",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_6b76be308cba",
+      "edge_id": "canon_edge_tests_86cd27d278c6",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch7_s复习题.md",
+          "section": {
+            "id": "s003",
+            "title": "第七章 幂的运算"
+          },
+          "quote_or_summary": "如果一个探测器以 6.4×10^4 km/h 的平均速度飞往比邻星"
+        }
+      ],
+      "confidence": 0.85
+    },
+    {
+      "triple_id": "triple_contains_8ede7956d904",
+      "subject_node_id": "canon_chaptersection_332795b94100",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7341e3b1d824",
+      "edge_id": "canon_edge_contains_97bb9f5539db",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.1.md",
+          "section": {
+            "id": "s004",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "单项式与单项式相乘，把它们的系数、相同字母的幂分别相乘，对于只在一个单项式里含有的字母，则连同它的指数作为积的一个因式"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_da22894272a6",
+      "subject_node_id": "canon_chaptersection_332795b94100",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_2b973e2c76f5",
+      "edge_id": "canon_edge_contains_0fc433f2d191",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.1.md",
+          "section": {
+            "id": "s004",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "整式乘法也满足交换律、结合律和分配律 . 一般地，可以运用乘法交换律、结合律计算两个单项式的乘积"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_b693ce95d715",
+      "subject_node_id": "canon_problem_ef0cdd273ee4",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_7341e3b1d824",
+      "edge_id": "canon_edge_tests_d198303e2ac7",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.1.md",
+          "section": {
+            "id": "s004",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "如果把图的电视墙看成一个大长方形，那么它的长为a、宽为b，面积为a·b。如果把图的电视墙看成是由9个小长方形组成的，那么它的面积为ab。由此得到3a·3b=9ab"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_83e04ab95c7c",
+      "subject_node_id": "canon_problem_ef0cdd273ee4",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_2b973e2c76f5",
+      "edge_id": "canon_edge_tests_c47bfe2ca5cb",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.1.md",
+          "section": {
+            "id": "s004",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "一般地，可以运用乘法交换律、结合律计算两个单项式的乘积 对于任意的a,b,"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_8bc476947f0d",
+      "subject_node_id": "canon_problem_73e8d6f5d781",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_7341e3b1d824",
+      "edge_id": "canon_edge_tests_3fd1e330830f",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.1.md",
+          "section": {
+            "id": "s004",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "计算下列各式，并说明理由：(1) 2a^2b·3ab^2; (2) 4ab^2·5b; (3) 6x^3·(-2x^2y)"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_requires_3ef7b1873470",
+      "subject_node_id": "canon_knowledgepoint_7341e3b1d824",
+      "predicate": "requires",
+      "object_node_id": "canon_knowledgepoint_2b973e2c76f5",
+      "edge_id": "canon_edge_requires_41eb2b0a6abf",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.1.md",
+          "section": {
+            "id": "s004",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "一般地，可以运用乘法交换律、结合律计算两个单项式的乘积"
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_69ab6bfbc8b3",
+      "subject_node_id": "canon_chaptersection_f32dd652bdcf",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_7e3f5ba5dc87",
+      "edge_id": "canon_edge_contains_fe2a5b34f461",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.2.md",
+          "section": {
+            "id": "s005",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "由乘法分配律可以得到单项式乘多项式的法则：单项式与多项式相乘 先用单项式乘多项式的每一项 再把所得的积相加"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_d67738073cee",
+      "subject_node_id": "canon_problem_556f67b1829e",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_7e3f5ba5dc87",
+      "edge_id": "canon_edge_tests_8bf94b4ad44b",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.2.md",
+          "section": {
+            "id": "s005",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "例 1 计算：(1) (-3x^2) \\bullet (4x - 3); (2) (3/4 ab^2 - 3ab) \\cdot 1/3 ab."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_58206fe117ac",
+      "subject_node_id": "canon_problem_f0d1fe2dc6c6",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_7e3f5ba5dc87",
+      "edge_id": "canon_edge_tests_e6869ddaaa30",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.2.md",
+          "section": {
+            "id": "s005",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "例 2 如图 在长方形地块上建造住宅 广场 商场 计算这块地的面积"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_1d9d09380e71",
+      "subject_node_id": "canon_problem_0f523f1b6e24",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_7e3f5ba5dc87",
+      "edge_id": "canon_edge_tests_f49607daebc3",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s8.2.md",
+          "section": {
+            "id": "s005",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "计算图中梯形的面积"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_tests_ceb3a4bef788",
+      "subject_node_id": "canon_problem_515d7a9f6ee5",
+      "predicate": "tests",
+      "object_node_id": "canon_knowledgepoint_81403b4d180b",
+      "edge_id": "canon_edge_tests_18166e570142",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch8_s复习题.md",
+          "section": {
+            "id": "s008",
+            "title": "第八章 整式乘法"
+          },
+          "quote_or_summary": "两个连续奇数的平方差一定是 的倍数吗？为什么？"
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_728a3c6ff045",
+      "subject_node_id": "canon_chaptersection_28872561130d",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_abef9545be19",
+      "edge_id": "canon_edge_contains_9ff917a75019",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch9_s9.1.md",
+          "section": {
+            "id": "s009",
+            "title": "第九章 图形的变换"
+          },
+          "quote_or_summary": "一般地，在平面内，将一个图形沿直线的某个方向平行移动一定的距离后得到另一个图形的平面变换叫作平移()."
+        }
+      ],
+      "confidence": 0.95
+    },
+    {
+      "triple_id": "triple_contains_a41b6369b5be",
+      "subject_node_id": "canon_chaptersection_28872561130d",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_45f73ce81d5b",
+      "edge_id": "canon_edge_contains_633656aac4af",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch9_s9.1.md",
+          "section": {
+            "id": "s009",
+            "title": "第九章 图形的变换"
+          },
+          "quote_or_summary": "一般地，将一个平面图形沿某条直线翻折后得到另一个图形的平面变换叫作轴对称，这条直线叫作对称轴，此时称这两个图形成轴对称."
+        }
+      ],
+      "confidence": 0.94
+    },
+    {
+      "triple_id": "triple_contains_9765b186c73f",
+      "subject_node_id": "canon_chaptersection_28872561130d",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_d3834a86b836",
+      "edge_id": "canon_edge_contains_6395d3cb7fd2",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch9_s9.1.md",
+          "section": {
+            "id": "s009",
+            "title": "第九章 图形的变换"
+          },
+          "quote_or_summary": "一般地，在平面内，把一个图形绕一个定点按某个方向转动一定角度得到另一个图形的平面变换叫作旋转，这个定点称为旋转中心，转动的角度称为旋转角."
+        }
+      ],
+      "confidence": 0.93
+    },
+    {
+      "triple_id": "triple_contains_01b7c322972a",
+      "subject_node_id": "canon_chaptersection_28872561130d",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_aa6bcae3cf5c",
+      "edge_id": "canon_edge_contains_0a4ce7c7dfad",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch9_s9.1.md",
+          "section": {
+            "id": "s009",
+            "title": "第九章 图形的变换"
+          },
+          "quote_or_summary": "一般地，在平面内，若一个图形是由另一个图形绕某个点旋转得到的，则称这两个图形成中心对称，这个点叫作对称中心，两个对称图形上的对应点叫作对称点."
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "triple_id": "triple_contains_dff9bf61db5d",
+      "subject_node_id": "canon_chaptersection_28872561130d",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_605de0b736ac",
+      "edge_id": "canon_edge_contains_96db4ce0b8b9",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch9_s9.1.md",
+          "section": {
+            "id": "s009",
+            "title": "第九章 图形的变换"
+          },
+          "quote_or_summary": "一般地，图形的平移具有如下性质：平移前后的两个图形中，两组对应点的连线段平行 (或在同一条直线上) 且相等."
+        }
+      ],
+      "confidence": 0.91
+    },
+    {
+      "triple_id": "triple_contains_aae5b11483dc",
+      "subject_node_id": "canon_chaptersection_28872561130d",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_137489a4faa7",
+      "edge_id": "canon_edge_contains_948a56dc2a56",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch9_s9.1.md",
+          "section": {
+            "id": "s009",
+            "title": "第九章 图形的变换"
+          },
+          "quote_or_summary": "一般地，轴对称具有如下性质：成轴对称的两个图形中，不在对称轴上的两个对应点的连线段被对称轴垂直平分."
+        }
+      ],
+      "confidence": 0.9
+    },
+    {
+      "triple_id": "triple_contains_e3815e4470de",
+      "subject_node_id": "canon_chaptersection_28872561130d",
+      "predicate": "contains",
+      "object_node_id": "canon_knowledgepoint_fb9e4c8a3194",
+      "edge_id": "canon_edge_contains_328b5b112b4c",
+      "evidence": [
+        {
+          "source_path": "D:\\1aA Multi-agent\\Ours\\MAS\\code_implement\\data\\intermediate\\ipa_outputs\\full_pipeline\\ipa_real_20260701_171301_义务教育教科书·数学七年级下册_20260701\\enhanced_markdown\\sections\\ch9_s9.1.md",
+          "section": {
+            "id": "s009",
+            "title": "第九章 图形的变换"
+          },
+          "quote_or_summary": "一般地，图形的旋转具有如下性质：旋转前后的两个图形中，对应点到旋转中心的距离相等，对应点与旋转中心连线所成的角都等于旋转角."
+        }
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

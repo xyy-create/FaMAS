@@ -13,7 +13,8 @@ from app.services.storage_paths import knowledge_graph_run_artifacts_dir
 from conftest import auth_headers, create_knowledge_base, create_user
 
 
-def test_graph_overrides_hide_nodes_and_dependent_edges(client, db_session: Session) -> None:
+def test_graph_overrides_hide_nodes_and_dependent_edges(client, db_session: Session, monkeypatch) -> None:
+    monkeypatch.setattr(settings, "pipeline_worker_enabled", True)
     user = create_user(db_session, "kg_override_user")
     knowledge_base = create_knowledge_base(db_session, owner_user_id=user.id)
     document = _create_graph_document(db_session, knowledge_base.id, user.id)
@@ -55,7 +56,8 @@ def test_graph_overrides_hide_nodes_and_dependent_edges(client, db_session: Sess
     assert summary["counts"] == {"nodes": 1, "edges": 0, "triples": 0}
 
 
-def test_graph_edge_override_updates_edges_and_triples(client, db_session: Session) -> None:
+def test_graph_edge_override_updates_edges_and_triples(client, db_session: Session, monkeypatch) -> None:
+    monkeypatch.setattr(settings, "pipeline_worker_enabled", True)
     user = create_user(db_session, "kg_edge_override_user")
     knowledge_base = create_knowledge_base(db_session, owner_user_id=user.id)
     document = _create_graph_document(db_session, knowledge_base.id, user.id)
@@ -125,7 +127,8 @@ def test_graph_override_queues_refresh_job_and_returns_job_id(client, db_session
     assert json.loads(job.payload_json)["source_context_ids"] == ["ctx_a", "ctx_b"]
 
 
-def test_graph_override_can_add_user_nodes_and_edges(client, db_session: Session) -> None:
+def test_graph_override_can_add_user_nodes_and_edges(client, db_session: Session, monkeypatch) -> None:
+    monkeypatch.setattr(settings, "pipeline_worker_enabled", True)
     user = create_user(db_session, "kg_add_override_user")
     knowledge_base = create_knowledge_base(db_session, owner_user_id=user.id)
     document = _create_graph_document(db_session, knowledge_base.id, user.id)

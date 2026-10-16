@@ -4,6 +4,7 @@ import json
 
 from sqlalchemy.orm import Session
 
+from app.core.config import settings
 from app.models.document import Document
 from app.models.processing_job import ProcessingJob
 from app.services.storage_paths import knowledge_graph_run_artifacts_dir
@@ -150,7 +151,8 @@ def test_public_annotation_templates_are_admin_managed_and_user_readable(client,
     assert listed.json()[0]["name"] == "课堂重点"
 
 
-def test_admin_user_overview_includes_owned_graph_overrides_and_annotations(client, db_session: Session) -> None:
+def test_admin_user_overview_includes_owned_graph_overrides_and_annotations(client, db_session: Session, monkeypatch) -> None:
+    monkeypatch.setattr(settings, "pipeline_worker_enabled", True)
     admin = create_user(db_session, "kg_overview_admin", role="admin")
     user = create_user(db_session, "kg_overview_user")
     knowledge_base = create_knowledge_base(db_session, owner_user_id=user.id)

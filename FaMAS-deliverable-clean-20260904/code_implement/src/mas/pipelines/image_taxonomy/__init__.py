@@ -1,1 +1,0 @@
-"""Image Taxonomy Agent package."""

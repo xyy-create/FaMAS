@@ -7,6 +7,9 @@ FaMAS-3176/
 .claude/
 local-archive/
 
+# Packaged deliverable snapshots (duplicate of the project tree)
+FaMAS-deliverable-*/
+
 # Python environments and caches
 .venv/
 venv/

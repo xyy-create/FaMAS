@@ -1,1 +1,0 @@
-"""Schema Agent pipeline package."""

@@ -1,8 +1,0 @@
-Use the VA-approved node_pack and edge_pack plus schema, standards, and section metadata.
-Write conflicts to audit and never silently overwrite conflicting provenance.
-The response must be strict JSON with this exact top-level shape:
-{
-  "schema_version": "kg.standard_agent.v1",
-  "standardization_hints": {}
-}
-Keep standardization_hints concise. Do not include merged_nodes, merged_edges, triples, or copied input data.
